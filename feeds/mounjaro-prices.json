@@ -1,0 +1,281 @@
+{
+  "medication": "Mounjaro",
+  "generic_name": "tirzepatide",
+  "manufacturer": "Eli Lilly",
+  "indication": "Type 2 Diabetes",
+  "last_updated": "2026-07-06T07:00:00+04:00",
+  "reference_zip": "10001",
+  "total_pharmacies": 16,
+  "dosages": [
+    "2.5mg",
+    "5mg",
+    "7.5mg",
+    "10mg",
+    "12.5mg",
+    "15mg"
+  ],
+  "pharmacies": [
+    {
+      "pharmacy_name": "Lilly Direct",
+      "pharmacy_type": "manufacturer_direct",
+      "source": "manufacturer_direct",
+      "prices": {
+        "2.5mg": 499.0,
+        "5mg": 499.0,
+        "7.5mg": 499.0,
+        "10mg": 499.0,
+        "12.5mg": 499.0,
+        "15mg": 499.0
+      },
+      "notes": "LillyDirect self-pay price. Starting at $499/month for all dosages. Prescription required, shipped directly"
+    },
+    {
+      "pharmacy_name": "Walgreens",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "prices": {
+        "2.5mg": 1197.29,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "GoodRx coupon price for 2.5mg/0.5ml (4 pens). LillyDirect self-pay $499 also available"
+    },
+    {
+      "pharmacy_name": "Safeway",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "prices": {
+        "2.5mg": 1093.84,
+        "5mg": 1093.77,
+        "7.5mg": 1096.25,
+        "10mg": 1096.23,
+        "12.5mg": 1093.46,
+        "15mg": 1093.45
+      },
+      "notes": "GoodRx lowest price across all dosages (Safeway consistently lowest). LillyDirect $499 also available"
+    },
+    {
+      "pharmacy_name": "King Soopers",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "prices": {
+        "2.5mg": 1096.34,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "GoodRx coupon price for 2.5mg. LillyDirect $499 also available"
+    },
+    {
+      "pharmacy_name": "Costco Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "prices": {
+        "2.5mg": 1386.42,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "GoodRx coupon price for 2.5mg (retail $1,459.61). LillyDirect $499 also available"
+    },
+    {
+      "pharmacy_name": "Walmart",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "prices": {
+        "2.5mg": 1161.15,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "GoodRx coupon price for 2.5mg (retail $1,335.25). LillyDirect $499 also available"
+    },
+    {
+      "pharmacy_name": "City Market",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "prices": {
+        "2.5mg": 1096.34,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "GoodRx coupon price for 2.5mg. LillyDirect $499 also available"
+    },
+    {
+      "pharmacy_name": "Target (CVS)",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "prices": {
+        "2.5mg": 1150.5,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "GoodRx coupon price for 2.5mg (retail $1,311.98). LillyDirect $499 also available"
+    },
+    {
+      "pharmacy_name": "Sam's Club",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "prices": {
+        "2.5mg": 1158.43,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "GoodRx coupon price for 2.5mg (retail $1,335.34). LillyDirect $499 also available"
+    },
+    {
+      "pharmacy_name": "Walmart Neighborhood Market",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "prices": {
+        "2.5mg": 1161.15,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "GoodRx coupon price for 2.5mg (retail $1,334.74). LillyDirect $499 also available"
+    },
+    {
+      "pharmacy_name": "CVS Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "prices": {
+        "2.5mg": 1150.5,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "GoodRx coupon price for 2.5mg (retail $1,312.00). LillyDirect $499 also available"
+    },
+    {
+      "pharmacy_name": "Kroger Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "prices": {
+        "2.5mg": 990.48,
+        "5mg": 990.48,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "SingleCare coupon price for 2.5mg and 5mg pens. LillyDirect $499 also available"
+    },
+    {
+      "pharmacy_name": "Harris Teeter Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "prices": {
+        "2.5mg": 990.48,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "SingleCare coupon price for 2.5mg pen. LillyDirect $499 also available"
+    },
+    {
+      "pharmacy_name": "Publix Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "prices": {
+        "2.5mg": 1047.25,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "SingleCare coupon price for 2.5mg pen. LillyDirect $499 also available"
+    },
+    {
+      "pharmacy_name": "Albertsons Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "prices": {
+        "2.5mg": null,
+        "5mg": 1061.6,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "SingleCare average price for 5mg pen. LillyDirect $499 also available"
+    },
+    {
+      "pharmacy_name": "Lilly WAC (List Price)",
+      "pharmacy_type": "reference",
+      "source": "wac_list",
+      "prices": {
+        "2.5mg": 1079.77,
+        "5mg": 1079.77,
+        "7.5mg": 1079.77,
+        "10mg": 1079.77,
+        "12.5mg": 1079.77,
+        "15mg": 1079.77
+      },
+      "notes": "Wholesale Acquisition Cost (WAC) from Lilly Colorado WAC Disclosure. List price per 4 pens (1 month supply)"
+    }
+  ],
+  "summary": {
+    "2.5mg": {
+      "min": 499.0,
+      "max": 1386.42,
+      "avg": 1083.93,
+      "count": 15
+    },
+    "5mg": {
+      "min": 499.0,
+      "max": 1093.77,
+      "avg": 944.92,
+      "count": 5
+    },
+    "7.5mg": {
+      "min": 499.0,
+      "max": 1096.25,
+      "avg": 891.67,
+      "count": 3
+    },
+    "10mg": {
+      "min": 499.0,
+      "max": 1096.23,
+      "avg": 891.67,
+      "count": 3
+    },
+    "12.5mg": {
+      "min": 499.0,
+      "max": 1093.46,
+      "avg": 890.74,
+      "count": 3
+    },
+    "15mg": {
+      "min": 499.0,
+      "max": 1093.45,
+      "avg": 890.74,
+      "count": 3
+    }
+  }
+}
