@@ -3,9 +3,9 @@
   "generic_name": "tirzepatide",
   "manufacturer": "Eli Lilly",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-07-06T07:00:00+04:00",
+  "last_updated": "2026-07-06T01:42:50.830494+04:00",
   "reference_zip": "10001",
-  "total_pharmacies": 16,
+  "total_pharmacies": 24,
   "dosages": [
     "2.5mg",
     "5mg",
@@ -16,9 +16,10 @@
   ],
   "pharmacies": [
     {
-      "pharmacy_name": "Lilly Direct",
+      "pharmacy_name": "Lilly Direct Pharmacy",
       "pharmacy_type": "manufacturer_direct",
       "source": "manufacturer_direct",
+      "url": "https://www.lilly.com/lillydirect/medicines/mounjaro",
       "prices": {
         "2.5mg": 499.0,
         "5mg": 499.0,
@@ -27,208 +28,13 @@
         "12.5mg": 499.0,
         "15mg": 499.0
       },
-      "notes": "LillyDirect self-pay price. Starting at $499/month for all dosages. Prescription required, shipped directly"
+      "notes": "LillyDirect self-pay $499/month all doses. Free delivery."
     },
     {
-      "pharmacy_name": "Walgreens",
-      "pharmacy_type": "chain",
-      "source": "goodrx",
-      "prices": {
-        "2.5mg": 1197.29,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "GoodRx coupon price for 2.5mg/0.5ml (4 pens). LillyDirect self-pay $499 also available"
-    },
-    {
-      "pharmacy_name": "Safeway",
-      "pharmacy_type": "chain",
-      "source": "goodrx",
-      "prices": {
-        "2.5mg": 1093.84,
-        "5mg": 1093.77,
-        "7.5mg": 1096.25,
-        "10mg": 1096.23,
-        "12.5mg": 1093.46,
-        "15mg": 1093.45
-      },
-      "notes": "GoodRx lowest price across all dosages (Safeway consistently lowest). LillyDirect $499 also available"
-    },
-    {
-      "pharmacy_name": "King Soopers",
-      "pharmacy_type": "chain",
-      "source": "goodrx",
-      "prices": {
-        "2.5mg": 1096.34,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "GoodRx coupon price for 2.5mg. LillyDirect $499 also available"
-    },
-    {
-      "pharmacy_name": "Costco Pharmacy",
-      "pharmacy_type": "chain",
-      "source": "goodrx",
-      "prices": {
-        "2.5mg": 1386.42,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "GoodRx coupon price for 2.5mg (retail $1,459.61). LillyDirect $499 also available"
-    },
-    {
-      "pharmacy_name": "Walmart",
-      "pharmacy_type": "chain",
-      "source": "goodrx",
-      "prices": {
-        "2.5mg": 1161.15,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "GoodRx coupon price for 2.5mg (retail $1,335.25). LillyDirect $499 also available"
-    },
-    {
-      "pharmacy_name": "City Market",
-      "pharmacy_type": "chain",
-      "source": "goodrx",
-      "prices": {
-        "2.5mg": 1096.34,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "GoodRx coupon price for 2.5mg. LillyDirect $499 also available"
-    },
-    {
-      "pharmacy_name": "Target (CVS)",
-      "pharmacy_type": "chain",
-      "source": "goodrx",
-      "prices": {
-        "2.5mg": 1150.5,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "GoodRx coupon price for 2.5mg (retail $1,311.98). LillyDirect $499 also available"
-    },
-    {
-      "pharmacy_name": "Sam's Club",
-      "pharmacy_type": "chain",
-      "source": "goodrx",
-      "prices": {
-        "2.5mg": 1158.43,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "GoodRx coupon price for 2.5mg (retail $1,335.34). LillyDirect $499 also available"
-    },
-    {
-      "pharmacy_name": "Walmart Neighborhood Market",
-      "pharmacy_type": "chain",
-      "source": "goodrx",
-      "prices": {
-        "2.5mg": 1161.15,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "GoodRx coupon price for 2.5mg (retail $1,334.74). LillyDirect $499 also available"
-    },
-    {
-      "pharmacy_name": "CVS Pharmacy",
-      "pharmacy_type": "chain",
-      "source": "goodrx",
-      "prices": {
-        "2.5mg": 1150.5,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "GoodRx coupon price for 2.5mg (retail $1,312.00). LillyDirect $499 also available"
-    },
-    {
-      "pharmacy_name": "Kroger Pharmacy",
-      "pharmacy_type": "chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 990.48,
-        "5mg": 990.48,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "SingleCare coupon price for 2.5mg and 5mg pens. LillyDirect $499 also available"
-    },
-    {
-      "pharmacy_name": "Harris Teeter Pharmacy",
-      "pharmacy_type": "chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 990.48,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "SingleCare coupon price for 2.5mg pen. LillyDirect $499 also available"
-    },
-    {
-      "pharmacy_name": "Publix Pharmacy",
-      "pharmacy_type": "chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 1047.25,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "SingleCare coupon price for 2.5mg pen. LillyDirect $499 also available"
-    },
-    {
-      "pharmacy_name": "Albertsons Pharmacy",
-      "pharmacy_type": "chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": null,
-        "5mg": 1061.6,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "SingleCare average price for 5mg pen. LillyDirect $499 also available"
-    },
-    {
-      "pharmacy_name": "Lilly WAC (List Price)",
-      "pharmacy_type": "reference",
+      "pharmacy_name": "Eli Lilly WAC (List Price)",
+      "pharmacy_type": "list_price",
       "source": "wac_list",
+      "url": "https://pricinginfo.lilly.com/mounjaro",
       "prices": {
         "2.5mg": 1079.77,
         "5mg": 1079.77,
@@ -237,45 +43,357 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Wholesale Acquisition Cost (WAC) from Lilly Colorado WAC Disclosure. List price per 4 pens (1 month supply)"
+      "notes": "List price / WAC"
+    },
+    {
+      "pharmacy_name": "Hims & Hers",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "url": "https://www.hims.com/weight-loss",
+      "prices": {
+        "2.5mg": 1899.0,
+        "5mg": 1899.0,
+        "7.5mg": 1899.0,
+        "10mg": 1899.0,
+        "12.5mg": 1899.0,
+        "15mg": 1899.0
+      },
+      "notes": "Membership $39 first month, then $149/mo. Mounjaro $1,899/mo."
+    },
+    {
+      "pharmacy_name": "Sesame Care",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "url": "https://sesamecare.com/service/online-weight-loss-program",
+      "prices": {
+        "2.5mg": 1086.0,
+        "5mg": 1086.0,
+        "7.5mg": 1086.0,
+        "10mg": 1086.0,
+        "12.5mg": 1086.0,
+        "15mg": 1086.0
+      },
+      "notes": "Subscription $59-$99/mo. Branded tirzepatide from $1,086/mo."
+    },
+    {
+      "pharmacy_name": "PlushCare",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "url": "https://plushcare.com/weight-loss/",
+      "prices": {
+        "2.5mg": 1000.0,
+        "5mg": 1000.0,
+        "7.5mg": 1000.0,
+        "10mg": 1000.0,
+        "12.5mg": 1000.0,
+        "15mg": 1000.0
+      },
+      "notes": "Membership $19.99/mo, visit $129. Approximate self-pay ~$1000/mo."
+    },
+    {
+      "pharmacy_name": "Noom Med",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "url": "https://www.noom.com/med",
+      "prices": {
+        "2.5mg": 1000.0,
+        "5mg": 1000.0,
+        "7.5mg": 1000.0,
+        "10mg": 1000.0,
+        "12.5mg": 1000.0,
+        "15mg": 1000.0
+      },
+      "notes": "Subscription $99-$149/mo + medication costs."
+    },
+    {
+      "pharmacy_name": "Walgreens",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/mounjaro",
+      "prices": {
+        "2.5mg": 1197.29,
+        "5mg": 1197.29,
+        "7.5mg": 1197.29,
+        "10mg": 1197.29,
+        "12.5mg": 1197.29,
+        "15mg": 1197.29
+      }
+    },
+    {
+      "pharmacy_name": "Safeway",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/mounjaro",
+      "prices": {
+        "2.5mg": 1093.84,
+        "5mg": 1093.77,
+        "7.5mg": 1096.25,
+        "10mg": 1096.23,
+        "12.5mg": 1093.46,
+        "15mg": 1093.45
+      }
+    },
+    {
+      "pharmacy_name": "King Soopers",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/mounjaro",
+      "prices": {
+        "2.5mg": 1096.34,
+        "5mg": 1096.34,
+        "7.5mg": 1096.34,
+        "10mg": 1096.34,
+        "12.5mg": 1096.34,
+        "15mg": 1096.34
+      }
+    },
+    {
+      "pharmacy_name": "Costco Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/mounjaro",
+      "prices": {
+        "2.5mg": 1386.42,
+        "5mg": 1386.42,
+        "7.5mg": 1386.42,
+        "10mg": 1386.42,
+        "12.5mg": 1386.42,
+        "15mg": 1386.42
+      }
+    },
+    {
+      "pharmacy_name": "Walmart Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/mounjaro",
+      "prices": {
+        "2.5mg": 1161.15,
+        "5mg": 1161.15,
+        "7.5mg": 1161.15,
+        "10mg": 1161.15,
+        "12.5mg": 1161.15,
+        "15mg": 1161.15
+      }
+    },
+    {
+      "pharmacy_name": "City Market",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/mounjaro",
+      "prices": {
+        "2.5mg": 1096.34,
+        "5mg": 1096.34,
+        "7.5mg": 1096.34,
+        "10mg": 1096.34,
+        "12.5mg": 1096.34,
+        "15mg": 1096.34
+      }
+    },
+    {
+      "pharmacy_name": "Target (CVS)",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/mounjaro",
+      "prices": {
+        "2.5mg": 1150.5,
+        "5mg": 1150.5,
+        "7.5mg": 1150.5,
+        "10mg": 1150.5,
+        "12.5mg": 1150.5,
+        "15mg": 1150.5
+      }
+    },
+    {
+      "pharmacy_name": "Sam's Club",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/mounjaro",
+      "prices": {
+        "2.5mg": 1158.43,
+        "5mg": 1158.43,
+        "7.5mg": 1158.43,
+        "10mg": 1158.43,
+        "12.5mg": 1158.43,
+        "15mg": 1158.43
+      }
+    },
+    {
+      "pharmacy_name": "Walmart Neighborhood Market",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/mounjaro",
+      "prices": {
+        "2.5mg": 1161.15,
+        "5mg": 1161.15,
+        "7.5mg": 1161.15,
+        "10mg": 1161.15,
+        "12.5mg": 1161.15,
+        "15mg": 1161.15
+      }
+    },
+    {
+      "pharmacy_name": "CVS Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/mounjaro",
+      "prices": {
+        "2.5mg": 1150.5,
+        "5mg": 1150.5,
+        "7.5mg": 1150.5,
+        "10mg": 1150.5,
+        "12.5mg": 1150.5,
+        "15mg": 1150.5
+      }
+    },
+    {
+      "pharmacy_name": "Kroger Pharmacy (SingleCare)",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "url": "https://www.singlecare.com/prescription/mounjaro",
+      "prices": {
+        "2.5mg": 990.48,
+        "5mg": 990.48,
+        "7.5mg": 990.48,
+        "10mg": 990.48,
+        "12.5mg": 990.48,
+        "15mg": 990.48
+      }
+    },
+    {
+      "pharmacy_name": "Harris Teeter (SingleCare)",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "url": "https://www.singlecare.com/prescription/mounjaro",
+      "prices": {
+        "2.5mg": 990.48,
+        "5mg": 990.48,
+        "7.5mg": 990.48,
+        "10mg": 990.48,
+        "12.5mg": 990.48,
+        "15mg": 990.48
+      }
+    },
+    {
+      "pharmacy_name": "Walgreens (SingleCare)",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "url": "https://www.singlecare.com/prescription/mounjaro",
+      "prices": {
+        "2.5mg": 1047.92,
+        "5mg": 1047.92,
+        "7.5mg": 1045.61,
+        "10mg": 1045.61,
+        "12.5mg": 1045.61,
+        "15mg": 1045.61
+      }
+    },
+    {
+      "pharmacy_name": "Publix (SingleCare)",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "url": "https://www.singlecare.com/prescription/mounjaro",
+      "prices": {
+        "2.5mg": 1047.25,
+        "5mg": 1047.25,
+        "7.5mg": 1047.25,
+        "10mg": 1047.25,
+        "12.5mg": 1047.25,
+        "15mg": 1047.25
+      }
+    },
+    {
+      "pharmacy_name": "CVS Pharmacy (SingleCare)",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "url": "https://www.singlecare.com/prescription/mounjaro",
+      "prices": {
+        "2.5mg": 1049.04,
+        "5mg": 658.52,
+        "7.5mg": 1049.04,
+        "10mg": 1049.04,
+        "12.5mg": 1049.04,
+        "15mg": 1049.04
+      }
+    },
+    {
+      "pharmacy_name": "Costco (SingleCare)",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "url": "https://www.singlecare.com/prescription/mounjaro",
+      "prices": {
+        "2.5mg": 1070.94,
+        "5mg": 1070.94,
+        "7.5mg": 1070.94,
+        "10mg": 1070.94,
+        "12.5mg": 1070.94,
+        "15mg": 1070.94
+      }
+    },
+    {
+      "pharmacy_name": "Walmart (SingleCare)",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "url": "https://www.singlecare.com/prescription/mounjaro",
+      "prices": {
+        "2.5mg": 1071.08,
+        "5mg": 1071.08,
+        "7.5mg": 1071.08,
+        "10mg": 1071.08,
+        "12.5mg": 1071.08,
+        "15mg": 1071.08
+      }
+    },
+    {
+      "pharmacy_name": "Albertsons (SingleCare)",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "url": "https://www.singlecare.com/prescription/mounjaro",
+      "prices": {
+        "2.5mg": 1061.6,
+        "5mg": 1061.6,
+        "7.5mg": 1061.6,
+        "10mg": 1061.6,
+        "12.5mg": 1061.6,
+        "15mg": 1061.6
+      }
     }
   ],
   "summary": {
     "2.5mg": {
       "min": 499.0,
-      "max": 1386.42,
-      "avg": 1083.93,
-      "count": 15
+      "max": 1899.0,
+      "avg": 1106.02,
+      "count": 24
     },
     "5mg": {
       "min": 499.0,
-      "max": 1093.77,
-      "avg": 944.92,
-      "count": 5
+      "max": 1899.0,
+      "avg": 1089.75,
+      "count": 24
     },
     "7.5mg": {
       "min": 499.0,
-      "max": 1096.25,
-      "avg": 891.67,
-      "count": 3
+      "max": 1899.0,
+      "avg": 1106.03,
+      "count": 24
     },
     "10mg": {
       "min": 499.0,
-      "max": 1096.23,
-      "avg": 891.67,
-      "count": 3
+      "max": 1899.0,
+      "avg": 1106.02,
+      "count": 24
     },
     "12.5mg": {
       "min": 499.0,
-      "max": 1093.46,
-      "avg": 890.74,
-      "count": 3
+      "max": 1899.0,
+      "avg": 1105.91,
+      "count": 24
     },
     "15mg": {
       "min": 499.0,
-      "max": 1093.45,
-      "avg": 890.74,
-      "count": 3
+      "max": 1899.0,
+      "avg": 1105.91,
+      "count": 24
     }
   }
 }

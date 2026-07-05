@@ -3,9 +3,9 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Weight Management",
-  "last_updated": "2026-07-06T07:00:00+04:00",
+  "last_updated": "2026-07-06T01:42:50.830494+04:00",
   "reference_zip": "10001",
-  "total_pharmacies": 17,
+  "total_pharmacies": 40,
   "dosages": [
     "0.25mg",
     "0.5mg",
@@ -18,214 +18,21 @@
       "pharmacy_name": "NovoCare Pharmacy",
       "pharmacy_type": "manufacturer_direct",
       "source": "manufacturer_direct",
+      "url": "https://www.wegovy.com/obesity/what-to-pay-for-wegovy.html",
       "prices": {
-        "0.25mg": 199.0,
-        "0.5mg": 199.0,
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
         "1mg": 349.0,
         "1.7mg": 349.0,
         "2.4mg": 349.0
       },
-      "notes": "NovoCare self-pay program. $199 for new patients first 2 fills (0.25/0.5mg), $349 existing patients (all injection dosages)"
-    },
-    {
-      "pharmacy_name": "Walgreens",
-      "pharmacy_type": "chain",
-      "source": "manufacturer_self_pay",
-      "prices": {
-        "0.25mg": 199.0,
-        "0.5mg": 199.0,
-        "1mg": 349.0,
-        "1.7mg": 349.0,
-        "2.4mg": 349.0
-      },
-      "notes": "NovoCare self-pay program price available at Walgreens"
-    },
-    {
-      "pharmacy_name": "CVS Pharmacy",
-      "pharmacy_type": "chain",
-      "source": "manufacturer_self_pay",
-      "prices": {
-        "0.25mg": 199.0,
-        "0.5mg": 199.0,
-        "1mg": 349.0,
-        "1.7mg": 349.0,
-        "2.4mg": 349.0
-      },
-      "notes": "NovoCare self-pay program price available at CVS"
-    },
-    {
-      "pharmacy_name": "Costco Pharmacy",
-      "pharmacy_type": "chain",
-      "source": "manufacturer_self_pay",
-      "prices": {
-        "0.25mg": 199.0,
-        "0.5mg": 199.0,
-        "1mg": 349.0,
-        "1.7mg": 349.0,
-        "2.4mg": 349.0
-      },
-      "notes": "NovoCare self-pay program price available at Costco"
-    },
-    {
-      "pharmacy_name": "Safeway",
-      "pharmacy_type": "chain",
-      "source": "manufacturer_self_pay",
-      "prices": {
-        "0.25mg": 199.0,
-        "0.5mg": 199.0,
-        "1mg": 349.0,
-        "1.7mg": 349.0,
-        "2.4mg": 349.0
-      },
-      "notes": "NovoCare self-pay program price available at Safeway"
-    },
-    {
-      "pharmacy_name": "Walmart",
-      "pharmacy_type": "chain",
-      "source": "manufacturer_self_pay",
-      "prices": {
-        "0.25mg": 199.0,
-        "0.5mg": 199.0,
-        "1mg": 349.0,
-        "1.7mg": 349.0,
-        "2.4mg": 349.0
-      },
-      "notes": "NovoCare self-pay program price available at Walmart"
-    },
-    {
-      "pharmacy_name": "Target (CVS)",
-      "pharmacy_type": "chain",
-      "source": "manufacturer_self_pay",
-      "prices": {
-        "0.25mg": 199.0,
-        "0.5mg": 199.0,
-        "1mg": 349.0,
-        "1.7mg": 349.0,
-        "2.4mg": 349.0
-      },
-      "notes": "NovoCare self-pay program price available at Target"
-    },
-    {
-      "pharmacy_name": "Walgreens Specialty Pharmacy",
-      "pharmacy_type": "specialty",
-      "source": "manufacturer_self_pay",
-      "prices": {
-        "0.25mg": 199.0,
-        "0.5mg": 199.0,
-        "1mg": 349.0,
-        "1.7mg": 349.0,
-        "2.4mg": 349.0
-      },
-      "notes": "NovoCare self-pay program price available"
-    },
-    {
-      "pharmacy_name": "Nob Hill",
-      "pharmacy_type": "chain",
-      "source": "manufacturer_self_pay",
-      "prices": {
-        "0.25mg": 199.0,
-        "0.5mg": 199.0,
-        "1mg": 349.0,
-        "1.7mg": 349.0,
-        "2.4mg": 349.0
-      },
-      "notes": "NovoCare self-pay program price available"
-    },
-    {
-      "pharmacy_name": "Walmart Neighborhood Market",
-      "pharmacy_type": "chain",
-      "source": "manufacturer_self_pay",
-      "prices": {
-        "0.25mg": 199.0,
-        "0.5mg": 199.0,
-        "1mg": 349.0,
-        "1.7mg": 349.0,
-        "2.4mg": 349.0
-      },
-      "notes": "NovoCare self-pay program price available"
-    },
-    {
-      "pharmacy_name": "Capsule Pharmacy",
-      "pharmacy_type": "online",
-      "source": "manufacturer_self_pay",
-      "prices": {
-        "0.25mg": 199.0,
-        "0.5mg": 199.0,
-        "1mg": 349.0,
-        "1.7mg": 349.0,
-        "2.4mg": 349.0
-      },
-      "notes": "NovoCare self-pay program price available"
-    },
-    {
-      "pharmacy_name": "Raley's",
-      "pharmacy_type": "chain",
-      "source": "manufacturer_self_pay",
-      "prices": {
-        "0.25mg": 199.0,
-        "0.5mg": 199.0,
-        "1mg": 349.0,
-        "1.7mg": 349.0,
-        "2.4mg": 349.0
-      },
-      "notes": "NovoCare self-pay program price available"
-    },
-    {
-      "pharmacy_name": "Sam's Club",
-      "pharmacy_type": "chain",
-      "source": "manufacturer_self_pay",
-      "prices": {
-        "0.25mg": 199.0,
-        "0.5mg": 199.0,
-        "1mg": 349.0,
-        "1.7mg": 349.0,
-        "2.4mg": 349.0
-      },
-      "notes": "NovoCare self-pay program price available"
-    },
-    {
-      "pharmacy_name": "Kroger Pharmacy",
-      "pharmacy_type": "chain",
-      "source": "singlecare",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": 1088.5,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "SingleCare coupon price for 0.5mg pen. NovoCare self-pay program price of $199 also available"
-    },
-    {
-      "pharmacy_name": "Harris Teeter Pharmacy",
-      "pharmacy_type": "chain",
-      "source": "singlecare",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": 1088.5,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "SingleCare coupon price for 0.5mg pen. NovoCare self-pay program price of $199 also available"
-    },
-    {
-      "pharmacy_name": "Publix Pharmacy",
-      "pharmacy_type": "chain",
-      "source": "singlecare",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": 1164.35,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "SingleCare coupon price for 0.5mg pen. NovoCare self-pay program price of $199 also available"
+      "notes": "Existing patient: $349/mo all doses. New patients $199/mo first 2 fills. HD 7.2mg $399/mo."
     },
     {
       "pharmacy_name": "Novo Nordisk WAC (List Price)",
-      "pharmacy_type": "reference",
+      "pharmacy_type": "list_price",
       "source": "wac_list",
+      "url": "https://www.novopricing.com/wegovy.html",
       "prices": {
         "0.25mg": 1349.02,
         "0.5mg": 1349.02,
@@ -233,39 +40,542 @@
         "1.7mg": 1349.02,
         "2.4mg": 1349.02
       },
-      "notes": "Wholesale Acquisition Cost (WAC) list price from novopricing.com"
+      "notes": "Wholesale Acquisition Cost"
+    },
+    {
+      "pharmacy_name": "Hims & Hers",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "url": "https://www.hims.com/weight-loss",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Membership $39 first month, then $149/mo. NovoCare self-pay pricing."
+    },
+    {
+      "pharmacy_name": "Ro",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "url": "https://ro.co/weight-loss",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Ro Body membership $145/mo. NovoCare self-pay pricing."
+    },
+    {
+      "pharmacy_name": "Sesame Care",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "url": "https://sesamecare.com/service/online-weight-loss-program",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Subscription $59-$99/mo. NovoCare self-pay pricing."
+    },
+    {
+      "pharmacy_name": "Lemonaid Health",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "url": "https://www.lemonaidhealth.com/services/weight-loss",
+      "prices": {
+        "0.25mg": 1599.0,
+        "0.5mg": 1599.0,
+        "1mg": 1599.0,
+        "1.7mg": 1599.0,
+        "2.4mg": 1599.0
+      },
+      "notes": "Membership $49/mo. Cash-pay only. Branded Wegovy $1,599/mo."
+    },
+    {
+      "pharmacy_name": "PlushCare",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "url": "https://plushcare.com/weight-loss/",
+      "prices": {
+        "0.25mg": 1000.0,
+        "0.5mg": 1000.0,
+        "1mg": 1000.0,
+        "1.7mg": 1000.0,
+        "2.4mg": 1000.0
+      },
+      "notes": "Membership $19.99/mo, visit $129. Approximate self-pay ~$1000/mo."
+    },
+    {
+      "pharmacy_name": "GoodRx Care",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "url": "https://www.goodrx.com/care/services/glp-1-weight-loss",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Membership $39/mo. NovoCare self-pay pricing."
+    },
+    {
+      "pharmacy_name": "Noom Med",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "url": "https://www.noom.com/med",
+      "prices": {
+        "0.25mg": 1000.0,
+        "0.5mg": 1000.0,
+        "1mg": 1000.0,
+        "1.7mg": 1000.0,
+        "2.4mg": 1000.0
+      },
+      "notes": "Subscription $99-$149/mo + medication costs."
+    },
+    {
+      "pharmacy_name": "Drugs.com Price Guide",
+      "pharmacy_type": "price_guide",
+      "source": "pharmacy_direct",
+      "url": "https://www.drugs.com/price-guide/wegovy",
+      "prices": {
+        "0.25mg": 499.0,
+        "0.5mg": 499.0,
+        "1mg": 499.0,
+        "1.7mg": 499.0,
+        "2.4mg": 499.0
+      }
+    },
+    {
+      "pharmacy_name": "Amazon Pharmacy",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "url": "https://pharmacy.amazon.com/",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "NovoCare self-pay pricing via Amazon Pharmacy."
+    },
+    {
+      "pharmacy_name": "HealthWarehouse",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "url": "https://www.healthwarehouse.com/",
+      "prices": {
+        "0.25mg": 1500.0,
+        "0.5mg": 1500.0,
+        "1mg": 1500.0,
+        "1.7mg": 1500.0,
+        "2.4mg": 1500.0
+      },
+      "notes": "Online pharmacy cash price"
+    },
+    {
+      "pharmacy_name": "CVS Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/wegovy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      }
+    },
+    {
+      "pharmacy_name": "Walgreens",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/wegovy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      }
+    },
+    {
+      "pharmacy_name": "Walmart Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/wegovy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      }
+    },
+    {
+      "pharmacy_name": "Walmart Neighborhood Market",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/wegovy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      }
+    },
+    {
+      "pharmacy_name": "Costco Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/wegovy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      }
+    },
+    {
+      "pharmacy_name": "Kroger Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/wegovy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      }
+    },
+    {
+      "pharmacy_name": "Harris Teeter Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/wegovy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      }
+    },
+    {
+      "pharmacy_name": "Publix Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/wegovy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      }
+    },
+    {
+      "pharmacy_name": "Albertsons Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/wegovy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      }
+    },
+    {
+      "pharmacy_name": "Safeway",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/wegovy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      }
+    },
+    {
+      "pharmacy_name": "Target (CVS)",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/wegovy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      }
+    },
+    {
+      "pharmacy_name": "Sam's Club",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/wegovy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      }
+    },
+    {
+      "pharmacy_name": "Raley's",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/wegovy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      }
+    },
+    {
+      "pharmacy_name": "Walgreens Specialty Pharmacy",
+      "pharmacy_type": "specialty",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/wegovy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      }
+    },
+    {
+      "pharmacy_name": "Capsule Pharmacy",
+      "pharmacy_type": "online_pharmacy",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/wegovy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      }
+    },
+    {
+      "pharmacy_name": "Nob Hill",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/wegovy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      }
+    },
+    {
+      "pharmacy_name": "Hy-Vee",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/wegovy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      }
+    },
+    {
+      "pharmacy_name": "Gerbes Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/wegovy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      }
+    },
+    {
+      "pharmacy_name": "Giant Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/wegovy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      }
+    },
+    {
+      "pharmacy_name": "Weis Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/wegovy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      }
+    },
+    {
+      "pharmacy_name": "Wegmans",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/wegovy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      }
+    },
+    {
+      "pharmacy_name": "Kroger Pharmacy (SingleCare)",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "url": "https://www.singlecare.com/prescription/wegovy",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": 1088.5,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "Harris Teeter (SingleCare)",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "url": "https://www.singlecare.com/prescription/wegovy",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": 1088.5,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "Walgreens (SingleCare)",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "url": "https://www.singlecare.com/prescription/wegovy",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": 1155.0,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "CVS Pharmacy (SingleCare)",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "url": "https://www.singlecare.com/prescription/wegovy",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": 1155.42,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "Publix (SingleCare)",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "url": "https://www.singlecare.com/prescription/wegovy",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": 1164.35,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "Walmart (SingleCare)",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "url": "https://www.singlecare.com/prescription/wegovy",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": 1186.14,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "Costco (SingleCare)",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "url": "https://www.singlecare.com/prescription/wegovy",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": 1193.72,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
     }
   ],
   "summary": {
     "0.25mg": {
       "min": 199.0,
-      "max": 1349.02,
-      "avg": 281.14,
-      "count": 14
+      "max": 1599.0,
+      "avg": 377.88,
+      "count": 33
     },
     "0.5mg": {
       "min": 199.0,
-      "max": 1349.02,
-      "avg": 428.08,
-      "count": 17
+      "max": 1599.0,
+      "avg": 512.54,
+      "count": 40
     },
     "1mg": {
       "min": 349.0,
-      "max": 1349.02,
-      "avg": 420.43,
-      "count": 14
+      "max": 1599.0,
+      "avg": 496.06,
+      "count": 33
     },
     "1.7mg": {
       "min": 349.0,
-      "max": 1349.02,
-      "avg": 420.43,
-      "count": 14
+      "max": 1599.0,
+      "avg": 496.06,
+      "count": 33
     },
     "2.4mg": {
       "min": 349.0,
-      "max": 1349.02,
-      "avg": 420.43,
-      "count": 14
+      "max": 1599.0,
+      "avg": 496.06,
+      "count": 33
     }
   }
 }
