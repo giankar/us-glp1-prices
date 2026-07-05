@@ -1,0 +1,271 @@
+{
+  "medication": "Wegovy",
+  "generic_name": "semaglutide",
+  "manufacture": "Novo Nordisk",
+  "indication": "Weight Management",
+  "last_updated": "2026-07-06T07:00:00+04:00",
+  "reference_zip": "10001",
+  "total_pharmacies": 17,
+  "dosages": [
+    "0.25mg",
+    "0.5mg",
+    "1mg",
+    "1.7mg",
+    "2.4mg"
+  ],
+  "pharmacies": [
+    {
+      "pharmacy_name": "NovoCare Pharmacy",
+      "pharmacy_type": "manufacturer_direct",
+      "source": "manufacturer_direct",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "NovoCare self-pay program. $199 for new patients first 2 fills (0.25/0.5mg), $349 existing patients (all injection dosages)"
+    },
+    {
+      "pharmacy_name": "Walgreens",
+      "pharmacy_type": "chain",
+      "source": "manufacturer_self_pay",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "NovoCare self-pay program price available at Walgreens"
+    },
+    {
+      "pharmacy_name": "CVS Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "manufacturer_self_pay",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "NovoCare self-pay program price available at CVS"
+    },
+    {
+      "pharmacy_name": "Costco Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "manufacturer_self_pay",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "NovoCare self-pay program price available at Costco"
+    },
+    {
+      "pharmacy_name": "Safeway",
+      "pharmacy_type": "chain",
+      "source": "manufacturer_self_pay",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "NovoCare self-pay program price available at Safeway"
+    },
+    {
+      "pharmacy_name": "Walmart",
+      "pharmacy_type": "chain",
+      "source": "manufacturer_self_pay",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "NovoCare self-pay program price available at Walmart"
+    },
+    {
+      "pharmacy_name": "Target (CVS)",
+      "pharmacy_type": "chain",
+      "source": "manufacturer_self_pay",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "NovoCare self-pay program price available at Target"
+    },
+    {
+      "pharmacy_name": "Walgreens Specialty Pharmacy",
+      "pharmacy_type": "specialty",
+      "source": "manufacturer_self_pay",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "NovoCare self-pay program price available"
+    },
+    {
+      "pharmacy_name": "Nob Hill",
+      "pharmacy_type": "chain",
+      "source": "manufacturer_self_pay",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "NovoCare self-pay program price available"
+    },
+    {
+      "pharmacy_name": "Walmart Neighborhood Market",
+      "pharmacy_type": "chain",
+      "source": "manufacturer_self_pay",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "NovoCare self-pay program price available"
+    },
+    {
+      "pharmacy_name": "Capsule Pharmacy",
+      "pharmacy_type": "online",
+      "source": "manufacturer_self_pay",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "NovoCare self-pay program price available"
+    },
+    {
+      "pharmacy_name": "Raley's",
+      "pharmacy_type": "chain",
+      "source": "manufacturer_self_pay",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "NovoCare self-pay program price available"
+    },
+    {
+      "pharmacy_name": "Sam's Club",
+      "pharmacy_type": "chain",
+      "source": "manufacturer_self_pay",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "NovoCare self-pay program price available"
+    },
+    {
+      "pharmacy_name": "Kroger Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": 1088.5,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      },
+      "notes": "SingleCare coupon price for 0.5mg pen. NovoCare self-pay program price of $199 also available"
+    },
+    {
+      "pharmacy_name": "Harris Teeter Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": 1088.5,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      },
+      "notes": "SingleCare coupon price for 0.5mg pen. NovoCare self-pay program price of $199 also available"
+    },
+    {
+      "pharmacy_name": "Publix Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": 1164.35,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      },
+      "notes": "SingleCare coupon price for 0.5mg pen. NovoCare self-pay program price of $199 also available"
+    },
+    {
+      "pharmacy_name": "Novo Nordisk WAC (List Price)",
+      "pharmacy_type": "reference",
+      "source": "wac_list",
+      "prices": {
+        "0.25mg": 1349.02,
+        "0.5mg": 1349.02,
+        "1mg": 1349.02,
+        "1.7mg": 1349.02,
+        "2.4mg": 1349.02
+      },
+      "notes": "Wholesale Acquisition Cost (WAC) list price from novopricing.com"
+    }
+  ],
+  "summary": {
+    "0.25mg": {
+      "min": 199.0,
+      "max": 1349.02,
+      "avg": 281.14,
+      "count": 14
+    },
+    "0.5mg": {
+      "min": 199.0,
+      "max": 1349.02,
+      "avg": 428.08,
+      "count": 17
+    },
+    "1mg": {
+      "min": 349.0,
+      "max": 1349.02,
+      "avg": 420.43,
+      "count": 14
+    },
+    "1.7mg": {
+      "min": 349.0,
+      "max": 1349.02,
+      "avg": 420.43,
+      "count": 14
+    },
+    "2.4mg": {
+      "min": 349.0,
+        "max": 1349.02,
+      "avg": 420.43,
+      "count": 14
+    }
+  }
+}
