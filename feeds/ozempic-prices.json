@@ -1,0 +1,271 @@
+{
+  "medication": "Ozempic",
+  "generic_name": "semaglutide",
+  "manufacturer": "Novo Nordisk",
+  "indication": "Type 2 Diabetes",
+  "last_updated": "2026-07-06T07:00:00+04:00",
+  "reference_zip": "10001",
+  "total_pharmacies": 19,
+  "dosages": [
+    "0.25mg",
+    "0.5mg",
+    "1mg",
+    "2mg"
+  ],
+  "pharmacies": [
+    {
+      "pharmacy_name": "NovoCare Pharmacy",
+      "pharmacy_type": "manufacturer_direct",
+      "source": "manufacturer_direct",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "NovoCare self-pay program. $199 for new patients first 2 fills (0.25/0.5mg), $349 existing patients (0.25/0.5/1mg), $499 for 2mg"
+    },
+    {
+      "pharmacy_name": "Walgreens",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "GoodRx shows NovoCare self-pay program price"
+    },
+    {
+      "pharmacy_name": "CVS Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "GoodRx shows NovoCare self-pay program price. CVS.com mentions $149/month with manufacturer coupon for qualifying dose"
+    },
+    {
+      "pharmacy_name": "Costco Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "GoodRx shows NovoCare self-pay program price"
+    },
+    {
+      "pharmacy_name": "Safeway",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "GoodRx shows NovoCare self-pay program price"
+    },
+    {
+      "pharmacy_name": "Walmart",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "GoodRx shows NovoCare self-pay program price"
+    },
+    {
+      "pharmacy_name": "Target (CVS)",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "GoodRx shows NovoCare self-pay program price"
+    },
+    {
+      "pharmacy_name": "Walgreens Specialty Pharmacy",
+      "pharmacy_type": "specialty",
+      "source": "goodrx",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "GoodRx shows NovoCare self-pay program price"
+    },
+    {
+      "pharmacy_name": "Nob Hill",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "GoodRx shows NovoCare self-pay program price"
+    },
+    {
+      "pharmacy_name": "Walmart Neighborhood Market",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "GoodRx shows NovoCare self-pay program price"
+    },
+    {
+      "pharmacy_name": "Capsule Pharmacy",
+      "pharmacy_type": "online",
+      "source": "goodrx",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "GoodRx shows NovoCare self-pay program price"
+    },
+    {
+      "pharmacy_name": "Raley's",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "GoodRx shows NovoCare self-pay program price"
+    },
+    {
+      "pharmacy_name": "Sam's Club",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "GoodRx shows NovoCare self-pay program price"
+    },
+    {
+      "pharmacy_name": "Kroger Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "prices": {
+        "0.25mg": 859.97,
+        "0.5mg": 859.97,
+        "1mg": null,
+        "2mg": null
+      },
+      "notes": "SingleCare coupon price for 0.25/0.5mg pen. NovoCare self-pay program price of $199 also available"
+    },
+    {
+      "pharmacy_name": "Harris Teeter Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "prices": {
+        "0.25mg": 859.97,
+        "0.5mg": 859.97,
+        "1mg": null,
+        "2mg": null
+      },
+      "notes": "SingleCare coupon price for 0.25/0.5mg pen. NovoCare self-pay program price of $199 also available"
+    },
+    {
+      "pharmacy_name": "Publix Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "prices": {
+        "0.25mg": 918.46,
+        "0.5mg": 918.46,
+        "1mg": null,
+        "2mg": null
+      },
+      "notes": "SingleCare coupon price for 0.25/0.5mg pen. NovoCare self-pay program price of $199 also available"
+    },
+    {
+      "pharmacy_name": "Albertsons Pharmacy",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "prices": {
+        "0.25mg": 939.63,
+        "0.5mg": 939.63,
+        "1mg": null,
+        "2mg": null
+      },
+      "notes": "SingleCare average price for 0.25/0.5mg pen. NovoCare self-pay program price of $199 also available"
+    },
+    {
+      "pharmacy_name": "TrumpRx",
+      "pharmacy_type": "government_program",
+      "source": "pharmacy_direct",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "TrumpRx self-pay pricing. $199 for new patents first 2 fills, $349 existing (0.25/0.5/1mg), $499 for 2mg. Original price $1,027.51"
+    },
+    {
+      "pharmacy_name": "Novo Nordisk WAC (List Price)",
+      "pharmacy_type": "reference",
+      "source": "wac_list",
+      "prices": {
+        "0.25mg": 1027.51,
+        "0.5mg": 1027.51,
+        "1mg": 1027.51,
+        "2mg": 1027.51
+      },
+      "notes": "Wholesale Acquisition Cost (WAC) list price from novopricing.com. This is the manufacturer-to-wholesaler price before discounts"
+    }
+  ],
+  "summary": {
+    "0.25mg": {
+      "min": 199.0,
+      "max": 1027.51,
+      "avg": 389.03,
+      "count": 19
+    },
+    "0.5mg": {
+      "min": 199.0,
+      "max": 1027.51,
+      "avg": 389.03,
+      "count": 19
+    },
+    "1mg": {
+      "min": 349.0,
+      "max": 1027.51,
+      "avg": 394.23,
+      "count": 15
+    },
+    "2mg": {
+      "min": 499.0,
+      "max": 1027.51,
+      "avg": 534.23,
+      "count": 15
+    }
+  }
+}
