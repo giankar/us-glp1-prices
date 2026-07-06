@@ -3,9 +3,9 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-07-06T01:42:50.830494+04:00",
+  "last_updated": "2026-07-06T07:18:51.720473+04:00",
   "reference_zip": "10001",
-  "total_pharmacies": 43,
+  "total_pharmacies": 44,
   "dosages": [
     "0.25mg",
     "0.5mg",
@@ -482,6 +482,18 @@
       }
     },
     {
+      "pharmacy_name": "Walmart Neighborhood Market (SingleCare)",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "url": "https://www.singlecare.com/prescription/ozempic",
+      "prices": {
+        "0.25mg": 930.39,
+        "0.5mg": 930.39,
+        "1mg": null,
+        "2mg": null
+      }
+    },
+    {
       "pharmacy_name": "Costco (SingleCare)",
       "pharmacy_type": "chain",
       "source": "singlecare",
@@ -546,14 +558,14 @@
     "0.25mg": {
       "min": 199.0,
       "max": 1199.0,
-      "avg": 458.16,
-      "count": 43
+      "avg": 468.89,
+      "count": 44
     },
     "0.5mg": {
       "min": 199.0,
       "max": 1199.0,
-      "avg": 458.16,
-      "count": 43
+      "avg": 468.89,
+      "count": 44
     },
     "1mg": {
       "min": 349.0,

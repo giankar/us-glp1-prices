@@ -1,6 +1,5 @@
 {
-  "date": "2026-07-06",
-  "scraped_at": "2026-07-06T01:42:50.830494+04:00",
+  "last_updated": "2026-07-06T07:18:51.720473+04:00",
   "reference_zip": "10001",
   "medications": {
     "ozempic": {
@@ -8,9 +7,9 @@
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-07-06T01:42:50.830494+04:00",
+      "last_updated": "2026-07-06T07:18:51.720473+04:00",
       "reference_zip": "10001",
-      "total_pharmacies": 43,
+      "total_pharmacies": 44,
       "dosages": [
         "0.25mg",
         "0.5mg",
@@ -487,6 +486,18 @@
           }
         },
         {
+          "pharmacy_name": "Walmart Neighborhood Market (SingleCare)",
+          "pharmacy_type": "chain",
+          "source": "singlecare",
+          "url": "https://www.singlecare.com/prescription/ozempic",
+          "prices": {
+            "0.25mg": 930.39,
+            "0.5mg": 930.39,
+            "1mg": null,
+            "2mg": null
+          }
+        },
+        {
           "pharmacy_name": "Costco (SingleCare)",
           "pharmacy_type": "chain",
           "source": "singlecare",
@@ -551,14 +562,14 @@
         "0.25mg": {
           "min": 199.0,
           "max": 1199.0,
-          "avg": 458.16,
-          "count": 43
+          "avg": 468.89,
+          "count": 44
         },
         "0.5mg": {
           "min": 199.0,
           "max": 1199.0,
-          "avg": 458.16,
-          "count": 43
+          "avg": 468.89,
+          "count": 44
         },
         "1mg": {
           "min": 349.0,
@@ -579,7 +590,7 @@
       "generic_name": "tirzepatide",
       "manufacturer": "Eli Lilly",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-07-06T01:42:50.830494+04:00",
+      "last_updated": "2026-07-06T07:18:51.720473+04:00",
       "reference_zip": "10001",
       "total_pharmacies": 24,
       "dosages": [
@@ -855,8 +866,8 @@
           "source": "singlecare",
           "url": "https://www.singlecare.com/prescription/mounjaro",
           "prices": {
-            "2.5mg": 1047.92,
-            "5mg": 1047.92,
+            "2.5mg": 1045.61,
+            "5mg": 1045.61,
             "7.5mg": 1045.61,
             "10mg": 1045.61,
             "12.5mg": 1045.61,
@@ -938,13 +949,13 @@
         "2.5mg": {
           "min": 499.0,
           "max": 1899.0,
-          "avg": 1106.02,
+          "avg": 1105.93,
           "count": 24
         },
         "5mg": {
           "min": 499.0,
           "max": 1899.0,
-          "avg": 1089.75,
+          "avg": 1089.65,
           "count": 24
         },
         "7.5mg": {
@@ -978,7 +989,7 @@
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Weight Management",
-      "last_updated": "2026-07-06T01:42:50.830494+04:00",
+      "last_updated": "2026-07-06T07:18:51.720473+04:00",
       "reference_zip": "10001",
       "total_pharmacies": 40,
       "dosages": [

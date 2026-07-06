@@ -3,7 +3,7 @@
   "generic_name": "tirzepatide",
   "manufacturer": "Eli Lilly",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-07-06T01:42:50.830494+04:00",
+  "last_updated": "2026-07-06T07:18:51.720473+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 24,
   "dosages": [
@@ -279,8 +279,8 @@
       "source": "singlecare",
       "url": "https://www.singlecare.com/prescription/mounjaro",
       "prices": {
-        "2.5mg": 1047.92,
-        "5mg": 1047.92,
+        "2.5mg": 1045.61,
+        "5mg": 1045.61,
         "7.5mg": 1045.61,
         "10mg": 1045.61,
         "12.5mg": 1045.61,
@@ -362,13 +362,13 @@
     "2.5mg": {
       "min": 499.0,
       "max": 1899.0,
-      "avg": 1106.02,
+      "avg": 1105.93,
       "count": 24
     },
     "5mg": {
       "min": 499.0,
       "max": 1899.0,
-      "avg": 1089.75,
+      "avg": 1089.65,
       "count": 24
     },
     "7.5mg": {
