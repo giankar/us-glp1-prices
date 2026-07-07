@@ -3,9 +3,9 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-07-06T07:18:51.720473+04:00",
+  "last_updated": "2026-07-07T07:06:38.350466+04:00",
   "reference_zip": "10001",
-  "total_pharmacies": 44,
+  "total_pharmacies": 45,
   "dosages": [
     "0.25mg",
     "0.5mg",
@@ -50,7 +50,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Government self-pay pricing"
+      "notes": "Government self-pay pricing. New patients $199/mo first 2 fills."
     },
     {
       "pharmacy_name": "Hims & Hers",
@@ -168,6 +168,19 @@
         "2mg": 995.0
       },
       "notes": "Online pharmacy cash price"
+    },
+    {
+      "pharmacy_name": "Drugs.com Price Guide",
+      "pharmacy_type": "price_guide",
+      "source": "pharmacy_direct",
+      "url": "https://www.drugs.com/price-guide/ozempic",
+      "prices": {
+        "0.25mg": 1011.57,
+        "0.5mg": 1011.57,
+        "1mg": 1011.57,
+        "2mg": 1011.57
+      },
+      "notes": "Cash price for cash-paying customers"
     },
     {
       "pharmacy_name": "CVS Pharmacy",
@@ -558,26 +571,26 @@
     "0.25mg": {
       "min": 199.0,
       "max": 1199.0,
-      "avg": 468.89,
-      "count": 44
+      "avg": 480.95,
+      "count": 45
     },
     "0.5mg": {
       "min": 199.0,
       "max": 1199.0,
-      "avg": 468.89,
-      "count": 44
+      "avg": 480.95,
+      "count": 45
     },
     "1mg": {
       "min": 349.0,
       "max": 1199.0,
-      "avg": 451.25,
-      "count": 34
+      "avg": 467.26,
+      "count": 35
     },
     "2mg": {
       "min": 499.0,
       "max": 1199.0,
-      "avg": 579.19,
-      "count": 34
+      "avg": 591.55,
+      "count": 35
     }
   }
 }

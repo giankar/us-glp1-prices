@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T07:18:51.720473+04:00",
+  "last_updated": "2026-07-07T07:06:38.350466+04:00",
   "reference_zip": "10001",
   "medications": {
     "ozempic": {
@@ -7,9 +7,9 @@
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-07-06T07:18:51.720473+04:00",
+      "last_updated": "2026-07-07T07:06:38.350466+04:00",
       "reference_zip": "10001",
-      "total_pharmacies": 44,
+      "total_pharmacies": 45,
       "dosages": [
         "0.25mg",
         "0.5mg",
@@ -54,7 +54,7 @@
             "1mg": 349.0,
             "2mg": 499.0
           },
-          "notes": "Government self-pay pricing"
+          "notes": "Government self-pay pricing. New patients $199/mo first 2 fills."
         },
         {
           "pharmacy_name": "Hims & Hers",
@@ -172,6 +172,19 @@
             "2mg": 995.0
           },
           "notes": "Online pharmacy cash price"
+        },
+        {
+          "pharmacy_name": "Drugs.com Price Guide",
+          "pharmacy_type": "price_guide",
+          "source": "pharmacy_direct",
+          "url": "https://www.drugs.com/price-guide/ozempic",
+          "prices": {
+            "0.25mg": 1011.57,
+            "0.5mg": 1011.57,
+            "1mg": 1011.57,
+            "2mg": 1011.57
+          },
+          "notes": "Cash price for cash-paying customers"
         },
         {
           "pharmacy_name": "CVS Pharmacy",
@@ -562,26 +575,26 @@
         "0.25mg": {
           "min": 199.0,
           "max": 1199.0,
-          "avg": 468.89,
-          "count": 44
+          "avg": 480.95,
+          "count": 45
         },
         "0.5mg": {
           "min": 199.0,
           "max": 1199.0,
-          "avg": 468.89,
-          "count": 44
+          "avg": 480.95,
+          "count": 45
         },
         "1mg": {
           "min": 349.0,
           "max": 1199.0,
-          "avg": 451.25,
-          "count": 34
+          "avg": 467.26,
+          "count": 35
         },
         "2mg": {
           "min": 499.0,
           "max": 1199.0,
-          "avg": 579.19,
-          "count": 34
+          "avg": 591.55,
+          "count": 35
         }
       }
     },
@@ -590,9 +603,9 @@
       "generic_name": "tirzepatide",
       "manufacturer": "Eli Lilly",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-07-06T07:18:51.720473+04:00",
+      "last_updated": "2026-07-07T07:06:38.350466+04:00",
       "reference_zip": "10001",
-      "total_pharmacies": 24,
+      "total_pharmacies": 25,
       "dosages": [
         "2.5mg",
         "5mg",
@@ -691,6 +704,21 @@
             "15mg": 1000.0
           },
           "notes": "Subscription $99-$149/mo + medication costs."
+        },
+        {
+          "pharmacy_name": "Drugs.com Price Guide",
+          "pharmacy_type": "price_guide",
+          "source": "pharmacy_direct",
+          "url": "https://www.drugs.com/price-guide/mounjaro",
+          "prices": {
+            "2.5mg": 1094.26,
+            "5mg": 1094.26,
+            "7.5mg": 1094.26,
+            "10mg": 1094.26,
+            "12.5mg": 1094.26,
+            "15mg": 1094.26
+          },
+          "notes": "Cash price for cash-paying customers"
         },
         {
           "pharmacy_name": "Walgreens",
@@ -949,38 +977,38 @@
         "2.5mg": {
           "min": 499.0,
           "max": 1899.0,
-          "avg": 1105.93,
-          "count": 24
+          "avg": 1105.46,
+          "count": 25
         },
         "5mg": {
           "min": 499.0,
           "max": 1899.0,
-          "avg": 1089.65,
-          "count": 24
+          "avg": 1089.84,
+          "count": 25
         },
         "7.5mg": {
           "min": 499.0,
           "max": 1899.0,
-          "avg": 1106.03,
-          "count": 24
+          "avg": 1105.56,
+          "count": 25
         },
         "10mg": {
           "min": 499.0,
           "max": 1899.0,
-          "avg": 1106.02,
-          "count": 24
+          "avg": 1105.55,
+          "count": 25
         },
         "12.5mg": {
           "min": 499.0,
           "max": 1899.0,
-          "avg": 1105.91,
-          "count": 24
+          "avg": 1105.44,
+          "count": 25
         },
         "15mg": {
           "min": 499.0,
           "max": 1899.0,
-          "avg": 1105.91,
-          "count": 24
+          "avg": 1105.44,
+          "count": 25
         }
       }
     },
@@ -989,9 +1017,9 @@
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Weight Management",
-      "last_updated": "2026-07-06T07:18:51.720473+04:00",
+      "last_updated": "2026-07-07T07:06:38.350466+04:00",
       "reference_zip": "10001",
-      "total_pharmacies": 40,
+      "total_pharmacies": 42,
       "dosages": [
         "0.25mg",
         "0.5mg",
@@ -1132,12 +1160,13 @@
           "source": "pharmacy_direct",
           "url": "https://www.drugs.com/price-guide/wegovy",
           "prices": {
-            "0.25mg": 499.0,
-            "0.5mg": 499.0,
-            "1mg": 499.0,
-            "1.7mg": 499.0,
-            "2.4mg": 499.0
-          }
+            "0.25mg": 1325.62,
+            "0.5mg": 1325.62,
+            "1mg": 1325.62,
+            "1.7mg": 1325.62,
+            "2.4mg": 1325.62
+          },
+          "notes": "Cash price for cash-paying customers. Self-pay $499/mo via NovoCare."
         },
         {
           "pharmacy_name": "Amazon Pharmacy",
@@ -1519,6 +1548,19 @@
           }
         },
         {
+          "pharmacy_name": "Walmart Neighborhood Market (SingleCare)",
+          "pharmacy_type": "chain",
+          "source": "singlecare",
+          "url": "https://www.singlecare.com/prescription/wegovy",
+          "prices": {
+            "0.25mg": null,
+            "0.5mg": 1186.14,
+            "1mg": null,
+            "1.7mg": null,
+            "2.4mg": null
+          }
+        },
+        {
           "pharmacy_name": "Costco (SingleCare)",
           "pharmacy_type": "chain",
           "source": "singlecare",
@@ -1530,37 +1572,50 @@
             "1.7mg": null,
             "2.4mg": null
           }
+        },
+        {
+          "pharmacy_name": "Food Lion (SingleCare)",
+          "pharmacy_type": "chain",
+          "source": "singlecare",
+          "url": "https://www.singlecare.com/prescription/wegovy",
+          "prices": {
+            "0.25mg": null,
+            "0.5mg": 1384.0,
+            "1mg": null,
+            "1.7mg": null,
+            "2.4mg": null
+          }
         }
       ],
       "summary": {
         "0.25mg": {
           "min": 199.0,
           "max": 1599.0,
-          "avg": 377.88,
+          "avg": 402.93,
           "count": 33
         },
         "0.5mg": {
           "min": 199.0,
           "max": 1599.0,
-          "avg": 512.54,
-          "count": 40
+          "avg": 569.01,
+          "count": 42
         },
         "1mg": {
           "min": 349.0,
           "max": 1599.0,
-          "avg": 496.06,
+          "avg": 521.11,
           "count": 33
         },
         "1.7mg": {
           "min": 349.0,
           "max": 1599.0,
-          "avg": 496.06,
+          "avg": 521.11,
           "count": 33
         },
         "2.4mg": {
           "min": 349.0,
           "max": 1599.0,
-          "avg": 496.06,
+          "avg": 521.11,
           "count": 33
         }
       }
