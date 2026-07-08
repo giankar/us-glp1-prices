@@ -3,7 +3,7 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-07-07T07:06:38.350466+04:00",
+  "last_updated": "2026-07-08T07:05:00+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 45,
   "dosages": [
@@ -63,7 +63,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Membership $39 first month, then $149/mo. NovoCare self-pay pricing."
+      "notes": "Membership $39 first month, then $149/mo. NovoCare self-pay pricing. Ozempic pen from $199/mo."
     },
     {
       "pharmacy_name": "Ro",
@@ -76,7 +76,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Ro Body membership $145/mo. NovoCare self-pay pricing."
+      "notes": "Ro Body membership $145/mo. NovoCare self-pay pricing via cash-pay."
     },
     {
       "pharmacy_name": "Sesame Care",
@@ -89,7 +89,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Subscription $59/mo (annual) or $99/mo. NovoCare self-pay pricing."
+      "notes": "Subscription $59/mo (annual) or $99/mo. NovoCare self-pay pricing. Ozempic from $199/mo."
     },
     {
       "pharmacy_name": "Lemonaid Health",
@@ -128,7 +128,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Membership $39/mo. NovoCare self-pay pricing."
+      "notes": "Membership $39/mo. NovoCare self-pay pricing. Foundayo $149/mo."
     },
     {
       "pharmacy_name": "Noom Med",

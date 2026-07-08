@@ -3,9 +3,9 @@
   "generic_name": "tirzepatide",
   "manufacturer": "Eli Lilly",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-07-07T07:06:38.350466+04:00",
+  "last_updated": "2026-07-08T07:05:00+04:00",
   "reference_zip": "10001",
-  "total_pharmacies": 25,
+  "total_pharmacies": 26,
   "dosages": [
     "2.5mg",
     "5mg",
@@ -36,14 +36,14 @@
       "source": "wac_list",
       "url": "https://pricinginfo.lilly.com/mounjaro",
       "prices": {
-        "2.5mg": 1079.77,
-        "5mg": 1079.77,
-        "7.5mg": 1079.77,
-        "10mg": 1079.77,
-        "12.5mg": 1079.77,
-        "15mg": 1079.77
+        "2.5mg": 1112.16,
+        "5mg": 1112.16,
+        "7.5mg": 1112.16,
+        "10mg": 1112.16,
+        "12.5mg": 1112.16,
+        "15mg": 1112.16
       },
-      "notes": "List price / WAC"
+      "notes": "List price / WAC updated Jan 2026. $1,112.16 per fill."
     },
     {
       "pharmacy_name": "Hims & Hers",
@@ -73,7 +73,22 @@
         "12.5mg": 1086.0,
         "15mg": 1086.0
       },
-      "notes": "Subscription $59-$99/mo. Branded tirzepatide from $1,086/mo."
+      "notes": "Subscription $59-$99/mo. Branded tirzepatide (Zepbound) from $1,086/mo. Zepbound KwikPen $299-$698/mo."
+    },
+    {
+      "pharmacy_name": "Lemonaid Health",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "url": "https://www.lemonaidhealth.com/services/weight-loss",
+      "prices": {
+        "2.5mg": null,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "Membership $49/mo. Cash-pay only. Mounjaro not directly offered; Zepbound vials via LillyDirect $299/mo (2.5mg), $449 (higher)."
     },
     {
       "pharmacy_name": "PlushCare",
@@ -377,37 +392,37 @@
     "2.5mg": {
       "min": 499.0,
       "max": 1899.0,
-      "avg": 1105.46,
+      "avg": 1106.75,
       "count": 25
     },
     "5mg": {
       "min": 499.0,
       "max": 1899.0,
-      "avg": 1089.84,
+      "avg": 1091.13,
       "count": 25
     },
     "7.5mg": {
       "min": 499.0,
       "max": 1899.0,
-      "avg": 1105.56,
+      "avg": 1106.85,
       "count": 25
     },
     "10mg": {
       "min": 499.0,
       "max": 1899.0,
-      "avg": 1105.55,
+      "avg": 1106.85,
       "count": 25
     },
     "12.5mg": {
       "min": 499.0,
       "max": 1899.0,
-      "avg": 1105.44,
+      "avg": 1106.74,
       "count": 25
     },
     "15mg": {
       "min": 499.0,
       "max": 1899.0,
-      "avg": 1105.44,
+      "avg": 1106.74,
       "count": 25
     }
   }
