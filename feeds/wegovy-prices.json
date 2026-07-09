@@ -2,10 +2,10 @@
   "medication": "Wegovy",
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
-  "indication": "Weight Management",
-  "last_updated": "2026-07-08T07:05:00+04:00",
+  "indication": "Weight Loss",
+  "last_updated": "2026-07-09T07:07:12+04:00",
   "reference_zip": "10001",
-  "total_pharmacies": 43,
+  "total_pharmacies": 45,
   "dosages": [
     "0.25mg",
     "0.5mg",
@@ -26,7 +26,7 @@
         "1.7mg": 349.0,
         "2.4mg": 349.0
       },
-      "notes": "Existing patient: $349/mo all doses. New patients $199/mo first 2 fills (0.25/0.5mg). HD 7.2mg $399/mo."
+      "notes": "Existing patient: $349/mo all doses. New patients $199/mo first 2 months (0.25/0.5mg) through Dec 31, 2026. Wegovy pill $149/mo (1.5/4mg). Medicare GLP-1 Bridge: $50/mo."
     },
     {
       "pharmacy_name": "Novo Nordisk WAC (List Price)",
@@ -40,7 +40,7 @@
         "1.7mg": 1349.02,
         "2.4mg": 1349.02
       },
-      "notes": "Wholesale Acquisition Cost"
+      "notes": "Wholesale Acquisition Cost - all doses and forms"
     },
     {
       "pharmacy_name": "TrumpRx",
@@ -52,9 +52,9 @@
         "0.5mg": 349.0,
         "1mg": 349.0,
         "1.7mg": 349.0,
-        "2.4mg": 499.0
+        "2.4mg": 349.0
       },
-      "notes": "Government self-pay pricing."
+      "notes": "Government self-pay pricing. New patients $199/mo first 2 fills."
     },
     {
       "pharmacy_name": "Hims & Hers",
@@ -82,7 +82,7 @@
         "1.7mg": 349.0,
         "2.4mg": 349.0
       },
-      "notes": "Ro Body membership $145/mo. NovoCare self-pay pricing. Wegovy pill available."
+      "notes": "Ro Body membership $145/mo. NovoCare self-pay pricing. Also offers Wegovy pill, Zepbound KwikPen, Foundayo."
     },
     {
       "pharmacy_name": "Sesame Care",
@@ -96,7 +96,7 @@
         "1.7mg": 349.0,
         "2.4mg": 349.0
       },
-      "notes": "Subscription $59/mo (annual) or $99/mo. Wegovy pen $199 first 2 months then $349. Wegovy pill $149/mo."
+      "notes": "Subscription $59/mo (annual) or $99/mo. Wegovy pen $199/mo first 2 months, then $349/mo. Wegovy pill $149/mo."
     },
     {
       "pharmacy_name": "Lemonaid Health",
@@ -110,7 +110,7 @@
         "1.7mg": 1599.0,
         "2.4mg": 1599.0
       },
-      "notes": "Membership $49/mo. Cash-pay only. Branded Wegovy $1,599/mo."
+      "notes": "Membership $49/mo. Cash-pay only. Branded Wegovy $1,599/mo. Also offers compounded semaglutide $299/mo."
     },
     {
       "pharmacy_name": "PlushCare",
@@ -138,7 +138,7 @@
         "1.7mg": 349.0,
         "2.4mg": 349.0
       },
-      "notes": "Membership $39/mo. Wegovy pen $199 first 2 fills then $349. Wegovy pill $149/mo. Foundayo $149/mo."
+      "notes": "Membership $39/mo. NovoCare self-pay pricing. Wegovy pill $149/mo."
     },
     {
       "pharmacy_name": "Noom Med",
@@ -169,30 +169,16 @@
       "notes": "NovoCare self-pay pricing via Amazon Pharmacy."
     },
     {
-      "pharmacy_name": "CenterWell Pharmacy",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "url": "https://www.centerwellpharmacy.com/",
-      "prices": {
-        "0.25mg": 499.0,
-        "0.5mg": 499.0,
-        "1mg": 499.0,
-        "1.7mg": 499.0,
-        "2.4mg": 499.0
-      },
-      "notes": "Fulfills NovoCare Wegovy orders. $499/mo cash price."
-    },
-    {
       "pharmacy_name": "HealthWarehouse",
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "url": "https://www.healthwarehouse.com/",
       "prices": {
-        "0.25mg": 1295.0,
-        "0.5mg": 1295.0,
-        "1mg": 1295.0,
-        "1.7mg": 1295.0,
-        "2.4mg": 1295.0
+        "0.25mg": 1325.0,
+        "0.5mg": 1325.0,
+        "1mg": 1325.0,
+        "1.7mg": 1325.0,
+        "2.4mg": 1325.0
       },
       "notes": "Online pharmacy cash price"
     },
@@ -208,7 +194,7 @@
         "1.7mg": 1325.62,
         "2.4mg": 1325.62
       },
-      "notes": "Cash price for cash-paying customers"
+      "notes": "Cash price for cash-paying customers. Updated Jul 5, 2026. Self-pay: $199/mo intro (0.25/0.5mg), then $349/mo. Pill $149/mo."
     },
     {
       "pharmacy_name": "CVS Pharmacy",
@@ -472,7 +458,20 @@
     },
     {
       "pharmacy_name": "Capsule Pharmacy",
-      "pharmacy_type": "online_pharmacy",
+      "pharmacy_type": "chain",
+      "source": "goodrx",
+      "url": "https://www.goodrx.com/wegovy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      }
+    },
+    {
+      "pharmacy_name": "Walgreens Specialty Pharmacy",
+      "pharmacy_type": "chain",
       "source": "goodrx",
       "url": "https://www.goodrx.com/wegovy",
       "prices": {
@@ -489,11 +488,11 @@
       "source": "singlecare",
       "url": "https://www.singlecare.com/prescription/wegovy",
       "prices": {
-        "0.25mg": 1223.27,
-        "0.5mg": 1223.27,
-        "1mg": 1223.27,
-        "1.7mg": 1223.27,
-        "2.4mg": 1223.27
+        "0.25mg": 999.0,
+        "0.5mg": 999.0,
+        "1mg": 999.0,
+        "1.7mg": 999.0,
+        "2.4mg": 999.0
       }
     },
     {
@@ -502,11 +501,11 @@
       "source": "singlecare",
       "url": "https://www.singlecare.com/prescription/wegovy",
       "prices": {
-        "0.25mg": 1223.27,
-        "0.5mg": 1223.27,
-        "1mg": 1223.27,
-        "1.7mg": 1223.27,
-        "2.4mg": 1223.27
+        "0.25mg": 999.0,
+        "0.5mg": 999.0,
+        "1mg": 999.0,
+        "1.7mg": 999.0,
+        "2.4mg": 999.0
       }
     },
     {
@@ -515,50 +514,11 @@
       "source": "singlecare",
       "url": "https://www.singlecare.com/prescription/wegovy",
       "prices": {
-        "0.25mg": 1288.23,
-        "0.5mg": 1288.23,
-        "1mg": 1288.23,
-        "1.7mg": 1288.23,
-        "2.4mg": 1288.23
-      }
-    },
-    {
-      "pharmacy_name": "Walgreens (SingleCare)",
-      "pharmacy_type": "chain",
-      "source": "singlecare",
-      "url": "https://www.singlecare.com/prescription/wegovy",
-      "prices": {
-        "0.25mg": 1289.77,
-        "0.5mg": 1289.77,
-        "1mg": 1289.77,
-        "1.7mg": 1289.77,
-        "2.4mg": 1289.77
-      }
-    },
-    {
-      "pharmacy_name": "CVS Pharmacy (SingleCare)",
-      "pharmacy_type": "chain",
-      "source": "singlecare",
-      "url": "https://www.singlecare.com/prescription/wegovy",
-      "prices": {
-        "0.25mg": 1290.19,
-        "0.5mg": 1290.19,
-        "1mg": 1290.19,
-        "1.7mg": 1290.19,
-        "2.4mg": 1290.19
-      }
-    },
-    {
-      "pharmacy_name": "Costco (SingleCare)",
-      "pharmacy_type": "chain",
-      "source": "singlecare",
-      "url": "https://www.singlecare.com/prescription/wegovy",
-      "prices": {
-        "0.25mg": 1317.6,
-        "0.5mg": 1317.6,
-        "1mg": 1317.6,
-        "1.7mg": 1317.6,
-        "2.4mg": 1317.6
+        "0.25mg": 1050.0,
+        "0.5mg": 1050.0,
+        "1mg": 1050.0,
+        "1.7mg": 1050.0,
+        "2.4mg": 1050.0
       }
     },
     {
@@ -567,11 +527,76 @@
       "source": "singlecare",
       "url": "https://www.singlecare.com/prescription/wegovy",
       "prices": {
-        "0.25mg": 1320.91,
-        "0.5mg": 1320.91,
-        "1mg": 1320.91,
-        "1.7mg": 1320.91,
-        "2.4mg": 1320.91
+        "0.25mg": 1075.0,
+        "0.5mg": 1075.0,
+        "1mg": 1075.0,
+        "1.7mg": 1075.0,
+        "2.4mg": 1075.0
+      }
+    },
+    {
+      "pharmacy_name": "Walmart Neighborhood Market (SingleCare)",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "url": "https://www.singlecare.com/prescription/wegovy",
+      "prices": {
+        "0.25mg": 1075.0,
+        "0.5mg": 1075.0,
+        "1mg": 1075.0,
+        "1.7mg": 1075.0,
+        "2.4mg": 1075.0
+      }
+    },
+    {
+      "pharmacy_name": "Costco (SingleCare)",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "url": "https://www.singlecare.com/prescription/wegovy",
+      "prices": {
+        "0.25mg": 1090.0,
+        "0.5mg": 1090.0,
+        "1mg": 1090.0,
+        "1.7mg": 1090.0,
+        "2.4mg": 1090.0
+      }
+    },
+    {
+      "pharmacy_name": "CVS Pharmacy (SingleCare)",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "url": "https://www.singlecare.com/prescription/wegovy",
+      "prices": {
+        "0.25mg": 1100.0,
+        "0.5mg": 1100.0,
+        "1mg": 1100.0,
+        "1.7mg": 1100.0,
+        "2.4mg": 1100.0
+      }
+    },
+    {
+      "pharmacy_name": "Walgreens (SingleCare)",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "url": "https://www.singlecare.com/prescription/wegovy",
+      "prices": {
+        "0.25mg": 1120.0,
+        "0.5mg": 1120.0,
+        "1mg": 1120.0,
+        "1.7mg": 1120.0,
+        "2.4mg": 1120.0
+      }
+    },
+    {
+      "pharmacy_name": "Food Lion (SingleCare)",
+      "pharmacy_type": "chain",
+      "source": "singlecare",
+      "url": "https://www.singlecare.com/prescription/wegovy",
+      "prices": {
+        "0.25mg": 1250.0,
+        "0.5mg": 1250.0,
+        "1mg": 1250.0,
+        "1.7mg": 1250.0,
+        "2.4mg": 1250.0
       }
     },
     {
@@ -580,11 +605,11 @@
       "source": "singlecare",
       "url": "https://www.singlecare.com/prescription/wegovy",
       "prices": {
-        "0.25mg": 1320.91,
-        "0.5mg": 1320.91,
-        "1mg": 1320.91,
-        "1.7mg": 1320.91,
-        "2.4mg": 1320.91
+        "0.25mg": 1085.0,
+        "0.5mg": 1085.0,
+        "1mg": 1085.0,
+        "1.7mg": 1085.0,
+        "2.4mg": 1085.0
       }
     }
   ],
@@ -592,32 +617,32 @@
     "0.25mg": {
       "min": 199.0,
       "max": 1599.0,
-      "avg": 563.11,
-      "count": 43
+      "avg": 544.73,
+      "count": 45
     },
     "0.5mg": {
       "min": 199.0,
       "max": 1599.0,
-      "avg": 563.11,
-      "count": 43
+      "avg": 544.73,
+      "count": 45
     },
     "1mg": {
       "min": 349.0,
       "max": 1599.0,
-      "avg": 653.81,
-      "count": 43
+      "avg": 634.73,
+      "count": 45
     },
     "1.7mg": {
       "min": 349.0,
       "max": 1599.0,
-      "avg": 653.81,
-      "count": 43
+      "avg": 634.73,
+      "count": 45
     },
     "2.4mg": {
       "min": 349.0,
       "max": 1599.0,
-      "avg": 657.3,
-      "count": 43
+      "avg": 634.73,
+      "count": 45
     }
   }
 }

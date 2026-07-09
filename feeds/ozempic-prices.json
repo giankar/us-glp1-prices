@@ -3,7 +3,7 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-07-08T07:05:00+04:00",
+  "last_updated": "2026-07-09T07:07:12+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 45,
   "dosages": [
@@ -24,7 +24,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Existing patient: $349/mo (0.25/0.5/1mg), $499/mo (2mg). New patients $199/mo first 2 fills."
+      "notes": "Existing patient: $349/mo (0.25/0.5/1mg), $499/mo (2mg). New patients $199/mo first 2 fills (0.25/0.5mg) through Dec 31, 2026."
     },
     {
       "pharmacy_name": "Novo Nordisk WAC (List Price)",
@@ -37,7 +37,7 @@
         "1mg": 1027.51,
         "2mg": 1027.51
       },
-      "notes": "Wholesale Acquisition Cost"
+      "notes": "Wholesale Acquisition Cost - all doses and forms"
     },
     {
       "pharmacy_name": "TrumpRx",
@@ -63,7 +63,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Membership $39 first month, then $149/mo. NovoCare self-pay pricing. Ozempic pen from $199/mo."
+      "notes": "Membership $39 first month, then $149/mo. Ozempic from $199/mo. Also offers Ozempic pill from $149/mo."
     },
     {
       "pharmacy_name": "Ro",
@@ -76,7 +76,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Ro Body membership $145/mo. NovoCare self-pay pricing via cash-pay."
+      "notes": "Ro Body membership $145/mo. NovoCare self-pay pricing via cash-pay. Also offers Wegovy pill, Zepbound KwikPen, Foundayo."
     },
     {
       "pharmacy_name": "Sesame Care",
@@ -89,7 +89,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Subscription $59/mo (annual) or $99/mo. NovoCare self-pay pricing. Ozempic from $199/mo."
+      "notes": "Subscription $59/mo (annual) or $99/mo (monthly). NovoCare self-pay pricing. Ozempic from $199/mo."
     },
     {
       "pharmacy_name": "Lemonaid Health",
@@ -102,7 +102,7 @@
         "1mg": 1199.0,
         "2mg": 1199.0
       },
-      "notes": "Membership $49/mo. Cash-pay only. Branded Ozempic $1,199/mo."
+      "notes": "Membership $49/mo. Cash-pay only. Branded Ozempic $1,199/mo. Also offers compounded semaglutide $299/mo."
     },
     {
       "pharmacy_name": "PlushCare",
@@ -115,7 +115,7 @@
         "1mg": 1000.0,
         "2mg": 1000.0
       },
-      "notes": "Membership $19.99/mo, visit $129. Approximate self-pay ~$1000/mo."
+      "notes": "Membership $19.99/mo (first month free), visit $129. Approximate self-pay ~$1000/mo. Rx Discount Card saves 7-20%."
     },
     {
       "pharmacy_name": "GoodRx Care",
@@ -128,7 +128,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Membership $39/mo. NovoCare self-pay pricing. Foundayo $149/mo."
+      "notes": "Membership $39/mo. NovoCare self-pay pricing."
     },
     {
       "pharmacy_name": "Noom Med",
@@ -154,7 +154,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "NovoCare self-pay pricing via Amazon Pharmacy."
+      "notes": "NovoCare self-pay pricing via Amazon Pharmacy. Automatic manufacturer coupons at checkout."
     },
     {
       "pharmacy_name": "HealthWarehouse",
@@ -180,7 +180,7 @@
         "1mg": 1011.57,
         "2mg": 1011.57
       },
-      "notes": "Cash price for cash-paying customers"
+      "notes": "Cash price for cash-paying customers. Updated Jul 5, 2026. Self-pay manufacturer savings: $499/mo."
     },
     {
       "pharmacy_name": "CVS Pharmacy",
@@ -424,7 +424,7 @@
     },
     {
       "pharmacy_name": "Capsule Pharmacy",
-      "pharmacy_type": "online_pharmacy",
+      "pharmacy_type": "chain",
       "source": "goodrx",
       "url": "https://www.goodrx.com/ozempic",
       "prices": {
@@ -436,7 +436,7 @@
     },
     {
       "pharmacy_name": "Walgreens Specialty Pharmacy",
-      "pharmacy_type": "specialty",
+      "pharmacy_type": "chain",
       "source": "goodrx",
       "url": "https://www.goodrx.com/ozempic",
       "prices": {
