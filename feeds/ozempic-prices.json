@@ -3,7 +3,7 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-07-09T07:07:12+04:00",
+  "last_updated": "2026-07-10T07:00:00+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 45,
   "dosages": [
@@ -76,7 +76,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Ro Body membership $145/mo. NovoCare self-pay pricing via cash-pay. Also offers Wegovy pill, Zepbound KwikPen, Foundayo."
+      "notes": "Ro Body membership $145/mo. NovoCare self-pay pricing. Also offers Wegovy pill, Foundayo, Zepbound KwikPen. Prepay & Save available."
     },
     {
       "pharmacy_name": "Sesame Care",
@@ -89,7 +89,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Subscription $59/mo (annual) or $99/mo (monthly). NovoCare self-pay pricing. Ozempic from $199/mo."
+      "notes": "Subscription $59/mo (annual) or $99/mo (monthly). Ozempic $199/mo first 2 months (0.25/0.5mg), then $349/mo (0.25/0.5/1mg), $499/mo (2mg). Also offers Zepbound KwikPen from $299/mo."
     },
     {
       "pharmacy_name": "Lemonaid Health",
@@ -102,7 +102,7 @@
         "1mg": 1199.0,
         "2mg": 1199.0
       },
-      "notes": "Membership $49/mo. Cash-pay only. Branded Ozempic $1,199/mo. Also offers compounded semaglutide $299/mo."
+      "notes": "Membership $49/mo. Cash-pay only. Branded Ozempic $1,199/mo. Also offers compounded semaglutide $299/mo, Zepbound vials via LillyDirect from $299/mo."
     },
     {
       "pharmacy_name": "PlushCare",
@@ -128,7 +128,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Membership $39/mo. NovoCare self-pay pricing."
+      "notes": "Membership $39/mo. NovoCare self-pay pricing. Ozempic $199/mo first 2 fills (0.25/0.5mg), then $349/mo (0.25/0.5/1mg), $499/mo (2mg)."
     },
     {
       "pharmacy_name": "Noom Med",

@@ -3,7 +3,7 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Weight Loss",
-  "last_updated": "2026-07-09T07:07:12+04:00",
+  "last_updated": "2026-07-10T07:00:00+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 45,
   "dosages": [
@@ -26,7 +26,7 @@
         "1.7mg": 349.0,
         "2.4mg": 349.0
       },
-      "notes": "Existing patient: $349/mo all doses. New patients $199/mo first 2 months (0.25/0.5mg) through Dec 31, 2026. Wegovy pill $149/mo (1.5/4mg). Medicare GLP-1 Bridge: $50/mo."
+      "notes": "Existing patient: $349/mo all doses. New patients $199/mo first 2 months (0.25/0.5mg) through Dec 31, 2026. Wegovy HD 7.2mg $399/mo. Wegovy pill $149/mo (1.5/4mg). Medicare GLP-1 Bridge: $50/mo."
     },
     {
       "pharmacy_name": "Novo Nordisk WAC (List Price)",
@@ -82,7 +82,7 @@
         "1.7mg": 349.0,
         "2.4mg": 349.0
       },
-      "notes": "Ro Body membership $145/mo. NovoCare self-pay pricing. Also offers Wegovy pill, Zepbound KwikPen, Foundayo."
+      "notes": "Ro Body membership $145/mo. NovoCare self-pay pricing. Also offers Wegovy pill, Foundayo, Zepbound KwikPen. Prepay & Save available."
     },
     {
       "pharmacy_name": "Sesame Care",
@@ -96,7 +96,7 @@
         "1.7mg": 349.0,
         "2.4mg": 349.0
       },
-      "notes": "Subscription $59/mo (annual) or $99/mo. Wegovy pen $199/mo first 2 months, then $349/mo. Wegovy pill $149/mo."
+      "notes": "Subscription $59/mo (annual) or $99/mo (monthly). Wegovy pen $199/mo first 2 months (new patients), then $349/mo all doses. Wegovy pill $149/mo (1.5/4mg), $299/mo (9/25mg)."
     },
     {
       "pharmacy_name": "Lemonaid Health",
@@ -110,7 +110,7 @@
         "1.7mg": 1599.0,
         "2.4mg": 1599.0
       },
-      "notes": "Membership $49/mo. Cash-pay only. Branded Wegovy $1,599/mo. Also offers compounded semaglutide $299/mo."
+      "notes": "Membership $49/mo. Cash-pay only. Branded Wegovy $1,599/mo. Also offers compounded semaglutide $299/mo, Zepbound vials via LillyDirect from $299/mo."
     },
     {
       "pharmacy_name": "PlushCare",
@@ -138,7 +138,7 @@
         "1.7mg": 349.0,
         "2.4mg": 349.0
       },
-      "notes": "Membership $39/mo. NovoCare self-pay pricing. Wegovy pill $149/mo."
+      "notes": "Membership $39/mo. NovoCare self-pay pricing. Wegovy pen $199/mo first 2 fills (0.25/0.5mg), then $349/mo. HD 7.2mg $399/mo. Wegovy pill $149/mo (1.5/4mg), higher $299/mo."
     },
     {
       "pharmacy_name": "Noom Med",

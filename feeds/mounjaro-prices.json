@@ -3,7 +3,7 @@
   "generic_name": "tirzepatide",
   "manufacturer": "Eli Lilly",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-07-09T07:07:12+04:00",
+  "last_updated": "2026-07-10T07:00:00+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 30,
   "dosages": [
@@ -73,7 +73,7 @@
         "12.5mg": 1086.0,
         "15mg": 1086.0
       },
-      "notes": "Subscription $59/mo (annual) or $99/mo. Mounjaro/Zepbound pen $1,086/mo. Zepbound KwikPen from $299/mo."
+      "notes": "Subscription $59/mo (annual) or $99/mo (monthly). Mounjaro/Zepbound pen $1,086/mo. Zepbound KwikPen from $299/mo (2.5mg), $398/mo (5mg), $499/mo (7.5mg), $698/mo (10/12.5/15mg)."
     },
     {
       "pharmacy_name": "Lemonaid Health",
@@ -88,7 +88,7 @@
         "12.5mg": 1199.0,
         "15mg": 1199.0
       },
-      "notes": "Membership $49/mo. Cash-pay only. Branded medications $1,199/mo. Zepbound vials via LillyDirect from $299/mo."
+      "notes": "Membership $49/mo. Cash-pay only. Branded medications $1,199/mo. Zepbound vials via LillyDirect from $299/mo (2.5mg), $449 higher doses. Compounded tirzepatide $299/mo."
     },
     {
       "pharmacy_name": "PlushCare",
@@ -118,7 +118,7 @@
         "12.5mg": 499.0,
         "15mg": 499.0
       },
-      "notes": "Membership $39/mo. Mounjaro $499/mo with Lilly savings card (commercially insured, non-covered)."
+      "notes": "Membership $39/mo. Mounjaro $499/mo with Lilly savings card (commercially insured, non-covered). Also offers Zepbound vials from $299/mo."
     },
     {
       "pharmacy_name": "Noom Med",
