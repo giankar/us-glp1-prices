@@ -3,9 +3,9 @@
   "generic_name": "tirzepatide",
   "manufacturer": "Eli Lilly",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-07-11T07:00:00+04:00",
+  "last_updated": "2026-07-12T07:00:00+04:00",
   "reference_zip": "10001",
-  "total_pharmacies": 22,
+  "total_pharmacies": 16,
   "dosages": [
     "2.5mg",
     "5mg",
@@ -16,7 +16,7 @@
   ],
   "pharmacies": [
     {
-      "pharmacy_name": "Lilly (pricinginfo.lilly.com)",
+      "pharmacy_name": "Lilly Direct (Mounjaro)",
       "pharmacy_type": "manufacturer_direct",
       "source": "manufacturer_direct",
       "prices": {
@@ -27,63 +27,147 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "List price (WAC) $1,112.16 per fill (one month = 4 pens). Updated Jan 2026. Lilly does not offer separate cash-pay program for Mounjaro (only Zepbound via LillyDirect)."
+      "notes": "Lilly list price (WAC) $1,112.16/fill. Self-pay savings options available via lilly.com/lillydirect. One fill = 4 pens/month."
     },
     {
-      "pharmacy_name": "Hims & Hers",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
+      "pharmacy_name": "CVS Pharmacy (SingleCare)",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
       "prices": {
-        "2.5mg": 1899.0,
-        "5mg": 1899.0,
-        "7.5mg": 1899.0,
-        "10mg": 1899.0,
-        "12.5mg": 1899.0,
-        "15mg": 1899.0
+        "2.5mg": 658.52,
+        "5mg": 658.52,
+        "7.5mg": 658.52,
+        "10mg": 658.52,
+        "12.5mg": 658.52,
+        "15mg": 658.52
       },
-      "notes": "Mounjaro $1,899/mo. Membership: $39 first month, $149/mo thereafter. FDA-approved for T2D, available to patients meeting clinical eligibility."
+      "notes": "SingleCare coupon price at CVS. Retail $1,312.00."
     },
     {
-      "pharmacy_name": "Ro",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
+      "pharmacy_name": "Walmart Pharmacy (SingleCare)",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
       "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
+        "2.5mg": 1071.08,
+        "5mg": 1071.08,
+        "7.5mg": 1071.08,
+        "10mg": 1071.08,
+        "12.5mg": 1071.08,
+        "15mg": 1071.08
       },
-      "notes": "Mounjaro not directly offered by Ro (they offer Zepbound instead). If prescribed, cash price at pharmacy ~list price. Ro Body membership: $145/mo."
+      "notes": "SingleCare coupon price at Walmart. Retail $1,351.26."
+    },
+    {
+      "pharmacy_name": "Walgreens (SingleCare)",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
+      "prices": {
+        "2.5mg": 1047.92,
+        "5mg": 1047.92,
+        "7.5mg": 1047.92,
+        "10mg": 1047.92,
+        "12.5mg": 1047.92,
+        "15mg": 1047.92
+      },
+      "notes": "SingleCare coupon price at Walgreens. Retail $1,336.08."
+    },
+    {
+      "pharmacy_name": "Kroger Pharmacy (SingleCare)",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
+      "prices": {
+        "2.5mg": 990.48,
+        "5mg": 990.48,
+        "7.5mg": 990.48,
+        "10mg": 990.48,
+        "12.5mg": 990.48,
+        "15mg": 990.48
+      },
+      "notes": "SingleCare coupon price at Kroger. Retail $1,334.50."
+    },
+    {
+      "pharmacy_name": "Albertsons Pharmacy (SingleCare)",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
+      "prices": {
+        "2.5mg": 1061.6,
+        "5mg": 1061.6,
+        "7.5mg": 1061.6,
+        "10mg": 1061.6,
+        "12.5mg": 1061.6,
+        "15mg": 1061.6
+      },
+      "notes": "SingleCare coupon price at Albertsons. Retail $1,351.70."
+    },
+    {
+      "pharmacy_name": "Kroger Pharmacy (SC Best)",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
+      "prices": {
+        "2.5mg": 872.48,
+        "5mg": 872.48,
+        "7.5mg": 872.48,
+        "10mg": 872.48,
+        "12.5mg": 872.48,
+        "15mg": 872.48
+      },
+      "notes": "SingleCare best price with member bonus at Kroger/Harris Teeter. Retail $990.48."
+    },
+    {
+      "pharmacy_name": "Publix Pharmacy (SingleCare)",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
+      "prices": {
+        "2.5mg": 929.25,
+        "5mg": 929.25,
+        "7.5mg": 929.25,
+        "10mg": 929.25,
+        "12.5mg": 929.25,
+        "15mg": 929.25
+      },
+      "notes": "SingleCare coupon price at Publix. Retail $1,047.25."
+    },
+    {
+      "pharmacy_name": "Costco Pharmacy (SingleCare)",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
+      "prices": {
+        "2.5mg": 952.94,
+        "5mg": 952.94,
+        "7.5mg": 952.94,
+        "10mg": 952.94,
+        "12.5mg": 952.94,
+        "15mg": 952.94
+      },
+      "notes": "SingleCare coupon price at Costco. Retail $1,070.94."
     },
     {
       "pharmacy_name": "Sesame Care",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
+        "2.5mg": 1086.0,
+        "5mg": 1086.0,
+        "7.5mg": 1086.0,
+        "10mg": 1086.0,
+        "12.5mg": 1086.0,
+        "15mg": 1086.0
       },
-      "notes": "Mounjaro available via prescription at list price. Sesame offers Zepbound KwikPen at lower cash prices ($299-$698/mo). Subscription: $59-$99/mo."
+      "notes": "Subscription from $59/mo (annual). Zepbound pen (same active ingredient) starts at $1,086/mo. Mounjaro at list price. Medication not included in subscription."
     },
     {
       "pharmacy_name": "Lemonaid Health",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "prices": {
-        "2.5mg": 1199.0,
-        "5mg": 1199.0,
-        "7.5mg": 1199.0,
-        "10mg": 1199.0,
-        "12.5mg": 1199.0,
-        "15mg": 1199.0
+        "2.5mg": null,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
       },
-      "notes": "Compounded Tirzepatide: $299/mo (monthly), $249/mo (3-mo), $229/mo (6-mo). Branded Mounjaro ~$1,199/mo at pharmacy. Membership: $49/mo."
+      "notes": "$49/mo membership. Mounjaro not directly listed; Zepbound vials via LillyDirect from $299/mo (2.5mg) to $449 (higher doses). Compounded tirzepatide $229-$299/mo."
     },
     {
       "pharmacy_name": "PlushCare",
@@ -97,21 +181,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Mounjaro at list price ~$1,112/mo self-pay at pharmacy. Membership: $19.99/mo (first month free). Visit: $129 without insurance."
-    },
-    {
-      "pharmacy_name": "Noom Med",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "Brand-name Mounjaro available at market price (~list). Noom Med: $149 first 3 weeks + medication, then $349/mo subscription."
+      "notes": "$19.99/mo membership + $129/visit. Mounjaro ~$1,112/mo self-pay. Insurance accepted with prior auth."
     },
     {
       "pharmacy_name": "WeightWatchers Clinic",
@@ -125,26 +195,40 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Mounjaro list price $1,079.77/mo (per WW comparison article, may be pre-update). WW Clinic membership: $25-$49 first month, then $74-$145/mo."
+      "notes": "WW Clinic membership $74-$145/mo + medication. Mounjaro list price $1,079.77/mo (source: WW blog). Insurance coordination available."
     },
     {
-      "pharmacy_name": "GoodRx Care",
+      "pharmacy_name": "Noom Med",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
+        "2.5mg": 1079.77,
+        "5mg": 1079.77,
+        "7.5mg": 1079.77,
+        "10mg": 1079.77,
+        "12.5mg": 1079.77,
+        "15mg": 1079.77
       },
-      "notes": "GoodRx Care Direct does not offer Mounjaro directly. Zepbound KwikPen offered instead ($399-$449/mo). Use GoodRx coupon at pharmacy for Mounjaro. Membership $39/mo."
+      "notes": "Noom Med subscription $99-$149/mo + medication. Brand-name Mounjaro at list price ~$1,079.77/mo."
     },
     {
-      "pharmacy_name": "Amazon Pharmacy",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
+      "pharmacy_name": "Nurx",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "2.5mg": 1079.77,
+        "5mg": 1079.77,
+        "7.5mg": 1079.77,
+        "10mg": 1079.77,
+        "12.5mg": 1079.77,
+        "15mg": 1079.77
+      },
+      "notes": "Telehealth weight management. Insurance accepted. Medication cost varies by insurance. Free shipping."
+    },
+    {
+      "pharmacy_name": "Hims & Hers",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
       "prices": {
         "2.5mg": 1112.16,
         "5mg": 1112.16,
@@ -153,353 +237,45 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Amazon Pharmacy carries Mounjaro. Cash price ~list price. Zepbound KwikPen available at lower cash prices via LillyDirect."
-    },
-    {
-      "pharmacy_name": "CVS Pharmacy",
-      "pharmacy_type": "retail",
-      "source": "retail",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "CVS fills Mounjaro at list price for self-pay. No manufacturer cash-pay discount program for Mounjaro (unlike Ozempic/Wegovy)."
-    },
-    {
-      "pharmacy_name": "Costco Pharmacy",
-      "pharmacy_type": "retail",
-      "source": "retail",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "Costco fills Mounjaro at list price for self-pay. Executive members get 2% discount. No NovoCare-style program for Mounjaro."
-    },
-    {
-      "pharmacy_name": "Walmart Pharmacy",
-      "pharmacy_type": "retail",
-      "source": "retail",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "Walmart fills Mounjaro at list price for self-pay. No manufacturer cash-pay discount program for Mounjaro."
-    },
-    {
-      "pharmacy_name": "Sam's Club Pharmacy",
-      "pharmacy_type": "retail",
-      "source": "retail",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "Sam's Club fills Mounjaro at list price for self-pay. Same as Walmart."
-    },
-    {
-      "pharmacy_name": "TrumpRx",
-      "pharmacy_type": "government",
-      "source": "government",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "Federal DTC website. Mounjaro at list price. Medicare GLP-1 Bridge may offer $50/mo for eligible patients."
-    },
-    {
-      "pharmacy_name": "Publix Pharmacy",
-      "pharmacy_type": "retail",
-      "source": "retail",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "Publix fills Mounjaro at list price for self-pay. No manufacturer cash-pay program."
-    },
-    {
-      "pharmacy_name": "Kroger Pharmacy",
-      "pharmacy_type": "retail",
-      "source": "retail",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "Kroger fills Mounjaro at list price for self-pay. No manufacturer cash-pay program."
-    },
-    {
-      "pharmacy_name": "HEB Pharmacy",
-      "pharmacy_type": "retail",
-      "source": "retail",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "HEB fills Mounjaro at list price for self-pay. No manufacturer cash-pay program."
-    },
-    {
-      "pharmacy_name": "Rite Aid Pharmacy",
-      "pharmacy_type": "retail",
-      "source": "retail",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "Rite Aid fills Mounjaro at list price for self-pay. No manufacturer cash-pay program."
-    },
-    {
-      "pharmacy_name": "Hy-Vee Pharmacy",
-      "pharmacy_type": "retail",
-      "source": "retail",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "Hy-Vee fills Mounjaro at list price for self-pay. No manufacturer cash-pay program."
-    },
-    {
-      "pharmacy_name": "Meijer Pharmacy",
-      "pharmacy_type": "retail",
-      "source": "retail",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "Meijer fills Mounjaro at list price for self-pay. No manufacturer cash-pay program."
-    },
-    {
-      "pharmacy_name": "CenterWell Pharmacy",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "CenterWell (Humana) mail-order. Mounjaro at list price for self-pay."
-    },
-    {
-      "pharmacy_name": "PillPack (Amazon)",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "Amazon's mail-order pharmacy. Mounjaro at list price for self-pay."
-    },
-    {
-      "pharmacy_name": "Express Scripts",
-      "pharmacy_type": "mail_order",
-      "source": "mail_order",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Mail order pharmacy. Mounjaro cash prices not publicly listed. Pricing varies by insurance plan."
-    },
-    {
-      "pharmacy_name": "OptumRx",
-      "pharmacy_type": "mail_order",
-      "source": "mail_order",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Mail order pharmacy (UnitedHealth). Mounjaro cash prices not publicly listed."
-    },
-    {
-      "pharmacy_name": "CVS Caremark Mail Order",
-      "pharmacy_type": "mail_order",
-      "source": "mail_order",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "CVS Caremark mail order. Mounjaro cash prices not publicly listed."
-    },
-    {
-      "pharmacy_name": "GeniusRx",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Online pharmacy discount platform. Prices vary by location and availability."
-    },
-    {
-      "pharmacy_name": "Blink Health",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Online discount pharmacy. Site returned 403 during scrape. Prices not available."
-    },
-    {
-      "pharmacy_name": "RxSaver",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Prescription discount platform. Page returned 404 during scrape. Prices not available."
-    },
-    {
-      "pharmacy_name": "HealthWarehouse",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Online pharmacy. Mounjaro not listed in public catalog."
-    },
-    {
-      "pharmacy_name": "Honeybee Health",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Online pharmacy. Mounjaro not publicly listed with cash prices."
-    },
-    {
-      "pharmacy_name": "Cost Plus Drugs",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Mark Cuban's online pharmacy. Does not carry branded GLP-1 medications."
+      "notes": "Hims Weight Loss Membership: $39 first month, then $149/mo. Mounjaro available to eligible patients at list price $1,112.16/mo. Medication cost separate."
     }
   ],
   "summary": {
     "2.5mg": {
-      "min": 1079.77,
-      "max": 1899.0,
-      "avg": 1150.4,
-      "count": 22
+      "min": 658.52,
+      "max": 1112.16,
+      "avg": 1016.4,
+      "count": 15
     },
     "5mg": {
-      "min": 1079.77,
-      "max": 1899.0,
-      "avg": 1150.4,
-      "count": 22
+      "min": 658.52,
+      "max": 1112.16,
+      "avg": 1016.4,
+      "count": 15
     },
     "7.5mg": {
-      "min": 1079.77,
-      "max": 1899.0,
-      "avg": 1150.4,
-      "count": 22
+      "min": 658.52,
+      "max": 1112.16,
+      "avg": 1016.4,
+      "count": 15
     },
     "10mg": {
-      "min": 1079.77,
-      "max": 1899.0,
-      "avg": 1150.4,
-      "count": 22
+      "min": 658.52,
+      "max": 1112.16,
+      "avg": 1016.4,
+      "count": 15
     },
     "12.5mg": {
-      "min": 1079.77,
-      "max": 1899.0,
-      "avg": 1150.4,
-      "count": 22
+      "min": 658.52,
+      "max": 1112.16,
+      "avg": 1016.4,
+      "count": 15
     },
     "15mg": {
-      "min": 1079.77,
-      "max": 1899.0,
-      "avg": 1150.4,
-      "count": 22
+      "min": 658.52,
+      "max": 1112.16,
+      "avg": 1016.4,
+      "count": 15
     }
   }
 }

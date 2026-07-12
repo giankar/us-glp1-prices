@@ -1,6 +1,8 @@
 {
-  "last_updated": "2026-07-12T07:00:00+04:00",
+  "date": "2026-07-12",
+  "timestamp": "2026-07-12T07:00:00+04:00",
   "reference_zip": "10001",
+  "total_pharmacies": 27,
   "medications": [
     {
       "medication": "Ozempic",
