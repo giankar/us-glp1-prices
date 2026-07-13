@@ -3,7 +3,7 @@
   "generic_name": "tirzepatide",
   "manufacturer": "Eli Lilly",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-07-12T07:00:00+04:00",
+  "last_updated": "2026-07-13T07:00:00+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 16,
   "dosages": [
@@ -27,7 +27,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Lilly list price (WAC) $1,112.16/fill. Self-pay savings options available via lilly.com/lillydirect. One fill = 4 pens/month."
+      "notes": "Lilly list price (WAC) $1,112.16/fill. Self-pay savings options available via lilly.com/lillydirect. One fill = 4 pens/month. Source: pricinginfo.lilly.com/mounjaro"
     },
     {
       "pharmacy_name": "CVS Pharmacy (SingleCare)",
@@ -41,7 +41,7 @@
         "12.5mg": 658.52,
         "15mg": 658.52
       },
-      "notes": "SingleCare coupon price at CVS. Retail $1,312.00."
+      "notes": "SingleCare coupon price at CVS. Retail $1,312.00. Prices updated 07/12/2026."
     },
     {
       "pharmacy_name": "Walmart Pharmacy (SingleCare)",
@@ -55,7 +55,7 @@
         "12.5mg": 1071.08,
         "15mg": 1071.08
       },
-      "notes": "SingleCare coupon price at Walmart. Retail $1,351.26."
+      "notes": "SingleCare coupon price at Walmart. Retail $1,351.26. Prices updated 07/12/2026."
     },
     {
       "pharmacy_name": "Walgreens (SingleCare)",
@@ -69,7 +69,7 @@
         "12.5mg": 1047.92,
         "15mg": 1047.92
       },
-      "notes": "SingleCare coupon price at Walgreens. Retail $1,336.08."
+      "notes": "SingleCare coupon price at Walgreens. Retail $1,336.08. Prices updated 07/12/2026."
     },
     {
       "pharmacy_name": "Kroger Pharmacy (SingleCare)",
@@ -83,7 +83,7 @@
         "12.5mg": 990.48,
         "15mg": 990.48
       },
-      "notes": "SingleCare coupon price at Kroger. Retail $1,334.50."
+      "notes": "SingleCare coupon price at Kroger. Retail $1,334.50. Prices updated 07/12/2026."
     },
     {
       "pharmacy_name": "Albertsons Pharmacy (SingleCare)",
@@ -97,7 +97,7 @@
         "12.5mg": 1061.6,
         "15mg": 1061.6
       },
-      "notes": "SingleCare coupon price at Albertsons. Retail $1,351.70."
+      "notes": "SingleCare coupon price at Albertsons. Retail $1,351.70. Prices updated 07/12/2026."
     },
     {
       "pharmacy_name": "Kroger Pharmacy (SC Best)",
@@ -125,7 +125,7 @@
         "12.5mg": 929.25,
         "15mg": 929.25
       },
-      "notes": "SingleCare coupon price at Publix. Retail $1,047.25."
+      "notes": "SingleCare coupon price at Publix. Retail $1,047.25. Prices updated 07/12/2026."
     },
     {
       "pharmacy_name": "Costco Pharmacy (SingleCare)",
@@ -139,7 +139,7 @@
         "12.5mg": 952.94,
         "15mg": 952.94
       },
-      "notes": "SingleCare coupon price at Costco. Retail $1,070.94."
+      "notes": "SingleCare coupon price at Costco. Retail $1,070.94. Prices updated 07/12/2026."
     },
     {
       "pharmacy_name": "Sesame Care",
@@ -153,7 +153,7 @@
         "12.5mg": 1086.0,
         "15mg": 1086.0
       },
-      "notes": "Subscription from $59/mo (annual). Zepbound pen (same active ingredient) starts at $1,086/mo. Mounjaro at list price. Medication not included in subscription."
+      "notes": "Subscription from $59/mo (annual). Zepbound pen (same active ingredient) starts at $1,086/mo. Mounjaro at list price. Medication not included in subscription. Source: sesamecare.com"
     },
     {
       "pharmacy_name": "Lemonaid Health",
@@ -167,7 +167,7 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "$49/mo membership. Mounjaro not directly listed; Zepbound vials via LillyDirect from $299/mo (2.5mg) to $449 (higher doses). Compounded tirzepatide $229-$299/mo."
+      "notes": "$49/mo membership. Mounjaro not directly listed; Zepbound vials via LillyDirect from $299/mo (2.5mg) to $449 (higher doses). Compounded tirzepatide $229-$299/mo. Source: lemonaidhealth.com"
     },
     {
       "pharmacy_name": "PlushCare",
@@ -181,47 +181,47 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "$19.99/mo membership + $129/visit. Mounjaro ~$1,112/mo self-pay. Insurance accepted with prior auth."
+      "notes": "$19.99/mo membership + $129/visit. Mounjaro ~$1,112/mo self-pay. Insurance accepted with prior auth. Source: plushcare.com"
     },
     {
       "pharmacy_name": "WeightWatchers Clinic",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "prices": {
-        "2.5mg": 1079.77,
-        "5mg": 1079.77,
-        "7.5mg": 1079.77,
-        "10mg": 1079.77,
-        "12.5mg": 1079.77,
-        "15mg": 1079.77
+        "2.5mg": 1112.16,
+        "5mg": 1112.16,
+        "7.5mg": 1112.16,
+        "10mg": 1112.16,
+        "12.5mg": 1112.16,
+        "15mg": 1112.16
       },
-      "notes": "WW Clinic membership $74-$145/mo + medication. Mounjaro list price $1,079.77/mo (source: WW blog). Insurance coordination available."
+      "notes": "WW Clinic membership $74-$145/mo + medication. Mounjaro list price $1,112.16/mo (updated from Lilly pricing page). Insurance coordination available. Source: weightwatchers.com"
     },
     {
       "pharmacy_name": "Noom Med",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "prices": {
-        "2.5mg": 1079.77,
-        "5mg": 1079.77,
-        "7.5mg": 1079.77,
-        "10mg": 1079.77,
-        "12.5mg": 1079.77,
-        "15mg": 1079.77
+        "2.5mg": 1112.16,
+        "5mg": 1112.16,
+        "7.5mg": 1112.16,
+        "10mg": 1112.16,
+        "12.5mg": 1112.16,
+        "15mg": 1112.16
       },
-      "notes": "Noom Med subscription $99-$149/mo + medication. Brand-name Mounjaro at list price ~$1,079.77/mo."
+      "notes": "Noom Med subscription $99-$149/mo + medication. Brand-name Mounjaro at list price ~$1,112.16/mo. Source: noom.com"
     },
     {
       "pharmacy_name": "Nurx",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "prices": {
-        "2.5mg": 1079.77,
-        "5mg": 1079.77,
-        "7.5mg": 1079.77,
-        "10mg": 1079.77,
-        "12.5mg": 1079.77,
-        "15mg": 1079.77
+        "2.5mg": 1112.16,
+        "5mg": 1112.16,
+        "7.5mg": 1112.16,
+        "10mg": 1112.16,
+        "12.5mg": 1112.16,
+        "15mg": 1112.16
       },
       "notes": "Telehealth weight management. Insurance accepted. Medication cost varies by insurance. Free shipping."
     },
@@ -237,44 +237,44 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Hims Weight Loss Membership: $39 first month, then $149/mo. Mounjaro available to eligible patients at list price $1,112.16/mo. Medication cost separate."
+      "notes": "Hims Weight Loss Membership: $39 first month, then $149/mo. Mounjaro available to eligible patients at list price $1,112.16/mo. Medication cost separate. Source: hims.com"
     }
   ],
   "summary": {
     "2.5mg": {
       "min": 658.52,
       "max": 1112.16,
-      "avg": 1016.4,
+      "avg": 1022.88,
       "count": 15
     },
     "5mg": {
       "min": 658.52,
       "max": 1112.16,
-      "avg": 1016.4,
+      "avg": 1022.88,
       "count": 15
     },
     "7.5mg": {
       "min": 658.52,
       "max": 1112.16,
-      "avg": 1016.4,
+      "avg": 1022.88,
       "count": 15
     },
     "10mg": {
       "min": 658.52,
       "max": 1112.16,
-      "avg": 1016.4,
+      "avg": 1022.88,
       "count": 15
     },
     "12.5mg": {
       "min": 658.52,
       "max": 1112.16,
-      "avg": 1016.4,
+      "avg": 1022.88,
       "count": 15
     },
     "15mg": {
       "min": 658.52,
       "max": 1112.16,
-      "avg": 1016.4,
+      "avg": 1022.88,
       "count": 15
     }
   }
