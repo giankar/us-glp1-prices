@@ -3,7 +3,7 @@
   "generic_name": "tirzepatide",
   "manufacturer": "Eli Lilly",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-07-15T07:06:05.395035+04:00",
+  "last_updated": "2026-07-16T07:06:07.124125+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 20,
   "dosages": [
@@ -27,7 +27,7 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "List price (WAC) $1,079.77/mo for all doses. 4 pens per month. Source: pricinginfo.lilly.com 07/15/2026."
+      "notes": "List price (WAC) $1,079.77/mo for all doses. 4 pens per month. Source: pricinginfo.lilly.com 07/16/2026."
     },
     {
       "pharmacy_name": "CVS Pharmacy (SingleCare)",
@@ -153,7 +153,7 @@
         "12.5mg": 1312.0,
         "15mg": 1312.0
       },
-      "notes": "Retail cash price at CVS for 5mg pen (4 pens). Source: SingleCare price history. Updated 07/14/2026."
+      "notes": "Retail cash price at CVS for 5mg pen (4 pens). Source: SingleCare price history. Updated 07/16/2026."
     },
     {
       "pharmacy_name": "Walmart Pharmacy (Retail)",
@@ -167,7 +167,7 @@
         "12.5mg": 1351.26,
         "15mg": 1351.26
       },
-      "notes": "Retail cash price at Walmart for 5mg pen. Source: SingleCare price history. Updated 07/14/2026."
+      "notes": "Retail cash price at Walmart for 5mg pen. Source: SingleCare price history. Updated 07/16/2026."
     },
     {
       "pharmacy_name": "Walgreens (Retail)",
@@ -181,7 +181,7 @@
         "12.5mg": 1336.08,
         "15mg": 1336.08
       },
-      "notes": "Retail cash price at Walgreens for 5mg pen. Source: SingleCare price history. Updated 07/14/2026."
+      "notes": "Retail cash price at Walgreens for 5mg pen. Source: SingleCare price history. Updated 07/16/2026."
     },
     {
       "pharmacy_name": "Kroger Pharmacy (Retail)",
@@ -195,7 +195,7 @@
         "12.5mg": 1334.5,
         "15mg": 1334.5
       },
-      "notes": "Retail cash price at Kroger for 5mg pen. Source: SingleCare price history. Updated 07/14/2026."
+      "notes": "Retail cash price at Kroger for 5mg pen. Source: SingleCare price history. Updated 07/16/2026."
     },
     {
       "pharmacy_name": "PlushCare",
@@ -209,7 +209,7 @@
         "12.5mg": 1087.0,
         "15mg": 1087.0
       },
-      "notes": "$129/visit self-pay or insurance. Mounjaro ~$1,087 self-pay (list price). Prescriptions sent to local pharmacy. Source: plushcare.com 07/15/2026."
+      "notes": "$129/visit self-pay or insurance. Mounjaro ~$1,087 self-pay (list price). Prescriptions sent to local pharmacy. Source: plushcare.com 07/16/2026."
     },
     {
       "pharmacy_name": "WeightWatchers Clinic",
@@ -223,7 +223,7 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "WW Clinic $25-$49 first month, then $74-$145/mo + medication. Mounjaro list price $1,079.77. Insurance coordination included. Source: weightwatchers.com 07/15/2026."
+      "notes": "WW Clinic $25-$49 first month, then $74-$145/mo + medication. Mounjaro list price $1,079.77. Insurance coordination included. Source: weightwatchers.com 07/16/2026."
     },
     {
       "pharmacy_name": "Hims & Hers",
@@ -237,7 +237,7 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "Mounjaro available for T2D patients meeting clinical eligibility. Membership $39 first month, then $149/mo. Price depends on insurance/pharmacy. Source: hims.com 07/15/2026."
+      "notes": "Mounjaro available for T2D patients meeting clinical eligibility. Membership $39 first month, then $149/mo. Price depends on insurance/pharmacy. Source: hims.com 07/16/2026."
     },
     {
       "pharmacy_name": "Noom Med",
@@ -251,7 +251,7 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "Brand-name Mounjaro available via Noom GLP-1 Rx Program. $149 starting, then $349/mo subscription. Medication cost varies. Source: noom.com 07/15/2026."
+      "notes": "Brand-name Mounjaro available via Noom GLP-1 Rx Program. $149 starting, then $349/mo subscription. Medication cost varies. Source: noom.com 07/16/2026."
     },
     {
       "pharmacy_name": "Lemonaid Health",
@@ -265,7 +265,7 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "Offers Zepbound vials via LillyDirect ($299/mo 2.5mg, $449 higher doses). Mounjaro not directly listed. $49/mo membership. Source: lemonaidhealth.com 07/15/2026."
+      "notes": "Offers Zepbound vials via LillyDirect ($299/mo 2.5mg, $449 higher doses). Mounjaro not directly listed. $49/mo membership. Source: lemonaidhealth.com 07/16/2026."
     },
     {
       "pharmacy_name": "Sesame Care",
@@ -279,7 +279,7 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "Mounjaro listed as available diabetes medication. Cash price depends on pharmacy/insurance. Subscription $59-$99/mo. Source: sesamecare.com 07/15/2026."
+      "notes": "Mounjaro listed as available diabetes medication. Cash price depends on pharmacy/insurance. Subscription $59-$99/mo. Source: sesamecare.com 07/16/2026."
     },
     {
       "pharmacy_name": "Amazon Pharmacy",
@@ -293,7 +293,7 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Amazon Pharmacy offers Lilly Direct pricing for Mounjaro. List price $1,079.77/mo. Source: pharmacy.amazon.com 07/15/2026."
+      "notes": "Amazon Pharmacy offers Lilly Direct pricing for Mounjaro. List price $1,079.77/mo. Source: pharmacy.amazon.com 07/16/2026."
     }
   ],
   "summary": {

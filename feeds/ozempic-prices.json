@@ -3,7 +3,7 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-07-15T07:06:05.395035+04:00",
+  "last_updated": "2026-07-16T07:06:07.124125+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 21,
   "dosages": [
@@ -23,7 +23,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "New patients $199/mo for first 2 fills (0.25/0.5mg), then $349/mo (0.25/0.5/1mg), $499/mo (2mg). Self-pay via NovoCare Pharmacy / CoAssist Pharmacy. Source: ozempic.com 07/15/2026"
+      "notes": "New patients $199/mo for first 2 fills (0.25/0.5mg), then $349/mo (0.25/0.5/1mg), $499/mo (2mg). Self-pay via NovoCare Pharmacy / CoAssist Pharmacy. Source: ozempic.com 07/16/2026"
     },
     {
       "pharmacy_name": "WAC List Price (Ozempic)",
@@ -59,7 +59,7 @@
         "1mg": 149.0,
         "2mg": 149.0
       },
-      "notes": "CVS offers GLP-1s as low as $149/mo with manufacturer coupon for self-pay patients. $49 MinuteClinic virtual visit. Source: cvs.com 07/15/2026."
+      "notes": "CVS offers GLP-1s as low as $149/mo with manufacturer coupon for self-pay patients. $49 MinuteClinic virtual visit. Source: cvs.com 07/16/2026."
     },
     {
       "pharmacy_name": "CVS Pharmacy (SingleCare)",
@@ -167,7 +167,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Membership $39 first month, then $149/mo. Ozempic from $199/mo (NovoCare self-pay pricing). Cash-pay only. Source: hims.com 07/15/2026."
+      "notes": "Membership $39 first month, then $149/mo. Ozempic from $199/mo (NovoCare self-pay pricing). Cash-pay only. Source: hims.com 07/16/2026."
     },
     {
       "pharmacy_name": "Ro",
@@ -179,7 +179,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Ro Body membership ~$145/mo + medication cost. GLP-1s from $349/mo cash-pay. Insurance or cash-pay options. Source: ro.co 07/15/2026."
+      "notes": "Ro Body membership ~$145/mo + medication cost. GLP-1s from $349/mo cash-pay. Insurance or cash-pay options. Source: ro.co 07/16/2026."
     },
     {
       "pharmacy_name": "Sesame Care",
@@ -191,7 +191,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Subscription $59-$99/mo (annual $59/mo, monthly $99/mo). Ozempic $199/mo first 2 months, then $349 (0.25/0.5/1mg), $499 (2mg). Medication cost separate from subscription. Source: sesamecare.com 07/15/2026."
+      "notes": "Subscription $59-$99/mo (annual $59/mo, monthly $99/mo). Ozempic $199/mo first 2 months, then $349 (0.25/0.5/1mg), $499 (2mg). Medication cost separate from subscription. Source: sesamecare.com 07/16/2026."
     },
     {
       "pharmacy_name": "Lemonaid Health",
@@ -203,7 +203,7 @@
         "1mg": 1199.0,
         "2mg": 1199.0
       },
-      "notes": "$49/mo membership. Ozempic $1,199/mo (billed separately). Cash-pay only, no insurance. Source: lemonaidhealth.com 07/15/2026."
+      "notes": "$49/mo membership. Ozempic $1,199/mo (billed separately). Cash-pay only, no insurance. Source: lemonaidhealth.com 07/16/2026."
     },
     {
       "pharmacy_name": "PlushCare",
@@ -215,7 +215,7 @@
         "1mg": 950.0,
         "2mg": 1000.0
       },
-      "notes": "$129/visit self-pay or insurance accepted ($25 with insurance). Ozempic ~$900-$1,000 self-pay. Prescriptions sent to local pharmacy. Source: plushcare.com 07/15/2026."
+      "notes": "$129/visit self-pay or insurance accepted ($25 with insurance). Ozempic ~$900-$1,000 self-pay. Prescriptions sent to local pharmacy. Source: plushcare.com 07/16/2026."
     },
     {
       "pharmacy_name": "WeightWatchers Clinic",
@@ -227,7 +227,7 @@
         "1mg": 997.58,
         "2mg": 997.58
       },
-      "notes": "WW Clinic $25-$49 first month, then $74-$145/mo + medication. Ozempic list price $997.58. Insurance coordination included. Source: weightwatchers.com 07/15/2026."
+      "notes": "WW Clinic $25-$49 first month, then $74-$145/mo + medication. Ozempic list price $997.58. Insurance coordination included. Source: weightwatchers.com 07/16/2026."
     },
     {
       "pharmacy_name": "GoodRx Care",
@@ -239,7 +239,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "$39/mo membership. Ozempic via NovoCare self-pay $199 first 2 fills, then $349 (0.25/0.5/1mg), $499 (2mg). Source: goodrx.com 07/15/2026."
+      "notes": "$39/mo membership. Ozempic via NovoCare self-pay $199 first 2 fills, then $349 (0.25/0.5/1mg), $499 (2mg). Source: goodrx.com 07/16/2026."
     },
     {
       "pharmacy_name": "Noom Med",
@@ -251,7 +251,7 @@
         "1mg": null,
         "2mg": null
       },
-      "notes": "$149 starting (3 weeks + 4 weeks medication), then $349/mo subscription. GLP-1 Rx Program. Brand-name drugs available but medication cost varies by insurance. Source: noom.com 07/15/2026."
+      "notes": "$149 starting (3 weeks + 4 weeks medication), then $349/mo subscription. GLP-1 Rx Program. Brand-name drugs available but medication cost varies by insurance. Source: noom.com 07/16/2026."
     },
     {
       "pharmacy_name": "Amazon Pharmacy",
@@ -263,7 +263,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Amazon Pharmacy offers NovoCare self-pay pricing. Automatic manufacturer coupons at checkout. Cash-pay option. Source: pharmacy.amazon.com 07/15/2026."
+      "notes": "Amazon Pharmacy offers NovoCare self-pay pricing. Automatic manufacturer coupons at checkout. Cash-pay option. Source: pharmacy.amazon.com 07/16/2026."
     }
   ],
   "summary": {

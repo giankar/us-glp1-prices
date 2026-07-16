@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T07:06:05.395035+04:00",
+  "last_updated": "2026-07-16T07:06:07.124125+04:00",
   "reference_zip": "10001",
   "medications": {
     "ozempic": {
@@ -7,7 +7,7 @@
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-07-15T07:06:05.395035+04:00",
+      "last_updated": "2026-07-16T07:06:07.124125+04:00",
       "reference_zip": "10001",
       "total_pharmacies": 21,
       "dosages": [
@@ -27,7 +27,7 @@
             "1mg": 349.0,
             "2mg": 499.0
           },
-          "notes": "New patients $199/mo for first 2 fills (0.25/0.5mg), then $349/mo (0.25/0.5/1mg), $499/mo (2mg). Self-pay via NovoCare Pharmacy / CoAssist Pharmacy. Source: ozempic.com 07/15/2026"
+          "notes": "New patients $199/mo for first 2 fills (0.25/0.5mg), then $349/mo (0.25/0.5/1mg), $499/mo (2mg). Self-pay via NovoCare Pharmacy / CoAssist Pharmacy. Source: ozempic.com 07/16/2026"
         },
         {
           "pharmacy_name": "WAC List Price (Ozempic)",
@@ -63,7 +63,7 @@
             "1mg": 149.0,
             "2mg": 149.0
           },
-          "notes": "CVS offers GLP-1s as low as $149/mo with manufacturer coupon for self-pay patients. $49 MinuteClinic virtual visit. Source: cvs.com 07/15/2026."
+          "notes": "CVS offers GLP-1s as low as $149/mo with manufacturer coupon for self-pay patients. $49 MinuteClinic virtual visit. Source: cvs.com 07/16/2026."
         },
         {
           "pharmacy_name": "CVS Pharmacy (SingleCare)",
@@ -171,7 +171,7 @@
             "1mg": 349.0,
             "2mg": 499.0
           },
-          "notes": "Membership $39 first month, then $149/mo. Ozempic from $199/mo (NovoCare self-pay pricing). Cash-pay only. Source: hims.com 07/15/2026."
+          "notes": "Membership $39 first month, then $149/mo. Ozempic from $199/mo (NovoCare self-pay pricing). Cash-pay only. Source: hims.com 07/16/2026."
         },
         {
           "pharmacy_name": "Ro",
@@ -183,7 +183,7 @@
             "1mg": 349.0,
             "2mg": 499.0
           },
-          "notes": "Ro Body membership ~$145/mo + medication cost. GLP-1s from $349/mo cash-pay. Insurance or cash-pay options. Source: ro.co 07/15/2026."
+          "notes": "Ro Body membership ~$145/mo + medication cost. GLP-1s from $349/mo cash-pay. Insurance or cash-pay options. Source: ro.co 07/16/2026."
         },
         {
           "pharmacy_name": "Sesame Care",
@@ -195,7 +195,7 @@
             "1mg": 349.0,
             "2mg": 499.0
           },
-          "notes": "Subscription $59-$99/mo (annual $59/mo, monthly $99/mo). Ozempic $199/mo first 2 months, then $349 (0.25/0.5/1mg), $499 (2mg). Medication cost separate from subscription. Source: sesamecare.com 07/15/2026."
+          "notes": "Subscription $59-$99/mo (annual $59/mo, monthly $99/mo). Ozempic $199/mo first 2 months, then $349 (0.25/0.5/1mg), $499 (2mg). Medication cost separate from subscription. Source: sesamecare.com 07/16/2026."
         },
         {
           "pharmacy_name": "Lemonaid Health",
@@ -207,7 +207,7 @@
             "1mg": 1199.0,
             "2mg": 1199.0
           },
-          "notes": "$49/mo membership. Ozempic $1,199/mo (billed separately). Cash-pay only, no insurance. Source: lemonaidhealth.com 07/15/2026."
+          "notes": "$49/mo membership. Ozempic $1,199/mo (billed separately). Cash-pay only, no insurance. Source: lemonaidhealth.com 07/16/2026."
         },
         {
           "pharmacy_name": "PlushCare",
@@ -219,7 +219,7 @@
             "1mg": 950.0,
             "2mg": 1000.0
           },
-          "notes": "$129/visit self-pay or insurance accepted ($25 with insurance). Ozempic ~$900-$1,000 self-pay. Prescriptions sent to local pharmacy. Source: plushcare.com 07/15/2026."
+          "notes": "$129/visit self-pay or insurance accepted ($25 with insurance). Ozempic ~$900-$1,000 self-pay. Prescriptions sent to local pharmacy. Source: plushcare.com 07/16/2026."
         },
         {
           "pharmacy_name": "WeightWatchers Clinic",
@@ -231,7 +231,7 @@
             "1mg": 997.58,
             "2mg": 997.58
           },
-          "notes": "WW Clinic $25-$49 first month, then $74-$145/mo + medication. Ozempic list price $997.58. Insurance coordination included. Source: weightwatchers.com 07/15/2026."
+          "notes": "WW Clinic $25-$49 first month, then $74-$145/mo + medication. Ozempic list price $997.58. Insurance coordination included. Source: weightwatchers.com 07/16/2026."
         },
         {
           "pharmacy_name": "GoodRx Care",
@@ -243,7 +243,7 @@
             "1mg": 349.0,
             "2mg": 499.0
           },
-          "notes": "$39/mo membership. Ozempic via NovoCare self-pay $199 first 2 fills, then $349 (0.25/0.5/1mg), $499 (2mg). Source: goodrx.com 07/15/2026."
+          "notes": "$39/mo membership. Ozempic via NovoCare self-pay $199 first 2 fills, then $349 (0.25/0.5/1mg), $499 (2mg). Source: goodrx.com 07/16/2026."
         },
         {
           "pharmacy_name": "Noom Med",
@@ -255,7 +255,7 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "$149 starting (3 weeks + 4 weeks medication), then $349/mo subscription. GLP-1 Rx Program. Brand-name drugs available but medication cost varies by insurance. Source: noom.com 07/15/2026."
+          "notes": "$149 starting (3 weeks + 4 weeks medication), then $349/mo subscription. GLP-1 Rx Program. Brand-name drugs available but medication cost varies by insurance. Source: noom.com 07/16/2026."
         },
         {
           "pharmacy_name": "Amazon Pharmacy",
@@ -267,7 +267,7 @@
             "1mg": 349.0,
             "2mg": 499.0
           },
-          "notes": "Amazon Pharmacy offers NovoCare self-pay pricing. Automatic manufacturer coupons at checkout. Cash-pay option. Source: pharmacy.amazon.com 07/15/2026."
+          "notes": "Amazon Pharmacy offers NovoCare self-pay pricing. Automatic manufacturer coupons at checkout. Cash-pay option. Source: pharmacy.amazon.com 07/16/2026."
         }
       ],
       "summary": {
@@ -302,7 +302,7 @@
       "generic_name": "tirzepatide",
       "manufacturer": "Eli Lilly",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-07-15T07:06:05.395035+04:00",
+      "last_updated": "2026-07-16T07:06:07.124125+04:00",
       "reference_zip": "10001",
       "total_pharmacies": 20,
       "dosages": [
@@ -326,7 +326,7 @@
             "12.5mg": 1079.77,
             "15mg": 1079.77
           },
-          "notes": "List price (WAC) $1,079.77/mo for all doses. 4 pens per month. Source: pricinginfo.lilly.com 07/15/2026."
+          "notes": "List price (WAC) $1,079.77/mo for all doses. 4 pens per month. Source: pricinginfo.lilly.com 07/16/2026."
         },
         {
           "pharmacy_name": "CVS Pharmacy (SingleCare)",
@@ -452,7 +452,7 @@
             "12.5mg": 1312.0,
             "15mg": 1312.0
           },
-          "notes": "Retail cash price at CVS for 5mg pen (4 pens). Source: SingleCare price history. Updated 07/14/2026."
+          "notes": "Retail cash price at CVS for 5mg pen (4 pens). Source: SingleCare price history. Updated 07/16/2026."
         },
         {
           "pharmacy_name": "Walmart Pharmacy (Retail)",
@@ -466,7 +466,7 @@
             "12.5mg": 1351.26,
             "15mg": 1351.26
           },
-          "notes": "Retail cash price at Walmart for 5mg pen. Source: SingleCare price history. Updated 07/14/2026."
+          "notes": "Retail cash price at Walmart for 5mg pen. Source: SingleCare price history. Updated 07/16/2026."
         },
         {
           "pharmacy_name": "Walgreens (Retail)",
@@ -480,7 +480,7 @@
             "12.5mg": 1336.08,
             "15mg": 1336.08
           },
-          "notes": "Retail cash price at Walgreens for 5mg pen. Source: SingleCare price history. Updated 07/14/2026."
+          "notes": "Retail cash price at Walgreens for 5mg pen. Source: SingleCare price history. Updated 07/16/2026."
         },
         {
           "pharmacy_name": "Kroger Pharmacy (Retail)",
@@ -494,7 +494,7 @@
             "12.5mg": 1334.5,
             "15mg": 1334.5
           },
-          "notes": "Retail cash price at Kroger for 5mg pen. Source: SingleCare price history. Updated 07/14/2026."
+          "notes": "Retail cash price at Kroger for 5mg pen. Source: SingleCare price history. Updated 07/16/2026."
         },
         {
           "pharmacy_name": "PlushCare",
@@ -508,7 +508,7 @@
             "12.5mg": 1087.0,
             "15mg": 1087.0
           },
-          "notes": "$129/visit self-pay or insurance. Mounjaro ~$1,087 self-pay (list price). Prescriptions sent to local pharmacy. Source: plushcare.com 07/15/2026."
+          "notes": "$129/visit self-pay or insurance. Mounjaro ~$1,087 self-pay (list price). Prescriptions sent to local pharmacy. Source: plushcare.com 07/16/2026."
         },
         {
           "pharmacy_name": "WeightWatchers Clinic",
@@ -522,7 +522,7 @@
             "12.5mg": 1079.77,
             "15mg": 1079.77
           },
-          "notes": "WW Clinic $25-$49 first month, then $74-$145/mo + medication. Mounjaro list price $1,079.77. Insurance coordination included. Source: weightwatchers.com 07/15/2026."
+          "notes": "WW Clinic $25-$49 first month, then $74-$145/mo + medication. Mounjaro list price $1,079.77. Insurance coordination included. Source: weightwatchers.com 07/16/2026."
         },
         {
           "pharmacy_name": "Hims & Hers",
@@ -536,7 +536,7 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "Mounjaro available for T2D patients meeting clinical eligibility. Membership $39 first month, then $149/mo. Price depends on insurance/pharmacy. Source: hims.com 07/15/2026."
+          "notes": "Mounjaro available for T2D patients meeting clinical eligibility. Membership $39 first month, then $149/mo. Price depends on insurance/pharmacy. Source: hims.com 07/16/2026."
         },
         {
           "pharmacy_name": "Noom Med",
@@ -550,7 +550,7 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "Brand-name Mounjaro available via Noom GLP-1 Rx Program. $149 starting, then $349/mo subscription. Medication cost varies. Source: noom.com 07/15/2026."
+          "notes": "Brand-name Mounjaro available via Noom GLP-1 Rx Program. $149 starting, then $349/mo subscription. Medication cost varies. Source: noom.com 07/16/2026."
         },
         {
           "pharmacy_name": "Lemonaid Health",
@@ -564,7 +564,7 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "Offers Zepbound vials via LillyDirect ($299/mo 2.5mg, $449 higher doses). Mounjaro not directly listed. $49/mo membership. Source: lemonaidhealth.com 07/15/2026."
+          "notes": "Offers Zepbound vials via LillyDirect ($299/mo 2.5mg, $449 higher doses). Mounjaro not directly listed. $49/mo membership. Source: lemonaidhealth.com 07/16/2026."
         },
         {
           "pharmacy_name": "Sesame Care",
@@ -578,7 +578,7 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "Mounjaro listed as available diabetes medication. Cash price depends on pharmacy/insurance. Subscription $59-$99/mo. Source: sesamecare.com 07/15/2026."
+          "notes": "Mounjaro listed as available diabetes medication. Cash price depends on pharmacy/insurance. Subscription $59-$99/mo. Source: sesamecare.com 07/16/2026."
         },
         {
           "pharmacy_name": "Amazon Pharmacy",
@@ -592,7 +592,7 @@
             "12.5mg": 1079.77,
             "15mg": 1079.77
           },
-          "notes": "Amazon Pharmacy offers Lilly Direct pricing for Mounjaro. List price $1,079.77/mo. Source: pharmacy.amazon.com 07/15/2026."
+          "notes": "Amazon Pharmacy offers Lilly Direct pricing for Mounjaro. List price $1,079.77/mo. Source: pharmacy.amazon.com 07/16/2026."
         }
       ],
       "summary": {
@@ -638,8 +638,8 @@
       "medication": "Wegovy",
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
-      "indication": "Weight Loss",
-      "last_updated": "2026-07-15T07:06:05.395035+04:00",
+      "indication": "Chronic Weight Management",
+      "last_updated": "2026-07-16T07:06:07.124125+04:00",
       "reference_zip": "10001",
       "total_pharmacies": 21,
       "dosages": [
@@ -661,7 +661,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "New patients $199/mo for first 2 fills (0.25/0.5mg), then $349/mo for all doses (0.25/0.5/1/1.7/2.4mg). Wegovy HD 7.2mg $399/mo. Source: wegovy.com 07/15/2026."
+          "notes": "New patients $199/mo for first 2 fills (0.25/0.5mg), then $349/mo for all doses (0.25/0.5/1/1.7/2.4mg). Wegovy HD 7.2mg $399/mo. Source: wegovy.com 07/16/2026"
         },
         {
           "pharmacy_name": "WAC List Price (Wegovy)",
@@ -804,7 +804,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "Membership $39 first month, then $149/mo. Wegovy pen from $199/mo (NovoCare self-pay). Wegovy pill from $149/mo. Source: hims.com 07/15/2026."
+          "notes": "Membership $39 first month, then $149/mo. Wegovy pen from $199/mo (NovoCare self-pay). Wegovy pill from $149/mo. Source: hims.com 07/16/2026."
         },
         {
           "pharmacy_name": "Ro",
@@ -817,7 +817,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "Ro Body membership ~$145/mo + medication cost. GLP-1s from $349/mo cash-pay. Insurance or cash-pay. Wegovy pen available. Source: ro.co 07/15/2026."
+          "notes": "Ro Body membership ~$145/mo + medication cost. GLP-1s from $349/mo cash-pay. Insurance or cash-pay. Wegovy pen available. Source: ro.co 07/16/2026."
         },
         {
           "pharmacy_name": "Sesame Care",
@@ -830,7 +830,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "Subscription $59-$99/mo. Wegovy pen $199/mo first 2 months, then $349/mo. Medication cost separate. Source: sesamecare.com 07/15/2026."
+          "notes": "Subscription $59-$99/mo. Wegovy pen $199/mo first 2 months, then $349/mo. Medication cost separate. Source: sesamecare.com 07/16/2026."
         },
         {
           "pharmacy_name": "Lemonaid Health",
@@ -843,7 +843,7 @@
             "1.7mg": 1599.0,
             "2.4mg": 1599.0
           },
-          "notes": "$49/mo membership. Wegovy $1,599/mo (billed separately). Cash-pay only, no insurance. Source: lemonaidhealth.com 07/15/2026."
+          "notes": "$49/mo membership. Wegovy $1,599/mo (billed separately). Cash-pay only, no insurance. Source: lemonaidhealth.com 07/16/2026."
         },
         {
           "pharmacy_name": "PlushCare",
@@ -856,7 +856,7 @@
             "1.7mg": 349.0,
             "2.4mg": 499.0
           },
-          "notes": "$129/visit self-pay or insurance ($25 with insurance). Wegovy $199-$499 via NovoCare self-pay. Prescriptions sent to pharmacy. Source: plushcare.com 07/15/2026."
+          "notes": "$129/visit self-pay or insurance ($25 with insurance). Wegovy $199-$499 via NovoCare self-pay. Prescriptions sent to pharmacy. Source: plushcare.com 07/16/2026."
         },
         {
           "pharmacy_name": "WeightWatchers Clinic",
@@ -869,7 +869,7 @@
             "1.7mg": 1349.02,
             "2.4mg": 1349.02
           },
-          "notes": "WW Clinic $25-$49 first month, then $74-$145/mo + medication. Wegovy list price $1,349.02. Cash pay $499/mo via NovoCare. Source: weightwatchers.com 07/15/2026."
+          "notes": "WW Clinic $25-$49 first month, then $74-$145/mo + medication. Wegovy list price $1,349.02. Cash pay $499/mo via NovoCare. Source: weightwatchers.com 07/16/2026."
         },
         {
           "pharmacy_name": "GoodRx Care",
@@ -882,7 +882,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "$39/mo membership. Wegovy pen $199/mo first 2 fills (0.25/0.5mg), then $349/mo. Wegovy pill $149/mo (1.5/4mg). Source: goodrx.com 07/15/2026."
+          "notes": "$39/mo membership. Wegovy pen $199/mo first 2 fills (0.25/0.5mg), then $349/mo. Wegovy pill $149/mo (1.5/4mg). Source: goodrx.com 07/16/2026."
         },
         {
           "pharmacy_name": "Noom Med",
@@ -895,7 +895,7 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "$149 starting (3 weeks + 4 weeks medication), then $349/mo subscription. Brand-name Wegovy available. Medication cost varies by insurance. Source: noom.com 07/15/2026."
+          "notes": "$149 starting (3 weeks + 4 weeks medication), then $349/mo subscription. Brand-name Wegovy available. Medication cost varies by insurance. Source: noom.com 07/16/2026."
         },
         {
           "pharmacy_name": "Amazon Pharmacy",
@@ -908,7 +908,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "Amazon Pharmacy offers NovoCare self-pay pricing. Automatic manufacturer coupons at checkout. Wegovy pill also available from $149/mo. Source: pharmacy.amazon.com 07/15/2026."
+          "notes": "Amazon Pharmacy offers NovoCare self-pay pricing. Automatic manufacturer coupons at checkout. Wegovy pill also available from $149/mo. Source: pharmacy.amazon.com 07/16/2026."
         },
         {
           "pharmacy_name": "CenterWell Pharmacy",
@@ -921,7 +921,7 @@
             "1.7mg": 499.0,
             "2.4mg": 499.0
           },
-          "notes": "Mail-order pharmacy. Fulfills NovoCare Wegovy orders. Cash price ~$499/mo. Humana subsidiary. Source: centerwellpharmacy.com 07/15/2026."
+          "notes": "Mail-order pharmacy. Fulfills NovoCare Wegovy orders. Cash price ~$499/mo. Humana subsidiary. Source: centerwellpharmacy.com 07/16/2026."
         }
       ],
       "summary": {
