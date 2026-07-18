@@ -2,10 +2,10 @@
   "medication": "Wegovy",
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
-  "indication": "Chronic Weight Management",
-  "last_updated": "2026-07-16T07:06:07.124125+04:00",
+  "indication": "Weight Loss",
+  "last_updated": "2026-07-18T07:04:20.529654+04:00",
   "reference_zip": "10001",
-  "total_pharmacies": 21,
+  "total_pharmacies": 19,
   "dosages": [
     "0.25mg",
     "0.5mg",
@@ -25,10 +25,10 @@
         "1.7mg": 349.0,
         "2.4mg": 349.0
       },
-      "notes": "New patients $199/mo for first 2 fills (0.25/0.5mg), then $349/mo for all doses (0.25/0.5/1/1.7/2.4mg). Wegovy HD 7.2mg $399/mo. Source: wegovy.com 07/16/2026"
+      "notes": "New patients $199/mo for first 2 fills (0.25/0.5mg), then $349/mo for all doses (0.25/0.5/1/1.7/2.4mg). Wegovy HD 7.2mg is $399/mo. Via NovoCare Pharmacy / CoAssist Pharmacy. Offer through Dec 31, 2026."
     },
     {
-      "pharmacy_name": "WAC List Price (Wegovy)",
+      "pharmacy_name": "Novo Nordisk WAC List Price (Wegovy)",
       "pharmacy_type": "wac_list",
       "source": "wac_list",
       "prices": {
@@ -38,228 +38,111 @@
         "1.7mg": 1349.02,
         "2.4mg": 1349.02
       },
-      "notes": "Wholesale Acquisition Cost (WAC) from novopricing.com. All doses $1,349.02/mo. Updated 07/15/2026."
-    },
-    {
-      "pharmacy_name": "TrumpRx",
-      "pharmacy_type": "retail_chain",
-      "source": "retail_chain",
-      "prices": {
-        "0.25mg": 199.0,
-        "0.5mg": 199.0,
-        "1mg": 349.0,
-        "1.7mg": 349.0,
-        "2.4mg": 349.0
-      },
-      "notes": "Self-pay coupon program. New patients $199 for first 2 fills (0.25/0.5mg), then $349/mo for all doses. Widely accepted at retail pharmacies."
-    },
-    {
-      "pharmacy_name": "CVS Pharmacy (SingleCare)",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "0.25mg": 860.91,
-        "0.5mg": 860.91,
-        "1mg": 860.91,
-        "1.7mg": 860.91,
-        "2.4mg": 860.91
-      },
-      "notes": "SingleCare coupon price at CVS for 2.4mg pen (4 pens). Retail $1,590.00. Same coupon price across all doses. Updated 07/14/2026."
-    },
-    {
-      "pharmacy_name": "Walmart Pharmacy (SingleCare)",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "0.25mg": 1320.9,
-        "0.5mg": 1320.9,
-        "1mg": 1320.9,
-        "1.7mg": 1320.9,
-        "2.4mg": 1320.9
-      },
-      "notes": "SingleCare coupon price at Walmart for 2.4mg pen. Retail $1,643.10. Updated 07/14/2026."
-    },
-    {
-      "pharmacy_name": "Walgreens (SingleCare)",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "0.25mg": 1389.09,
-        "0.5mg": 1389.09,
-        "1mg": 1389.09,
-        "1.7mg": 1389.09,
-        "2.4mg": 1389.09
-      },
-      "notes": "SingleCare coupon price at Walgreens for 2.4mg pen. Retail $1,618.98. Updated 07/14/2026."
+      "notes": "Wholesale Acquisition Cost (WAC) list price for all Wegovy pen doses. From novopricing.com."
     },
     {
       "pharmacy_name": "Kroger Pharmacy (SingleCare)",
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
-        "0.25mg": 1223.28,
-        "0.5mg": 1223.28,
-        "1mg": 1223.28,
-        "1.7mg": 1223.28,
-        "2.4mg": 1223.28
+        "0.25mg": 1010.5,
+        "0.5mg": 1010.5,
+        "1mg": 1010.5,
+        "1.7mg": 1010.5,
+        "2.4mg": 1010.5
       },
-      "notes": "SingleCare coupon price at Kroger for 2.4mg pen. Retail $1,618.98. Updated 07/14/2026."
-    },
-    {
-      "pharmacy_name": "Albertsons Pharmacy (SingleCare)",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "0.25mg": 1305.42,
-        "0.5mg": 1305.42,
-        "1mg": 1305.42,
-        "1.7mg": 1305.42,
-        "2.4mg": 1305.42
-      },
-      "notes": "SingleCare coupon price at Albertsons for 2.4mg pen. Retail $1,638.99. Updated 07/14/2026."
-    },
-    {
-      "pharmacy_name": "Publix Pharmacy (SingleCare)",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "0.25mg": 1235.23,
-        "0.5mg": 1235.23,
-        "1mg": 1235.23,
-        "1.7mg": 1235.23,
-        "2.4mg": 1235.23
-      },
-      "notes": "SingleCare coupon price at Publix for 2.4mg pen. Updated 07/14/2026."
-    },
-    {
-      "pharmacy_name": "Costco Pharmacy (SingleCare)",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "0.25mg": 1264.6,
-        "0.5mg": 1264.6,
-        "1mg": 1264.6,
-        "1.7mg": 1264.6,
-        "2.4mg": 1264.6
-      },
-      "notes": "SingleCare coupon price at Costco for 2.4mg pen. Updated 07/14/2026."
+      "notes": "SingleCare coupon price for Wegovy pen. Prices updated 07/17/2026."
     },
     {
       "pharmacy_name": "Harris Teeter (SingleCare)",
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
-        "0.25mg": 1170.27,
-        "0.5mg": 1170.27,
-        "1mg": 1170.27,
-        "1.7mg": 1170.27,
-        "2.4mg": 1170.27
+        "0.25mg": 1010.5,
+        "0.5mg": 1010.5,
+        "1mg": 1010.5,
+        "1.7mg": 1010.5,
+        "2.4mg": 1010.5
       },
-      "notes": "SingleCare coupon price at Harris Teeter for 2.4mg pen. Updated 07/14/2026."
+      "notes": "SingleCare coupon price. Prices updated 07/17/2026."
     },
     {
-      "pharmacy_name": "Hims & Hers",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
+      "pharmacy_name": "Walgreens (SingleCare)",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
       "prices": {
-        "0.25mg": 199.0,
-        "0.5mg": 199.0,
-        "1mg": 349.0,
-        "1.7mg": 349.0,
-        "2.4mg": 349.0
+        "0.25mg": 1077.0,
+        "0.5mg": 1077.0,
+        "1mg": 1077.0,
+        "1.7mg": 1077.0,
+        "2.4mg": 1077.0
       },
-      "notes": "Membership $39 first month, then $149/mo. Wegovy pen from $199/mo (NovoCare self-pay). Wegovy pill from $149/mo. Source: hims.com 07/16/2026."
+      "notes": "SingleCare coupon price. Retail $1155.00. Prices updated 07/17/2026."
     },
     {
-      "pharmacy_name": "Ro",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
+      "pharmacy_name": "CVS (SingleCare)",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
       "prices": {
-        "0.25mg": 349.0,
-        "0.5mg": 349.0,
-        "1mg": 349.0,
-        "1.7mg": 349.0,
-        "2.4mg": 349.0
+        "0.25mg": 1077.42,
+        "0.5mg": 1077.42,
+        "1mg": 1077.42,
+        "1.7mg": 1077.42,
+        "2.4mg": 1077.42
       },
-      "notes": "Ro Body membership ~$145/mo + medication cost. GLP-1s from $349/mo cash-pay. Insurance or cash-pay. Wegovy pen available. Source: ro.co 07/16/2026."
+      "notes": "SingleCare coupon price. Retail $1155.42. Prices updated 07/17/2026."
     },
     {
-      "pharmacy_name": "Sesame Care",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
+      "pharmacy_name": "Publix (SingleCare)",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
       "prices": {
-        "0.25mg": 199.0,
-        "0.5mg": 199.0,
-        "1mg": 349.0,
-        "1.7mg": 349.0,
-        "2.4mg": 349.0
+        "0.25mg": 1086.35,
+        "0.5mg": 1086.35,
+        "1mg": 1086.35,
+        "1.7mg": 1086.35,
+        "2.4mg": 1086.35
       },
-      "notes": "Subscription $59-$99/mo. Wegovy pen $199/mo first 2 months, then $349/mo. Medication cost separate. Source: sesamecare.com 07/16/2026."
+      "notes": "SingleCare coupon price. Retail $1164.35."
     },
     {
-      "pharmacy_name": "Lemonaid Health",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
+      "pharmacy_name": "Walmart (SingleCare)",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
       "prices": {
-        "0.25mg": 1599.0,
-        "0.5mg": 1599.0,
-        "1mg": 1599.0,
-        "1.7mg": 1599.0,
-        "2.4mg": 1599.0
+        "0.25mg": 1108.14,
+        "0.5mg": 1108.14,
+        "1mg": 1108.14,
+        "1.7mg": 1108.14,
+        "2.4mg": 1108.14
       },
-      "notes": "$49/mo membership. Wegovy $1,599/mo (billed separately). Cash-pay only, no insurance. Source: lemonaidhealth.com 07/16/2026."
+      "notes": "SingleCare coupon price. Retail $1186.14."
     },
     {
-      "pharmacy_name": "PlushCare",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
+      "pharmacy_name": "Costco (SingleCare)",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
       "prices": {
-        "0.25mg": 199.0,
-        "0.5mg": 199.0,
-        "1mg": 349.0,
-        "1.7mg": 349.0,
-        "2.4mg": 499.0
+        "0.25mg": 890.1,
+        "0.5mg": 890.1,
+        "1mg": 890.1,
+        "1.7mg": 890.1,
+        "2.4mg": 890.1
       },
-      "notes": "$129/visit self-pay or insurance ($25 with insurance). Wegovy $199-$499 via NovoCare self-pay. Prescriptions sent to pharmacy. Source: plushcare.com 07/16/2026."
+      "notes": "SingleCare average 1-month price. Retail $1587.00."
     },
     {
-      "pharmacy_name": "WeightWatchers Clinic",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
+      "pharmacy_name": "Albertsons (SingleCare)",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
       "prices": {
-        "0.25mg": 1349.02,
-        "0.5mg": 1349.02,
-        "1mg": 1349.02,
-        "1.7mg": 1349.02,
-        "2.4mg": 1349.02
+        "0.25mg": 1193.1,
+        "0.5mg": 1193.1,
+        "1mg": 1193.1,
+        "1.7mg": 1193.1,
+        "2.4mg": 1193.1
       },
-      "notes": "WW Clinic $25-$49 first month, then $74-$145/mo + medication. Wegovy list price $1,349.02. Cash pay $499/mo via NovoCare. Source: weightwatchers.com 07/16/2026."
-    },
-    {
-      "pharmacy_name": "GoodRx Care",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "0.25mg": 199.0,
-        "0.5mg": 199.0,
-        "1mg": 349.0,
-        "1.7mg": 349.0,
-        "2.4mg": 349.0
-      },
-      "notes": "$39/mo membership. Wegovy pen $199/mo first 2 fills (0.25/0.5mg), then $349/mo. Wegovy pill $149/mo (1.5/4mg). Source: goodrx.com 07/16/2026."
-    },
-    {
-      "pharmacy_name": "Noom Med",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "$149 starting (3 weeks + 4 weeks medication), then $349/mo subscription. Brand-name Wegovy available. Medication cost varies by insurance. Source: noom.com 07/16/2026."
+      "notes": "SingleCare average 1-month price. Retail $1638.90."
     },
     {
       "pharmacy_name": "Amazon Pharmacy",
@@ -272,7 +155,7 @@
         "1.7mg": 349.0,
         "2.4mg": 349.0
       },
-      "notes": "Amazon Pharmacy offers NovoCare self-pay pricing. Automatic manufacturer coupons at checkout. Wegovy pill also available from $149/mo. Source: pharmacy.amazon.com 07/16/2026."
+      "notes": "Wegovy injection from $299/mo cash. Wegovy pill from $149/mo (starter) to $299/mo (maintenance). NovoCare self-pay pricing applied at checkout. No membership fee."
     },
     {
       "pharmacy_name": "CenterWell Pharmacy",
@@ -285,39 +168,130 @@
         "1.7mg": 499.0,
         "2.4mg": 499.0
       },
-      "notes": "Mail-order pharmacy. Fulfills NovoCare Wegovy orders. Cash price ~$499/mo. Humana subsidiary. Source: centerwellpharmacy.com 07/16/2026."
+      "notes": "Fulfills NovoCare Wegovy orders. Known Wegovy $499/mo cash price."
+    },
+    {
+      "pharmacy_name": "Hims & Hers",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Membership: $39 first month, then $149/mo. Branded Wegovy via NovoCare pricing. Wegovy pill $149/mo. Medication billed separately."
+    },
+    {
+      "pharmacy_name": "Ro",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Ro Body membership: $145/mo. Wegovy pill and pen available. Branded Wegovy via NovoCare self-pay pricing. Insurance or cash-pay."
+    },
+    {
+      "pharmacy_name": "Sesame Care",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Subscription from $59/mo (annual) to $99/mo (monthly). Wegovy pen $199/mo first 2 months then $349/mo. Medication not included in subscription."
+    },
+    {
+      "pharmacy_name": "Lemonaid Health",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 1599.0,
+        "0.5mg": 1599.0,
+        "1mg": 1599.0,
+        "1.7mg": 1599.0,
+        "2.4mg": 1599.0
+      },
+      "notes": "Membership $49/mo. Wegovy $1,599/mo (billed separately). Cash-pay only, no insurance."
+    },
+    {
+      "pharmacy_name": "GoodRx Care",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Membership $39/mo. Wegovy pen $199/mo first 2 fills (0.25/0.5mg) then $349/mo. Wegovy pill $149/mo (1.5/4mg). Medication cost separate."
+    },
+    {
+      "pharmacy_name": "CVS Pharmacy",
+      "pharmacy_type": "retail_chain",
+      "source": "retail_chain",
+      "prices": {
+        "0.25mg": 149.0,
+        "0.5mg": 149.0,
+        "1mg": 149.0,
+        "1.7mg": 149.0,
+        "2.4mg": 149.0
+      },
+      "notes": "$149/mo with manufacturer coupon for eligible self-pay patients. $25/mo with commercial insurance + manufacturer coupon."
+    },
+    {
+      "pharmacy_name": "TrumpRx",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Government discount platform. New self-pay patients $199 for first 2 fills (0.25/0.5mg) then $349/mo all doses. Original WAC $1,349.02."
     }
   ],
   "summary": {
     "0.25mg": {
-      "min": 199.0,
+      "min": 149.0,
       "max": 1599.0,
-      "avg": 815.39,
-      "count": 20
+      "avg": 707.48,
+      "count": 19
     },
     "0.5mg": {
-      "min": 199.0,
+      "min": 149.0,
       "max": 1599.0,
-      "avg": 815.39,
-      "count": 20
+      "avg": 707.48,
+      "count": 19
     },
     "1mg": {
-      "min": 349.0,
+      "min": 149.0,
       "max": 1599.0,
-      "avg": 867.89,
-      "count": 20
+      "avg": 762.74,
+      "count": 19
     },
     "1.7mg": {
-      "min": 349.0,
+      "min": 149.0,
       "max": 1599.0,
-      "avg": 867.89,
-      "count": 20
+      "avg": 762.74,
+      "count": 19
     },
     "2.4mg": {
-      "min": 349.0,
+      "min": 149.0,
       "max": 1599.0,
-      "avg": 875.39,
-      "count": 20
+      "avg": 762.74,
+      "count": 19
     }
   }
 }

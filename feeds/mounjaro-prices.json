@@ -3,9 +3,9 @@
   "generic_name": "tirzepatide",
   "manufacturer": "Eli Lilly",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-07-16T07:06:07.124125+04:00",
+  "last_updated": "2026-07-18T07:04:20.529654+04:00",
   "reference_zip": "10001",
-  "total_pharmacies": 20,
+  "total_pharmacies": 13,
   "dosages": [
     "2.5mg",
     "5mg",
@@ -16,7 +16,7 @@
   ],
   "pharmacies": [
     {
-      "pharmacy_name": "Lilly Direct (Mounjaro)",
+      "pharmacy_name": "Eli Lilly (Mounjaro List Price)",
       "pharmacy_type": "manufacturer_direct",
       "source": "manufacturer_direct",
       "prices": {
@@ -27,105 +27,21 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "List price (WAC) $1,079.77/mo for all doses. 4 pens per month. Source: pricinginfo.lilly.com 07/16/2026."
-    },
-    {
-      "pharmacy_name": "CVS Pharmacy (SingleCare)",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 658.52,
-        "5mg": 658.52,
-        "7.5mg": 658.52,
-        "10mg": 658.52,
-        "12.5mg": 658.52,
-        "15mg": 658.52
-      },
-      "notes": "SingleCare coupon price at CVS for 5mg pen (4 pens). Retail $1,312.00. Same coupon price across all doses. Updated 07/14/2026."
-    },
-    {
-      "pharmacy_name": "Walmart Pharmacy (SingleCare)",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 1071.08,
-        "5mg": 1071.08,
-        "7.5mg": 1071.08,
-        "10mg": 1071.08,
-        "12.5mg": 1071.08,
-        "15mg": 1071.08
-      },
-      "notes": "SingleCare coupon price at Walmart for 5mg pen. Retail $1,351.26. Updated 07/14/2026."
-    },
-    {
-      "pharmacy_name": "Walgreens (SingleCare)",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 1047.92,
-        "5mg": 1047.92,
-        "7.5mg": 1047.92,
-        "10mg": 1047.92,
-        "12.5mg": 1047.92,
-        "15mg": 1047.92
-      },
-      "notes": "SingleCare coupon price at Walgreens for 5mg pen. Retail $1,336.08. Updated 07/14/2026."
+      "notes": "Lilly list price (WAC) for Mounjaro: $1,079.77/mo for all doses. From pricinginfo.lilly.com/mounjaro. Self-pay savings options available via LillyDirect."
     },
     {
       "pharmacy_name": "Kroger Pharmacy (SingleCare)",
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
-        "2.5mg": 990.48,
-        "5mg": 990.48,
-        "7.5mg": 990.48,
-        "10mg": 990.48,
-        "12.5mg": 990.48,
-        "15mg": 990.48
+        "2.5mg": 872.48,
+        "5mg": 872.48,
+        "7.5mg": 872.48,
+        "10mg": 872.48,
+        "12.5mg": 872.48,
+        "15mg": 872.48
       },
-      "notes": "SingleCare coupon price at Kroger for 5mg pen. Retail $1,334.50. Updated 07/14/2026."
-    },
-    {
-      "pharmacy_name": "Albertsons Pharmacy (SingleCare)",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 1061.6,
-        "5mg": 1061.6,
-        "7.5mg": 1061.6,
-        "10mg": 1061.6,
-        "12.5mg": 1061.6,
-        "15mg": 1061.6
-      },
-      "notes": "SingleCare coupon price at Albertsons for 5mg pen. Retail $1,351.70. Updated 07/14/2026."
-    },
-    {
-      "pharmacy_name": "Publix Pharmacy (SingleCare)",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 929.25,
-        "5mg": 929.25,
-        "7.5mg": 929.25,
-        "10mg": 929.25,
-        "12.5mg": 929.25,
-        "15mg": 929.25
-      },
-      "notes": "SingleCare coupon price at Publix for 5mg pen. Updated 07/14/2026."
-    },
-    {
-      "pharmacy_name": "Costco Pharmacy (SingleCare)",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 952.94,
-        "5mg": 952.94,
-        "7.5mg": 952.94,
-        "10mg": 952.94,
-        "12.5mg": 952.94,
-        "15mg": 952.94
-      },
-      "notes": "SingleCare coupon price at Costco for 5mg pen. Updated 07/14/2026."
+      "notes": "SingleCare coupon price. Retail $990.48. Prices updated 07/17/2026."
     },
     {
       "pharmacy_name": "Harris Teeter (SingleCare)",
@@ -139,152 +55,110 @@
         "12.5mg": 872.48,
         "15mg": 872.48
       },
-      "notes": "SingleCare coupon price at Harris Teeter for 5mg pen. Updated 07/14/2026."
+      "notes": "SingleCare coupon price. Retail $990.48. Prices updated 07/17/2026."
     },
     {
-      "pharmacy_name": "CVS Pharmacy (Retail)",
+      "pharmacy_name": "Walgreens (SingleCare)",
       "pharmacy_type": "retail_chain",
-      "source": "retail_chain",
+      "source": "singlecare",
       "prices": {
-        "2.5mg": 1312.0,
-        "5mg": 1312.0,
-        "7.5mg": 1312.0,
-        "10mg": 1312.0,
-        "12.5mg": 1312.0,
-        "15mg": 1312.0
+        "2.5mg": 927.61,
+        "5mg": 927.61,
+        "7.5mg": 927.61,
+        "10mg": 927.61,
+        "12.5mg": 927.61,
+        "15mg": 927.61
       },
-      "notes": "Retail cash price at CVS for 5mg pen (4 pens). Source: SingleCare price history. Updated 07/16/2026."
+      "notes": "SingleCare coupon price. Retail $1045.61."
     },
     {
-      "pharmacy_name": "Walmart Pharmacy (Retail)",
+      "pharmacy_name": "Publix (SingleCare)",
       "pharmacy_type": "retail_chain",
-      "source": "retail_chain",
+      "source": "singlecare",
       "prices": {
-        "2.5mg": 1351.26,
-        "5mg": 1351.26,
-        "7.5mg": 1351.26,
-        "10mg": 1351.26,
-        "12.5mg": 1351.26,
-        "15mg": 1351.26
+        "2.5mg": 929.25,
+        "5mg": 929.25,
+        "7.5mg": 929.25,
+        "10mg": 929.25,
+        "12.5mg": 929.25,
+        "15mg": 929.25
       },
-      "notes": "Retail cash price at Walmart for 5mg pen. Source: SingleCare price history. Updated 07/16/2026."
+      "notes": "SingleCare coupon price. Retail $1047.25."
     },
     {
-      "pharmacy_name": "Walgreens (Retail)",
+      "pharmacy_name": "CVS (SingleCare)",
       "pharmacy_type": "retail_chain",
-      "source": "retail_chain",
+      "source": "singlecare",
       "prices": {
-        "2.5mg": 1336.08,
-        "5mg": 1336.08,
-        "7.5mg": 1336.08,
-        "10mg": 1336.08,
-        "12.5mg": 1336.08,
-        "15mg": 1336.08
+        "2.5mg": 658.52,
+        "5mg": 658.52,
+        "7.5mg": 658.52,
+        "10mg": 658.52,
+        "12.5mg": 658.52,
+        "15mg": 658.52
       },
-      "notes": "Retail cash price at Walgreens for 5mg pen. Source: SingleCare price history. Updated 07/16/2026."
+      "notes": "SingleCare average 1-month price. Retail $1312.00. Lowest SingleCare price for Mounjaro."
     },
     {
-      "pharmacy_name": "Kroger Pharmacy (Retail)",
+      "pharmacy_name": "Costco (SingleCare)",
       "pharmacy_type": "retail_chain",
-      "source": "retail_chain",
+      "source": "singlecare",
       "prices": {
-        "2.5mg": 1334.5,
-        "5mg": 1334.5,
-        "7.5mg": 1334.5,
-        "10mg": 1334.5,
-        "12.5mg": 1334.5,
-        "15mg": 1334.5
+        "2.5mg": 952.94,
+        "5mg": 952.94,
+        "7.5mg": 952.94,
+        "10mg": 952.94,
+        "12.5mg": 952.94,
+        "15mg": 952.94
       },
-      "notes": "Retail cash price at Kroger for 5mg pen. Source: SingleCare price history. Updated 07/16/2026."
+      "notes": "SingleCare coupon price. Retail $1070.94."
     },
     {
-      "pharmacy_name": "PlushCare",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
+      "pharmacy_name": "Walmart (SingleCare)",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
       "prices": {
-        "2.5mg": 1087.0,
-        "5mg": 1087.0,
-        "7.5mg": 1087.0,
-        "10mg": 1087.0,
-        "12.5mg": 1087.0,
-        "15mg": 1087.0
+        "2.5mg": 1071.08,
+        "5mg": 1071.08,
+        "7.5mg": 1071.08,
+        "10mg": 1071.08,
+        "12.5mg": 1071.08,
+        "15mg": 1071.08
       },
-      "notes": "$129/visit self-pay or insurance. Mounjaro ~$1,087 self-pay (list price). Prescriptions sent to local pharmacy. Source: plushcare.com 07/16/2026."
+      "notes": "SingleCare average 1-month price. Retail $1351.26."
     },
     {
-      "pharmacy_name": "WeightWatchers Clinic",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
+      "pharmacy_name": "Albertsons (SingleCare)",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
       "prices": {
-        "2.5mg": 1079.77,
-        "5mg": 1079.77,
-        "7.5mg": 1079.77,
-        "10mg": 1079.77,
-        "12.5mg": 1079.77,
-        "15mg": 1079.77
+        "2.5mg": 1061.6,
+        "5mg": 1061.6,
+        "7.5mg": 1061.6,
+        "10mg": 1061.6,
+        "12.5mg": 1061.6,
+        "15mg": 1061.6
       },
-      "notes": "WW Clinic $25-$49 first month, then $74-$145/mo + medication. Mounjaro list price $1,079.77. Insurance coordination included. Source: weightwatchers.com 07/16/2026."
+      "notes": "SingleCare average 1-month price. Retail $1351.70."
     },
     {
       "pharmacy_name": "Hims & Hers",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
+        "2.5mg": 1079.77,
+        "5mg": 1079.77,
+        "7.5mg": 1079.77,
+        "10mg": 1079.77,
+        "12.5mg": 1079.77,
+        "15mg": 1079.77
       },
-      "notes": "Mounjaro available for T2D patients meeting clinical eligibility. Membership $39 first month, then $149/mo. Price depends on insurance/pharmacy. Source: hims.com 07/16/2026."
-    },
-    {
-      "pharmacy_name": "Noom Med",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Brand-name Mounjaro available via Noom GLP-1 Rx Program. $149 starting, then $349/mo subscription. Medication cost varies. Source: noom.com 07/16/2026."
-    },
-    {
-      "pharmacy_name": "Lemonaid Health",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Offers Zepbound vials via LillyDirect ($299/mo 2.5mg, $449 higher doses). Mounjaro not directly listed. $49/mo membership. Source: lemonaidhealth.com 07/16/2026."
+      "notes": "Membership: $39 first month, then $149/mo. Mounjaro available. Medication billed separately at list price. Does not accept insurance."
     },
     {
       "pharmacy_name": "Sesame Care",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Mounjaro listed as available diabetes medication. Cash price depends on pharmacy/insurance. Subscription $59-$99/mo. Source: sesamecare.com 07/16/2026."
-    },
-    {
-      "pharmacy_name": "Amazon Pharmacy",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
       "prices": {
         "2.5mg": 1079.77,
         "5mg": 1079.77,
@@ -293,45 +167,73 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Amazon Pharmacy offers Lilly Direct pricing for Mounjaro. List price $1,079.77/mo. Source: pharmacy.amazon.com 07/16/2026."
+      "notes": "Subscription from $59/mo (annual) to $99/mo (monthly). Mounjaro at list price. Medication not included in subscription."
+    },
+    {
+      "pharmacy_name": "Lemonaid Health",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "2.5mg": 1199.0,
+        "5mg": 1199.0,
+        "7.5mg": 1199.0,
+        "10mg": 1199.0,
+        "12.5mg": 1199.0,
+        "15mg": 1199.0
+      },
+      "notes": "Membership $49/mo. Mounjaro not directly listed but Ozempic $1,199/mo suggests similar pricing. Cash-pay only."
+    },
+    {
+      "pharmacy_name": "CVS Pharmacy",
+      "pharmacy_type": "retail_chain",
+      "source": "retail_chain",
+      "prices": {
+        "2.5mg": 658.52,
+        "5mg": 658.52,
+        "7.5mg": 658.52,
+        "10mg": 658.52,
+        "12.5mg": 658.52,
+        "15mg": 658.52
+      },
+      "notes": "SingleCare coupon price at CVS. Retail ~$1,312.00. Mounjaro is for Type 2 Diabetes (not weight loss)."
     }
   ],
   "summary": {
     "2.5mg": {
       "min": 658.52,
-      "max": 1351.26,
-      "avg": 1077.78,
-      "count": 16
+      "max": 1199.0,
+      "avg": 957.14,
+      "count": 13
     },
     "5mg": {
       "min": 658.52,
-      "max": 1351.26,
-      "avg": 1077.78,
-      "count": 16
+      "max": 1199.0,
+      "avg": 957.14,
+      "count": 13
     },
     "7.5mg": {
       "min": 658.52,
-      "max": 1351.26,
-      "avg": 1077.78,
-      "count": 16
+      "max": 1199.0,
+      "avg": 957.14,
+      "count": 13
     },
     "10mg": {
       "min": 658.52,
-      "max": 1351.26,
-      "avg": 1077.78,
-      "count": 16
+      "max": 1199.0,
+      "avg": 957.14,
+      "count": 13
     },
     "12.5mg": {
       "min": 658.52,
-      "max": 1351.26,
-      "avg": 1077.78,
-      "count": 16
+      "max": 1199.0,
+      "avg": 957.14,
+      "count": 13
     },
     "15mg": {
       "min": 658.52,
-      "max": 1351.26,
-      "avg": 1077.78,
-      "count": 16
+      "max": 1199.0,
+      "avg": 957.14,
+      "count": 13
     }
   }
 }
