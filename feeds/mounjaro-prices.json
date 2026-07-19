@@ -3,237 +3,44 @@
   "generic_name": "tirzepatide",
   "manufacturer": "Eli Lilly",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-07-18T07:04:20.529654+04:00",
+  "last_updated": "2026-07-19T07:01:14+04:00",
   "reference_zip": "10001",
-  "total_pharmacies": 13,
-  "dosages": [
-    "2.5mg",
-    "5mg",
-    "7.5mg",
-    "10mg",
-    "12.5mg",
-    "15mg"
-  ],
+  "total_pharmacies": 25,
+  "dosages": ["2.5mg", "5mg", "7.5mg", "10mg", "12.5mg", "15mg"],
   "pharmacies": [
-    {
-      "pharmacy_name": "Eli Lilly (Mounjaro List Price)",
-      "pharmacy_type": "manufacturer_direct",
-      "source": "manufacturer_direct",
-      "prices": {
-        "2.5mg": 1079.77,
-        "5mg": 1079.77,
-        "7.5mg": 1079.77,
-        "10mg": 1079.77,
-        "12.5mg": 1079.77,
-        "15mg": 1079.77
-      },
-      "notes": "Lilly list price (WAC) for Mounjaro: $1,079.77/mo for all doses. From pricinginfo.lilly.com/mounjaro. Self-pay savings options available via LillyDirect."
-    },
-    {
-      "pharmacy_name": "Kroger Pharmacy (SingleCare)",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 872.48,
-        "5mg": 872.48,
-        "7.5mg": 872.48,
-        "10mg": 872.48,
-        "12.5mg": 872.48,
-        "15mg": 872.48
-      },
-      "notes": "SingleCare coupon price. Retail $990.48. Prices updated 07/17/2026."
-    },
-    {
-      "pharmacy_name": "Harris Teeter (SingleCare)",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 872.48,
-        "5mg": 872.48,
-        "7.5mg": 872.48,
-        "10mg": 872.48,
-        "12.5mg": 872.48,
-        "15mg": 872.48
-      },
-      "notes": "SingleCare coupon price. Retail $990.48. Prices updated 07/17/2026."
-    },
-    {
-      "pharmacy_name": "Walgreens (SingleCare)",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 927.61,
-        "5mg": 927.61,
-        "7.5mg": 927.61,
-        "10mg": 927.61,
-        "12.5mg": 927.61,
-        "15mg": 927.61
-      },
-      "notes": "SingleCare coupon price. Retail $1045.61."
-    },
-    {
-      "pharmacy_name": "Publix (SingleCare)",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 929.25,
-        "5mg": 929.25,
-        "7.5mg": 929.25,
-        "10mg": 929.25,
-        "12.5mg": 929.25,
-        "15mg": 929.25
-      },
-      "notes": "SingleCare coupon price. Retail $1047.25."
-    },
-    {
-      "pharmacy_name": "CVS (SingleCare)",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 658.52,
-        "5mg": 658.52,
-        "7.5mg": 658.52,
-        "10mg": 658.52,
-        "12.5mg": 658.52,
-        "15mg": 658.52
-      },
-      "notes": "SingleCare average 1-month price. Retail $1312.00. Lowest SingleCare price for Mounjaro."
-    },
-    {
-      "pharmacy_name": "Costco (SingleCare)",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 952.94,
-        "5mg": 952.94,
-        "7.5mg": 952.94,
-        "10mg": 952.94,
-        "12.5mg": 952.94,
-        "15mg": 952.94
-      },
-      "notes": "SingleCare coupon price. Retail $1070.94."
-    },
-    {
-      "pharmacy_name": "Walmart (SingleCare)",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 1071.08,
-        "5mg": 1071.08,
-        "7.5mg": 1071.08,
-        "10mg": 1071.08,
-        "12.5mg": 1071.08,
-        "15mg": 1071.08
-      },
-      "notes": "SingleCare average 1-month price. Retail $1351.26."
-    },
-    {
-      "pharmacy_name": "Albertsons (SingleCare)",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 1061.6,
-        "5mg": 1061.6,
-        "7.5mg": 1061.6,
-        "10mg": 1061.6,
-        "12.5mg": 1061.6,
-        "15mg": 1061.6
-      },
-      "notes": "SingleCare average 1-month price. Retail $1351.70."
-    },
-    {
-      "pharmacy_name": "Hims & Hers",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "2.5mg": 1079.77,
-        "5mg": 1079.77,
-        "7.5mg": 1079.77,
-        "10mg": 1079.77,
-        "12.5mg": 1079.77,
-        "15mg": 1079.77
-      },
-      "notes": "Membership: $39 first month, then $149/mo. Mounjaro available. Medication billed separately at list price. Does not accept insurance."
-    },
-    {
-      "pharmacy_name": "Sesame Care",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "2.5mg": 1079.77,
-        "5mg": 1079.77,
-        "7.5mg": 1079.77,
-        "10mg": 1079.77,
-        "12.5mg": 1079.77,
-        "15mg": 1079.77
-      },
-      "notes": "Subscription from $59/mo (annual) to $99/mo (monthly). Mounjaro at list price. Medication not included in subscription."
-    },
-    {
-      "pharmacy_name": "Lemonaid Health",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "2.5mg": 1199.0,
-        "5mg": 1199.0,
-        "7.5mg": 1199.0,
-        "10mg": 1199.0,
-        "12.5mg": 1199.0,
-        "15mg": 1199.0
-      },
-      "notes": "Membership $49/mo. Mounjaro not directly listed but Ozempic $1,199/mo suggests similar pricing. Cash-pay only."
-    },
-    {
-      "pharmacy_name": "CVS Pharmacy",
-      "pharmacy_type": "retail_chain",
-      "source": "retail_chain",
-      "prices": {
-        "2.5mg": 658.52,
-        "5mg": 658.52,
-        "7.5mg": 658.52,
-        "10mg": 658.52,
-        "12.5mg": 658.52,
-        "15mg": 658.52
-      },
-      "notes": "SingleCare coupon price at CVS. Retail ~$1,312.00. Mounjaro is for Type 2 Diabetes (not weight loss)."
-    }
+    {"pharmacy_name": "Lilly Direct", "pharmacy_type": "manufacturer_direct", "source": "manufacturer_direct", "prices": {"2.5mg": 1079.77, "5mg": 1079.77, "7.5mg": 1079.77, "10mg": 1079.77, "12.5mg": 1079.77, "15mg": 1079.77}, "notes": "Eli Lilly list price (WAC) $1,079.77/mo. Self-pay savings options available via LillyDirect. Commercially insured $25/mo with savings card."},
+    {"pharmacy_name": "GoodRx", "pharmacy_type": "price_comparison", "source": "goodrx", "prices": {"2.5mg": 1060.0, "5mg": 1060.0, "7.5mg": 1060.0, "10mg": 1060.0, "12.5mg": 1060.0, "15mg": 1060.0}, "notes": "GoodRx coupon price ~$1,060-$1,090 at most major pharmacies. Minimal discount vs retail. Average retail price over $1,300/mo."},
+    {"pharmacy_name": "Walgreens", "pharmacy_type": "retail", "source": "retail", "prices": {"2.5mg": 1297.0, "5mg": 1297.0, "7.5mg": 1297.0, "10mg": 1297.0, "12.5mg": 1291.0, "15mg": 1290.0}, "notes": "Retail cash price (San Francisco, CA). Prices vary by location."},
+    {"pharmacy_name": "CVS", "pharmacy_type": "retail", "source": "retail", "prices": {"2.5mg": 1274.0, "5mg": 1274.0, "7.5mg": 1274.0, "10mg": 1274.0, "12.5mg": 1274.0, "15mg": 1274.0}, "notes": "Retail cash price (San Francisco, CA). Prices vary by location."},
+    {"pharmacy_name": "Walmart", "pharmacy_type": "retail", "source": "retail", "prices": {"2.5mg": 1297.0, "5mg": 1297.0, "7.5mg": 1297.0, "10mg": 1297.0, "12.5mg": 1297.0, "15mg": 1297.0}, "notes": "Retail cash price (San Francisco, CA). Prices vary by location."},
+    {"pharmacy_name": "Safeway", "pharmacy_type": "retail", "source": "retail", "prices": {"2.5mg": 1093.0, "5mg": 1093.0, "7.5mg": 1085.0, "10mg": 1077.0, "12.5mg": 1077.0, "15mg": 1083.0}, "notes": "Retail cash price (San Francisco, CA). Lowest retail prices among major chains surveyed."},
+    {"pharmacy_name": "PlushCare", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"2.5mg": 1000.0, "5mg": 1000.0, "7.5mg": 1000.0, "10mg": 1000.0, "12.5mg": 1000.0, "15mg": 1000.0}, "notes": "$19.99/mo membership + $129/visit. Branded GLP-1s ~$1,000/mo out of pocket. Rx Discount Card saves 7-20%."},
+    {"pharmacy_name": "WeightWatchers Clinic", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"2.5mg": 1079.77, "5mg": 1079.77, "7.5mg": 1079.77, "10mg": 1079.77, "12.5mg": 1079.77, "15mg": 1079.77}, "notes": "Membership $25-$49 first month, then $74-$145/mo. Medication not included. Mounjaro list price $1,079.77/mo."},
+    {"pharmacy_name": "Hims & Hers", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"2.5mg": 1079.77, "5mg": 1079.77, "7.5mg": 1079.77, "10mg": 1079.77, "12.5mg": 1079.77, "15mg": 1079.77}, "notes": "Offers Mounjaro via telehealth. List price $1,079.77/mo. Also offers Wegovy pill $149/mo, compounded semaglutide $199/mo."},
+    {"pharmacy_name": "WAC List Price", "pharmacy_type": "wac_list", "source": "wac_list", "prices": {"2.5mg": 1079.77, "5mg": 1079.77, "7.5mg": 1079.77, "10mg": 1079.77, "12.5mg": 1079.77, "15mg": 1079.77}, "notes": "Wholesale Acquisition Cost (WAC) from Lilly. List price before any discounts or rebates."},
+    {"pharmacy_name": "Costco", "pharmacy_type": "retail", "source": "retail", "prices": {"2.5mg": 1060.0, "5mg": 1060.0, "7.5mg": 1060.0, "10mg": 1060.0, "12.5mg": 1060.0, "15mg": 1060.0}, "notes": "GoodRx coupon price ~$1,060. Retail price may be higher without coupon."},
+    {"pharmacy_name": "Kroger", "pharmacy_type": "retail", "source": "retail", "prices": {"2.5mg": 1060.0, "5mg": 1060.0, "7.5mg": 1060.0, "10mg": 1060.0, "12.5mg": 1060.0, "15mg": 1060.0}, "notes": "GoodRx coupon price ~$1,060. Retail price may be higher without coupon."},
+    {"pharmacy_name": "Meijer", "pharmacy_type": "retail", "source": "retail", "prices": {"2.5mg": 1060.0, "5mg": 1060.0, "7.5mg": 1060.0, "10mg": 1060.0, "12.5mg": 1060.0, "15mg": 1060.0}, "notes": "GoodRx coupon price ~$1,060. Retail price may be higher without coupon."},
+    {"pharmacy_name": "Sesame Care", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"2.5mg": null, "5mg": null, "7.5mg": null, "10mg": null, "12.5mg": null, "15mg": null}, "notes": "$59-$99/mo subscription. Mounjaro listed as available diabetes medication but specific pricing not published."},
+    {"pharmacy_name": "Ro", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"2.5mg": null, "5mg": null, "7.5mg": null, "10mg": null, "12.5mg": null, "15mg": null}, "notes": "Ro Body membership $145/mo. Mounjaro not listed on Ro weight loss page (offers Wegovy, Zepbound, Foundayo, Ozempic)."},
+    {"pharmacy_name": "Lemonaid Health", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"2.5mg": null, "5mg": null, "7.5mg": null, "10mg": null, "12.5mg": null, "15mg": null}, "notes": "$49/mo membership. Branded Mounjaro not offered. Compounded tirzepatide $299/mo, Zepbound vials via LillyDirect $299-$449/mo."},
+    {"pharmacy_name": "GoodRx Care", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"2.5mg": null, "5mg": null, "7.5mg": null, "10mg": null, "12.5mg": null, "15mg": null}, "notes": "$39/mo membership. Mounjaro not offered via GoodRx Care (offers Wegovy, Zepbound, Foundayo)."},
+    {"pharmacy_name": "Amazon Pharmacy", "pharmacy_type": "online_pharmacy", "source": "online_pharmacy", "prices": {"2.5mg": null, "5mg": null, "7.5mg": null, "10mg": null, "12.5mg": null, "15mg": null}, "notes": "Mounjaro availability on Amazon Pharmacy not confirmed. Lilly Direct pricing may apply."},
+    {"pharmacy_name": "SingleCare", "pharmacy_type": "price_comparison", "source": "singlecare", "prices": {"2.5mg": null, "5mg": null, "7.5mg": null, "10mg": null, "12.5mg": null, "15mg": null}, "notes": "Specific Mounjaro pricing not publicly available on SingleCare."},
+    {"pharmacy_name": "Blink Health", "pharmacy_type": "online_pharmacy", "source": "online_pharmacy", "prices": {"2.5mg": null, "5mg": null, "7.5mg": null, "10mg": null, "12.5mg": null, "15mg": null}, "notes": "Online discount pharmacy. Specific Mounjaro pricing not publicly available."},
+    {"pharmacy_name": "RxSaver", "pharmacy_type": "online_pharmacy", "source": "online_pharmacy", "prices": {"2.5mg": null, "5mg": null, "7.5mg": null, "10mg": null, "12.5mg": null, "15mg": null}, "notes": "Prescription discount platform. Specific Mounjaro pricing not publicly available."},
+    {"pharmacy_name": "TrumpRx", "pharmacy_type": "retail", "source": "retail", "prices": {"2.5mg": null, "5mg": null, "7.5mg": null, "10mg": null, "12.5mg": null, "15mg": null}, "notes": "Government pharmacy program. Mounjaro pricing not publicly available."},
+    {"pharmacy_name": "Noom Med", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"2.5mg": null, "5mg": null, "7.5mg": null, "10mg": null, "12.5mg": null, "15mg": null}, "notes": "$99-$149/mo subscription. Specific GLP-1 pricing not publicly available."},
+    {"pharmacy_name": "GeniusRx", "pharmacy_type": "online_pharmacy", "source": "online_pharmacy", "prices": {"2.5mg": null, "5mg": null, "7.5mg": null, "10mg": null, "12.5mg": null, "15mg": null}, "notes": "Online pharmacy discount platform. Specific pricing not publicly available."},
+    {"pharmacy_name": "HealthWarehouse", "pharmacy_type": "online_pharmacy", "source": "online_pharmacy", "prices": {"2.5mg": null, "5mg": null, "7.5mg": null, "10mg": null, "12.5mg": null, "15mg": null}, "notes": "Online pharmacy. Specific GLP-1 pricing not publicly available."},
+    {"pharmacy_name": "CenterWell Pharmacy", "pharmacy_type": "online_pharmacy", "source": "online_pharmacy", "prices": {"2.5mg": null, "5mg": null, "7.5mg": null, "10mg": null, "12.5mg": null, "15mg": null}, "notes": "CenterWell Pharmacy (Humana). Mounjaro pricing not publicly available."}
   ],
   "summary": {
-    "2.5mg": {
-      "min": 658.52,
-      "max": 1199.0,
-      "avg": 957.14,
-      "count": 13
-    },
-    "5mg": {
-      "min": 658.52,
-      "max": 1199.0,
-      "avg": 957.14,
-      "count": 13
-    },
-    "7.5mg": {
-      "min": 658.52,
-      "max": 1199.0,
-      "avg": 957.14,
-      "count": 13
-    },
-    "10mg": {
-      "min": 658.52,
-      "max": 1199.0,
-      "avg": 957.14,
-      "count": 13
-    },
-    "12.5mg": {
-      "min": 658.52,
-      "max": 1199.0,
-      "avg": 957.14,
-      "count": 13
-    },
-    "15mg": {
-      "min": 658.52,
-      "max": 1199.0,
-      "avg": 957.14,
-      "count": 13
-    }
+    "2.5mg": {"min": 1000.0, "max": 1297.0, "avg": 1116.93, "count": 13},
+    "5mg": {"min": 1000.0, "max": 1297.0, "avg": 1116.93, "count": 13},
+    "7.5mg": {"min": 1000.0, "max": 1297.0, "avg": 1116.31, "count": 13},
+    "10mg": {"min": 1000.0, "max": 1297.0, "avg": 1115.70, "count": 13},
+    "12.5mg": {"min": 1000.0, "max": 1297.0, "avg": 1115.24, "count": 13},
+    "15mg": {"min": 1000.0, "max": 1297.0, "avg": 1115.62, "count": 13}
   }
 }
