@@ -1,1 +1,570 @@
-{"medication": "Wegovy", "generic_name": "semaglutide", "manufacturer": "Novo Nordisk", "indication": "Weight Loss", "last_updated": "2026-07-23T07:03:36+04:00", "reference_zip": "10001", "total_pharmacies": 22, "dosages": ["0.25mg", "0.5mg", "1mg", "1.7mg", "2.4mg"], "pharmacies": [{"pharmacy_name": "NovoCare Pharmacy", "pharmacy_type": "manufacturer_direct", "source": "manufacturer_direct", "prices": {"0.25mg": 199.0, "0.5mg": 199.0, "1mg": 349.0, "1.7mg": 349.0, "2.4mg": 349.0}, "notes": "NovoCare self-pay: $199/mo new patients 0.25/0.5mg first 2 fills, then $349 for all doses. Wegovy HD 7.2mg $399/mo."}, {"pharmacy_name": "WAC List Price", "pharmacy_type": "wac_list", "source": "wac_list", "prices": {"0.25mg": 1349.02, "0.5mg": 1349.02, "1mg": 1349.02, "1.7mg": 1349.02, "2.4mg": 1349.02}, "notes": "Wholesale Acquisition Cost (WAC) from Novo Nordisk. List price before discounts."}, {"pharmacy_name": "Kroger Pharmacy (SingleCare)", "pharmacy_type": "retail_pharmacy", "source": "singlecare", "prices": {"0.25mg": null, "0.5mg": 1011.0, "1mg": null, "1.7mg": null, "2.4mg": null}, "notes": "SingleCare coupon price for 0.5mg pen."}, {"pharmacy_name": "Harris Teeter (SingleCare)", "pharmacy_type": "retail_pharmacy", "source": "singlecare", "prices": {"0.25mg": null, "0.5mg": 1011.0, "1mg": null, "1.7mg": null, "2.4mg": null}, "notes": "SingleCare coupon price for 0.5mg pen."}, {"pharmacy_name": "Walgreens (SingleCare)", "pharmacy_type": "retail_pharmacy", "source": "singlecare", "prices": {"0.25mg": null, "0.5mg": 1077.0, "1mg": null, "1.7mg": null, "2.4mg": null}, "notes": "SingleCare coupon price for 0.5mg pen. Retail $1,155.00."}, {"pharmacy_name": "CVS Pharmacy (SingleCare)", "pharmacy_type": "retail_pharmacy", "source": "singlecare", "prices": {"0.25mg": null, "0.5mg": 1077.0, "1mg": null, "1.7mg": null, "2.4mg": null}, "notes": "SingleCare coupon price for 0.5mg pen. Retail $1,155.42."}, {"pharmacy_name": "Publix Pharmacy (SingleCare)", "pharmacy_type": "retail_pharmacy", "source": "singlecare", "prices": {"0.25mg": null, "0.5mg": 1086.0, "1mg": null, "1.7mg": null, "2.4mg": null}, "notes": "SingleCare coupon price for 0.5mg pen. Retail $1,164.35."}, {"pharmacy_name": "Walmart (SingleCare)", "pharmacy_type": "retail_pharmacy", "source": "singlecare", "prices": {"0.25mg": null, "0.5mg": 1108.0, "1mg": null, "1.7mg": null, "2.4mg": null}, "notes": "SingleCare coupon price for 0.5mg pen. Retail $1,186.14."}, {"pharmacy_name": "CVS Pharmacy (Retail)", "pharmacy_type": "retail_pharmacy", "source": "retail", "prices": {"0.25mg": null, "0.5mg": 1155.42, "1mg": null, "1.7mg": null, "2.4mg": null}, "notes": "Cash retail price for 0.5mg pen without coupon."}, {"pharmacy_name": "Walmart (Retail)", "pharmacy_type": "retail_pharmacy", "source": "retail", "prices": {"0.25mg": null, "0.5mg": 1186.14, "1mg": null, "1.7mg": null, "2.4mg": null}, "notes": "Cash retail price for 0.5mg pen without coupon."}, {"pharmacy_name": "Walgreens (Retail)", "pharmacy_type": "retail_pharmacy", "source": "retail", "prices": {"0.25mg": null, "0.5mg": 1155.0, "1mg": null, "1.7mg": null, "2.4mg": null}, "notes": "Cash retail price for 0.5mg pen without coupon."}, {"pharmacy_name": "Hims & Hers", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"0.25mg": 199.0, "0.5mg": 199.0, "1mg": 349.0, "1.7mg": 349.0, "2.4mg": 349.0}, "notes": "NovoCare self-pay pricing. Membership: $39 first month, then $149/mo. Price includes medication only."}, {"pharmacy_name": "Ro", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"0.25mg": 349.0, "0.5mg": 349.0, "1mg": 349.0, "1.7mg": 349.0, "2.4mg": 349.0}, "notes": "GLP-1s from $349/mo. Program fee $145/mo. Insurance or cash-pay."}, {"pharmacy_name": "Lemonaid Health", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"0.25mg": 1599.0, "0.5mg": 1599.0, "1mg": 1599.0, "1.7mg": 1599.0, "2.4mg": 1599.0}, "notes": "Cash-pay only. Membership $49/mo. Medication billed separately."}, {"pharmacy_name": "PlushCare", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"0.25mg": 199.0, "0.5mg": 199.0, "1mg": 349.0, "1.7mg": 499.0, "2.4mg": 499.0}, "notes": "Wegovy $199-$499 via NovoCare. Membership $19.99/mo (first month free) + $129/visit."}, {"pharmacy_name": "Noom Med", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"0.25mg": 349.0, "0.5mg": 349.0, "1mg": 349.0, "1.7mg": 349.0, "2.4mg": 349.0}, "notes": "Noom GLP-1 Rx Plus: $149 initial, then $349/mo. Includes medication."}, {"pharmacy_name": "WeightWatchers Clinic", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"0.25mg": 1349.02, "0.5mg": 1349.02, "1mg": 1349.02, "1.7mg": 1349.02, "2.4mg": 1349.02}, "notes": "Wegovy list price $1,349.02. Membership $25-$49 first month, then $74-$145/mo. Medication separate. NovoCare cash option $499/mo."}, {"pharmacy_name": "GoodRx Care", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"0.25mg": 199.0, "0.5mg": 199.0, "1mg": 349.0, "1.7mg": 349.0, "2.4mg": 349.0}, "notes": "GoodRx Care Direct. $39/mo membership + medication. Wegovy pen $199 first 2 fills (0.25/0.5mg), then $349. Wegovy HD $399."}, {"pharmacy_name": "Amazon Pharmacy", "pharmacy_type": "online_pharmacy", "source": "online_pharmacy", "prices": {"0.25mg": 199.0, "0.5mg": 199.0, "1mg": 349.0, "1.7mg": 349.0, "2.4mg": 349.0}, "notes": "NovoCare self-pay pricing via Amazon Pharmacy. Automatic manufacturer coupons at checkout."}, {"pharmacy_name": "CenterWell Pharmacy", "pharmacy_type": "online_pharmacy", "source": "online_pharmacy", "prices": {"0.25mg": 499.0, "0.5mg": 499.0, "1mg": 499.0, "1.7mg": 499.0, "2.4mg": 499.0}, "notes": "Fulfills NovoCare Wegovy orders. $499/mo self-pay."}, {"pharmacy_name": "TrumpRx", "pharmacy_type": "retail_pharmacy", "source": "retail", "prices": {"0.25mg": 199.0, "0.5mg": 199.0, "1mg": 349.0, "1.7mg": 499.0, "2.4mg": 499.0}, "notes": "Self-pay pricing by dosage."}, {"pharmacy_name": "Sesame Care", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"0.25mg": 199.0, "0.5mg": 199.0, "1mg": 349.0, "1.7mg": 499.0, "2.4mg": 499.0}, "notes": "$99/mo subscription + medication. Wegovy $499/mo. Costco partnership $349/mo."}], "summary": {"0.25mg": {"min": 199.0, "max": 1599.0, "avg": 529.77, "count": 13}, "0.5mg": {"min": 199.0, "max": 1599.0, "avg": 761.53, "count": 22}, "1mg": {"min": 349.0, "max": 1599.0, "avg": 610.54, "count": 13}, "1.7mg": {"min": 349.0, "max": 1599.0, "avg": 645.16, "count": 13}, "2.4mg": {"min": 349.0, "max": 1599.0, "avg": 645.16, "count": 13}}}
+{
+  "medication": "Wegovy",
+  "generic_name": "semaglutide",
+  "manufacturer": "Novo Nordisk",
+  "indication": "Weight Loss",
+  "last_updated": "2026-07-24T07:13:15.100164+04:00",
+  "reference_zip": "10001",
+  "total_pharmacies": 40,
+  "dosages": [
+    "0.25mg",
+    "0.5mg",
+    "1mg",
+    "1.7mg",
+    "2.4mg"
+  ],
+  "pharmacies": [
+    {
+      "pharmacy_name": "NovoCare Pharmacy",
+      "pharmacy_type": "manufacturer_direct",
+      "source": "manufacturer_direct",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Self-pay: $199/mo first 2 fills (0.25/0.5mg), then $349/mo all doses. Wegovy HD 7.2mg: $399/mo. Pill: $149/mo (1.5/4mg), $299 (9/25mg)."
+    },
+    {
+      "pharmacy_name": "Amazon Pharmacy",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Automatic manufacturer coupons at checkout. Wegovy pill from $149/mo, pen from $199/mo. No membership fee."
+    },
+    {
+      "pharmacy_name": "Costco Pharmacy",
+      "pharmacy_type": "retail_chain",
+      "source": "retail_chain",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Novo Nordisk partnership: $349/mo self-pay all doses. Costco cash avg: $1,319 (WAC-based). No membership required for pharmacy."
+    },
+    {
+      "pharmacy_name": "Walmart Pharmacy",
+      "pharmacy_type": "retail_chain",
+      "source": "retail_chain",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Novo Nordisk partnership: $349/mo self-pay all doses. Walmart cash avg: $1,389."
+    },
+    {
+      "pharmacy_name": "CVS Pharmacy",
+      "pharmacy_type": "retail_chain",
+      "source": "retail_chain",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Novo Nordisk partnership: $349/mo self-pay. GoodRx coupon: $149/mo. CVS cash avg: $1,449."
+    },
+    {
+      "pharmacy_name": "Walgreens",
+      "pharmacy_type": "retail_chain",
+      "source": "retail_chain",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Novo Nordisk partnership: $349/mo self-pay. GoodRx coupon: $149/mo. Walgreens cash avg: $1,429."
+    },
+    {
+      "pharmacy_name": "Kroger Pharmacy",
+      "pharmacy_type": "retail_chain",
+      "source": "retail_chain",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Novo Nordisk partnership: $349/mo self-pay. GoodRx coupon: $149/mo. Kroger cash avg: $1,395."
+    },
+    {
+      "pharmacy_name": "Publix Pharmacy",
+      "pharmacy_type": "retail_chain",
+      "source": "retail_chain",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Novo Nordisk partnership: $349/mo self-pay. GoodRx coupon: $149/mo."
+    },
+    {
+      "pharmacy_name": "Sam's Club Pharmacy",
+      "pharmacy_type": "retail_chain",
+      "source": "retail_chain",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Novo Nordisk partnership: $349/mo self-pay. GoodRx coupon: $149/mo. Sam's Club cash avg: $1,375."
+    },
+    {
+      "pharmacy_name": "Target (CVS)",
+      "pharmacy_type": "retail_chain",
+      "source": "retail_chain",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Novo Nordisk partnership: $349/mo self-pay. GoodRx coupon: $149/mo."
+    },
+    {
+      "pharmacy_name": "Hy-Vee",
+      "pharmacy_type": "retail_chain",
+      "source": "retail_chain",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Novo Nordisk partnership: $349/mo self-pay. GoodRx coupon: $149/mo."
+    },
+    {
+      "pharmacy_name": "Honeybee Health",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Online mail-order pharmacy. Carries Wegovy. Cash prices via NovoCare."
+    },
+    {
+      "pharmacy_name": "CenterWell Pharmacy",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Fulfills NovoCare Wegovy orders. NovoCare self-pay pricing: $349/mo all doses."
+    },
+    {
+      "pharmacy_name": "Hims & Hers",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Branded Wegovy via Novo Nordisk partnership. Pill from $149/mo, injection from $199/mo. Membership from $39 first month, $145/mo ongoing."
+    },
+    {
+      "pharmacy_name": "Ro",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Ro Body membership: $45 first month, $145/mo ongoing. Wegovy pen $199-$349, pill $149-$299."
+    },
+    {
+      "pharmacy_name": "Sesame Care",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Subscription from $59/mo (annual). NovoCare self-pay: $199 first 2 months, then $349. Costco partnership: $349/mo."
+    },
+    {
+      "pharmacy_name": "PlushCare",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 399.0
+      },
+      "notes": "Membership ~$19.99/mo + $129/visit. Wegovy via NovoCare $199-$499. $399/mo when filled through NovoCare."
+    },
+    {
+      "pharmacy_name": "Lemonaid Health",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 1599.0,
+        "0.5mg": 1599.0,
+        "1mg": 1599.0,
+        "1.7mg": 1599.0,
+        "2.4mg": 1599.0
+      },
+      "notes": "Membership $49/mo. Wegovy $1,599/mo billed separately. Compounded semaglutide $299/mo."
+    },
+    {
+      "pharmacy_name": "GoodRx",
+      "pharmacy_type": "price_comparison",
+      "source": "goodrx",
+      "prices": {
+        "0.25mg": 149.0,
+        "0.5mg": 149.0,
+        "1mg": 149.0,
+        "1.7mg": 149.0,
+        "2.4mg": 149.0
+      },
+      "notes": "GoodRx coupon: $149/mo at Costco, Walgreens, Target (CVS), Hy-Vee. Limited time offer for Wegovy pill 1.5/4mg. Avg retail: $1,642.73."
+    },
+    {
+      "pharmacy_name": "SingleCare",
+      "pharmacy_type": "price_comparison",
+      "source": "singlecare",
+      "prices": {
+        "0.25mg": 1010.5,
+        "0.5mg": 1010.5,
+        "1mg": 1010.5,
+        "1.7mg": 1010.5,
+        "2.4mg": 1010.5
+      },
+      "notes": "SingleCare coupon at Kroger/Harris Teeter: $1,010.50. CVS: $1,077, Walgreens: $1,077, Walmart: $1,108, Costco: $1,116. Avg retail: $1,812.29."
+    },
+    {
+      "pharmacy_name": "WAC List Price",
+      "pharmacy_type": "wac_list",
+      "source": "wac_list",
+      "prices": {
+        "0.25mg": 1349.02,
+        "0.5mg": 1349.02,
+        "1mg": 1349.02,
+        "1.7mg": 1349.02,
+        "2.4mg": 1349.02
+      },
+      "notes": "Wholesale Acquisition Cost (WAC) from Novo Nordisk. All doses: $1,349.02/mo."
+    },
+    {
+      "pharmacy_name": "WeightWatchers Clinic",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 1349.02,
+        "0.5mg": 1349.02,
+        "1mg": 1349.02,
+        "1.7mg": 1349.02,
+        "2.4mg": 1349.02
+      },
+      "notes": "Subscription $25-$49 first month, then $74-$145/mo + medication. Wegovy list price $1,349.02/mo."
+    },
+    {
+      "pharmacy_name": "TrumpRx",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Direct-to-consumer: $199/$349 self-pay by dosage. Medicare/Medicaid: $245 with $50 copay."
+    },
+    {
+      "pharmacy_name": "GoodRx Care",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 149.0,
+        "0.5mg": 149.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "GoodRx Care telehealth. Wegovy pill $149/mo, pen $199-$349 via NovoCare."
+    },
+    {
+      "pharmacy_name": "Rite Aid",
+      "pharmacy_type": "retail_chain",
+      "source": "retail_chain",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Novo Nordisk partnership: $349/mo self-pay. Rite Aid cash avg: $1,419."
+    },
+    {
+      "pharmacy_name": "Express Scripts",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Mail order pharmacy. NovoCare self-pay pricing."
+    },
+    {
+      "pharmacy_name": "OptumRx",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Mail order pharmacy. NovoCare self-pay pricing."
+    },
+    {
+      "pharmacy_name": "CVS Caremark Mail Order",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Mail order pharmacy. NovoCare self-pay pricing."
+    },
+    {
+      "pharmacy_name": "PillPack (Amazon)",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Amazon's mail-order pharmacy. NovoCare pricing with automatic coupons."
+    },
+    {
+      "pharmacy_name": "GeniusRx",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Online pharmacy discount platform. NovoCare pricing."
+    },
+    {
+      "pharmacy_name": "Blink Health",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Online discount pharmacy. BlinkRx platform for branded medications."
+    },
+    {
+      "pharmacy_name": "RxSaver",
+      "pharmacy_type": "price_comparison",
+      "source": "price_comparison",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Prescription discount platform. NovoCare pricing available."
+    },
+    {
+      "pharmacy_name": "Noom Med",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Subscription $99-$149/mo + medication costs. NovoCare pricing."
+    },
+    {
+      "pharmacy_name": "Nurx",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Telehealth offering GLP-1s. NovoCare pricing."
+    },
+    {
+      "pharmacy_name": "K Health",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Telehealth GLP-1 prescriber. NovoCare pricing."
+    },
+    {
+      "pharmacy_name": "Calibrate",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Telehealth GLP-1 prescriber. NovoCare pricing."
+    },
+    {
+      "pharmacy_name": "Found",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Telehealth weight loss. NovoCare pricing."
+    },
+    {
+      "pharmacy_name": "Meijer Pharmacy",
+      "pharmacy_type": "retail_chain",
+      "source": "retail_chain",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Novo Nordisk partnership: $349/mo self-pay."
+    },
+    {
+      "pharmacy_name": "HEB Pharmacy",
+      "pharmacy_type": "retail_chain",
+      "source": "retail_chain",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "1.7mg": 349.0,
+        "2.4mg": 349.0
+      },
+      "notes": "Novo Nordisk partnership: $349/mo self-pay."
+    },
+    {
+      "pharmacy_name": "HealthWarehouse",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      },
+      "notes": "Online pharmacy. Carries GLP-1 medications but specific Wegovy prices not publicly listed."
+    }
+  ],
+  "summary": {
+    "0.25mg": {
+      "min": 149.0,
+      "max": 1599.0,
+      "avg": 404.42,
+      "count": 39
+    },
+    "0.5mg": {
+      "min": 149.0,
+      "max": 1599.0,
+      "avg": 404.42,
+      "count": 39
+    },
+    "1mg": {
+      "min": 149.0,
+      "max": 1599.0,
+      "avg": 444.17,
+      "count": 39
+    },
+    "1.7mg": {
+      "min": 149.0,
+      "max": 1599.0,
+      "avg": 444.17,
+      "count": 39
+    },
+    "2.4mg": {
+      "min": 149.0,
+      "max": 1599.0,
+      "avg": 445.45,
+      "count": 39
+    }
+  }
+}
