@@ -3,7 +3,7 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-07-25T07:05:51.903548+04:00",
+  "last_updated": "2026-07-26T07:08:57.736305+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 49,
   "dosages": [
@@ -503,7 +503,7 @@
         "1mg": 791.97,
         "2mg": 791.97
       },
-      "notes": "SingleCare coupon at Kroger/Harris Teeter: $791.97. CVS: $880.11, Walgreens: $887.81, Walmart: $862.39, Costco: $872.12, Publix: $850.46. Avg retail: $1,386.01. Prices updated 07/23/2026."
+      "notes": "SingleCare coupon at Kroger/Harris Teeter: $791.97. CVS: $880.11, Walgreens: $887.81, Walmart: $862.39, Costco: $872.12, Publix: $850.46. Avg retail: $1,386.01. Prices updated 07/26/2026."
     },
     {
       "pharmacy_name": "WAC List Price",

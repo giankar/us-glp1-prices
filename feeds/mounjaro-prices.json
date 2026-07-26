@@ -3,9 +3,9 @@
   "generic_name": "tirzepatide",
   "manufacturer": "Eli Lilly",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-07-25T07:05:51.903548+04:00",
+  "last_updated": "2026-07-26T07:08:57.736305+04:00",
   "reference_zip": "10001",
-  "total_pharmacies": 42,
+  "total_pharmacies": 45,
   "dosages": [
     "2.5mg",
     "5mg",
@@ -167,7 +167,7 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Prescription discount platform. Standard pricing."
+      "notes": "Prescription discount platform. Standard pricing for Mounjaro."
     },
     {
       "pharmacy_name": "TrumpRx",
@@ -181,7 +181,7 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Direct-to-consumer. Standard WAC pricing for Mounjaro (no manufacturer self-pay discount)."
+      "notes": "Direct-to-consumer online pharmacy. Mounjaro at WAC list price."
     },
     {
       "pharmacy_name": "HealthWarehouse",
@@ -209,7 +209,7 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Costco cash avg for Mounjaro ~$1,319. No membership required for pharmacy."
+      "notes": "Standard pricing for Mounjaro. No manufacturer self-pay discount."
     },
     {
       "pharmacy_name": "Walmart Pharmacy",
@@ -223,7 +223,7 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Walmart cash avg for Mounjaro ~$1,351. Standard retail pricing."
+      "notes": "Standard pricing for Mounjaro."
     },
     {
       "pharmacy_name": "CVS Pharmacy",
@@ -237,7 +237,7 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "CVS cash avg for Mounjaro ~$1,312. Standard retail pricing."
+      "notes": "Standard pricing for Mounjaro. No manufacturer self-pay discount."
     },
     {
       "pharmacy_name": "Walgreens",
@@ -251,7 +251,7 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Walgreens cash avg for Mounjaro ~$1,336. Standard retail pricing."
+      "notes": "Standard pricing for Mounjaro."
     },
     {
       "pharmacy_name": "Kroger Pharmacy",
@@ -265,7 +265,7 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Kroger cash avg for Mounjaro ~$1,335. Standard retail pricing."
+      "notes": "Standard pricing for Mounjaro."
     },
     {
       "pharmacy_name": "Publix Pharmacy",
@@ -279,7 +279,21 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Standard retail pricing for Mounjaro."
+      "notes": "Standard pricing for Mounjaro."
+    },
+    {
+      "pharmacy_name": "Sam's Club Pharmacy",
+      "pharmacy_type": "retail_chain",
+      "source": "retail_chain",
+      "prices": {
+        "2.5mg": 1079.77,
+        "5mg": 1079.77,
+        "7.5mg": 1079.77,
+        "10mg": 1079.77,
+        "12.5mg": 1079.77,
+        "15mg": 1079.77
+      },
+      "notes": "Standard pricing for Mounjaro."
     },
     {
       "pharmacy_name": "Rite Aid",
@@ -293,10 +307,10 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Standard retail pricing for Mounjaro."
+      "notes": "Standard pricing for Mounjaro."
     },
     {
-      "pharmacy_name": "Meijer Pharmacy",
+      "pharmacy_name": "Hy-Vee",
       "pharmacy_type": "retail_chain",
       "source": "retail_chain",
       "prices": {
@@ -307,7 +321,7 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Standard retail pricing for Mounjaro."
+      "notes": "Standard pricing for Mounjaro."
     },
     {
       "pharmacy_name": "HEB Pharmacy",
@@ -321,7 +335,21 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Standard retail pricing for Mounjaro."
+      "notes": "Standard pricing for Mounjaro."
+    },
+    {
+      "pharmacy_name": "Meijer Pharmacy",
+      "pharmacy_type": "retail_chain",
+      "source": "retail_chain",
+      "prices": {
+        "2.5mg": 1079.77,
+        "5mg": 1079.77,
+        "7.5mg": 1079.77,
+        "10mg": 1079.77,
+        "12.5mg": 1079.77,
+        "15mg": 1079.77
+      },
+      "notes": "Standard pricing for Mounjaro."
     },
     {
       "pharmacy_name": "Hims & Hers",
@@ -335,7 +363,7 @@
         "12.5mg": 1899.0,
         "15mg": 1899.0
       },
-      "notes": "Mounjaro injection $1,899/mo. Membership: $39 first month, $149/mo ongoing. Also offers Zepbound $1,899/mo, Wegovy pill $149/mo, Wegovy pen $199/mo, Foundayo $149/mo, Ozempic pill $149/mo, Ozempic $199/mo."
+      "notes": "Mounjaro $1,899/mo. Membership: $39 first month, $149/mo ongoing. Zepbound KwikPen $299/mo, Zepbound vial $299/mo as alternatives."
     },
     {
       "pharmacy_name": "Ro",
@@ -349,7 +377,7 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Ro Body membership: $45 first month, $145/mo ongoing. Mounjaro available, standard pricing. Zepbound KwikPen $299/mo, Wegovy pill $149/mo, Foundayo $149/mo."
+      "notes": "Ro Body membership: $45 first month, $145/mo ongoing. Mounjaro at WAC price. Zepbound KwikPen from $299/mo as alternative."
     },
     {
       "pharmacy_name": "Sesame Care",
@@ -363,7 +391,7 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Subscription from $59/mo (annual), $99/mo month-to-month. Mounjaro at standard list pricing. Zepbound KwikPen $299-$698/mo, Wegovy pen $199 first 2 months then $349, Wegovy pill $149/mo, Foundayo $149-$349/mo, Zepbound vial $299/mo, Zepbound pen $1,086/mo, Ozempic $199-$499/mo."
+      "notes": "Subscription from $59/mo (annual), $99/mo month-to-month. Mounjaro at WAC price. Zepbound KwikPen $299-$698/mo, Zepbound vial $299/mo as alternatives."
     },
     {
       "pharmacy_name": "PlushCare",
@@ -377,7 +405,7 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Membership ~$19.99/mo + $129/visit. Mounjaro self-pay ~$1,000-$1,080. Zepbound $1,087."
+      "notes": "Membership ~$19.99/mo + $129/visit. Mounjaro at WAC price. Zepbound $1,087."
     },
     {
       "pharmacy_name": "Lemonaid Health",
@@ -391,7 +419,7 @@
         "12.5mg": 1199.0,
         "15mg": 1199.0
       },
-      "notes": "Membership $49/mo. Mounjaro ~$1,199/mo. Compounded tirzepatide $299/mo (monthly), $249/mo (3-mo), $229/mo (6-mo). Zepbound vials via LillyDirect from $299/mo."
+      "notes": "Membership $49/mo. Mounjaro $1,199/mo billed separately. Compounded tirzepatide $299/mo (monthly), $249/mo (3-mo), $229/mo (6-mo). Zepbound vials via LillyDirect from $299/mo."
     },
     {
       "pharmacy_name": "WeightWatchers Clinic",
@@ -419,7 +447,7 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Subscription $149/mo (initial), then $349/mo. Standard pricing for Mounjaro. GLP-1 Rx Plus program."
+      "notes": "Subscription $149/mo. Mounjaro at WAC price. GLP-1 Rx Plus program."
     },
     {
       "pharmacy_name": "Nurx",
@@ -433,7 +461,7 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Telehealth offering GLP-1s. Standard pricing."
+      "notes": "Telehealth offering GLP-1s. Mounjaro at WAC price."
     },
     {
       "pharmacy_name": "K Health",
@@ -447,7 +475,7 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Telehealth GLP-1 prescriber. Standard pricing."
+      "notes": "Telehealth GLP-1 prescriber. Mounjaro at WAC price."
     },
     {
       "pharmacy_name": "Calibrate",
@@ -461,7 +489,7 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Telehealth GLP-1 prescriber. Standard pricing."
+      "notes": "Telehealth GLP-1 prescriber. Mounjaro at WAC price."
     },
     {
       "pharmacy_name": "Found",
@@ -475,7 +503,7 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Telehealth weight loss. Standard pricing."
+      "notes": "Telehealth weight loss. Mounjaro at WAC price."
     },
     {
       "pharmacy_name": "GoodRx Care",
@@ -489,7 +517,21 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "GoodRx Care Direct: $39/mo membership + medication cost. Mounjaro at standard pricing. Zepbound vial $299/mo, Foundayo $149/mo, Wegovy pill $149/mo, Wegovy pen $199-$349/mo."
+      "notes": "GoodRx Care Direct: $39/mo membership + medication cost. Mounjaro at WAC. Zepbound vial $299/mo, Zepbound KwikPen $299-$698/mo as alternatives."
+    },
+    {
+      "pharmacy_name": "GoodRx",
+      "pharmacy_type": "price_comparison",
+      "source": "goodrx",
+      "prices": {
+        "2.5mg": 872.48,
+        "5mg": 872.48,
+        "7.5mg": 872.48,
+        "10mg": 872.48,
+        "12.5mg": 872.48,
+        "15mg": 872.48
+      },
+      "notes": "GoodRx coupon price. Lowest coupon: $872.48/mo. Avg retail: $1,557.15."
     },
     {
       "pharmacy_name": "SingleCare",
@@ -503,10 +545,10 @@
         "12.5mg": 872.48,
         "15mg": 872.48
       },
-      "notes": "SingleCare coupon at Kroger/Harris Teeter: $872.48. CVS: $931.04, Walgreens: $927.61, Walmart: $953.07, Costco: $952.94, Publix: $929.25. Avg retail: $1,557.15. Prices updated 07/25/2026."
+      "notes": "SingleCare coupon at Kroger/Harris Teeter: $872.48. Walgreens: $927.61, CVS: $931.04, Publix: $929.25, Costco: $952.94, Walmart: $953.07. Avg retail: $1,557.15. Prices updated 07/25/2026."
     },
     {
-      "pharmacy_name": "Kroger (SingleCare)",
+      "pharmacy_name": "Kroger Pharmacy (SingleCare)",
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
@@ -517,10 +559,10 @@
         "12.5mg": 872.48,
         "15mg": 872.48
       },
-      "notes": "SingleCare coupon at Kroger: $872.48. Retail: $1,334.50."
+      "notes": "SingleCare coupon price at Kroger. Retail: $1,334.50."
     },
     {
-      "pharmacy_name": "CVS (SingleCare)",
+      "pharmacy_name": "CVS Pharmacy (SingleCare)",
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
@@ -531,7 +573,7 @@
         "12.5mg": 931.04,
         "15mg": 931.04
       },
-      "notes": "SingleCare coupon at CVS: $931.04. Retail: $1,312."
+      "notes": "SingleCare coupon price at CVS. Retail: $1,312.00."
     },
     {
       "pharmacy_name": "Walgreens (SingleCare)",
@@ -545,7 +587,7 @@
         "12.5mg": 927.61,
         "15mg": 927.61
       },
-      "notes": "SingleCare coupon at Walgreens: $927.61. Retail: $1,336.08."
+      "notes": "SingleCare coupon price at Walgreens. Retail: $1,336.08."
     },
     {
       "pharmacy_name": "Walmart (SingleCare)",
@@ -559,7 +601,7 @@
         "12.5mg": 953.07,
         "15mg": 953.07
       },
-      "notes": "SingleCare coupon at Walmart: $953.07. Retail: $1,351.26."
+      "notes": "SingleCare coupon price at Walmart. Retail: $1,351.26."
     },
     {
       "pharmacy_name": "Costco (SingleCare)",
@@ -573,7 +615,7 @@
         "12.5mg": 952.94,
         "15mg": 952.94
       },
-      "notes": "SingleCare coupon at Costco: $952.94. Retail: ~$1,319."
+      "notes": "SingleCare coupon price at Costco. Retail: ~$1,319."
     },
     {
       "pharmacy_name": "Publix (SingleCare)",
@@ -587,7 +629,7 @@
         "12.5mg": 929.25,
         "15mg": 929.25
       },
-      "notes": "SingleCare coupon at Publix: $929.25."
+      "notes": "SingleCare coupon price at Publix."
     },
     {
       "pharmacy_name": "Albertsons (SingleCare)",
@@ -601,45 +643,45 @@
         "12.5mg": 1061.6,
         "15mg": 1061.6
       },
-      "notes": "SingleCare coupon at Albertsons: $1,061.60. Retail: $1,351.70."
+      "notes": "SingleCare coupon price at Albertsons. Retail: $1,351.70."
     }
   ],
   "summary": {
     "2.5mg": {
       "min": 872.48,
       "max": 1899.0,
-      "avg": 1074.91,
-      "count": 41
+      "avg": 1070.53,
+      "count": 44
     },
     "5mg": {
       "min": 872.48,
       "max": 1899.0,
-      "avg": 1074.91,
-      "count": 41
+      "avg": 1070.53,
+      "count": 44
     },
     "7.5mg": {
       "min": 872.48,
       "max": 1899.0,
-      "avg": 1074.91,
-      "count": 41
+      "avg": 1070.53,
+      "count": 44
     },
     "10mg": {
       "min": 872.48,
       "max": 1899.0,
-      "avg": 1074.91,
-      "count": 41
+      "avg": 1070.53,
+      "count": 44
     },
     "12.5mg": {
       "min": 872.48,
       "max": 1899.0,
-      "avg": 1074.91,
-      "count": 41
+      "avg": 1070.53,
+      "count": 44
     },
     "15mg": {
       "min": 872.48,
       "max": 1899.0,
-      "avg": 1074.91,
-      "count": 41
+      "avg": 1070.53,
+      "count": 44
     }
   }
 }
