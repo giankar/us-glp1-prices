@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-26T07:08:57.736305+04:00",
+  "last_updated": "2026-07-27T07:10:11.082889+04:00",
   "medications": [
     {
       "medication": "Ozempic",
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-07-26T07:08:57.736305+04:00",
+      "last_updated": "2026-07-27T07:10:11.082889+04:00",
       "reference_zip": "10001",
       "total_pharmacies": 49,
       "dosages": [
@@ -350,7 +350,7 @@
             "1mg": 349.0,
             "2mg": 499.0
           },
-          "notes": "Branded Ozempic via Novo Nordisk partnership. Pill from $149/mo, injection from $199/mo. Membership: $39 first month, $149/mo ongoing. Mounjaro $1,899/mo, Zepbound $1,899/mo."
+          "notes": "Novo Nordisk partnership. Ozempic pen $199-$349, pill $149-$299. Membership: $39 first month, $149/mo ongoing. Mounjaro $1,899/mo, Zepbound $1,899/mo."
         },
         {
           "pharmacy_name": "Ro",
@@ -374,7 +374,7 @@
             "1mg": 349.0,
             "2mg": 499.0
           },
-          "notes": "Subscription from $59/mo (annual), $99/mo month-to-month. NovoCare self-pay pricing: $199 first 2 months, then $349 (0.25-1mg) or $499 (2mg). Wegovy pill $149/mo, Wegovy pen $199/mo first 2 months then $349, Zepbound KwikPen $299-$698/mo, Foundayo $149-$349/mo, Zepbound vial $299/mo, Zepbound pen $1,086/mo."
+          "notes": "Subscription from $59/mo (annual), $99/mo month-to-month. NovoCare self-pay pricing: $199 first 2 months, then $349 (0.25-1mg) or $499 (2mg). Wegovy pill $149/mo, Wegovy pen $199/mo first 2 months then $349, Zepbound KwikPen $299-$698/mo, Foundayo $149-$349/mo."
         },
         {
           "pharmacy_name": "PlushCare",
@@ -398,7 +398,7 @@
             "1mg": 1199.0,
             "2mg": 1199.0
           },
-          "notes": "Membership $49/mo. Ozempic $1,199/mo billed separately. Compounded tirzepatide $299/mo (monthly), $249/mo (3-mo), $229/mo (6-mo). Compounded semaglutide $299/mo. Wegovy $1,599/mo. Zepbound vials via LillyDirect from $299/mo."
+          "notes": "Membership $49/mo. Ozempic $1,199/mo billed separately. Compounded tirzepatide $299/mo, $249/mo (3-mo), $229/mo (6-mo). Compounded semaglutide $299/mo. Wegovy $1,599/mo. Zepbound vials via LillyDirect from $299/mo."
         },
         {
           "pharmacy_name": "WeightWatchers Clinic",
@@ -482,7 +482,7 @@
             "1mg": 349.0,
             "2mg": 499.0
           },
-          "notes": "GoodRx Care Direct: $39/mo membership + medication cost. Foundayo $149/mo (0.8mg), Wegovy pill $149/mo (1.5/4mg), Wegovy pen $199 first 2 fills then $349, Zepbound vial $299/mo."
+          "notes": "GoodRx Care Direct: $39/mo membership + medication cost. Foundayo $149/mo, Wegovy pill $149/mo, Wegovy pen $199 first 2 fills then $349, Zepbound vial $299/mo."
         },
         {
           "pharmacy_name": "GoodRx",
@@ -494,7 +494,7 @@
             "1mg": 149.0,
             "2mg": 149.0
           },
-          "notes": "GoodRx coupon price at Walgreens, Walmart, CVS, Kroger, Costco, Target, Publix, Sam's Club. Lowest coupon: $149/mo. Avg retail: $1,220.85."
+          "notes": "GoodRx coupon price at Walgreens, Walmart, CVS, Kroger, Costco, Target, Publix, Sam's Club. Lowest coupon: $149/mo. Avg retail: $1,211.28."
         },
         {
           "pharmacy_name": "SingleCare",
@@ -506,7 +506,7 @@
             "1mg": 791.97,
             "2mg": 791.97
           },
-          "notes": "SingleCare coupon at Kroger/Harris Teeter: $791.97. CVS: $880.11, Walgreens: $887.81, Walmart: $862.39, Costco: $872.12, Publix: $850.46. Avg retail: $1,386.01. Prices updated 07/26/2026."
+          "notes": "SingleCare coupon at Kroger/Harris Teeter: $791.97. CVS: $880.11, Walgreens: $887.81, Walmart: $862.39, Costco: $872.12, Publix: $850.46. Avg retail: $1,386.01. Prices updated 07/27/2026."
         },
         {
           "pharmacy_name": "WAC List Price",
@@ -637,7 +637,7 @@
       "generic_name": "tirzepatide",
       "manufacturer": "Eli Lilly",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-07-26T07:08:57.736305+04:00",
+      "last_updated": "2026-07-27T07:10:11.082889+04:00",
       "reference_zip": "10001",
       "total_pharmacies": 45,
       "dosages": [
@@ -1053,7 +1053,7 @@
             "12.5mg": 1199.0,
             "15mg": 1199.0
           },
-          "notes": "Membership $49/mo. Mounjaro $1,199/mo billed separately. Compounded tirzepatide $299/mo (monthly), $249/mo (3-mo), $229/mo (6-mo). Zepbound vials via LillyDirect from $299/mo."
+          "notes": "Membership $49/mo. Mounjaro $1,199/mo billed separately. Compounded tirzepatide $299/mo, $249/mo (3-mo), $229/mo (6-mo). Zepbound vials via LillyDirect from $299/mo."
         },
         {
           "pharmacy_name": "WeightWatchers Clinic",
@@ -1165,7 +1165,7 @@
             "12.5mg": 872.48,
             "15mg": 872.48
           },
-          "notes": "GoodRx coupon price. Lowest coupon: $872.48/mo. Avg retail: $1,557.15."
+          "notes": "GoodRx coupon price. Lowest coupon: $872.48/mo. Avg retail: $1,557.61."
         },
         {
           "pharmacy_name": "SingleCare",
@@ -1179,7 +1179,7 @@
             "12.5mg": 872.48,
             "15mg": 872.48
           },
-          "notes": "SingleCare coupon at Kroger/Harris Teeter: $872.48. Walgreens: $927.61, CVS: $931.04, Publix: $929.25, Costco: $952.94, Walmart: $953.07. Avg retail: $1,557.15. Prices updated 07/25/2026."
+          "notes": "SingleCare coupon at Kroger/Harris Teeter: $872.48. Walgreens: $927.61, CVS: $931.04, Publix: $929.25, Costco: $952.94, Walmart: $953.07. Avg retail: $1,557.61. Prices updated 07/27/2026."
         },
         {
           "pharmacy_name": "Kroger Pharmacy (SingleCare)",
@@ -1324,7 +1324,7 @@
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Weight Loss",
-      "last_updated": "2026-07-26T07:08:57.736305+04:00",
+      "last_updated": "2026-07-27T07:10:11.082889+04:00",
       "reference_zip": "10001",
       "total_pharmacies": 49,
       "dosages": [
@@ -1697,7 +1697,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "Branded Wegovy via Novo Nordisk partnership. Wegovy pill from $149/mo, Wegovy pen from $199/mo. Membership: $39 first month, $149/mo ongoing. Zepbound KwikPen $299/mo, Foundayo from $149/mo."
+          "notes": "Novo Nordisk partnership. Wegovy pill from $149/mo, Wegovy pen from $199/mo. Membership: $39 first month, $149/mo ongoing. Zepbound KwikPen $299/mo, Foundayo from $149/mo."
         },
         {
           "pharmacy_name": "Ro",
@@ -1749,7 +1749,7 @@
             "1.7mg": 1599.0,
             "2.4mg": 1599.0
           },
-          "notes": "Membership $49/mo. Wegovy $1,599/mo billed separately. Compounded tirzepatide $299/mo (monthly), $249/mo (3-mo), $229/mo (6-mo). Compounded semaglutide $299/mo. Zepbound vials via LillyDirect from $299/mo."
+          "notes": "Membership $49/mo. Wegovy $1,599/mo billed separately. Compounded tirzepatide $299/mo, $249/mo (3-mo), $229/mo (6-mo). Compounded semaglutide $299/mo. Zepbound vials via LillyDirect from $299/mo."
         },
         {
           "pharmacy_name": "WeightWatchers Clinic",
@@ -1866,7 +1866,7 @@
             "1.7mg": 1010.5,
             "2.4mg": 1010.5
           },
-          "notes": "SingleCare coupon at Kroger/Harris Teeter: $1,010.50. Walgreens: $1,077.00, CVS: $1,077.42, Publix: $1,086.35, Walmart: $1,108.14, Costco: $1,115.72. Avg retail: $1,812.29. Prices updated 07/25/2026."
+          "notes": "SingleCare coupon at Kroger/Harris Teeter: $1,010.50. Walgreens: $1,077.00, CVS: $1,077.42, Publix: $1,086.35, Walmart: $1,108.14, Costco: $1,115.72. Avg retail: $1,812.29. Prices updated 07/27/2026."
         },
         {
           "pharmacy_name": "WAC List Price",
