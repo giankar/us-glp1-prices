@@ -3,7 +3,7 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Weight Loss",
-  "last_updated": "2026-07-28T07:12:37.743780+04:00",
+  "last_updated": "2026-07-29T07:09:34.508890+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 49,
   "dosages": [
@@ -402,7 +402,7 @@
         "1.7mg": 349.0,
         "2.4mg": 349.0
       },
-      "notes": "Subscription from $59/mo (annual), $99/mo month-to-month. Wegovy pill $149/mo, Wegovy pen $199 first 2 months then $349. Zepbound KwikPen $299-$698/mo, Foundayo $149-$349/mo, Zepbound vial $299/mo, Zepbound pen $1,086/mo."
+      "notes": "Subscription from $59/mo (annual), $99/mo month-to-month. Wegovy pill $149/mo, Wegovy pen $199 first 2 months then $349. Zepbound KwikPen $299-$698/mo, Foundayo $149-$349/mo, Zepbound vial $299/mo."
     },
     {
       "pharmacy_name": "PlushCare",

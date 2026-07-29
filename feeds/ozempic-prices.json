@@ -3,7 +3,7 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-07-28T07:12:37.743780+04:00",
+  "last_updated": "2026-07-29T07:09:34.508890+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 49,
   "dosages": [
@@ -491,7 +491,7 @@
         "1mg": 149.0,
         "2mg": 149.0
       },
-      "notes": "GoodRx coupon price at Walgreens, Walmart, CVS, Kroger, Costco, Target, Publix, Sam's Club. Lowest coupon: $149/mo. Avg retail: $1,211.28."
+      "notes": "GoodRx coupon price at Walgreens, Walmart, CVS, Kroger, Costco, Target, Publix, Sam's Club. Lowest coupon: $149/mo. Avg retail: $1,211.28. Updated 07/27/26."
     },
     {
       "pharmacy_name": "SingleCare",
@@ -503,7 +503,7 @@
         "1mg": 791.97,
         "2mg": 791.97
       },
-      "notes": "SingleCare coupon at Kroger/Harris Teeter: $791.97. CVS: $880.11, Walgreens: $887.81, Walmart: $862.39, Costco: $872.12, Publix: $850.46. Avg retail: $1,386.01. Prices updated 07/28/2026."
+      "notes": "SingleCare coupon at Kroger/Harris Teeter: $791.97. CVS: $880.11, Walgreens: $887.81, Walmart: $862.39, Costco: $872.12, Publix: $850.46. Avg retail: $1,386.03. Prices updated 07/28/2026."
     },
     {
       "pharmacy_name": "WAC List Price",

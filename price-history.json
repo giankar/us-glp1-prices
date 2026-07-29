@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-28T07:12:37.743780+04:00",
+  "last_updated": "2026-07-29T07:09:34.508890+04:00",
   "medications": [
     {
       "medication": "Ozempic",
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-07-28T07:12:37.743780+04:00",
+      "last_updated": "2026-07-29T07:09:34.508890+04:00",
       "reference_zip": "10001",
       "total_pharmacies": 49,
       "dosages": [
@@ -494,7 +494,7 @@
             "1mg": 149.0,
             "2mg": 149.0
           },
-          "notes": "GoodRx coupon price at Walgreens, Walmart, CVS, Kroger, Costco, Target, Publix, Sam's Club. Lowest coupon: $149/mo. Avg retail: $1,211.28."
+          "notes": "GoodRx coupon price at Walgreens, Walmart, CVS, Kroger, Costco, Target, Publix, Sam's Club. Lowest coupon: $149/mo. Avg retail: $1,211.28. Updated 07/27/26."
         },
         {
           "pharmacy_name": "SingleCare",
@@ -506,7 +506,7 @@
             "1mg": 791.97,
             "2mg": 791.97
           },
-          "notes": "SingleCare coupon at Kroger/Harris Teeter: $791.97. CVS: $880.11, Walgreens: $887.81, Walmart: $862.39, Costco: $872.12, Publix: $850.46. Avg retail: $1,386.01. Prices updated 07/28/2026."
+          "notes": "SingleCare coupon at Kroger/Harris Teeter: $791.97. CVS: $880.11, Walgreens: $887.81, Walmart: $862.39, Costco: $872.12, Publix: $850.46. Avg retail: $1,386.03. Prices updated 07/28/2026."
         },
         {
           "pharmacy_name": "WAC List Price",
@@ -637,7 +637,7 @@
       "generic_name": "tirzepatide",
       "manufacturer": "Eli Lilly",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-07-28T07:12:37.743780+04:00",
+      "last_updated": "2026-07-29T07:09:34.508890+04:00",
       "reference_zip": "10001",
       "total_pharmacies": 45,
       "dosages": [
@@ -1324,7 +1324,7 @@
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Weight Loss",
-      "last_updated": "2026-07-28T07:12:37.743780+04:00",
+      "last_updated": "2026-07-29T07:09:34.508890+04:00",
       "reference_zip": "10001",
       "total_pharmacies": 49,
       "dosages": [
@@ -1723,7 +1723,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "Subscription from $59/mo (annual), $99/mo month-to-month. Wegovy pill $149/mo, Wegovy pen $199 first 2 months then $349. Zepbound KwikPen $299-$698/mo, Foundayo $149-$349/mo, Zepbound vial $299/mo, Zepbound pen $1,086/mo."
+          "notes": "Subscription from $59/mo (annual), $99/mo month-to-month. Wegovy pill $149/mo, Wegovy pen $199 first 2 months then $349. Zepbound KwikPen $299-$698/mo, Foundayo $149-$349/mo, Zepbound vial $299/mo."
         },
         {
           "pharmacy_name": "PlushCare",
