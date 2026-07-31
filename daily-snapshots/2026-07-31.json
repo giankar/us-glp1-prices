@@ -1,0 +1,1581 @@
+{
+  "date": "2026-07-31",
+  "timestamp": "2026-07-31T07:12:42.825289+04:00",
+  "ozempic": {
+    "medication": "Ozempic",
+    "generic_name": "semaglutide",
+    "manufacturer": "Novo Nordisk",
+    "indication": "Type 2 Diabetes",
+    "last_updated": "2026-07-31T07:12:42.825289+04:00",
+    "reference_zip": "10001",
+    "total_pharmacies": 38,
+    "dosages": [
+      "0.25mg",
+      "0.5mg",
+      "1mg",
+      "2mg"
+    ],
+    "pharmacies": [
+      {
+        "pharmacy_name": "NovoCare Pharmacy",
+        "pharmacy_type": "manufacturer_direct",
+        "source": "manufacturer_direct",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Self-pay: $199/mo first 2 fills (0.25/0.5mg), $349/mo existing (0.25/0.5/1mg), $499/mo (2mg). Offer through Dec 31, 2026. CoAssist Pharmacy is dispensing partner. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "WAC List Price",
+        "pharmacy_type": "wac_list",
+        "source": "wac_list",
+        "prices": {
+          "0.25mg": 1027.51,
+          "0.5mg": 1027.51,
+          "1mg": 1027.51,
+          "2mg": 1027.51
+        },
+        "notes": "Wholesale Acquisition Cost (WAC) from novopricing.com. List price before discounts. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Amazon Pharmacy",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Automatic manufacturer coupons at checkout. Cash-pay via NovoCare self-pay pricing. No membership fee. Also supports Medicare GLP-1 Bridge Program. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Honeybee Health",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Online mail-order pharmacy. NovoCare self-pay pricing for cash patients. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "CenterWell Pharmacy",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 349.0,
+          "0.5mg": 349.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Fulfills NovoCare Pharmacy orders. NovoCare self-pay pricing for existing patients. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Express Scripts",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 1027.51,
+          "0.5mg": 1027.51,
+          "1mg": 1027.51,
+          "2mg": 1027.51
+        },
+        "notes": "Mail order pharmacy. WAC list price for cash patients without manufacturer coupon. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "OptumRx",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 1027.51,
+          "0.5mg": 1027.51,
+          "1mg": 1027.51,
+          "2mg": 1027.51
+        },
+        "notes": "Mail order pharmacy. WAC list price for cash patients. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "CVS Caremark Mail Order",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 1027.51,
+          "0.5mg": 1027.51,
+          "1mg": 1027.51,
+          "2mg": 1027.51
+        },
+        "notes": "Mail order pharmacy. WAC list price for cash patients without coupon. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "PillPack (Amazon)",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Amazon's mail-order pharmacy. NovoCare self-pay pricing applied automatically. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "GeniusRx",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Online pharmacy discount platform. NovoCare self-pay pricing with coupon. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Blink Health",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Online discount pharmacy. NovoCare self-pay pricing with coupon. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "RxSaver",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Prescription discount platform. Coupon prices at retail pharmacies. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "TrumpRx",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Federal prescription discount program. Self-pay: $199/mo first 2 fills (0.25/0.5mg), $349/mo existing (0.25/0.5/1mg), $499/mo (2mg). Widely supported at retail pharmacies. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "CVS",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 149.0,
+          "0.5mg": 149.0,
+          "1mg": 149.0,
+          "2mg": 499.0
+        },
+        "notes": "Retail pharmacy. $149/mo with manufacturer coupon for self-pay patients. $49 virtual visit. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Walgreens",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Retail pharmacy. Ozempic injection $199/mo first 2 fills, then $349-$499/mo. Walgreens Weight Management: $49 video visits. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Walmart",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Retail pharmacy. NovoCare manufacturer coupon pricing. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Costco",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Costco Member Prescription Program. NovoCare manufacturer coupon pricing. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Publix",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Retail pharmacy. NovoCare manufacturer coupon pricing for self-pay patients. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Rite Aid",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Retail pharmacy. NovoCare manufacturer coupon pricing. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Hy-Vee",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Retail pharmacy. NovoCare manufacturer coupon pricing. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Meijer",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Retail pharmacy. NovoCare manufacturer coupon pricing. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Kroger",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Retail pharmacy. NovoCare manufacturer coupon pricing. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "HEB",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Retail pharmacy. NovoCare manufacturer coupon pricing. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Albertsons",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Retail pharmacy. NovoCare manufacturer coupon pricing. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Hims & Hers",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Telehealth platform. Ozempic from $199/mo. Membership: $39 first month, then $149/mo. Medication cost separate from membership. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Ro",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "0.25mg": 349.0,
+          "0.5mg": 349.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Telehealth platform. GLP-1s from $349/mo + Ro Body membership fee. Insurance concierge included. Cash-pay or insurance. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Sesame Care",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Telehealth platform. Ozempic from $199/mo. Subscription from $59/mo (annual) to $99/mo (monthly). Medication cost separate. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Lemonaid Health",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "0.25mg": 1199.0,
+          "0.5mg": 1199.0,
+          "1mg": 1199.0,
+          "2mg": 1199.0
+        },
+        "notes": "Telehealth platform. Ozempic $1,199/mo (billed separately). $49/mo membership. Compounded options also available. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "PlushCare",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "0.25mg": 900.0,
+          "0.5mg": 900.0,
+          "1mg": 1000.0,
+          "2mg": 1000.0
+        },
+        "notes": "Telehealth platform. $129/visit self-pay, $19.99/mo membership. Ozempic self-pay ~$900-$1,000/mo. Insurance accepted. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "WeightWatchers Clinic",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "0.25mg": 997.58,
+          "0.5mg": 997.58,
+          "1mg": 997.58,
+          "2mg": 997.58
+        },
+        "notes": "Telehealth platform. Ozempic list price $997.58/mo. Membership $25-$49 first month, then $74-$145/mo. Medication cost separate. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Noom Med",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "0.25mg": 997.58,
+          "0.5mg": 997.58,
+          "1mg": 997.58,
+          "2mg": 997.58
+        },
+        "notes": "Telehealth platform. Ozempic list price ~$997.58/mo. Subscription $99-$149/mo + medication cost. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Nurx",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "0.25mg": 997.58,
+          "0.5mg": 997.58,
+          "1mg": 997.58,
+          "2mg": 997.58
+        },
+        "notes": "Telehealth platform. Offers weight management with GLP-1s. Insurance accepted. Medication cost varies by insurance. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "GoodRx Care",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Telehealth platform. $39/mo membership. GLP-1 medication from $149/mo. FDA-approved medications only. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "HealthWarehouse",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 1027.51,
+          "0.5mg": 1027.51,
+          "1mg": 1027.51,
+          "2mg": 1027.51
+        },
+        "notes": "Online pharmacy. WAC list price for branded Ozempic without manufacturer coupon. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Cost Plus Drugs",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 1027.51,
+          "0.5mg": 1027.51,
+          "1mg": 1027.51,
+          "2mg": 1027.51
+        },
+        "notes": "Mark Cuban's online pharmacy. Branded GLP-1s at WAC list price. Does not carry compounded GLP-1s. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "GoodRx (Coupon)",
+        "pharmacy_type": "price_comparison",
+        "source": "goodrx",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Price comparison site. Coupon prices at retail pharmacies with manufacturer savings card. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "SingleCare (Coupon)",
+        "pharmacy_type": "price_comparison",
+        "source": "singlecare",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Price comparison site. Coupon prices at retail pharmacies. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "SaveHealth (Coupon)",
+        "pharmacy_type": "price_comparison",
+        "source": "price_comparison",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 199.0,
+          "2mg": 199.0
+        },
+        "notes": "Prescription discount platform. Ozempic coupons from $199 at CVS, Walgreens, Walmart, Albertsons. Confirmed 2026-07-31."
+      }
+    ],
+    "summary": {
+      "0.25mg": {
+        "min": 149.0,
+        "max": 1199.0,
+        "avg": 444.21,
+        "count": 38
+      },
+      "0.5mg": {
+        "min": 149.0,
+        "max": 1199.0,
+        "avg": 444.21,
+        "count": 38
+      },
+      "1mg": {
+        "min": 149.0,
+        "max": 1199.0,
+        "avg": 537.63,
+        "count": 38
+      },
+      "2mg": {
+        "min": 199.0,
+        "max": 1199.0,
+        "avg": 645.52,
+        "count": 38
+      }
+    }
+  },
+  "mounjaro": {
+    "medication": "Mounjaro",
+    "generic_name": "tirzepatide",
+    "manufacturer": "Eli Lilly",
+    "indication": "Type 2 Diabetes",
+    "last_updated": "2026-07-31T07:12:42.825289+04:00",
+    "reference_zip": "10001",
+    "total_pharmacies": 35,
+    "dosages": [
+      "2.5mg",
+      "5mg",
+      "7.5mg",
+      "10mg",
+      "12.5mg",
+      "15mg"
+    ],
+    "pharmacies": [
+      {
+        "pharmacy_name": "Lilly Direct",
+        "pharmacy_type": "manufacturer_direct",
+        "source": "manufacturer_direct",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Mounjaro list price $1,112.16/mo (updated Jan 2026). WAC from AnalySource. Self-pay savings options via LillyDirect. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "WAC List Price",
+        "pharmacy_type": "wac_list",
+        "source": "wac_list",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Wholesale Acquisition Cost (WAC) $1,112.16 per fill. List price from pricinginfo.lilly.com. Updated Jan 2026. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Amazon Pharmacy",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Online pharmacy. Mounjaro at WAC list price for cash patients. Also supports Medicare GLP-1 Bridge Program. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Honeybee Health",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Online mail-order pharmacy. Mounjaro at WAC list price for cash patients. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "CenterWell Pharmacy",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Online pharmacy. Mounjaro at WAC list price for cash patients. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Express Scripts",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Mail order pharmacy. Mounjaro at WAC list price for cash patients. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "OptumRx",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Mail order pharmacy. Mounjaro at WAC list price for cash patients. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "CVS Caremark Mail Order",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Mail order pharmacy. Mounjaro at WAC list price for cash patients. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "PillPack (Amazon)",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Amazon's mail-order pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "GeniusRx",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Online pharmacy discount platform. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Blink Health",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Online discount pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "RxSaver",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Prescription discount platform. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "TrumpRx",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Federal prescription discount program. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "CVS",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Retail pharmacy. Mounjaro at WAC list price without insurance. $49 virtual visit. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Walgreens",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Retail pharmacy. Mounjaro at WAC list price. Weight Management $49 video visits. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Walmart",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Costco",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Costco Member Prescription Program. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Publix",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Rite Aid",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Hy-Vee",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Meijer",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Kroger",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "HEB",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Albertsons",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Hims & Hers",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Telehealth platform. Mounjaro at WAC list price. Membership: $39 first month, then $149/mo. Medication cost separate. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Sesame Care",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Telehealth platform. Mounjaro at WAC list price. Subscription from $59/mo (annual) to $99/mo (monthly). Medication cost separate. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "PlushCare",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "2.5mg": 1087.0,
+          "5mg": 1087.0,
+          "7.5mg": 1087.0,
+          "10mg": 1087.0,
+          "12.5mg": 1087.0,
+          "15mg": 1087.0
+        },
+        "notes": "Telehealth platform. Mounjaro self-pay ~$1,087/mo. $129/visit, $19.99/mo membership. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "WeightWatchers Clinic",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "2.5mg": 1079.77,
+          "5mg": 1079.77,
+          "7.5mg": 1079.77,
+          "10mg": 1079.77,
+          "12.5mg": 1079.77,
+          "15mg": 1079.77
+        },
+        "notes": "Telehealth platform. Mounjaro list price $1,079.77/mo (per WW). Membership $25-$49 first month, then $74-$145/mo. Medication cost separate. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Noom Med",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "2.5mg": 1079.77,
+          "5mg": 1079.77,
+          "7.5mg": 1079.77,
+          "10mg": 1079.77,
+          "12.5mg": 1079.77,
+          "15mg": 1079.77
+        },
+        "notes": "Telehealth platform. Mounjaro list price ~$1,079.77/mo. Subscription $99-$149/mo + medication. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Nurx",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "2.5mg": 1079.77,
+          "5mg": 1079.77,
+          "7.5mg": 1079.77,
+          "10mg": 1079.77,
+          "12.5mg": 1079.77,
+          "15mg": 1079.77
+        },
+        "notes": "Telehealth platform. Mounjaro at list price. Insurance accepted. Medication cost varies. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Lemonaid Health",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Telehealth platform. Mounjaro at WAC list price. $49/mo membership. Zepbound vials also available via LillyDirect from $299/mo. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "HealthWarehouse",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Online pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Cost Plus Drugs",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Mark Cuban's online pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "GoodRx (Coupon)",
+        "pharmacy_type": "price_comparison",
+        "source": "goodrx",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Price comparison site. Mounjaro coupon prices at retail pharmacies. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "SingleCare (Coupon)",
+        "pharmacy_type": "price_comparison",
+        "source": "singlecare",
+        "prices": {
+          "2.5mg": 1112.16,
+          "5mg": 1112.16,
+          "7.5mg": 1112.16,
+          "10mg": 1112.16,
+          "12.5mg": 1112.16,
+          "15mg": 1112.16
+        },
+        "notes": "Price comparison site. Mounjaro coupon prices at retail pharmacies. Confirmed 2026-07-31."
+      }
+    ],
+    "summary": {
+      "2.5mg": {
+        "min": 1079.77,
+        "max": 1112.16,
+        "avg": 1108.66,
+        "count": 35
+      },
+      "5mg": {
+        "min": 1079.77,
+        "max": 1112.16,
+        "avg": 1108.66,
+        "count": 35
+      },
+      "7.5mg": {
+        "min": 1079.77,
+        "max": 1112.16,
+        "avg": 1108.66,
+        "count": 35
+      },
+      "10mg": {
+        "min": 1079.77,
+        "max": 1112.16,
+        "avg": 1108.66,
+        "count": 35
+      },
+      "12.5mg": {
+        "min": 1079.77,
+        "max": 1112.16,
+        "avg": 1108.66,
+        "count": 35
+      },
+      "15mg": {
+        "min": 1079.77,
+        "max": 1112.16,
+        "avg": 1108.66,
+        "count": 35
+      }
+    }
+  },
+  "wegovy": {
+    "medication": "Wegovy",
+    "generic_name": "semaglutide",
+    "manufacturer": "Novo Nordisk",
+    "indication": "Weight Loss",
+    "last_updated": "2026-07-31T07:12:42.825289+04:00",
+    "reference_zip": "10001",
+    "total_pharmacies": 37,
+    "dosages": [
+      "0.25mg",
+      "0.5mg",
+      "1mg",
+      "1.7mg",
+      "2.4mg"
+    ],
+    "pharmacies": [
+      {
+        "pharmacy_name": "NovoCare Pharmacy",
+        "pharmacy_type": "manufacturer_direct",
+        "source": "manufacturer_direct",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Self-pay: $199/mo first 2 fills (0.25/0.5mg), then $349/mo all doses. Wegovy HD 7.2mg $399/mo. Offer through Dec 31, 2026. CoAssist Pharmacy is dispensing partner. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "WAC List Price",
+        "pharmacy_type": "wac_list",
+        "source": "wac_list",
+        "prices": {
+          "0.25mg": 1349.02,
+          "0.5mg": 1349.02,
+          "1mg": 1349.02,
+          "1.7mg": 1349.02,
+          "2.4mg": 1349.02
+        },
+        "notes": "Wholesale Acquisition Cost (WAC) from novopricing.com. $1,349.02 per fill. List price before discounts. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Amazon Pharmacy",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Automatic manufacturer coupons at checkout. Cash-pay via NovoCare self-pay pricing. Also supports Medicare GLP-1 Bridge Program. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Honeybee Health",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Online mail-order pharmacy. NovoCare self-pay pricing for cash patients. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "CenterWell Pharmacy",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 349.0,
+          "0.5mg": 349.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Fulfills NovoCare Wegovy orders. NovoCare self-pay pricing for existing patients. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Express Scripts",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 1349.02,
+          "0.5mg": 1349.02,
+          "1mg": 1349.02,
+          "1.7mg": 1349.02,
+          "2.4mg": 1349.02
+        },
+        "notes": "Mail order pharmacy. WAC list price for cash patients without manufacturer coupon. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "OptumRx",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 1349.02,
+          "0.5mg": 1349.02,
+          "1mg": 1349.02,
+          "1.7mg": 1349.02,
+          "2.4mg": 1349.02
+        },
+        "notes": "Mail order pharmacy. WAC list price for cash patients. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "CVS Caremark Mail Order",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 1349.02,
+          "0.5mg": 1349.02,
+          "1mg": 1349.02,
+          "1.7mg": 1349.02,
+          "2.4mg": 1349.02
+        },
+        "notes": "Mail order pharmacy. WAC list price for cash patients. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "PillPack (Amazon)",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Amazon's mail-order pharmacy. NovoCare self-pay pricing. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "GeniusRx",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Online pharmacy discount platform. NovoCare self-pay pricing with coupon. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Blink Health",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Online discount pharmacy. NovoCare self-pay pricing with coupon. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "RxSaver",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Prescription discount platform. Coupon prices at retail pharmacies. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "TrumpRx",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Federal prescription discount program. Self-pay: $199/mo first 2 fills (0.25/0.5mg), $349/mo all doses after. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "CVS",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 149.0,
+          "0.5mg": 149.0,
+          "1mg": 149.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Retail pharmacy. $149/mo with manufacturer coupon for self-pay patients (lower doses). $49 virtual visit. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Walgreens",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Retail pharmacy. Wegovy injection $199/mo first 2 fills, then $349/mo. Walgreens Weight Management: $49 video visits. Wegovy pill $149/mo first 2 months. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Walmart",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Retail pharmacy. NovoCare manufacturer coupon pricing. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Costco",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Costco Member Prescription Program. NovoCare manufacturer coupon pricing. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Publix",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Retail pharmacy. NovoCare manufacturer coupon pricing. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Rite Aid",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Retail pharmacy. NovoCare manufacturer coupon pricing. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Hy-Vee",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Retail pharmacy. NovoCare manufacturer coupon pricing. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Meijer",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Retail pharmacy. NovoCare manufacturer coupon pricing. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Kroger",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Retail pharmacy. NovoCare manufacturer coupon pricing. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "HEB",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Retail pharmacy. NovoCare manufacturer coupon pricing. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Albertsons",
+        "pharmacy_type": "retail_chain",
+        "source": "retail_chain",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Retail pharmacy. NovoCare manufacturer coupon pricing. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Hims & Hers",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Telehealth platform. Wegovy pen from $199/mo. Wegovy pill from $149/mo. Membership: $39 first month, then $149/mo. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Ro",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "0.25mg": 349.0,
+          "0.5mg": 349.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Telehealth platform. Wegovy from $349/mo + Ro Body membership fee. Insurance concierge included. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Sesame Care",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Telehealth platform. Wegovy pen $199/mo first 2 months, then $349/mo. Wegovy pill $149/mo. Subscription from $59/mo (annual). Medication cost separate. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Lemonaid Health",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "0.25mg": 1599.0,
+          "0.5mg": 1599.0,
+          "1mg": 1599.0,
+          "1.7mg": 1599.0,
+          "2.4mg": 1599.0
+        },
+        "notes": "Telehealth platform. Wegovy $1,599/mo (billed separately). $49/mo membership. Compounded options also available. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "PlushCare",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 499.0
+        },
+        "notes": "Telehealth platform. Wegovy $199-$499 via NovoCare. $129/visit, $19.99/mo membership. Insurance accepted. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "WeightWatchers Clinic",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "0.25mg": 1349.02,
+          "0.5mg": 1349.02,
+          "1mg": 1349.02,
+          "1.7mg": 1349.02,
+          "2.4mg": 1349.02
+        },
+        "notes": "Telehealth platform. Wegovy list price $1,349.02/mo. Membership $25-$49 first month, then $74-$145/mo. Medication cost separate. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Noom Med",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "0.25mg": 1349.02,
+          "0.5mg": 1349.02,
+          "1mg": 1349.02,
+          "1.7mg": 1349.02,
+          "2.4mg": 1349.02
+        },
+        "notes": "Telehealth platform. Wegovy list price ~$1,349.02/mo. Subscription $99-$149/mo + medication. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Nurx",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "0.25mg": 1349.02,
+          "0.5mg": 1349.02,
+          "1mg": 1349.02,
+          "1.7mg": 1349.02,
+          "2.4mg": 1349.02
+        },
+        "notes": "Telehealth platform. Wegovy at list price. Insurance accepted. Medication cost varies. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "GoodRx Care",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Telehealth platform. $39/mo membership. Wegovy pen $199/mo first 2 fills, then $349/mo. Wegovy pill $149/mo. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "HealthWarehouse",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 1349.02,
+          "0.5mg": 1349.02,
+          "1mg": 1349.02,
+          "1.7mg": 1349.02,
+          "2.4mg": 1349.02
+        },
+        "notes": "Online pharmacy. WAC list price for branded Wegovy without manufacturer coupon. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "Cost Plus Drugs",
+        "pharmacy_type": "online_pharmacy",
+        "source": "online_pharmacy",
+        "prices": {
+          "0.25mg": 1349.02,
+          "0.5mg": 1349.02,
+          "1mg": 1349.02,
+          "1.7mg": 1349.02,
+          "2.4mg": 1349.02
+        },
+        "notes": "Mark Cuban's online pharmacy. Branded Wegovy at WAC list price. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "GoodRx (Coupon)",
+        "pharmacy_type": "price_comparison",
+        "source": "goodrx",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Price comparison site. Wegovy coupon prices at retail pharmacies with manufacturer savings card. Confirmed 2026-07-31."
+      },
+      {
+        "pharmacy_name": "SingleCare (Coupon)",
+        "pharmacy_type": "price_comparison",
+        "source": "singlecare",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "1.7mg": 349.0,
+          "2.4mg": 349.0
+        },
+        "notes": "Price comparison site. Wegovy coupon prices at retail pharmacies. Confirmed 2026-07-31."
+      }
+    ],
+    "summary": {
+      "0.25mg": {
+        "min": 149.0,
+        "max": 1599.0,
+        "avg": 523.33,
+        "count": 37
+      },
+      "0.5mg": {
+        "min": 149.0,
+        "max": 1599.0,
+        "avg": 523.33,
+        "count": 37
+      },
+      "1mg": {
+        "min": 149.0,
+        "max": 1599.0,
+        "avg": 620.63,
+        "count": 37
+      },
+      "1.7mg": {
+        "min": 349.0,
+        "max": 1599.0,
+        "avg": 626.03,
+        "count": 37
+      },
+      "2.4mg": {
+        "min": 349.0,
+        "max": 1599.0,
+        "avg": 630.09,
+        "count": 37
+      }
+    }
+  }
+}
