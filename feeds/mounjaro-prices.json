@@ -3,7 +3,7 @@
   "generic_name": "tirzepatide",
   "manufacturer": "Eli Lilly",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-07-31T07:12:42.825289+04:00",
+  "last_updated": "2026-08-01T07:08:23.452675+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 35,
   "dosages": [
@@ -27,7 +27,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Mounjaro list price $1,112.16/mo (updated Jan 2026). WAC from AnalySource. Self-pay savings options via LillyDirect. Confirmed 2026-07-31."
+      "notes": "Mounjaro list price $1,112.16/mo (updated Jan 2026). WAC from AnalySource. Self-pay savings options via LillyDirect. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "WAC List Price",
@@ -41,7 +41,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Wholesale Acquisition Cost (WAC) $1,112.16 per fill. List price from pricinginfo.lilly.com. Updated Jan 2026. Confirmed 2026-07-31."
+      "notes": "Wholesale Acquisition Cost (WAC) $1,112.16 per fill. List price from pricinginfo.lilly.com. Updated Jan 2026. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "Amazon Pharmacy",
@@ -55,7 +55,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Online pharmacy. Mounjaro at WAC list price for cash patients. Also supports Medicare GLP-1 Bridge Program. Confirmed 2026-07-31."
+      "notes": "Online pharmacy. Mounjaro at WAC list price for cash patients. Also supports Medicare GLP-1 Bridge Program. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "Honeybee Health",
@@ -69,7 +69,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Online mail-order pharmacy. Mounjaro at WAC list price for cash patients. Confirmed 2026-07-31."
+      "notes": "Online mail-order pharmacy. Mounjaro at WAC list price for cash patients. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "CenterWell Pharmacy",
@@ -83,7 +83,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Online pharmacy. Mounjaro at WAC list price for cash patients. Confirmed 2026-07-31."
+      "notes": "Online pharmacy. Mounjaro at WAC list price for cash patients. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "Express Scripts",
@@ -97,7 +97,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Mail order pharmacy. Mounjaro at WAC list price for cash patients. Confirmed 2026-07-31."
+      "notes": "Mail order pharmacy. Mounjaro at WAC list price for cash patients. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "OptumRx",
@@ -111,7 +111,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Mail order pharmacy. Mounjaro at WAC list price for cash patients. Confirmed 2026-07-31."
+      "notes": "Mail order pharmacy. Mounjaro at WAC list price for cash patients. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "CVS Caremark Mail Order",
@@ -125,7 +125,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Mail order pharmacy. Mounjaro at WAC list price for cash patients. Confirmed 2026-07-31."
+      "notes": "Mail order pharmacy. Mounjaro at WAC list price for cash patients. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "PillPack (Amazon)",
@@ -139,7 +139,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Amazon's mail-order pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      "notes": "Amazon's mail-order pharmacy. Mounjaro at WAC list price. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "GeniusRx",
@@ -153,7 +153,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Online pharmacy discount platform. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      "notes": "Online pharmacy discount platform. Mounjaro at WAC list price. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "Blink Health",
@@ -167,7 +167,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Online discount pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      "notes": "Online discount pharmacy. Mounjaro at WAC list price. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "RxSaver",
@@ -181,7 +181,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Prescription discount platform. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      "notes": "Prescription discount platform. Mounjaro at WAC list price. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "TrumpRx",
@@ -195,7 +195,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Federal prescription discount program. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      "notes": "Federal prescription discount program. Mounjaro at WAC list price. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "CVS",
@@ -209,7 +209,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Retail pharmacy. Mounjaro at WAC list price without insurance. $49 virtual visit. Confirmed 2026-07-31."
+      "notes": "Retail pharmacy. Mounjaro at WAC list price without insurance. $49 virtual visit. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "Walgreens",
@@ -223,7 +223,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Retail pharmacy. Mounjaro at WAC list price. Weight Management $49 video visits. Confirmed 2026-07-31."
+      "notes": "Retail pharmacy. Mounjaro at WAC list price. Weight Management $49 video visits. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "Walmart",
@@ -237,7 +237,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "Costco",
@@ -251,7 +251,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Costco Member Prescription Program. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      "notes": "Costco Member Prescription Program. Mounjaro at WAC list price. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "Publix",
@@ -265,7 +265,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "Rite Aid",
@@ -279,7 +279,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "Hy-Vee",
@@ -293,7 +293,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "Meijer",
@@ -307,7 +307,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "Kroger",
@@ -321,7 +321,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "HEB",
@@ -335,7 +335,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "Albertsons",
@@ -349,7 +349,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      "notes": "Retail pharmacy. Mounjaro at WAC list price. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "Hims & Hers",
@@ -363,7 +363,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Telehealth platform. Mounjaro at WAC list price. Membership: $39 first month, then $149/mo. Medication cost separate. Confirmed 2026-07-31."
+      "notes": "Telehealth platform. Mounjaro at WAC list price. Membership: $39 first month, then $149/mo. Medication cost separate. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "Sesame Care",
@@ -377,7 +377,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Telehealth platform. Mounjaro at WAC list price. Subscription from $59/mo (annual) to $99/mo (monthly). Medication cost separate. Confirmed 2026-07-31."
+      "notes": "Telehealth platform. Mounjaro at WAC list price. Subscription from $59/mo (annual) to $99/mo (monthly). Medication cost separate. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "PlushCare",
@@ -391,7 +391,7 @@
         "12.5mg": 1087.0,
         "15mg": 1087.0
       },
-      "notes": "Telehealth platform. Mounjaro self-pay ~$1,087/mo. $129/visit, $19.99/mo membership. Confirmed 2026-07-31."
+      "notes": "Telehealth platform. Mounjaro self-pay ~$1,087/mo. $129/visit, $19.99/mo membership. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "WeightWatchers Clinic",
@@ -405,7 +405,7 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Telehealth platform. Mounjaro list price $1,079.77/mo (per WW). Membership $25-$49 first month, then $74-$145/mo. Medication cost separate. Confirmed 2026-07-31."
+      "notes": "Telehealth platform. Mounjaro list price $1,079.77/mo (per WW). Membership $25-$49 first month, then $74-$145/mo. Medication cost separate. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "Noom Med",
@@ -419,7 +419,7 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Telehealth platform. Mounjaro list price ~$1,079.77/mo. Subscription $99-$149/mo + medication. Confirmed 2026-07-31."
+      "notes": "Telehealth platform. Mounjaro list price ~$1,079.77/mo. Subscription $99-$149/mo + medication. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "Nurx",
@@ -433,7 +433,7 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "Telehealth platform. Mounjaro at list price. Insurance accepted. Medication cost varies. Confirmed 2026-07-31."
+      "notes": "Telehealth platform. Mounjaro at list price. Insurance accepted. Medication cost varies. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "Lemonaid Health",
@@ -447,7 +447,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Telehealth platform. Mounjaro at WAC list price. $49/mo membership. Zepbound vials also available via LillyDirect from $299/mo. Confirmed 2026-07-31."
+      "notes": "Telehealth platform. Mounjaro at WAC list price. $49/mo membership. Zepbound vials also available via LillyDirect from $299/mo. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "HealthWarehouse",
@@ -461,7 +461,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Online pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      "notes": "Online pharmacy. Mounjaro at WAC list price. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "Cost Plus Drugs",
@@ -475,7 +475,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Mark Cuban's online pharmacy. Mounjaro at WAC list price. Confirmed 2026-07-31."
+      "notes": "Mark Cuban's online pharmacy. Mounjaro at WAC list price. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "GoodRx (Coupon)",
@@ -489,7 +489,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Price comparison site. Mounjaro coupon prices at retail pharmacies. Confirmed 2026-07-31."
+      "notes": "Price comparison site. Mounjaro coupon prices at retail pharmacies. Confirmed 2026-08-01."
     },
     {
       "pharmacy_name": "SingleCare (Coupon)",
@@ -503,7 +503,7 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Price comparison site. Mounjaro coupon prices at retail pharmacies. Confirmed 2026-07-31."
+      "notes": "Price comparison site. Mounjaro coupon prices at retail pharmacies. Confirmed 2026-08-01."
     }
   ],
   "summary": {
