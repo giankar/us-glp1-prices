@@ -1,1 +1,144 @@
-{"last_updated": "2026-08-02T07:04:48+04:00", "reference_zip": "10001", "medications": [{"medication": "Ozempic", "generic_name": "semaglutide", "manufacturer": "Novo Nordisk", "indication": "Type 2 Diabetes", "dosages": ["0.25mg", "0.5mg", "1mg", "2mg"], "total_pharmacies": 38, "summary": {"0.25mg": {"min": 149.0, "max": 1199.0, "avg": 537.63, "count": 38}, "0.5mg": {"min": 149.0, "max": 1199.0, "avg": 537.63, "count": 38}, "1mg": {"min": 149.0, "max": 1199.0, "avg": 537.63, "count": 38}, "2mg": {"min": 199.0, "max": 1199.0, "avg": 645.52, "count": 38}}}, {"medication": "Mounjaro", "generic_name": "tirzepatide", "manufacturer": "Eli Lilly", "indication": "Type 2 Diabetes", "dosages": ["2.5mg", "5mg", "7.5mg", "10mg", "12.5mg", "15mg"], "total_pharmacies": 35, "summary": {"2.5mg": {"min": 652.56, "max": 1199.0, "avg": 1008.66, "count": 35}, "5mg": {"min": 652.56, "max": 1199.0, "avg": 1008.66, "count": 35}, "7.5mg": {"min": 652.56, "max": 1199.0, "avg": 1008.66, "count": 35}, "10mg": {"min": 652.56, "max": 1199.0, "avg": 1008.66, "count": 35}, "12.5mg": {"min": 652.56, "max": 1199.0, "avg": 1008.66, "count": 35}, "15mg": {"min": 652.56, "max": 1199.0, "avg": 1008.66, "count": 35}}}, {"medication": "Wegovy", "generic_name": "semaglutide", "manufacturer": "Novo Nordisk", "indication": "Weight Loss", "dosages": ["0.25mg", "0.5mg", "1mg", "1.7mg", "2.4mg"], "total_pharmacies": 37, "summary": {"0.25mg": {"min": 149.0, "max": 1599.0, "avg": 620.63, "count": 37}, "0.5mg": {"min": 149.0, "max": 1599.0, "avg": 620.63, "count": 37}, "1mg": {"min": 149.0, "max": 1599.0, "avg": 620.63, "count": 37}, "1.7mg": {"min": 149.0, "max": 1599.0, "avg": 620.63, "count": 37}, "2.4mg": {"min": 149.0, "max": 1599.0, "avg": 620.63, "count": 37}}}], "feed_urls": {"ozempic": "https://raw.githubusercontent.com/giankar/us-glp1-prices/main/feeds/ozempic-prices.json", "mounjaro": "https://raw.githubusercontent.com/giankar/us-glp1-prices/main/feeds/mounjaro-prices.json", "wegovy": "https://raw.githubusercontent.com/giankar/us-glp1-prices/main/feeds/wegovy-prices.json", "all_glp1": "https://raw.githubusercontent.com/giankar/us-glp1-prices/main/feeds/all-glp1-prices.json", "time_series": "https://raw.githubusercontent.com/giankar/us-glp1-prices/main/feeds/time-series.json"}}
+{
+  "last_updated": "2026-08-03T07:14:22+04:00",
+  "reference_zip": "10001",
+  "medications": [
+    {
+      "medication": "Ozempic",
+      "generic_name": "semaglutide",
+      "manufacturer": "Novo Nordisk",
+      "indication": "Type 2 Diabetes",
+      "dosages": [
+        "0.25mg",
+        "0.5mg",
+        "1mg",
+        "2mg"
+      ],
+      "total_pharmacies": 38,
+      "summary": {
+        "0.25mg": {
+          "min": 149.0,
+          "max": 1199.0,
+          "avg": 689.46,
+          "count": 37
+        },
+        "0.5mg": {
+          "min": 149.0,
+          "max": 1199.0,
+          "avg": 689.46,
+          "count": 37
+        },
+        "1mg": {
+          "min": 149.0,
+          "max": 1199.0,
+          "avg": 738.11,
+          "count": 37
+        },
+        "2mg": {
+          "min": 149.0,
+          "max": 1199.0,
+          "avg": 782.71,
+          "count": 37
+        }
+      }
+    },
+    {
+      "medication": "Mounjaro",
+      "generic_name": "tirzepatide",
+      "manufacturer": "Eli Lilly",
+      "indication": "Type 2 Diabetes",
+      "dosages": [
+        "2.5mg",
+        "5mg",
+        "7.5mg",
+        "10mg",
+        "12.5mg",
+        "15mg"
+      ],
+      "total_pharmacies": 35,
+      "summary": {
+        "2.5mg": {
+          "min": 652.56,
+          "max": 1199.0,
+          "avg": 1025.91,
+          "count": 34
+        },
+        "5mg": {
+          "min": 652.56,
+          "max": 1199.0,
+          "avg": 1025.91,
+          "count": 34
+        },
+        "7.5mg": {
+          "min": 652.56,
+          "max": 1199.0,
+          "avg": 1025.91,
+          "count": 34
+        },
+        "10mg": {
+          "min": 652.56,
+          "max": 1199.0,
+          "avg": 1025.91,
+          "count": 34
+        },
+        "12.5mg": {
+          "min": 652.56,
+          "max": 1199.0,
+          "avg": 1025.91,
+          "count": 34
+        },
+        "15mg": {
+          "min": 652.56,
+          "max": 1199.0,
+          "avg": 1025.91,
+          "count": 34
+        }
+      }
+    },
+    {
+      "medication": "Wegovy",
+      "generic_name": "semaglutide",
+      "manufacturer": "Novo Nordisk",
+      "indication": "Weight Loss",
+      "dosages": [
+        "0.25mg",
+        "0.5mg",
+        "1mg",
+        "1.7mg",
+        "2.4mg"
+      ],
+      "total_pharmacies": 39,
+      "summary": {
+        "0.25mg": {
+          "min": 149.0,
+          "max": 1599.0,
+          "avg": 920.84,
+          "count": 38
+        },
+        "0.5mg": {
+          "min": 149.0,
+          "max": 1599.0,
+          "avg": 920.84,
+          "count": 38
+        },
+        "1mg": {
+          "min": 149.0,
+          "max": 1599.0,
+          "avg": 969.52,
+          "count": 38
+        },
+        "1.7mg": {
+          "min": 149.0,
+          "max": 1599.0,
+          "avg": 969.52,
+          "count": 38
+        },
+        "2.4mg": {
+          "min": 149.0,
+          "max": 1599.0,
+          "avg": 969.52,
+          "count": 38
+        }
+      }
+    }
+  ]
+}
