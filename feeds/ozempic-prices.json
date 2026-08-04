@@ -3,7 +3,7 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-08-03T07:14:22+04:00",
+  "last_updated": "2026-08-04T07:39:15+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 38,
   "dosages": [
@@ -54,10 +54,10 @@
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
-        "0.25mg": 650.58,
-        "0.5mg": 650.58,
-        "1mg": 650.58,
-        "2mg": 650.58
+        "0.25mg": 650.79,
+        "0.5mg": 650.79,
+        "1mg": 650.79,
+        "2mg": 650.79
       },
       "notes": "SingleCare coupon price. Retail price ~$1,212.99."
     },
@@ -90,46 +90,46 @@
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
-        "0.25mg": 791.97,
-        "0.5mg": 791.97,
-        "1mg": 791.97,
-        "2mg": 791.97
+        "0.25mg": 859.98,
+        "0.5mg": 859.98,
+        "1mg": 859.98,
+        "2mg": 859.98
       },
-      "notes": "SingleCare coupon price with member bonus. Retail price ~$1,233.00. Lowest SingleCare price."
+      "notes": "SingleCare coupon price. Retail price ~$1,233.00."
     },
     {
-      "pharmacy_name": "Harris Teeter Pharmacy",
+      "pharmacy_name": "Albertsons Pharmacy",
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
-        "0.25mg": 791.97,
-        "0.5mg": 791.97,
-        "1mg": 791.97,
-        "2mg": 791.97
+        "0.25mg": 939.63,
+        "0.5mg": 939.63,
+        "1mg": 939.63,
+        "2mg": 939.63
+      },
+      "notes": "SingleCare coupon price. Retail price ~$1,475.70."
+    },
+    {
+      "pharmacy_name": "Duane Reade Pharmacy",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
+      "prices": {
+        "0.25mg": 905.74,
+        "0.5mg": 905.74,
+        "1mg": 905.74,
+        "2mg": 905.74
       },
       "notes": "SingleCare coupon price with member bonus."
     },
     {
-      "pharmacy_name": "Publix Pharmacy",
+      "pharmacy_name": "Acme Pharmacy",
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
-        "0.25mg": 850.46,
-        "0.5mg": 850.46,
-        "1mg": 850.46,
-        "2mg": 850.46
-      },
-      "notes": "SingleCare coupon price with member bonus. Retail price ~$918.46."
-    },
-    {
-      "pharmacy_name": "Walmart Neighborhood Market",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "0.25mg": 862.39,
-        "0.5mg": 862.39,
-        "1mg": 862.39,
-        "2mg": 862.39
+        "0.25mg": 926.49,
+        "0.5mg": 926.49,
+        "1mg": 926.49,
+        "2mg": 926.49
       },
       "notes": "SingleCare coupon price with member bonus."
     },
@@ -138,39 +138,27 @@
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
-        "0.25mg": 872.12,
-        "0.5mg": 872.12,
-        "1mg": 872.12,
-        "2mg": 872.12
-      },
-      "notes": "SingleCare coupon price with member bonus. Retail price ~$940.12."
-    },
-    {
-      "pharmacy_name": "Albertsons Pharmacy",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "0.25mg": 880.11,
-        "0.5mg": 880.11,
-        "1mg": 880.11,
-        "2mg": 880.11
-      },
-      "notes": "SingleCare coupon price with member bonus. Retail price ~$1,475.70."
-    },
-    {
-      "pharmacy_name": "Safeway",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "0.25mg": 887.81,
-        "0.5mg": 887.81,
-        "1mg": 887.81,
-        "2mg": 887.81
+        "0.25mg": 934.82,
+        "0.5mg": 934.82,
+        "1mg": 934.82,
+        "2mg": 934.82
       },
       "notes": "SingleCare coupon price with member bonus."
     },
     {
-      "pharmacy_name": "Meijer Pharmacy",
+      "pharmacy_name": "Capsule Pharmacy",
+      "pharmacy_type": "online_pharmacy",
+      "source": "singlecare",
+      "prices": {
+        "0.25mg": 998.57,
+        "0.5mg": 998.57,
+        "1mg": 998.57,
+        "2mg": 998.57
+      },
+      "notes": "SingleCare coupon price. Online-only pharmacy."
+    },
+    {
+      "pharmacy_name": "Stop & Shop Pharmacy",
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
@@ -179,7 +167,19 @@
         "1mg": 1056.0,
         "2mg": 1056.0
       },
-      "notes": "SingleCare coupon price (member bonus applied)."
+      "notes": "SingleCare coupon price."
+    },
+    {
+      "pharmacy_name": "GoodRx (Average)",
+      "pharmacy_type": "price_comparison",
+      "source": "goodrx",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "GoodRx coupon price for Ozempic pen. $199/mo (0.25/0.5mg first 2 fills), $349/mo (0.25/0.5/1mg), $499/mo (2mg). Accepted at CVS, Walgreens, Walmart, Costco, ShopRite, Wegmans, Target, Sam's Club, King Kullen."
     },
     {
       "pharmacy_name": "Amazon Pharmacy",
@@ -191,7 +191,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Amazon Pharmacy offers NovoCare self-pay pricing. Automatic manufacturer coupons at checkout. $149/mo Ozempic pill."
+      "notes": "Amazon Pharmacy offers NovoCare self-pay pricing. Automatic manufacturer coupons at checkout."
     },
     {
       "pharmacy_name": "CenterWell Pharmacy",
@@ -407,7 +407,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Noom Med subscription. Compounded semaglutide from $149/mo (first 3 weeks + 4 weeks medication), then $349/mo. Brand-name Ozempic/Wegovy/Mounjaro available via prescription. $49 limited-time microdose offer."
+      "notes": "Noom Med subscription. Compounded semaglutide from $149/mo (first 3 weeks + 4 weeks medication), then $349/mo. Brand-name Ozempic/Wegovy/Mounjaro available via prescription."
     },
     {
       "pharmacy_name": "WeightWatchers Clinic",
@@ -431,7 +431,7 @@
         "1mg": 1027.51,
         "2mg": 1027.51
       },
-      "notes": "Telehealth offering GLP-1s. Cash price approximates WAC list price. Membership fees apply."
+      "notes": "Telehealth. No longer offering weight loss directly; redirects to Thirty Madison services. Cash price approximates WAC list price."
     },
     {
       "pharmacy_name": "K Health",
@@ -474,25 +474,25 @@
     "0.25mg": {
       "min": 149.0,
       "max": 1199.0,
-      "avg": 689.46,
+      "avg": 684.8,
       "count": 37
     },
     "0.5mg": {
       "min": 149.0,
       "max": 1199.0,
-      "avg": 689.46,
+      "avg": 684.8,
       "count": 37
     },
     "1mg": {
       "min": 149.0,
       "max": 1199.0,
-      "avg": 738.11,
+      "avg": 737.51,
       "count": 37
     },
     "2mg": {
       "min": 149.0,
       "max": 1199.0,
-      "avg": 782.71,
+      "avg": 786.16,
       "count": 37
     }
   }
