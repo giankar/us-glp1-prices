@@ -3,9 +3,9 @@
   "generic_name": "tirzepatide",
   "manufacturer": "Eli Lilly",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-08-04T07:39:15+04:00",
+  "last_updated": "2026-08-05T07:21:55+04:00",
   "reference_zip": "10001",
-  "total_pharmacies": 29,
+  "total_pharmacies": 14,
   "dosages": [
     "2.5mg",
     "5mg",
@@ -20,350 +20,14 @@
       "pharmacy_type": "manufacturer_direct",
       "source": "manufacturer_direct",
       "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
+        "2.5mg": 1079.77,
+        "5mg": 1079.77,
+        "7.5mg": 1079.77,
+        "10mg": 1079.77,
+        "12.5mg": 1079.77,
+        "15mg": 1079.77
       },
-      "notes": "Lilly Direct list price (WAC) $1,112.16 per fill. Updated from $1,079.77. One fill = 4 pens (1 month supply). Savings card available for commercially insured."
-    },
-    {
-      "pharmacy_name": "GoodRx (Average)",
-      "pharmacy_type": "price_comparison",
-      "source": "goodrx",
-      "prices": {
-        "2.5mg": 1093.72,
-        "5mg": 1093.65,
-        "7.5mg": 1096.26,
-        "10mg": 1096.21,
-        "12.5mg": 1093.4,
-        "15mg": 1093.42
-      },
-      "notes": "GoodRx coupon price for Mounjaro. Retail ~$1,340-$1,352. Accepted at CVS, Walgreens, Walmart, Costco, Wegmans, ShopRite, etc."
-    },
-    {
-      "pharmacy_name": "Duane Reade Pharmacy",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 927.61,
-        "5mg": 927.61,
-        "7.5mg": 927.61,
-        "10mg": 927.61,
-        "12.5mg": 927.61,
-        "15mg": 927.61
-      },
-      "notes": "SingleCare coupon price with member bonus."
-    },
-    {
-      "pharmacy_name": "Walgreens",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 927.61,
-        "5mg": 927.61,
-        "7.5mg": 927.61,
-        "10mg": 927.61,
-        "12.5mg": 927.61,
-        "15mg": 927.61
-      },
-      "notes": "SingleCare coupon price with member bonus. Retail ~$1,336."
-    },
-    {
-      "pharmacy_name": "CVS Pharmacy",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 931.04,
-        "5mg": 652.56,
-        "7.5mg": 931.04,
-        "10mg": 931.04,
-        "12.5mg": 931.04,
-        "15mg": 931.04
-      },
-      "notes": "SingleCare coupon price. Retail ~$1,312. CVS avg SingleCare price for 5mg: $652.56."
-    },
-    {
-      "pharmacy_name": "Acme Pharmacy",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 945.57,
-        "5mg": 945.57,
-        "7.5mg": 947.55,
-        "10mg": 947.55,
-        "12.5mg": 947.55,
-        "15mg": 947.55
-      },
-      "notes": "SingleCare coupon price with member bonus."
-    },
-    {
-      "pharmacy_name": "Walmart Pharmacy",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 953.07,
-        "5mg": 1071.08,
-        "7.5mg": 953.07,
-        "10mg": 953.07,
-        "12.5mg": 953.07,
-        "15mg": 953.07
-      },
-      "notes": "SingleCare coupon price. Retail ~$1,351."
-    },
-    {
-      "pharmacy_name": "Costco Pharmacy",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 954.92,
-        "5mg": 954.92,
-        "7.5mg": 956.9,
-        "10mg": 956.9,
-        "12.5mg": 956.9,
-        "15mg": 956.9
-      },
-      "notes": "SingleCare coupon price with member bonus."
-    },
-    {
-      "pharmacy_name": "Capsule Pharmacy",
-      "pharmacy_type": "online_pharmacy",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 1069.0,
-        "5mg": 1069.0,
-        "7.5mg": 1071.0,
-        "10mg": 1071.0,
-        "12.5mg": 1071.0,
-        "15mg": 1071.0
-      },
-      "notes": "SingleCare coupon price. Online-only pharmacy."
-    },
-    {
-      "pharmacy_name": "Kroger Pharmacy",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 1092.7,
-        "5mg": 1092.7,
-        "7.5mg": 1092.7,
-        "10mg": 1092.7,
-        "12.5mg": 1092.7,
-        "15mg": 1092.7
-      },
-      "notes": "SingleCare coupon price. Retail ~$1,335."
-    },
-    {
-      "pharmacy_name": "Albertsons Pharmacy",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 1061.6,
-        "5mg": 1061.6,
-        "7.5mg": 1061.6,
-        "10mg": 1061.6,
-        "12.5mg": 1061.6,
-        "15mg": 1061.6
-      },
-      "notes": "SingleCare coupon price. Retail ~$1,352."
-    },
-    {
-      "pharmacy_name": "Amazon Pharmacy",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "Amazon Pharmacy. Cash price approximates WAC list price. Lilly Direct savings may apply."
-    },
-    {
-      "pharmacy_name": "Express Scripts",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "Mail order pharmacy. Cash price approximates WAC list price."
-    },
-    {
-      "pharmacy_name": "OptumRx",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "Mail order pharmacy. Cash price approximates WAC list price."
-    },
-    {
-      "pharmacy_name": "CVS Caremark Mail Order",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "CVS Caremark mail order. Cash price approximates WAC list price."
-    },
-    {
-      "pharmacy_name": "GeniusRx",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "2.5mg": 927.61,
-        "5mg": 927.61,
-        "7.5mg": 927.61,
-        "10mg": 927.61,
-        "12.5mg": 927.61,
-        "15mg": 927.61
-      },
-      "notes": "Online pharmacy discount platform. Prices similar to SingleCare."
-    },
-    {
-      "pharmacy_name": "Blink Health",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "2.5mg": 927.61,
-        "5mg": 927.61,
-        "7.5mg": 927.61,
-        "10mg": 927.61,
-        "12.5mg": 927.61,
-        "15mg": 927.61
-      },
-      "notes": "Online discount pharmacy. Prices similar to SingleCare coupon prices."
-    },
-    {
-      "pharmacy_name": "RxSaver",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "2.5mg": 927.61,
-        "5mg": 927.61,
-        "7.5mg": 927.61,
-        "10mg": 927.61,
-        "12.5mg": 927.61,
-        "15mg": 927.61
-      },
-      "notes": "Prescription discount platform. Prices similar to SingleCare coupon prices."
-    },
-    {
-      "pharmacy_name": "HealthWarehouse",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "Online pharmacy with public pricing. Cash price approximates WAC list price."
-    },
-    {
-      "pharmacy_name": "Honeybee Health",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "Online pharmacy. Cash price approximates WAC list price."
-    },
-    {
-      "pharmacy_name": "Cost Plus Drugs",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Mark Cuban's online pharmacy. GLP-1 brand-name medications not currently listed."
-    },
-    {
-      "pharmacy_name": "Ro",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "Ro Body membership $145/mo program fee. Mounjaro available via prescription. Cash price approximates WAC list price. Zepbound KwikPen from $299/mo cash-pay."
-    },
-    {
-      "pharmacy_name": "Sesame Care",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "Sesame Care subscription from $59/mo (annual) to $99/mo (monthly). Mounjaro cash price approximates WAC list. Zepbound KwikPen from $299/mo."
-    },
-    {
-      "pharmacy_name": "Lemonaid Health",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "2.5mg": 1199.0,
-        "5mg": 1199.0,
-        "7.5mg": 1199.0,
-        "10mg": 1199.0,
-        "12.5mg": 1199.0,
-        "15mg": 1199.0
-      },
-      "notes": "Lemonaid Health $49/mo membership + medication. Compounded tirzepatide from $299/mo. Zepbound vials via LillyDirect from $299/mo."
-    },
-    {
-      "pharmacy_name": "PlushCare",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
-      },
-      "notes": "PlushCare $19.99/mo membership + $129/visit. Mounjaro self-pay approximates WAC list price. Zepbound $1,087."
+      "notes": "Lilly list price (WAC) $1,079.77/mo for all dosages. Self-pay savings options available via LillyDirect."
     },
     {
       "pharmacy_name": "Hims & Hers",
@@ -377,21 +41,35 @@
         "12.5mg": 1899.0,
         "15mg": 1899.0
       },
-      "notes": "Hims Weight Loss Membership $39 first month, then $149/mo. Mounjaro $1,899/mo. Zepbound $1,899/mo. Zepbound KwikPen from $299/mo. Medication cost separate from membership."
+      "notes": "Mounjaro $1,899/mo. Membership: $39 first month, then $149/mo. Medication price separate from membership."
     },
     {
-      "pharmacy_name": "Noom Med",
+      "pharmacy_name": "Lemonaid Health",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
+        "2.5mg": null,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
       },
-      "notes": "Noom Med subscription $99-$149/mo + medication. Mounjaro cash price approximates WAC list. Compounded tirzepatide from $299/mo."
+      "notes": "Offers compounded tirzepatide from $299/mo (monthly), $249/mo (3-month), $229/mo (6-month). $49/mo membership. Branded Mounjaro not directly priced."
+    },
+    {
+      "pharmacy_name": "PlushCare",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "2.5mg": 1079.77,
+        "5mg": 1079.77,
+        "7.5mg": 1079.77,
+        "10mg": 1079.77,
+        "12.5mg": 1079.77,
+        "15mg": 1079.77
+      },
+      "notes": "Mounjaro ~$1,079.77 list price self-pay. $19.99/mo membership + $129/visit. Insurance accepted."
     },
     {
       "pharmacy_name": "WeightWatchers Clinic",
@@ -405,59 +83,171 @@
         "12.5mg": 1079.77,
         "15mg": 1079.77
       },
-      "notes": "WW Clinic $25-$49 first month, then $74-$145/mo + medication. Mounjaro list price $1,079.77 (per WW comparison article). Lilly Direct savings may apply."
+      "notes": "Mounjaro list price $1,079.77/mo. WW Clinic membership $25-$49 first month, then $74-$145/mo + medication cost."
     },
     {
-      "pharmacy_name": "GoodRx Care",
+      "pharmacy_name": "Noom Med",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "prices": {
-        "2.5mg": 1112.16,
-        "5mg": 1112.16,
-        "7.5mg": 1112.16,
-        "10mg": 1112.16,
-        "12.5mg": 1112.16,
-        "15mg": 1112.16
+        "2.5mg": 1079.77,
+        "5mg": 1079.77,
+        "7.5mg": 1079.77,
+        "10mg": 1079.77,
+        "12.5mg": 1079.77,
+        "15mg": 1079.77
       },
-      "notes": "GoodRx Care Direct $39/mo membership. Mounjaro cash price approximates WAC list. Zepbound vial from $299/mo, KwikPen from $299/mo."
+      "notes": "Noom GLP-1 Rx Program. $149 initial 3-week + 4 weeks medication, then $349/mo. Access to brand-name Mounjaro."
+    },
+    {
+      "pharmacy_name": "GoodRx (Mounjaro)",
+      "pharmacy_type": "price_comparison",
+      "source": "goodrx",
+      "prices": {
+        "2.5mg": 1093.72,
+        "5mg": 1093.65,
+        "7.5mg": 1096.26,
+        "10mg": 1096.21,
+        "12.5mg": 1093.4,
+        "15mg": 1093.42
+      },
+      "notes": "GoodRx coupon prices. Average retail ~$1,351.68. GoodRx prices ~$1,093-1,096 across all dosages."
+    },
+    {
+      "pharmacy_name": "SingleCare (CVS)",
+      "pharmacy_type": "price_comparison",
+      "source": "singlecare",
+      "prices": {
+        "2.5mg": 931.04,
+        "5mg": 931.04,
+        "7.5mg": 931.04,
+        "10mg": 931.04,
+        "12.5mg": 931.04,
+        "15mg": 931.04
+      },
+      "notes": "SingleCare coupon at CVS for Mounjaro 5mg/0.5ml. $931.04 with Member Bonus."
+    },
+    {
+      "pharmacy_name": "SingleCare (Walgreens)",
+      "pharmacy_type": "price_comparison",
+      "source": "singlecare",
+      "prices": {
+        "2.5mg": 927.61,
+        "5mg": 927.61,
+        "7.5mg": 927.61,
+        "10mg": 927.61,
+        "12.5mg": 927.61,
+        "15mg": 927.61
+      },
+      "notes": "SingleCare coupon at Walgreens/Duane Reade for Mounjaro 5mg/0.5ml. $927.61 with Member Bonus."
+    },
+    {
+      "pharmacy_name": "SingleCare (Walmart)",
+      "pharmacy_type": "price_comparison",
+      "source": "singlecare",
+      "prices": {
+        "2.5mg": 953.07,
+        "5mg": 953.07,
+        "7.5mg": 953.07,
+        "10mg": 953.07,
+        "12.5mg": 953.07,
+        "15mg": 953.07
+      },
+      "notes": "SingleCare coupon at Walmart for Mounjaro 5mg/0.5ml. $953.07 with Member Bonus."
+    },
+    {
+      "pharmacy_name": "SingleCare (Costco)",
+      "pharmacy_type": "price_comparison",
+      "source": "singlecare",
+      "prices": {
+        "2.5mg": 952.94,
+        "5mg": 952.94,
+        "7.5mg": 952.94,
+        "10mg": 952.94,
+        "12.5mg": 952.94,
+        "15mg": 952.94
+      },
+      "notes": "SingleCare coupon at Costco for Mounjaro 5mg/0.5ml. $952.94 with Member Bonus."
+    },
+    {
+      "pharmacy_name": "SingleCare (Acme)",
+      "pharmacy_type": "price_comparison",
+      "source": "singlecare",
+      "prices": {
+        "2.5mg": 943.59,
+        "5mg": 943.59,
+        "7.5mg": 943.59,
+        "10mg": 943.59,
+        "12.5mg": 943.59,
+        "15mg": 943.59
+      },
+      "notes": "SingleCare coupon at Acme Pharmacy for Mounjaro 5mg/0.5ml. $943.59 with Member Bonus."
+    },
+    {
+      "pharmacy_name": "SingleCare (Capsule)",
+      "pharmacy_type": "price_comparison",
+      "source": "singlecare",
+      "prices": {
+        "2.5mg": 1067.0,
+        "5mg": 1067.0,
+        "7.5mg": 1067.0,
+        "10mg": 1067.0,
+        "12.5mg": 1067.0,
+        "15mg": 1067.0
+      },
+      "notes": "SingleCare coupon at Capsule (online only) for Mounjaro 5mg/0.5ml. $1,067.00."
+    },
+    {
+      "pharmacy_name": "WAC List Price (Lilly)",
+      "pharmacy_type": "wac_list",
+      "source": "wac_list",
+      "prices": {
+        "2.5mg": 1079.77,
+        "5mg": 1079.77,
+        "7.5mg": 1079.77,
+        "10mg": 1079.77,
+        "12.5mg": 1079.77,
+        "15mg": 1079.77
+      },
+      "notes": "Wholesale Acquisition Cost (WAC) list price for Mounjaro. $1,079.77/mo for all dosages."
     }
   ],
   "summary": {
     "2.5mg": {
       "min": 927.61,
       "max": 1899.0,
-      "avg": 1080.83,
-      "count": 28
+      "avg": 1089.76,
+      "count": 13
     },
     "5mg": {
-      "min": 652.56,
+      "min": 927.61,
       "max": 1899.0,
-      "avg": 1075.1,
-      "count": 28
+      "avg": 1089.75,
+      "count": 13
     },
     "7.5mg": {
       "min": 927.61,
       "max": 1899.0,
-      "avg": 1081.14,
-      "count": 28
+      "avg": 1089.95,
+      "count": 13
     },
     "10mg": {
       "min": 927.61,
       "max": 1899.0,
-      "avg": 1081.14,
-      "count": 28
+      "avg": 1089.95,
+      "count": 13
     },
     "12.5mg": {
       "min": 927.61,
       "max": 1899.0,
-      "avg": 1081.04,
-      "count": 28
+      "avg": 1089.73,
+      "count": 13
     },
     "15mg": {
       "min": 927.61,
       "max": 1899.0,
-      "avg": 1081.04,
-      "count": 28
+      "avg": 1089.73,
+      "count": 13
     }
   }
 }
