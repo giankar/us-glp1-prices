@@ -3,9 +3,9 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Weight Loss",
-  "last_updated": "2026-08-05T07:21:55+04:00",
+  "last_updated": "2026-08-06T07:14:26.814259+04:00",
   "reference_zip": "10001",
-  "total_pharmacies": 19,
+  "total_pharmacies": 18,
   "dosages": [
     "0.25mg",
     "0.5mg",
@@ -142,7 +142,20 @@
         "1.7mg": 349.0,
         "2.4mg": 349.0
       },
-      "notes": "GoodRx coupon prices. Wegovy 0.25/0.5mg pens $199, 1/1.7/2.4mg pens $349, 7.2mg $399. Wegovy pill 1.5/4mg $149, 9/25mg $299."
+      "notes": "GoodRx coupon prices. Wegovy 0.25/0.5mg pens $199, 1/1.7/2.4mg pens $349. Wegovy pill 1.5/4mg $149, 9/25mg $299."
+    },
+    {
+      "pharmacy_name": "SingleCare (Kroger)",
+      "pharmacy_type": "price_comparison",
+      "source": "singlecare",
+      "prices": {
+        "0.25mg": 1010.5,
+        "0.5mg": 1010.5,
+        "1mg": 1010.5,
+        "1.7mg": 1010.5,
+        "2.4mg": 1010.5
+      },
+      "notes": "SingleCare coupon at Kroger for Wegovy. $1,010.50 with Member Bonus. Retail $1,088.50."
     },
     {
       "pharmacy_name": "SingleCare (CVS)",
@@ -155,7 +168,7 @@
         "1.7mg": 1077.42,
         "2.4mg": 1077.42
       },
-      "notes": "SingleCare coupon at CVS for Wegovy 1.5mg tablets. $1,077.42 with Member Bonus. Retail $1,587.00."
+      "notes": "SingleCare coupon at CVS for Wegovy. $1,077.42 with Member Bonus. Retail $1,587.00."
     },
     {
       "pharmacy_name": "SingleCare (Walmart)",
@@ -168,7 +181,7 @@
         "1.7mg": 1108.14,
         "2.4mg": 1108.14
       },
-      "notes": "SingleCare coupon at Walmart for Wegovy 1.5mg tablets. $1,108.14 with Member Bonus. Retail $1,635.00."
+      "notes": "SingleCare coupon at Walmart for Wegovy. $1,108.14 with Member Bonus. Retail $1,635.00."
     },
     {
       "pharmacy_name": "SingleCare (Walgreens)",
@@ -181,20 +194,7 @@
         "1.7mg": 1077.0,
         "2.4mg": 1077.0
       },
-      "notes": "SingleCare coupon at Walgreens for Wegovy 1.5mg tablets. $1,077.00 with Member Bonus. Retail $1,619.10."
-    },
-    {
-      "pharmacy_name": "SingleCare (Kroger)",
-      "pharmacy_type": "price_comparison",
-      "source": "singlecare",
-      "prices": {
-        "0.25mg": 1323.3,
-        "0.5mg": 1323.3,
-        "1mg": 1323.3,
-        "1.7mg": 1323.3,
-        "2.4mg": 1323.3
-      },
-      "notes": "SingleCare coupon at Kroger for Wegovy. $1,323.30. Retail $1,619.10."
+      "notes": "SingleCare coupon at Walgreens for Wegovy. $1,077.00 with Member Bonus. Retail $1,619.10."
     },
     {
       "pharmacy_name": "SingleCare (Costco)",
@@ -207,33 +207,20 @@
         "1.7mg": 1115.72,
         "2.4mg": 1115.72
       },
-      "notes": "SingleCare coupon at Costco for Wegovy 1.5mg tablets. $1,115.72 with Member Bonus."
+      "notes": "SingleCare coupon at Costco for Wegovy. $1,115.72 with Member Bonus."
     },
     {
-      "pharmacy_name": "SingleCare (Acme)",
+      "pharmacy_name": "SingleCare (Publix)",
       "pharmacy_type": "price_comparison",
       "source": "singlecare",
       "prices": {
-        "0.25mg": 1103.53,
-        "0.5mg": 1103.53,
-        "1mg": 1103.53,
-        "1.7mg": 1103.53,
-        "2.4mg": 1103.53
+        "0.25mg": 1086.35,
+        "0.5mg": 1086.35,
+        "1mg": 1086.35,
+        "1.7mg": 1086.35,
+        "2.4mg": 1086.35
       },
-      "notes": "SingleCare coupon at Acme for Wegovy 1.5mg tablets. $1,103.53 with Member Bonus."
-    },
-    {
-      "pharmacy_name": "SingleCare (Capsule)",
-      "pharmacy_type": "price_comparison",
-      "source": "singlecare",
-      "prices": {
-        "0.25mg": 1189.47,
-        "0.5mg": 1189.47,
-        "1mg": 1189.47,
-        "1.7mg": 1189.47,
-        "2.4mg": 1189.47
-      },
-      "notes": "SingleCare coupon at Capsule (online only) for Wegovy 1.5mg tablets. $1,189.47."
+      "notes": "SingleCare coupon at Publix for Wegovy. $1,086.35 with Member Bonus."
     },
     {
       "pharmacy_name": "CVS Pharmacy",
@@ -266,32 +253,32 @@
     "0.25mg": {
       "min": 149.0,
       "max": 1599.0,
-      "avg": 867.51,
-      "count": 19
+      "avg": 831.29,
+      "count": 18
     },
     "0.5mg": {
       "min": 149.0,
       "max": 1599.0,
-      "avg": 867.51,
-      "count": 19
+      "avg": 831.29,
+      "count": 18
     },
     "1mg": {
       "min": 149.0,
       "max": 1599.0,
-      "avg": 906.98,
-      "count": 19
+      "avg": 872.96,
+      "count": 18
     },
     "1.7mg": {
       "min": 149.0,
       "max": 1599.0,
-      "avg": 906.98,
-      "count": 19
+      "avg": 872.96,
+      "count": 18
     },
     "2.4mg": {
       "min": 149.0,
       "max": 1599.0,
-      "avg": 906.98,
-      "count": 19
+      "avg": 872.96,
+      "count": 18
     }
   }
 }

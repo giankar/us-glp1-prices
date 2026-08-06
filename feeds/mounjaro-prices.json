@@ -3,7 +3,7 @@
   "generic_name": "tirzepatide",
   "manufacturer": "Eli Lilly",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-08-05T07:21:55+04:00",
+  "last_updated": "2026-08-06T07:14:26.814259+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 14,
   "dosages": [
@@ -114,6 +114,20 @@
       "notes": "GoodRx coupon prices. Average retail ~$1,351.68. GoodRx prices ~$1,093-1,096 across all dosages."
     },
     {
+      "pharmacy_name": "SingleCare (Kroger)",
+      "pharmacy_type": "price_comparison",
+      "source": "singlecare",
+      "prices": {
+        "2.5mg": 872.48,
+        "5mg": 872.48,
+        "7.5mg": 872.48,
+        "10mg": 872.48,
+        "12.5mg": 872.48,
+        "15mg": 872.48
+      },
+      "notes": "SingleCare coupon at Kroger for Mounjaro. $872.48 with Member Bonus. Retail $990.48."
+    },
+    {
       "pharmacy_name": "SingleCare (CVS)",
       "pharmacy_type": "price_comparison",
       "source": "singlecare",
@@ -139,7 +153,7 @@
         "12.5mg": 927.61,
         "15mg": 927.61
       },
-      "notes": "SingleCare coupon at Walgreens/Duane Reade for Mounjaro 5mg/0.5ml. $927.61 with Member Bonus."
+      "notes": "SingleCare coupon at Walgreens for Mounjaro 5mg/0.5ml. $927.61 with Member Bonus."
     },
     {
       "pharmacy_name": "SingleCare (Walmart)",
@@ -170,32 +184,18 @@
       "notes": "SingleCare coupon at Costco for Mounjaro 5mg/0.5ml. $952.94 with Member Bonus."
     },
     {
-      "pharmacy_name": "SingleCare (Acme)",
+      "pharmacy_name": "SingleCare (Publix)",
       "pharmacy_type": "price_comparison",
       "source": "singlecare",
       "prices": {
-        "2.5mg": 943.59,
-        "5mg": 943.59,
-        "7.5mg": 943.59,
-        "10mg": 943.59,
-        "12.5mg": 943.59,
-        "15mg": 943.59
+        "2.5mg": 929.25,
+        "5mg": 929.25,
+        "7.5mg": 929.25,
+        "10mg": 929.25,
+        "12.5mg": 929.25,
+        "15mg": 929.25
       },
-      "notes": "SingleCare coupon at Acme Pharmacy for Mounjaro 5mg/0.5ml. $943.59 with Member Bonus."
-    },
-    {
-      "pharmacy_name": "SingleCare (Capsule)",
-      "pharmacy_type": "price_comparison",
-      "source": "singlecare",
-      "prices": {
-        "2.5mg": 1067.0,
-        "5mg": 1067.0,
-        "7.5mg": 1067.0,
-        "10mg": 1067.0,
-        "12.5mg": 1067.0,
-        "15mg": 1067.0
-      },
-      "notes": "SingleCare coupon at Capsule (online only) for Mounjaro 5mg/0.5ml. $1,067.00."
+      "notes": "SingleCare coupon at Publix for Mounjaro. $929.25 with Member Bonus."
     },
     {
       "pharmacy_name": "WAC List Price (Lilly)",
@@ -214,39 +214,39 @@
   ],
   "summary": {
     "2.5mg": {
-      "min": 927.61,
+      "min": 872.48,
       "max": 1899.0,
-      "avg": 1089.76,
+      "avg": 1073.69,
       "count": 13
     },
     "5mg": {
-      "min": 927.61,
+      "min": 872.48,
       "max": 1899.0,
-      "avg": 1089.75,
+      "avg": 1073.68,
       "count": 13
     },
     "7.5mg": {
-      "min": 927.61,
+      "min": 872.48,
       "max": 1899.0,
-      "avg": 1089.95,
+      "avg": 1073.88,
       "count": 13
     },
     "10mg": {
-      "min": 927.61,
+      "min": 872.48,
       "max": 1899.0,
-      "avg": 1089.95,
+      "avg": 1073.88,
       "count": 13
     },
     "12.5mg": {
-      "min": 927.61,
+      "min": 872.48,
       "max": 1899.0,
-      "avg": 1089.73,
+      "avg": 1073.66,
       "count": 13
     },
     "15mg": {
-      "min": 927.61,
+      "min": 872.48,
       "max": 1899.0,
-      "avg": 1089.73,
+      "avg": 1073.67,
       "count": 13
     }
   }
