@@ -3,9 +3,9 @@
   "generic_name": "tirzepatide",
   "manufacturer": "Eli Lilly",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-08-11T07:15:04+04:00",
+  "last_updated": "2026-08-12T07:10:00+04:00",
   "reference_zip": "10001",
-  "total_pharmacies": 13,
+  "total_pharmacies": 14,
   "dosages": [
     "2.5mg",
     "5mg",
@@ -196,44 +196,58 @@
         "15mg": 1079.77
       },
       "notes": "Mounjaro list price $1,079.77/mo. WW Clinic membership $25-$49 first month, then $74-$145/mo + medication cost."
+    },
+    {
+      "pharmacy_name": "Hims & Hers",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "2.5mg": 1899.0,
+        "5mg": 1899.0,
+        "7.5mg": 1899.0,
+        "10mg": 1899.0,
+        "12.5mg": 1899.0,
+        "15mg": 1899.0
+      },
+      "notes": "Mounjaro $1,899/mo via Hims. Membership: $39 first month, then $149/mo. Medication price separate from membership. Also offers Zepbound at $1,899/mo."
     }
   ],
   "summary": {
     "2.5mg": {
       "min": 652.56,
-      "max": 1386.0,
-      "avg": 1062.15,
-      "count": 13
+      "max": 1899.0,
+      "avg": 1121.93,
+      "count": 14
     },
     "5mg": {
       "min": 652.56,
-      "max": 1386.0,
-      "avg": 1062.15,
-      "count": 13
+      "max": 1899.0,
+      "avg": 1121.92,
+      "count": 14
     },
     "7.5mg": {
       "min": 652.56,
-      "max": 1386.0,
-      "avg": 1066.59,
-      "count": 13
+      "max": 1899.0,
+      "avg": 1126.05,
+      "count": 14
     },
     "10mg": {
       "min": 652.56,
-      "max": 1386.0,
-      "avg": 1066.59,
-      "count": 13
+      "max": 1899.0,
+      "avg": 1126.04,
+      "count": 14
     },
     "12.5mg": {
       "min": 652.56,
-      "max": 1386.0,
-      "avg": 1066.37,
-      "count": 13
+      "max": 1899.0,
+      "avg": 1125.84,
+      "count": 14
     },
     "15mg": {
       "min": 652.56,
-      "max": 1386.0,
-      "avg": 1066.37,
-      "count": 13
+      "max": 1899.0,
+      "avg": 1125.84,
+      "count": 14
     }
   }
 }
