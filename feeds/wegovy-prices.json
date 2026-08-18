@@ -3,9 +3,9 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Weight Loss",
-  "last_updated": "2026-08-17T07:06:33+04:00",
+  "last_updated": "2026-08-18T07:06:04+04:00",
   "reference_zip": "10001",
-  "total_pharmacies": 20,
+  "total_pharmacies": 22,
   "dosages": [
     "0.25mg",
     "0.5mg",
@@ -175,52 +175,91 @@
       "pharmacy_type": "retail_pharmacy",
       "source": "retail",
       "prices": {
-        "0.25mg": 1643.1,
-        "0.5mg": 1643.1,
-        "1mg": 1643.1,
-        "1.7mg": 1643.1,
-        "2.4mg": 1643.1
+        "0.25mg": 1186.14,
+        "0.5mg": 1186.14,
+        "1mg": 1186.14,
+        "1.7mg": 1186.14,
+        "2.4mg": 1186.14
       },
-      "notes": "Retail cash price ~$1,643.10. $499/month available via NovoCare partnership. LillyDirect pickup partner."
+      "notes": "Retail cash price ~$1,186. $499/month available via NovoCare partnership. LillyDirect pickup partner."
     },
     {
       "pharmacy_name": "CVS Pharmacy",
       "pharmacy_type": "retail_pharmacy",
       "source": "retail",
       "prices": {
-        "0.25mg": 1590.0,
-        "0.5mg": 1590.0,
-        "1mg": 1590.0,
-        "1.7mg": 1590.0,
-        "2.4mg": 1590.0
+        "0.25mg": 1155.42,
+        "0.5mg": 1155.42,
+        "1mg": 1155.42,
+        "1.7mg": 1155.42,
+        "2.4mg": 1155.42
       },
-      "notes": "Retail cash price ~$1,590. $499/month available with manufacturer coupon. CVS Caremark mail order available."
+      "notes": "Retail cash price ~$1,155. $499/month available with manufacturer coupon. CVS Caremark mail order available."
     },
     {
       "pharmacy_name": "Walgreens",
       "pharmacy_type": "retail_pharmacy",
       "source": "retail",
       "prices": {
-        "0.25mg": 1292.07,
-        "0.5mg": 1292.07,
-        "1mg": 1292.07,
-        "1.7mg": 1292.07,
-        "2.4mg": 1292.07
+        "0.25mg": 1155.0,
+        "0.5mg": 1155.0,
+        "1mg": 1155.0,
+        "1.7mg": 1155.0,
+        "2.4mg": 1155.0
       },
-      "notes": "Retail cash price ~$1,292.07. GoodRx and SingleCare coupons available."
+      "notes": "Retail cash price ~$1,155. GoodRx and SingleCare coupons available."
     },
     {
       "pharmacy_name": "Costco Pharmacy",
       "pharmacy_type": "retail_pharmacy",
       "source": "retail",
       "prices": {
-        "0.25mg": 1317.6,
-        "0.5mg": 1317.6,
-        "1mg": 1317.6,
-        "1.7mg": 1317.6,
-        "2.4mg": 1317.6
+        "0.25mg": 1070.94,
+        "0.5mg": 1070.94,
+        "1mg": 1070.94,
+        "1.7mg": 1070.94,
+        "2.4mg": 1070.94
       },
-      "notes": "Retail cash price ~$1,317.60. $499/month available via NovoCare partnership. Member and non-member pricing."
+      "notes": "Retail cash price ~$1,071. $499/month available via NovoCare partnership. Member and non-member pricing."
+    },
+    {
+      "pharmacy_name": "Kroger Pharmacy",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "retail",
+      "prices": {
+        "0.25mg": 1088.5,
+        "0.5mg": 1088.5,
+        "1mg": 1088.5,
+        "1.7mg": 1088.5,
+        "2.4mg": 1088.5
+      },
+      "notes": "Retail cash price ~$1,088.50. SingleCare and GoodRx coupons available."
+    },
+    {
+      "pharmacy_name": "Harris Teeter Pharmacy",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "retail",
+      "prices": {
+        "0.25mg": 1088.5,
+        "0.5mg": 1088.5,
+        "1mg": 1088.5,
+        "1.7mg": 1088.5,
+        "2.4mg": 1088.5
+      },
+      "notes": "Retail cash price ~$1,088.50. SingleCare coupon available."
+    },
+    {
+      "pharmacy_name": "Publix Pharmacy",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "retail",
+      "prices": {
+        "0.25mg": 1164.35,
+        "0.5mg": 1164.35,
+        "1mg": 1164.35,
+        "1.7mg": 1164.35,
+        "2.4mg": 1164.35
+      },
+      "notes": "Retail cash price ~$1,164.35. SingleCare coupon available."
     },
     {
       "pharmacy_name": "GoodRx (coupon)",
@@ -240,13 +279,13 @@
       "pharmacy_type": "price_comparison",
       "source": "singlecare",
       "prices": {
-        "0.25mg": 866.64,
-        "0.5mg": 866.64,
-        "1mg": 866.64,
-        "1.7mg": 866.64,
-        "2.4mg": 866.64
+        "0.25mg": 1010.5,
+        "0.5mg": 1010.5,
+        "1mg": 1010.5,
+        "1.7mg": 1010.5,
+        "2.4mg": 1010.5
       },
-      "notes": "SingleCare coupon prices. Lowest at CVS: $866.64. Typical cash price $1,950.72. Prices updated Aug 2026."
+      "notes": "SingleCare coupon prices. Lowest at Kroger/Harris Teeter: $1,010.50. Typical cash price $1,819.66. Prices updated 08/18/2026."
     },
     {
       "pharmacy_name": "WAC List Price",
@@ -260,51 +299,38 @@
         "2.4mg": 1349.02
       },
       "notes": "Wholesale Acquisition Cost (WAC) - Novo Nordisk list price. All doses $1,349.02. Price before any discounts or rebates."
-    },
-    {
-      "pharmacy_name": "Kroger Pharmacy",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "retail",
-      "prices": {
-        "0.25mg": 1400.0,
-        "0.5mg": 1400.0,
-        "1mg": 1400.0,
-        "1.7mg": 1400.0,
-        "2.4mg": 1400.0
-      },
-      "notes": "Retail cash price ~$1,400. SingleCare and GoodRx coupons available."
     }
   ],
   "summary": {
     "0.25mg": {
       "min": 149.0,
-      "max": 1643.1,
-      "avg": 789.82,
-      "count": 20
+      "max": 1599.0,
+      "avg": 754.84,
+      "count": 22
     },
     "0.5mg": {
       "min": 199.0,
-      "max": 1643.1,
-      "avg": 792.32,
-      "count": 20
+      "max": 1599.0,
+      "avg": 757.11,
+      "count": 22
     },
     "1mg": {
       "min": 349.0,
-      "max": 1643.1,
-      "avg": 852.32,
-      "count": 20
+      "max": 1599.0,
+      "avg": 811.65,
+      "count": 22
     },
     "1.7mg": {
       "min": 349.0,
-      "max": 1643.1,
-      "avg": 852.32,
-      "count": 20
+      "max": 1599.0,
+      "avg": 811.65,
+      "count": 22
     },
     "2.4mg": {
       "min": 349.0,
-      "max": 1643.1,
-      "avg": 852.32,
-      "count": 20
+      "max": 1599.0,
+      "avg": 811.65,
+      "count": 22
     }
   }
 }

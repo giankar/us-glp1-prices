@@ -3,7 +3,7 @@
   "generic_name": "tirzepatide",
   "manufacturer": "Eli Lilly",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-08-17T07:06:33+04:00",
+  "last_updated": "2026-08-18T07:06:04+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 15,
   "dosages": [
@@ -62,56 +62,56 @@
       "pharmacy_type": "retail_pharmacy",
       "source": "retail",
       "prices": {
-        "2.5mg": 1161.0,
-        "5mg": 1161.0,
-        "7.5mg": 1161.0,
-        "10mg": 1161.0,
-        "12.5mg": 1161.0,
-        "15mg": 1161.0
+        "2.5mg": 1071.08,
+        "5mg": 1071.08,
+        "7.5mg": 1071.08,
+        "10mg": 1071.08,
+        "12.5mg": 1071.08,
+        "15mg": 1071.08
       },
-      "notes": "Retail cash price ~$1,161. Also $499/month available via LillyDirect. LillyDirect pickup partner."
+      "notes": "Retail cash price ~$1,071. Also $499/month available via LillyDirect. LillyDirect pickup partner."
     },
     {
       "pharmacy_name": "Walgreens",
       "pharmacy_type": "retail_pharmacy",
       "source": "retail",
       "prices": {
-        "2.5mg": 1198.0,
-        "5mg": 1198.0,
-        "7.5mg": 1198.0,
-        "10mg": 1198.0,
-        "12.5mg": 1198.0,
-        "15mg": 1198.0
+        "2.5mg": 1047.92,
+        "5mg": 1047.92,
+        "7.5mg": 1047.92,
+        "10mg": 1047.92,
+        "12.5mg": 1047.92,
+        "15mg": 1047.92
       },
-      "notes": "Retail cash price ~$1,198. GoodRx coupons available."
+      "notes": "Retail cash price ~$1,048. GoodRx coupons available."
     },
     {
       "pharmacy_name": "CVS Pharmacy",
       "pharmacy_type": "retail_pharmacy",
       "source": "retail",
       "prices": {
-        "2.5mg": 1200.0,
-        "5mg": 1200.0,
-        "7.5mg": 1200.0,
-        "10mg": 1200.0,
-        "12.5mg": 1200.0,
-        "15mg": 1200.0
+        "2.5mg": 1311.98,
+        "5mg": 1311.98,
+        "7.5mg": 1311.98,
+        "10mg": 1311.98,
+        "12.5mg": 1311.98,
+        "15mg": 1311.98
       },
-      "notes": "Retail cash price ~$1,200. CVS Caremark mail order available."
+      "notes": "Retail cash price ~$1,312. CVS Caremark mail order available."
     },
     {
       "pharmacy_name": "Costco Pharmacy",
       "pharmacy_type": "retail_pharmacy",
       "source": "retail",
       "prices": {
-        "2.5mg": 1317.6,
-        "5mg": 1317.6,
-        "7.5mg": 1317.6,
-        "10mg": 1317.6,
-        "12.5mg": 1317.6,
-        "15mg": 1317.6
+        "2.5mg": 1070.94,
+        "5mg": 1070.94,
+        "7.5mg": 1070.94,
+        "10mg": 1070.94,
+        "12.5mg": 1070.94,
+        "15mg": 1070.94
       },
-      "notes": "Retail cash price ~$1,317.60. Member and non-member pricing available."
+      "notes": "Retail cash price ~$1,071. Member and non-member pricing available."
     },
     {
       "pharmacy_name": "Hims & Hers",
@@ -198,70 +198,70 @@
       "notes": "GoodRx coupon prices starting at $1,089.59. Prices vary by pharmacy and location."
     },
     {
-      "pharmacy_name": "Ro",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Ro Body membership: $145/month program fee. Ro does not currently offer Mounjaro directly. Focuses on Wegovy, Zepbound, Ozempic."
-    },
-    {
       "pharmacy_name": "SingleCare (coupon)",
       "pharmacy_type": "price_comparison",
       "source": "singlecare",
       "prices": {
-        "2.5mg": 935.0,
-        "5mg": 935.0,
-        "7.5mg": 935.0,
-        "10mg": 935.0,
-        "12.5mg": 935.0,
-        "15mg": 935.0
+        "2.5mg": 872.48,
+        "5mg": 872.48,
+        "7.5mg": 872.48,
+        "10mg": 872.48,
+        "12.5mg": 872.48,
+        "15mg": 872.48
       },
-      "notes": "SingleCare coupon prices ~$935 at select pharmacies. Prices updated Aug 2026."
+      "notes": "SingleCare coupon prices ~$872 at Kroger/Harris Teeter. Average retail price $1,517.94. Prices updated 08/18/2026."
+    },
+    {
+      "pharmacy_name": "Publix Pharmacy",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "retail",
+      "prices": {
+        "2.5mg": 1047.25,
+        "5mg": 1047.25,
+        "7.5mg": 1047.25,
+        "10mg": 1047.25,
+        "12.5mg": 1047.25,
+        "15mg": 1047.25
+      },
+      "notes": "Retail cash price ~$1,047.25. SingleCare coupon available."
     }
   ],
   "summary": {
     "2.5mg": {
       "min": 499.0,
       "max": 1899.0,
-      "avg": 1097.29,
-      "count": 14
+      "avg": 1064.81,
+      "count": 15
     },
     "5mg": {
       "min": 499.0,
       "max": 1899.0,
-      "avg": 1097.29,
-      "count": 14
+      "avg": 1064.81,
+      "count": 15
     },
     "7.5mg": {
       "min": 499.0,
       "max": 1899.0,
-      "avg": 1097.29,
-      "count": 14
+      "avg": 1064.81,
+      "count": 15
     },
     "10mg": {
       "min": 499.0,
       "max": 1899.0,
-      "avg": 1097.29,
-      "count": 14
+      "avg": 1064.81,
+      "count": 15
     },
     "12.5mg": {
       "min": 499.0,
       "max": 1899.0,
-      "avg": 1097.29,
-      "count": 14
+      "avg": 1064.81,
+      "count": 15
     },
     "15mg": {
       "min": 499.0,
       "max": 1899.0,
-      "avg": 1097.29,
-      "count": 14
+      "avg": 1064.81,
+      "count": 15
     }
   }
 }

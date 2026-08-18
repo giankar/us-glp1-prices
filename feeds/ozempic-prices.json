@@ -3,9 +3,9 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-08-17T07:06:33+04:00",
+  "last_updated": "2026-08-18T07:06:04+04:00",
   "reference_zip": "10001",
-  "total_pharmacies": 21,
+  "total_pharmacies": 22,
   "dosages": [
     "0.25mg",
     "0.5mg",
@@ -162,12 +162,12 @@
       "pharmacy_type": "retail_pharmacy",
       "source": "retail",
       "prices": {
-        "0.25mg": 1200.0,
-        "0.5mg": 1200.0,
-        "1mg": 1200.0,
-        "2mg": 1200.0
+        "0.25mg": 1212.99,
+        "0.5mg": 1212.99,
+        "1mg": 1212.99,
+        "2mg": 1212.99
       },
-      "notes": "Retail cash price ~$1,200. $499/month available with manufacturer coupon. CVS Caremark mail order also available."
+      "notes": "Retail cash price ~$1,213. $499/month available with manufacturer coupon. CVS Caremark mail order also available."
     },
     {
       "pharmacy_name": "Walgreens",
@@ -186,12 +186,12 @@
       "pharmacy_type": "retail_pharmacy",
       "source": "retail",
       "prices": {
-        "0.25mg": 1027.51,
-        "0.5mg": 1027.51,
-        "1mg": 1027.51,
-        "2mg": 1027.51
+        "0.25mg": 940.12,
+        "0.5mg": 940.12,
+        "1mg": 940.12,
+        "2mg": 940.12
       },
-      "notes": "Retail price ~$1,027.51 (WAC). $499/month available via NovoCare partnership. Member and non-member pricing available."
+      "notes": "Retail price ~$940.12. $499/month available via NovoCare partnership. Member and non-member pricing available."
     },
     {
       "pharmacy_name": "Publix Pharmacy",
@@ -218,6 +218,30 @@
       "notes": "Retail cash price ~$859.97. SingleCare coupon available."
     },
     {
+      "pharmacy_name": "Kroger Pharmacy",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "retail",
+      "prices": {
+        "0.25mg": 859.98,
+        "0.5mg": 859.98,
+        "1mg": 859.98,
+        "2mg": 859.98
+      },
+      "notes": "Retail cash price ~$859.98. SingleCare and GoodRx coupons available."
+    },
+    {
+      "pharmacy_name": "Albertsons Pharmacy",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "retail",
+      "prices": {
+        "0.25mg": 1475.7,
+        "0.5mg": 1475.7,
+        "1mg": 1475.7,
+        "2mg": 1475.7
+      },
+      "notes": "Retail cash price ~$1,475.70. SingleCare coupon available."
+    },
+    {
       "pharmacy_name": "GoodRx (coupon)",
       "pharmacy_type": "price_comparison",
       "source": "goodrx",
@@ -239,7 +263,7 @@
         "1mg": 791.97,
         "2mg": 791.97
       },
-      "notes": "SingleCare coupon prices. Lowest at Harris Teeter: $791.97. Typical cash price $1,386.59. Prices updated 08/14/2026."
+      "notes": "SingleCare coupon prices. Lowest at Kroger/Harris Teeter: $791.97. Typical cash price $1,394.32. Prices updated 08/18/2026."
     },
     {
       "pharmacy_name": "WAC List Price",
@@ -252,44 +276,32 @@
         "2mg": 1027.51
       },
       "notes": "Wholesale Acquisition Cost (WAC) - Novo Nordisk list price. Price before any discounts or rebates."
-    },
-    {
-      "pharmacy_name": "Kroger Pharmacy",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "retail",
-      "prices": {
-        "0.25mg": 870.0,
-        "0.5mg": 870.0,
-        "1mg": 870.0,
-        "2mg": 870.0
-      },
-      "notes": "Retail cash price ~$870. SingleCare and GoodRx coupons available."
     }
   ],
   "summary": {
     "0.25mg": {
       "min": 149.0,
-      "max": 1200.0,
-      "avg": 650.91,
-      "count": 21
+      "max": 1475.7,
+      "avg": 684.57,
+      "count": 22
     },
     "0.5mg": {
       "min": 149.0,
-      "max": 1200.0,
-      "avg": 650.91,
-      "count": 21
+      "max": 1475.7,
+      "avg": 684.57,
+      "count": 22
     },
     "1mg": {
       "min": 349.0,
-      "max": 1200.0,
-      "avg": 710.44,
-      "count": 21
+      "max": 1475.7,
+      "avg": 741.39,
+      "count": 22
     },
     "2mg": {
       "min": 499.0,
-      "max": 1200.0,
-      "avg": 774.72,
-      "count": 21
+      "max": 1475.7,
+      "avg": 802.75,
+      "count": 22
     }
   }
 }
