@@ -1,1 +1,319 @@
-{"medication": "Ozempic", "generic_name": "semaglutide", "manufacturer": "Novo Nordisk", "indication": "Type 2 Diabetes", "last_updated": "2026-08-19T07:06:08+04:00", "reference_zip": "10001", "total_pharmacies": 22, "dosages": ["0.25mg", "0.5mg", "1mg", "2mg"], "pharmacies": [{"pharmacy_name": "NovoCare (Ozempic.com)", "pharmacy_type": "manufacturer_direct", "source": "manufacturer_direct", "prices": {"0.25mg": 199.0, "0.5mg": 199.0, "1mg": 349.0, "2mg": 499.0}, "notes": "Novo Nordisk manufacturer self-pay pricing. $199 for first 2 fills of 0.25/0.5mg (through Dec 31, 2026), then $349 for 0.25/0.5/1mg and $499 for 2mg. Scaped 2026-08-19."}, {"pharmacy_name": "NovoCare Pharmacy", "pharmacy_type": "manufacturer_direct", "source": "manufacturer_direct", "prices": {"0.25mg": 199.0, "0.5mg": 199.0, "1mg": 349.0, "2mg": 499.0}, "notes": "Direct-to-consumer delivery via NovoCare Pharmacy (CoAssist Pharmacy). Same pricing as Ozempic.com savings offer. Free home delivery. Scaped 2026-08-19 from novocare.com/pharmacy.html."}, {"pharmacy_name": "Novo Nordisk WAC List Price", "pharmacy_type": "manufacturer_direct", "source": "wac_list", "prices": {"0.25mg": 1027.51, "0.5mg": 1027.51, "1mg": 1027.51, "2mg": 1027.51}, "notes": "Wholesale Acquisition Cost (WAC) list price. $1,027.51 for all pen doses. Scaped from novopricing.com 2026-08-19."}, {"pharmacy_name": "TrumpRx", "pharmacy_type": "online_pharmacy", "source": "online_pharmacy", "prices": {"0.25mg": 199.0, "0.5mg": 199.0, "1mg": 349.0, "2mg": 499.0}, "notes": "Government-backed prescription discount platform. NovoCare self-pay pricing. Widely supported at retail pharmacies. Scaped 2026-08-19 from trumprx.gov."}, {"pharmacy_name": "Amazon Pharmacy", "pharmacy_type": "online_pharmacy", "source": "online_pharmacy", "prices": {"0.25mg": 199.0, "0.5mg": 199.0, "1mg": 349.0, "2mg": 499.0}, "notes": "NovoCare self-pay pricing available via Amazon Pharmacy. Automatic manufacturer coupons at checkout."}, {"pharmacy_name": "Hims & Hers", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"0.25mg": 199.0, "0.5mg": 199.0, "1mg": 349.0, "2mg": 499.0}, "notes": "Weight Loss Membership: $39 first month, then $149/month. Medication price separate. NovoCare self-pay pricing for branded Ozempic. Scaped 2026-08-19 from hims.com."}, {"pharmacy_name": "Ro", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"0.25mg": 349.0, "0.5mg": 349.0, "1mg": 349.0, "2mg": 499.0}, "notes": "Ro Body membership: $39 first month, then $149/month ongoing ($74/month with annual plan). Medication cost separate. GLP-1s from $349/mo cash-pay. Scaped 2026-08-19 from ro.co."}, {"pharmacy_name": "Sesame Care", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"0.25mg": 199.0, "0.5mg": 199.0, "1mg": 349.0, "2mg": 499.0}, "notes": "Success by Sesame subscription: $59/month (annual) to $99/month (monthly). Medication cost separate. Ozempic starts at $199/mo. Scaped 2026-08-19 from sesamecare.com."}, {"pharmacy_name": "Lemonaid Health", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"0.25mg": 1199.0, "0.5mg": 1199.0, "1mg": 1199.0, "2mg": 1199.0}, "notes": "Weight loss membership: $49/month. Ozempic $1,199/month billed separately. Cash-pay only, no insurance. Scaped 2026-08-19 from lemonaidhealth.com."}, {"pharmacy_name": "PlushCare", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"0.25mg": 997.58, "0.5mg": 997.58, "1mg": 997.58, "2mg": 997.58}, "notes": "Membership: $19.99/month (first month free), $129/visit without insurance. Medication ~$1000/month out of pocket. In-app Rx Discount Card saves 7-20%. Scaped 2026-08-19 from plushcare.com."}, {"pharmacy_name": "WeightWatchers Clinic", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"0.25mg": 997.58, "0.5mg": 997.58, "1mg": 997.58, "2mg": 997.58}, "notes": "WW Clinic membership: $25-$49 first month, then $74-$145/month + medication cost. Ozempic list price $997.58/month. Scaped 2026-08-19 from weightwatchers.com."}, {"pharmacy_name": "Noom Med", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"0.25mg": 997.58, "0.5mg": 997.58, "1mg": 997.58, "2mg": 997.58}, "notes": "Noom Med subscription: $99-$149/month + medication cost. Medication cost varies by insurance. Scaped 2026-08-19 from noom.com."}, {"pharmacy_name": "GoodRx Care", "pharmacy_type": "telehealth", "source": "telehealth", "prices": {"0.25mg": 199.0, "0.5mg": 199.0, "1mg": 349.0, "2mg": 499.0}, "notes": "GoodRx Care Direct: $39/month membership + medication. NovoCare self-pay pricing. Scaped 2026-08-19 from goodrx.com/care."}, {"pharmacy_name": "GoodRx (Tablet 1.5mg)", "pharmacy_type": "price_comparison", "source": "goodrx", "prices": {"0.25mg": 149.0, "0.5mg": 149.0, "1mg": 199.0, "2mg": 299.0}, "notes": "GoodRx coupon prices for Ozempic tablets (pill form). 1.5mg=$149, 4mg=$199, 9mg=$299. Pen prices: 0.25/0.5mg=$199, 1mg=$349, 2mg=$499. Scaped 2026-08-19 via browser."}, {"pharmacy_name": "CVS Pharmacy", "pharmacy_type": "retail_chain", "source": "singlecare", "prices": {"0.25mg": 650.58, "0.5mg": 650.58, "1mg": 650.58, "2mg": 880.11}, "notes": "SingleCare coupon price for Ozempic pen. Retail ~$1,212.99. With manufacturer coupon $149/mo. Scaped 2026-08-19."}, {"pharmacy_name": "Walmart Pharmacy", "pharmacy_type": "retail_chain", "source": "singlecare", "prices": {"0.25mg": 930.39, "0.5mg": 930.39, "1mg": 930.39, "2mg": 930.39}, "notes": "SingleCare coupon price for Ozempic pen. Retail ~$1,245.33. Scaped 2026-08-19."}, {"pharmacy_name": "Walgreens", "pharmacy_type": "retail_chain", "source": "singlecare", "prices": {"0.25mg": 955.8, "0.5mg": 955.8, "1mg": 955.8, "2mg": 887.81}, "notes": "SingleCare coupon price for Ozempic pen. Retail ~$1,233.09. Scaped 2026-08-19."}, {"pharmacy_name": "Costco Pharmacy", "pharmacy_type": "retail_chain", "source": "singlecare", "prices": {"0.25mg": 872.12, "0.5mg": 872.12, "1mg": 872.12, "2mg": 872.12}, "notes": "SingleCare coupon price for Ozempic pen. Scaped 2026-08-19."}, {"pharmacy_name": "Kroger Pharmacy", "pharmacy_type": "retail_chain", "source": "singlecare", "prices": {"0.25mg": 859.98, "0.5mg": 859.98, "1mg": 859.98, "2mg": 859.98}, "notes": "SingleCare coupon price for Ozempic pen. Retail ~$1,233.00. Scaped 2026-08-19."}, {"pharmacy_name": "Albertsons Pharmacy", "pharmacy_type": "retail_chain", "source": "singlecare", "prices": {"0.25mg": 939.63, "0.5mg": 939.63, "1mg": 939.63, "2mg": 939.63}, "notes": "SingleCare coupon price for Ozempic pen. Retail ~$1,475.70. Scaped 2026-08-19."}, {"pharmacy_name": "CenterWell Pharmacy", "pharmacy_type": "online_pharmacy", "source": "online_pharmacy", "prices": {"0.25mg": null, "0.5mg": null, "1mg": null, "2mg": null}, "notes": "Mail-order pharmacy (Humana). Requires account/login for pricing. No public GLP-1 pricing available. Scaped 2026-08-19."}, {"pharmacy_name": "Cost Plus Drugs", "pharmacy_type": "online_pharmacy", "source": "online_pharmacy", "prices": {"0.25mg": null, "0.5mg": null, "1mg": null, "2mg": null}, "notes": "Mark Cuban's online pharmacy. No GLP-1 medications listed (brand-name only, no generics available). Scaped 2026-08-19."}, {"pharmacy_name": "Honeybee Health", "pharmacy_type": "online_pharmacy", "source": "online_pharmacy", "prices": {"0.25mg": null, "0.5mg": null, "1mg": null, "2mg": null}, "notes": "Online pharmacy. Only carries generic medications. GLP-1 brand-name medications not available. Scaped 2026-08-19."}], "summary": {"0.25mg": {"min": 149.0, "max": 1199.0, "avg": 570.53, "count": 19}, "0.5mg": {"min": 149.0, "max": 1199.0, "avg": 570.53, "count": 19}, "1mg": {"min": 199.0, "max": 1199.0, "avg": 588.16, "count": 19}, "2mg": {"min": 299.0, "max": 1199.0, "avg": 641.45, "count": 19}}}
+{
+  "medication": "Ozempic",
+  "generic_name": "semaglutide",
+  "manufacturer": "Novo Nordisk",
+  "indication": "Type 2 Diabetes",
+  "last_updated": "2026-08-20T07:10:00+04:00",
+  "reference_zip": "10001",
+  "total_pharmacies": 23,
+  "dosages": [
+    "0.25mg",
+    "0.5mg",
+    "1mg",
+    "2mg"
+  ],
+  "pharmacies": [
+    {
+      "pharmacy_name": "NovoCare (Ozempic.com)",
+      "pharmacy_type": "manufacturer_direct",
+      "source": "manufacturer_direct",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "Novo Nordisk manufacturer self-pay pricing. $199 for first 2 fills of 0.25/0.5mg (through Dec 31, 2026), then $349 for 0.25/0.5/1mg and $499 for 2mg. Scraped 2026-08-20."
+    },
+    {
+      "pharmacy_name": "NovoCare Pharmacy",
+      "pharmacy_type": "manufacturer_direct",
+      "source": "manufacturer_direct",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "Direct-to-consumer delivery via NovoCare Pharmacy (CoAssist Pharmacy). Same pricing as Ozempic.com savings offer. Free home delivery. Scraped 2026-08-20 from novocare.com/pharmacy.html."
+    },
+    {
+      "pharmacy_name": "Novo Nordisk WAC List Price",
+      "pharmacy_type": "manufacturer_direct",
+      "source": "wac_list",
+      "prices": {
+        "0.25mg": 1027.51,
+        "0.5mg": 1027.51,
+        "1mg": 1027.51,
+        "2mg": 1027.51
+      },
+      "notes": "Wholesale Acquisition Cost (WAC) list price. $1,027.51 for all pen doses. Scraped from novopricing.com 2026-08-20."
+    },
+    {
+      "pharmacy_name": "TrumpRx",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "Government-backed prescription discount platform. NovoCare self-pay pricing. Widely supported at retail pharmacies. Scraped 2026-08-20 from trumprx.gov."
+    },
+    {
+      "pharmacy_name": "Amazon Pharmacy",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "NovoCare self-pay pricing available via Amazon Pharmacy. Automatic manufacturer coupons at checkout."
+    },
+    {
+      "pharmacy_name": "Hims & Hers",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "Weight Loss Membership: $39 first month, then $149/month. Medication price separate. NovoCare self-pay pricing for branded Ozempic. Scraped 2026-08-20 from hims.com."
+    },
+    {
+      "pharmacy_name": "Ro",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "Ro Body membership: $39 first month, then $149/month ongoing ($74/month with annual plan). Medication cost separate. GLP-1s from $349/mo cash-pay. Scraped 2026-08-20 from ro.co."
+    },
+    {
+      "pharmacy_name": "Sesame Care",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "Success by Sesame subscription: $59/month (annual) to $99/month (monthly). Medication cost separate. Ozempic starts at $199/mo. Scraped 2026-08-20 from sesamecare.com."
+    },
+    {
+      "pharmacy_name": "Lemonaid Health",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 1199.0,
+        "0.5mg": 1199.0,
+        "1mg": 1199.0,
+        "2mg": 1199.0
+      },
+      "notes": "Weight loss membership: $49/month. Ozempic $1,199/month billed separately. Cash-pay only, no insurance. Scraped 2026-08-20 from lemonaidhealth.com."
+    },
+    {
+      "pharmacy_name": "PlushCare",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 997.58,
+        "0.5mg": 997.58,
+        "1mg": 997.58,
+        "2mg": 997.58
+      },
+      "notes": "Membership: $19.99/month (first month free), $129/visit without insurance. Medication ~$1000/month out of pocket. In-app Rx Discount Card saves 7-20%. Scraped 2026-08-20 from plushcare.com."
+    },
+    {
+      "pharmacy_name": "WeightWatchers Clinic",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 997.58,
+        "0.5mg": 997.58,
+        "1mg": 997.58,
+        "2mg": 997.58
+      },
+      "notes": "WW Clinic membership: $25-$49 first month, then $74-$145/month + medication cost. Ozempic list price $997.58/month. Scraped 2026-08-20 from weightwatchers.com."
+    },
+    {
+      "pharmacy_name": "Noom Med",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 997.58,
+        "0.5mg": 997.58,
+        "1mg": 997.58,
+        "2mg": 997.58
+      },
+      "notes": "Noom Med subscription: $99-$149/month + medication cost. Medication cost varies by insurance. Scraped 2026-08-20 from noom.com."
+    },
+    {
+      "pharmacy_name": "GoodRx Care",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "GoodRx Care Direct: $39/month membership + medication. NovoCare self-pay pricing. Scraped 2026-08-20 from goodrx.com/care."
+    },
+    {
+      "pharmacy_name": "GoodRx (Tablet 1.5mg)",
+      "pharmacy_type": "price_comparison",
+      "source": "goodrx",
+      "prices": {
+        "0.25mg": 149.0,
+        "0.5mg": 149.0,
+        "1mg": 199.0,
+        "2mg": 299.0
+      },
+      "notes": "GoodRx coupon prices for Ozempic tablets (pill form). 1.5mg=$149, 4mg=$199, 9mg=$299. Pen prices: 0.25/0.5mg=$199, 1mg=$349, 2mg=$499. Scraped 2026-08-20 via browser."
+    },
+    {
+      "pharmacy_name": "CVS Pharmacy",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
+      "prices": {
+        "0.25mg": 650.58,
+        "0.5mg": 650.58,
+        "1mg": 650.58,
+        "2mg": 880.11
+      },
+      "notes": "SingleCare coupon price for Ozempic pen. Retail ~$1,212.99. With manufacturer coupon $149/mo. Scraped 2026-08-20."
+    },
+    {
+      "pharmacy_name": "Walmart Pharmacy",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
+      "prices": {
+        "0.25mg": 930.39,
+        "0.5mg": 930.39,
+        "1mg": 930.39,
+        "2mg": 930.39
+      },
+      "notes": "SingleCare coupon price for Ozempic pen. Retail ~$1,245.33. Scraped 2026-08-20."
+    },
+    {
+      "pharmacy_name": "Walgreens",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
+      "prices": {
+        "0.25mg": 955.8,
+        "0.5mg": 955.8,
+        "1mg": 955.8,
+        "2mg": 887.81
+      },
+      "notes": "SingleCare coupon price for Ozempic pen. Retail ~$1,233.09. Scraped 2026-08-20."
+    },
+    {
+      "pharmacy_name": "Costco Pharmacy",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
+      "prices": {
+        "0.25mg": 872.12,
+        "0.5mg": 872.12,
+        "1mg": 872.12,
+        "2mg": 872.12
+      },
+      "notes": "SingleCare coupon price for Ozempic pen. Scraped 2026-08-20."
+    },
+    {
+      "pharmacy_name": "Kroger Pharmacy",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
+      "prices": {
+        "0.25mg": 859.98,
+        "0.5mg": 859.98,
+        "1mg": 859.98,
+        "2mg": 859.98
+      },
+      "notes": "SingleCare coupon price for Ozempic pen. Retail ~$1,233.00. Scraped 2026-08-20."
+    },
+    {
+      "pharmacy_name": "Albertsons Pharmacy",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
+      "prices": {
+        "0.25mg": 939.63,
+        "0.5mg": 939.63,
+        "1mg": 939.63,
+        "2mg": 939.63
+      },
+      "notes": "SingleCare coupon price for Ozempic pen. Retail ~$1,475.70. Scraped 2026-08-20."
+    },
+    {
+      "pharmacy_name": "CenterWell Pharmacy",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "notes": "Mail-order pharmacy (Humana). Requires account/login for pricing. No public GLP-1 pricing available. Scraped 2026-08-20."
+    },
+    {
+      "pharmacy_name": "Cost Plus Drugs",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "notes": "Mark Cuban's online pharmacy. No GLP-1 medications listed (brand-name only, no generics available). Scraped 2026-08-20."
+    },
+    {
+      "pharmacy_name": "Honeybee Health",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "notes": "Online pharmacy. Only carries generic medications. GLP-1 brand-name medications not available. Scraped 2026-08-20."
+    }
+  ],
+  "summary": {
+    "0.25mg": {
+      "min": 149.0,
+      "max": 1199.0,
+      "avg": 615.94,
+      "count": 20
+    },
+    "0.5mg": {
+      "min": 149.0,
+      "max": 1199.0,
+      "avg": 615.94,
+      "count": 20
+    },
+    "1mg": {
+      "min": 199.0,
+      "max": 1199.0,
+      "avg": 670.94,
+      "count": 20
+    },
+    "2mg": {
+      "min": 299.0,
+      "max": 1199.0,
+      "avg": 744.01,
+      "count": 20
+    }
+  }
+}
