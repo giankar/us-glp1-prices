@@ -3,9 +3,9 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-08-21T07:02:00+04:00",
+  "last_updated": "2026-08-22T07:06:00+04:00",
   "reference_zip": "10001",
-  "total_pharmacies": 18,
+  "total_pharmacies": 19,
   "dosages": [
     "0.25mg",
     "0.5mg",
@@ -50,6 +50,18 @@
       "notes": "Automatic manufacturer coupons at checkout. NovoCare self-pay pricing applied. Also offers Ozempic pill 1.5mg at $149/mo cash. Medicare Bridge: $50/mo."
     },
     {
+      "pharmacy_name": "TrumpRx",
+      "pharmacy_type": "retail_chain",
+      "source": "manufacturer_direct",
+      "prices": {
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
+      },
+      "notes": "TrumpRx self-pay coupon: new patients $199/mo for 0.25/0.5mg (first 2 fills through 12/31/2026), then $349 for 0.25/0.5/1mg, $499 for 2mg. Widely supported at retail pharmacies."
+    },
+    {
       "pharmacy_name": "CVS Pharmacy",
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
@@ -59,7 +71,7 @@
         "1mg": 650.58,
         "2mg": 650.58
       },
-      "notes": "SingleCare coupon price. Retail price ~$1212.99."
+      "notes": "SingleCare coupon price. Retail ~$1212.99."
     },
     {
       "pharmacy_name": "Walgreens",
@@ -71,7 +83,7 @@
         "1mg": 955.8,
         "2mg": 955.8
       },
-      "notes": "SingleCare coupon price. Retail price ~$1233.09."
+      "notes": "SingleCare coupon price. Retail ~$1233.09."
     },
     {
       "pharmacy_name": "Walmart Pharmacy",
@@ -83,7 +95,7 @@
         "1mg": 862.39,
         "2mg": 862.39
       },
-      "notes": "SingleCare coupon price. Retail price ~$1245.33."
+      "notes": "SingleCare coupon price. Retail ~$1245.33."
     },
     {
       "pharmacy_name": "Kroger Pharmacy",
@@ -95,7 +107,7 @@
         "1mg": 791.97,
         "2mg": 791.97
       },
-      "notes": "SingleCare coupon price. Retail price ~$1233.00."
+      "notes": "SingleCare coupon price with member bonus. Retail ~$859.97."
     },
     {
       "pharmacy_name": "Costco Pharmacy",
@@ -107,7 +119,7 @@
         "1mg": 872.12,
         "2mg": 872.12
       },
-      "notes": "SingleCare coupon price. Retail price ~$940.12."
+      "notes": "SingleCare coupon price. Retail ~$940.12."
     },
     {
       "pharmacy_name": "Harris Teeter Pharmacy",
@@ -119,7 +131,7 @@
         "1mg": 791.97,
         "2mg": 791.97
       },
-      "notes": "SingleCare coupon price. Retail price ~$859.97."
+      "notes": "SingleCare coupon price with member bonus. Retail ~$859.97."
     },
     {
       "pharmacy_name": "Publix Pharmacy",
@@ -131,7 +143,7 @@
         "1mg": 850.46,
         "2mg": 850.46
       },
-      "notes": "SingleCare coupon price. Retail price ~$918.46."
+      "notes": "SingleCare coupon price with member bonus. Retail ~$918.46."
     },
     {
       "pharmacy_name": "Albertsons Pharmacy",
@@ -143,7 +155,7 @@
         "1mg": 939.63,
         "2mg": 939.63
       },
-      "notes": "SingleCare coupon price. Retail price ~$1475.70."
+      "notes": "SingleCare coupon price. Retail ~$1475.70."
     },
     {
       "pharmacy_name": "Ro",
@@ -155,7 +167,7 @@
         "1mg": 349.0,
         "2mg": 349.0
       },
-      "notes": "GLP-1s from $349/mo + $145/mo Ro Body membership fee. Insurance or cash-pay options. Medication shipped to door."
+      "notes": "GLP-1s from $349/mo + $145/mo Ro Body membership fee. Insurance or cash-pay options. Medication shipped to door. Prepay & Save for lowest prices."
     },
     {
       "pharmacy_name": "Hims & Hers",
@@ -234,26 +246,26 @@
     "0.25mg": {
       "min": 199.0,
       "max": 1199.0,
-      "avg": 742.81,
-      "count": 16
+      "avg": 710.82,
+      "count": 17
     },
     "0.5mg": {
       "min": 199.0,
       "max": 1199.0,
-      "avg": 742.81,
-      "count": 16
+      "avg": 710.82,
+      "count": 17
     },
     "1mg": {
       "min": 349.0,
       "max": 1199.0,
-      "avg": 770.94,
-      "count": 16
+      "avg": 746.12,
+      "count": 17
     },
     "2mg": {
       "min": 349.0,
       "max": 1199.0,
-      "avg": 799.06,
-      "count": 16
+      "avg": 781.41,
+      "count": 17
     }
   }
 }

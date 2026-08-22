@@ -3,7 +3,7 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Weight Loss",
-  "last_updated": "2026-08-21T07:02:00+04:00",
+  "last_updated": "2026-08-22T07:06:00+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 18,
   "dosages": [
@@ -58,11 +58,11 @@
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
-        "0.25mg": 1077.0,
-        "0.5mg": 1077.0,
-        "1mg": 1077.0,
-        "1.7mg": 1077.0,
-        "2.4mg": 1077.0
+        "0.25mg": 1077.42,
+        "0.5mg": 1077.42,
+        "1mg": 1077.42,
+        "1.7mg": 1077.42,
+        "2.4mg": 1077.42
       },
       "notes": "SingleCare coupon price for pen. Retail ~$1155.42. Wegovy pill (1.5mg) SingleCare: $885 at CVS."
     },
@@ -84,11 +84,11 @@
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
-        "0.25mg": 1108.0,
-        "0.5mg": 1108.0,
-        "1mg": 1108.0,
-        "1.7mg": 1108.0,
-        "2.4mg": 1108.0
+        "0.25mg": 1108.14,
+        "0.5mg": 1108.14,
+        "1mg": 1108.14,
+        "1.7mg": 1108.14,
+        "2.4mg": 1108.14
       },
       "notes": "SingleCare coupon price for pen. Retail ~$1186.14. Wegovy pill SingleCare: $1186.20."
     },
@@ -97,39 +97,39 @@
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
-        "0.25mg": 1011.0,
-        "0.5mg": 1011.0,
-        "1mg": 1011.0,
-        "1.7mg": 1011.0,
-        "2.4mg": 1011.0
+        "0.25mg": 1010.5,
+        "0.5mg": 1010.5,
+        "1mg": 1010.5,
+        "1.7mg": 1010.5,
+        "2.4mg": 1010.5
       },
-      "notes": "SingleCare coupon price for pen. Retail ~$1088.50. Wegovy pill SingleCare: $1088.40."
+      "notes": "SingleCare coupon price for pen with member bonus. Retail ~$1088.50. Wegovy pill SingleCare: $1088.40."
     },
     {
       "pharmacy_name": "Harris Teeter Pharmacy",
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
-        "0.25mg": 1011.0,
-        "0.5mg": 1011.0,
-        "1mg": 1011.0,
-        "1.7mg": 1011.0,
-        "2.4mg": 1011.0
+        "0.25mg": 1010.5,
+        "0.5mg": 1010.5,
+        "1mg": 1010.5,
+        "1.7mg": 1010.5,
+        "2.4mg": 1010.5
       },
-      "notes": "SingleCare coupon price for pen. Retail ~$1088.50."
+      "notes": "SingleCare coupon price for pen with member bonus. Retail ~$1088.50."
     },
     {
       "pharmacy_name": "Publix Pharmacy",
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
-        "0.25mg": 1086.0,
-        "0.5mg": 1086.0,
-        "1mg": 1086.0,
-        "1.7mg": 1086.0,
-        "2.4mg": 1086.0
+        "0.25mg": 1086.35,
+        "0.5mg": 1086.35,
+        "1mg": 1086.35,
+        "1.7mg": 1086.35,
+        "2.4mg": 1086.35
       },
-      "notes": "SingleCare coupon price for pen. Retail ~$1164.35."
+      "notes": "SingleCare coupon price for pen with member bonus. Retail ~$1164.35."
     },
     {
       "pharmacy_name": "Albertsons Pharmacy",
