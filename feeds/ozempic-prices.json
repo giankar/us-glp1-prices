@@ -3,7 +3,7 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-08-22T07:06:00+04:00",
+  "last_updated": "2026-08-23T07:05:00+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 19,
   "dosages": [
@@ -66,24 +66,24 @@
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
-        "0.25mg": 650.58,
-        "0.5mg": 650.58,
-        "1mg": 650.58,
-        "2mg": 650.58
+        "0.25mg": 880.11,
+        "0.5mg": 880.11,
+        "1mg": 910.25,
+        "2mg": 867.9
       },
-      "notes": "SingleCare coupon price. Retail ~$1212.99."
+      "notes": "SingleCare coupon price with member bonus. Retail ~$1212.99."
     },
     {
       "pharmacy_name": "Walgreens",
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
-        "0.25mg": 955.8,
-        "0.5mg": 955.8,
-        "1mg": 955.8,
-        "2mg": 955.8
+        "0.25mg": 887.81,
+        "0.5mg": 887.81,
+        "1mg": 905.74,
+        "2mg": 895.95
       },
-      "notes": "SingleCare coupon price. Retail ~$1233.09."
+      "notes": "SingleCare coupon price with member bonus. Retail ~$1233.09."
     },
     {
       "pharmacy_name": "Walmart Pharmacy",
@@ -92,10 +92,10 @@
       "prices": {
         "0.25mg": 862.39,
         "0.5mg": 862.39,
-        "1mg": 862.39,
-        "2mg": 862.39
+        "1mg": 929.16,
+        "2mg": 878.67
       },
-      "notes": "SingleCare coupon price. Retail ~$1245.33."
+      "notes": "SingleCare coupon price with member bonus. Retail ~$1245.33."
     },
     {
       "pharmacy_name": "Kroger Pharmacy",
@@ -116,10 +116,10 @@
       "prices": {
         "0.25mg": 872.12,
         "0.5mg": 872.12,
-        "1mg": 872.12,
-        "2mg": 872.12
+        "1mg": 934.82,
+        "2mg": 896.54
       },
-      "notes": "SingleCare coupon price. Retail ~$940.12."
+      "notes": "SingleCare coupon price with member bonus. Retail ~$940.12."
     },
     {
       "pharmacy_name": "Harris Teeter Pharmacy",
@@ -152,8 +152,8 @@
       "prices": {
         "0.25mg": 939.63,
         "0.5mg": 939.63,
-        "1mg": 939.63,
-        "2mg": 939.63
+        "1mg": 926.49,
+        "2mg": 888.21
       },
       "notes": "SingleCare coupon price. Retail ~$1475.70."
     },
@@ -167,7 +167,7 @@
         "1mg": 349.0,
         "2mg": 349.0
       },
-      "notes": "GLP-1s from $349/mo + $145/mo Ro Body membership fee. Insurance or cash-pay options. Medication shipped to door. Prepay & Save for lowest prices."
+      "notes": "GLP-1s from $349/mo + $145/mo Ro Body membership fee ($39 first month, $149/mo thereafter). Insurance or cash-pay options. Medication shipped to door. Prepay & Save for lowest prices."
     },
     {
       "pharmacy_name": "Hims & Hers",
@@ -246,25 +246,25 @@
     "0.25mg": {
       "min": 199.0,
       "max": 1199.0,
-      "avg": 710.82,
+      "avg": 720.33,
       "count": 17
     },
     "0.5mg": {
       "min": 199.0,
       "max": 1199.0,
-      "avg": 710.82,
+      "avg": 720.33,
       "count": 17
     },
     "1mg": {
       "min": 349.0,
       "max": 1199.0,
-      "avg": 746.12,
+      "avg": 765.29,
       "count": 17
     },
     "2mg": {
       "min": 349.0,
       "max": 1199.0,
-      "avg": 781.41,
+      "avg": 790.04,
       "count": 17
     }
   }

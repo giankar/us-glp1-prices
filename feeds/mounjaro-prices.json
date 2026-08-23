@@ -3,7 +3,7 @@
   "generic_name": "tirzepatide",
   "manufacturer": "Eli Lilly",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-08-22T07:06:00+04:00",
+  "last_updated": "2026-08-23T07:05:00+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 18,
   "dosages": [
@@ -30,74 +30,74 @@
       "notes": "Lilly list price (WAC) $1,079.77/mo. Same across all dosages. Savings card available for commercial insurance: as low as $25/mo if covered, ~$499/mo if not covered."
     },
     {
-      "pharmacy_name": "Walgreens",
-      "pharmacy_type": "retail_chain",
-      "source": "goodrx",
-      "prices": {
-        "2.5mg": 1297.0,
-        "5mg": 1297.0,
-        "7.5mg": 1297.0,
-        "10mg": 1297.0,
-        "12.5mg": 1291.0,
-        "15mg": 1290.0
-      },
-      "notes": "GoodRx/OptumPerks coupon price. Prices vary slightly by dosage. Retail ~$1,290-1,297."
-    },
-    {
       "pharmacy_name": "CVS Pharmacy",
       "pharmacy_type": "retail_chain",
-      "source": "goodrx",
+      "source": "singlecare",
       "prices": {
-        "2.5mg": 1274.0,
-        "5mg": 1274.0,
-        "7.5mg": 1274.0,
-        "10mg": 1274.0,
-        "12.5mg": 1274.0,
-        "15mg": 1274.0
+        "2.5mg": 931.04,
+        "5mg": 931.04,
+        "7.5mg": 931.04,
+        "10mg": 931.04,
+        "12.5mg": 931.04,
+        "15mg": 931.04
       },
-      "notes": "GoodRx/OptumPerks coupon price. Same across all dosages."
+      "notes": "SingleCare coupon price with member bonus. Retail ~$1311.98."
+    },
+    {
+      "pharmacy_name": "Walgreens",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
+      "prices": {
+        "2.5mg": 927.61,
+        "5mg": 927.61,
+        "7.5mg": 927.61,
+        "10mg": 927.61,
+        "12.5mg": 927.61,
+        "15mg": 927.61
+      },
+      "notes": "SingleCare coupon price with member bonus. Retail ~$1336.08."
     },
     {
       "pharmacy_name": "Walmart Pharmacy",
       "pharmacy_type": "retail_chain",
-      "source": "goodrx",
+      "source": "singlecare",
       "prices": {
-        "2.5mg": 1297.0,
-        "5mg": 1297.0,
-        "7.5mg": 1297.0,
-        "10mg": 1297.0,
-        "12.5mg": 1297.0,
-        "15mg": 1297.0
+        "2.5mg": 953.07,
+        "5mg": 953.07,
+        "7.5mg": 953.07,
+        "10mg": 953.07,
+        "12.5mg": 953.07,
+        "15mg": 953.07
       },
-      "notes": "GoodRx/OptumPerks coupon price. Same across all dosages."
+      "notes": "SingleCare coupon price with member bonus. Retail ~$1351.28."
     },
     {
-      "pharmacy_name": "Safeway Pharmacy",
+      "pharmacy_name": "Acme Pharmacy",
       "pharmacy_type": "retail_chain",
-      "source": "goodrx",
+      "source": "singlecare",
       "prices": {
-        "2.5mg": 1093.0,
-        "5mg": 1093.0,
-        "7.5mg": 1085.0,
-        "10mg": 1077.0,
-        "12.5mg": 1077.0,
-        "15mg": 1083.0
+        "2.5mg": 945.57,
+        "5mg": 943.59,
+        "7.5mg": 947.55,
+        "10mg": 949.88,
+        "12.5mg": 949.88,
+        "15mg": 949.88
       },
-      "notes": "GoodRx/OptumPerks coupon price. Prices vary slightly by dosage. Lowest retail chain price found."
+      "notes": "SingleCare coupon price with member bonus."
     },
     {
-      "pharmacy_name": "GoodRx",
-      "pharmacy_type": "price_comparison",
-      "source": "goodrx",
+      "pharmacy_name": "Costco Pharmacy",
+      "pharmacy_type": "retail_chain",
+      "source": "singlecare",
       "prices": {
-        "2.5mg": 1086.78,
-        "5mg": 1086.78,
-        "7.5mg": 1086.78,
-        "10mg": 1086.78,
-        "12.5mg": 1086.78,
-        "15mg": 1086.78
+        "2.5mg": 954.92,
+        "5mg": 952.94,
+        "7.5mg": 956.9,
+        "10mg": 959.23,
+        "12.5mg": 959.23,
+        "15mg": 959.23
       },
-      "notes": "GoodRx coupon: as low as $1,086.78 (19% off average retail $1,348.16). Third-party coupons limited by Lilly contracts."
+      "notes": "SingleCare coupon price with member bonus."
     },
     {
       "pharmacy_name": "Kroger Pharmacy",
@@ -142,18 +142,18 @@
       "notes": "SingleCare coupon price with member bonus. Retail ~$1047.25."
     },
     {
-      "pharmacy_name": "Costco Pharmacy",
-      "pharmacy_type": "retail_chain",
+      "pharmacy_name": "Capsule Pharmacy",
+      "pharmacy_type": "online_pharmacy",
       "source": "singlecare",
       "prices": {
-        "2.5mg": 952.94,
-        "5mg": 952.94,
-        "7.5mg": 952.94,
-        "10mg": 952.94,
-        "12.5mg": 952.94,
-        "15mg": 952.94
+        "2.5mg": 1069.0,
+        "5mg": 1067.0,
+        "7.5mg": 1071.0,
+        "10mg": 1073.0,
+        "12.5mg": 1073.0,
+        "15mg": 1073.0
       },
-      "notes": "SingleCare coupon price with member bonus. Retail ~$1070.94."
+      "notes": "SingleCare coupon price. Online-only pharmacy."
     },
     {
       "pharmacy_name": "Hims & Hers",
@@ -272,37 +272,37 @@
     "2.5mg": {
       "min": 872.48,
       "max": 1899.0,
-      "avg": 1133.34,
+      "avg": 1039.54,
       "count": 13
     },
     "5mg": {
       "min": 872.48,
       "max": 1899.0,
-      "avg": 1133.34,
+      "avg": 1039.08,
       "count": 13
     },
     "7.5mg": {
       "min": 872.48,
       "max": 1899.0,
-      "avg": 1132.73,
+      "avg": 1039.99,
       "count": 13
     },
     "10mg": {
       "min": 872.48,
       "max": 1899.0,
-      "avg": 1132.11,
+      "avg": 1040.51,
       "count": 13
     },
     "12.5mg": {
       "min": 872.48,
       "max": 1899.0,
-      "avg": 1131.65,
+      "avg": 1040.51,
       "count": 13
     },
     "15mg": {
       "min": 872.48,
       "max": 1899.0,
-      "avg": 1132.04,
+      "avg": 1040.51,
       "count": 13
     }
   }
