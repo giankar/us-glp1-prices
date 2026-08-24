@@ -3,7 +3,7 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-08-23T07:05:00+04:00",
+  "last_updated": "2026-08-24T07:09:35+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 19,
   "dosages": [
@@ -71,7 +71,7 @@
         "1mg": 910.25,
         "2mg": 867.9
       },
-      "notes": "SingleCare coupon price with member bonus. Retail ~$1212.99."
+      "notes": "SingleCare coupon price with member bonus. Retail ~$1212.99. Also $149/mo with manufacturer coupon for self-pay."
     },
     {
       "pharmacy_name": "Walgreens",

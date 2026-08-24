@@ -3,9 +3,9 @@
   "generic_name": "tirzepatide",
   "manufacturer": "Eli Lilly",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-08-23T07:05:00+04:00",
+  "last_updated": "2026-08-24T07:09:35+04:00",
   "reference_zip": "10001",
-  "total_pharmacies": 18,
+  "total_pharmacies": 19,
   "dosages": [
     "2.5mg",
     "5mg",
@@ -266,6 +266,20 @@
         "15mg": null
       },
       "notes": "$59/mo for care + medication from $149/mo. Offers Zepbound from $299/mo and Zepbound KwikPen from $299/mo. Does not specifically list Mounjaro."
+    },
+    {
+      "pharmacy_name": "Nurx",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "2.5mg": null,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "Nurx offers weight management treatment including GLP-1s. Medication cost varies by insurance/cash pay. No specific Mounjaro pricing published."
     }
   ],
   "summary": {

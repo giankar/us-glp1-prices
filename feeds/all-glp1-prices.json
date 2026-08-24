@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T07:05:00+04:00",
+  "last_updated": "2026-08-24T07:09:35+04:00",
   "reference_zip": "10001",
   "medications": [
     {
@@ -7,7 +7,7 @@
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-08-23T07:05:00+04:00",
+      "last_updated": "2026-08-24T07:09:35+04:00",
       "reference_zip": "10001",
       "total_pharmacies": 19,
       "dosages": [
@@ -75,7 +75,7 @@
             "1mg": 910.25,
             "2mg": 867.9
           },
-          "notes": "SingleCare coupon price with member bonus. Retail ~$1212.99."
+          "notes": "SingleCare coupon price with member bonus. Retail ~$1212.99. Also $149/mo with manufacturer coupon for self-pay."
         },
         {
           "pharmacy_name": "Walgreens",
@@ -278,9 +278,9 @@
       "generic_name": "tirzepatide",
       "manufacturer": "Eli Lilly",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-08-23T07:05:00+04:00",
+      "last_updated": "2026-08-24T07:09:35+04:00",
       "reference_zip": "10001",
-      "total_pharmacies": 18,
+      "total_pharmacies": 19,
       "dosages": [
         "2.5mg",
         "5mg",
@@ -541,6 +541,20 @@
             "15mg": null
           },
           "notes": "$59/mo for care + medication from $149/mo. Offers Zepbound from $299/mo and Zepbound KwikPen from $299/mo. Does not specifically list Mounjaro."
+        },
+        {
+          "pharmacy_name": "Nurx",
+          "pharmacy_type": "telehealth",
+          "source": "telehealth",
+          "prices": {
+            "2.5mg": null,
+            "5mg": null,
+            "7.5mg": null,
+            "10mg": null,
+            "12.5mg": null,
+            "15mg": null
+          },
+          "notes": "Nurx offers weight management treatment including GLP-1s. Medication cost varies by insurance/cash pay. No specific Mounjaro pricing published."
         }
       ],
       "summary": {
@@ -587,9 +601,9 @@
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Weight Loss",
-      "last_updated": "2026-08-23T07:05:00+04:00",
+      "last_updated": "2026-08-24T07:09:35+04:00",
       "reference_zip": "10001",
-      "total_pharmacies": 21,
+      "total_pharmacies": 22,
       "dosages": [
         "0.25mg",
         "0.5mg",
@@ -648,7 +662,7 @@
             "1.7mg": 1212.0,
             "2.4mg": 1237.0
           },
-          "notes": "SingleCare coupon price for pen with member bonus. Retail ~$1587.00."
+          "notes": "SingleCare coupon price for pen with member bonus. Retail ~$1587.00. Also $149/mo with manufacturer coupon for self-pay."
         },
         {
           "pharmacy_name": "Walgreens",
@@ -870,6 +884,19 @@
             "2.4mg": null
           },
           "notes": "Subscription $99-$149/mo + medication costs. GLP-1s shipped if prescribed. Medication cost varies by insurance/cash pay status."
+        },
+        {
+          "pharmacy_name": "Nurx",
+          "pharmacy_type": "telehealth",
+          "source": "telehealth",
+          "prices": {
+            "0.25mg": null,
+            "0.5mg": null,
+            "1mg": null,
+            "1.7mg": null,
+            "2.4mg": null
+          },
+          "notes": "Nurx offers weight management treatment including GLP-1s with or without insurance. Medication cost varies. No specific Wegovy pricing published."
         }
       ],
       "summary": {
