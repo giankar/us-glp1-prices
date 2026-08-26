@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-25T07:08:40+04:00",
+  "last_updated": "2026-08-26T07:15:00+04:00",
   "reference_zip": "10001",
   "ozempic": {
     "medication": "Ozempic",
     "generic_name": "semaglutide",
     "manufacturer": "Novo Nordisk",
     "indication": "Type 2 Diabetes",
-    "last_updated": "2026-08-25T07:08:40+04:00",
+    "last_updated": "2026-08-26T07:15:00+04:00",
     "reference_zip": "10001",
-    "total_pharmacies": 19,
+    "total_pharmacies": 21,
     "dosages": [
       "0.25mg",
       "0.5mg",
@@ -26,7 +26,7 @@
           "1mg": 349.0,
           "2mg": 499.0
         },
-        "notes": "NovoCare self-pay: new patients $199/mo for 0.25/0.5mg (first 2 fills), existing $349 for 0.25/0.5/1mg, $499 for 2mg. CoAssist Pharmacy dispenses."
+        "notes": "NovoCare self-pay: new patients $199/mo for 0.25/0.5mg (first 2 fills through 12/31/2026), existing $349 for 0.25/0.5/1mg, $499 for 2mg. CoAssist Pharmacy dispenses. Also offers Ozempic pill 1.5mg $149/mo, 4mg $199/mo, 9mg $299/mo."
       },
       {
         "pharmacy_name": "Novo Nordisk WAC",
@@ -74,7 +74,7 @@
           "1mg": 910.25,
           "2mg": 867.9
         },
-        "notes": "SingleCare coupon price with member bonus. Retail ~$1212.99. Also $149/mo with manufacturer coupon for self-pay."
+        "notes": "SingleCare coupon price with member bonus. Also $149/mo with manufacturer coupon for self-pay. $29 MinuteClinic online consultation."
       },
       {
         "pharmacy_name": "Walgreens",
@@ -146,7 +146,7 @@
           "1mg": 850.46,
           "2mg": 850.46
         },
-        "notes": "SingleCare coupon price with member bonus. Retail ~$918.46."
+        "notes": "SingleCare coupon price with member bonus. Retail ~$918.46. Medicare GLP-1 Bridge: $50 copay."
       },
       {
         "pharmacy_name": "Albertsons Pharmacy",
@@ -170,7 +170,7 @@
           "1mg": 349.0,
           "2mg": 349.0
         },
-        "notes": "GLP-1s from $349/mo + $145/mo Ro Body membership fee ($39 first month, $149/mo thereafter). Insurance or cash-pay options. Medication shipped to door. Prepay & Save for lowest prices."
+        "notes": "GLP-1s from $349/mo + $145/mo Ro Body membership fee ($39 first month, $149/mo thereafter). Insurance or cash-pay. Medication shipped to door. Prepay & Save for lowest prices."
       },
       {
         "pharmacy_name": "Hims & Hers",
@@ -183,6 +183,18 @@
           "2mg": 499.0
         },
         "notes": "Ozempic from $199/mo. Membership: $39 first month, $149/mo thereafter. NovoCare pricing applied. Also offers Ozempic pill from $149/mo."
+      },
+      {
+        "pharmacy_name": "Sesame Care",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "0.25mg": 199.0,
+          "0.5mg": 199.0,
+          "1mg": 349.0,
+          "2mg": 499.0
+        },
+        "notes": "Ozempic starts at $199/mo (new patients, 0.25/0.5mg first 2 fills), then $349 for 0.25/0.5/1mg, $499 for 2mg. $59/mo subscription for clinical care (12-month commitment)."
       },
       {
         "pharmacy_name": "Lemonaid Health",
@@ -206,7 +218,7 @@
           "1mg": 1000.0,
           "2mg": 1000.0
         },
-        "notes": "Ozempic $900-$1000 self-pay. $19.99/mo membership + $129/visit. Insurance accepted for visit costs. Rx Discount Card saves 7-20%."
+        "notes": "Ozempic $900-$1000 self-pay. $19.99/mo membership + $129/visit. Insurance accepted for visit costs."
       },
       {
         "pharmacy_name": "WeightWatchers Clinic",
@@ -218,7 +230,7 @@
           "1mg": 997.58,
           "2mg": 997.58
         },
-        "notes": "Ozempic list price $997.58/mo. Membership $25-$49 first month, then $74-$145/mo. Insurance coordination included. Medication not included in membership."
+        "notes": "Ozempic list price $997.58/mo. Membership $25-$49 first month, then $74-$145/mo. Insurance coordination included."
       },
       {
         "pharmacy_name": "Noom Med",
@@ -230,7 +242,7 @@
           "1mg": null,
           "2mg": null
         },
-        "notes": "Subscription $99-$149/mo + medication costs (varies). GLP-1s shipped in 7 days if prescribed. Medication cost depends on insurance/cash pay status."
+        "notes": "Subscription $99-$149/mo + medication costs (varies). GLP-1s shipped in 7 days if prescribed."
       },
       {
         "pharmacy_name": "GoodRx Care",
@@ -242,7 +254,19 @@
           "1mg": null,
           "2mg": null
         },
-        "notes": "GoodRx Care Direct: $39/mo for unlimited online care. Does not specifically list Ozempic injection; focuses on Wegovy/Zepbound/Foundayo for weight loss."
+        "notes": "GoodRx Care Direct: $39/mo for unlimited online care. Focuses on Wegovy/Zepbound/Foundayo for weight loss."
+      },
+      {
+        "pharmacy_name": "Nurx",
+        "pharmacy_type": "telehealth",
+        "source": "telehealth",
+        "prices": {
+          "0.25mg": null,
+          "0.5mg": null,
+          "1mg": null,
+          "2mg": null
+        },
+        "notes": "Nurx offers weight management treatment including GLP-1s. Medication cost varies by insurance/cash pay."
       }
     ],
     "summary": {
@@ -277,7 +301,7 @@
     "generic_name": "tirzepatide",
     "manufacturer": "Eli Lilly",
     "indication": "Type 2 Diabetes",
-    "last_updated": "2026-08-25T07:08:40+04:00",
+    "last_updated": "2026-08-26T07:15:00+04:00",
     "reference_zip": "10001",
     "total_pharmacies": 19,
     "dosages": [
@@ -413,7 +437,7 @@
           "12.5mg": 929.25,
           "15mg": 929.25
         },
-        "notes": "SingleCare coupon price with member bonus. Retail ~$1047.25."
+        "notes": "SingleCare coupon price with member bonus. Retail ~$1047.25. Medicare GLP-1 Bridge: $50 copay."
       },
       {
         "pharmacy_name": "Capsule Pharmacy",
@@ -483,7 +507,7 @@
           "12.5mg": null,
           "15mg": null
         },
-        "notes": "Subscription $99-$149/mo + medication costs. GLP-1s shipped if prescribed. Medication cost varies by insurance/cash pay."
+        "notes": "Subscription $99-$149/mo + medication costs. GLP-1s shipped if prescribed. Medication cost varies."
       },
       {
         "pharmacy_name": "Lemonaid Health",
@@ -511,7 +535,7 @@
           "12.5mg": null,
           "15mg": null
         },
-        "notes": "Amazon Pharmacy offers GLP-1 delivery but Mounjaro specific cash price not publicly listed. Medicare Bridge: $50/mo for eligible patients."
+        "notes": "Amazon Pharmacy offers GLP-1 delivery but Mounjaro specific cash price not publicly listed. Medicare Bridge: $50/mo."
       },
       {
         "pharmacy_name": "Ro",
@@ -539,7 +563,7 @@
           "12.5mg": null,
           "15mg": null
         },
-        "notes": "$59/mo for care + medication from $149/mo. Offers Zepbound from $299/mo and Zepbound KwikPen from $299/mo. Does not specifically list Mounjaro."
+        "notes": "$59/mo for care + medication from $149/mo. Offers Zepbound from $299/mo. Does not specifically list Mounjaro."
       },
       {
         "pharmacy_name": "Nurx",
@@ -553,7 +577,7 @@
           "12.5mg": null,
           "15mg": null
         },
-        "notes": "Nurx offers weight management treatment including GLP-1s. Medication cost varies by insurance/cash pay. No specific Mounjaro pricing published."
+        "notes": "Nurx offers weight management treatment including GLP-1s. Medication cost varies. No specific Mounjaro pricing published."
       }
     ],
     "summary": {
@@ -600,7 +624,7 @@
     "generic_name": "semaglutide",
     "manufacturer": "Novo Nordisk",
     "indication": "Weight Loss",
-    "last_updated": "2026-08-25T07:08:40+04:00",
+    "last_updated": "2026-08-26T07:15:00+04:00",
     "reference_zip": "10001",
     "total_pharmacies": 22,
     "dosages": [
@@ -622,7 +646,7 @@
           "1.7mg": 349.0,
           "2.4mg": 349.0
         },
-        "notes": "NovoCare self-pay: new patients $199/mo for 0.25/0.5mg (first 2 fills), then $349/mo for all doses. Wegovy HD 7.2mg $399/mo. CoAssist Pharmacy dispenses."
+        "notes": "NovoCare self-pay: new patients $199/mo for 0.25/0.5mg (first 2 fills), then $349/mo for all doses. Wegovy HD 7.2mg $399/mo. CoAssist Pharmacy dispenses. Wegovy pill 1.5mg $149/mo, 4mg $199/mo, 9mg/25mg $299/mo."
       },
       {
         "pharmacy_name": "Novo Nordisk WAC",
@@ -661,7 +685,7 @@
           "1.7mg": 1212.0,
           "2.4mg": 1237.0
         },
-        "notes": "SingleCare coupon price for pen with member bonus. Retail ~$1587.00. Also $149/mo with manufacturer coupon for self-pay."
+        "notes": "SingleCare coupon price for pen with member bonus. Also $149/mo with manufacturer coupon for self-pay."
       },
       {
         "pharmacy_name": "Walgreens",
@@ -726,7 +750,7 @@
           "1.7mg": 1086.35,
           "2.4mg": 1086.35
         },
-        "notes": "SingleCare coupon price for pen with member bonus. Retail ~$1164.35."
+        "notes": "SingleCare coupon price for pen with member bonus. Retail ~$1164.35. Medicare GLP-1 Bridge: $50 copay."
       },
       {
         "pharmacy_name": "Albertsons Pharmacy",
@@ -817,7 +841,7 @@
           "1.7mg": 349.0,
           "2.4mg": 349.0
         },
-        "notes": "Wegovy pen from $149/mo (new patient intro offer), then $349/mo. $59/mo for clinical care (12-month commitment). Medication pricing separate from care."
+        "notes": "Wegovy pen from $149/mo (new patient intro offer for 0.25/0.5mg, first 2 fills), then $349/mo. $59/mo for clinical care (12-month commitment)."
       },
       {
         "pharmacy_name": "Lemonaid Health",
@@ -882,7 +906,7 @@
           "1.7mg": null,
           "2.4mg": null
         },
-        "notes": "Subscription $99-$149/mo + medication costs. GLP-1s shipped if prescribed. Medication cost varies by insurance/cash pay status."
+        "notes": "Subscription $99-$149/mo + medication costs. GLP-1s shipped if prescribed. Medication cost varies."
       },
       {
         "pharmacy_name": "Nurx",
@@ -895,7 +919,7 @@
           "1.7mg": null,
           "2.4mg": null
         },
-        "notes": "Nurx offers weight management treatment including GLP-1s with or without insurance. Medication cost varies. No specific Wegovy pricing published."
+        "notes": "Nurx offers weight management treatment including GLP-1s with or without insurance. Medication cost varies."
       }
     ],
     "summary": {
