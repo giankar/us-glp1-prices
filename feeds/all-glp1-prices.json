@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T07:15:00+04:00",
+  "last_updated": "2026-08-27T07:09:47+04:00",
   "reference_zip": "10001",
   "medications": {
     "ozempic": {
@@ -7,9 +7,9 @@
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-08-26T07:15:00+04:00",
+      "last_updated": "2026-08-27T07:09:47+04:00",
       "reference_zip": "10001",
-      "total_pharmacies": 21,
+      "total_pharmacies": 24,
       "dosages": [
         "0.25mg",
         "0.5mg",
@@ -39,7 +39,7 @@
             "1mg": 1027.51,
             "2mg": 1027.51
           },
-          "notes": "Wholesale Acquisition Cost (WAC) list price. Same across all dosages."
+          "notes": "Wholesale Acquisition Cost (WAC) list price from novopricing.com. Same across all injection dosages."
         },
         {
           "pharmacy_name": "Amazon Pharmacy",
@@ -68,14 +68,14 @@
         {
           "pharmacy_name": "CVS Pharmacy",
           "pharmacy_type": "retail_chain",
-          "source": "singlecare",
+          "source": "goodrx",
           "prices": {
-            "0.25mg": 880.11,
-            "0.5mg": 880.11,
-            "1mg": 910.25,
-            "2mg": 867.9
+            "0.25mg": 199.0,
+            "0.5mg": 199.0,
+            "1mg": 349.0,
+            "2mg": 499.0
           },
-          "notes": "SingleCare coupon price with member bonus. Also $149/mo with manufacturer coupon for self-pay. $29 MinuteClinic online consultation."
+          "notes": "GoodRx manufacturer coupon: Ozempic pen $199 (0.25/0.5mg first 2 fills), $349 (1mg), $499 (2mg). GoodRx standard coupon also available. Retail ~$1,475.69."
         },
         {
           "pharmacy_name": "Walgreens",
@@ -87,7 +87,7 @@
             "1mg": 905.74,
             "2mg": 895.95
           },
-          "notes": "SingleCare coupon price with member bonus. Retail ~$1233.09."
+          "notes": "SingleCare coupon price with member bonus. Retail ~$1233.09. GoodRx manufacturer self-pay coupon also available: $199/$349/$499."
         },
         {
           "pharmacy_name": "Walmart Pharmacy",
@@ -99,7 +99,7 @@
             "1mg": 929.16,
             "2mg": 878.67
           },
-          "notes": "SingleCare coupon price with member bonus. Retail ~$1245.33."
+          "notes": "SingleCare coupon price with member bonus. Retail ~$1245.33. GoodRx manufacturer self-pay coupon also available: $199/$349/$499."
         },
         {
           "pharmacy_name": "Kroger Pharmacy",
@@ -111,7 +111,7 @@
             "1mg": 791.97,
             "2mg": 791.97
           },
-          "notes": "SingleCare coupon price with member bonus. Retail ~$859.97."
+          "notes": "SingleCare coupon price with member bonus. Retail ~$859.97. GoodRx manufacturer self-pay coupon also available: $199/$349/$499."
         },
         {
           "pharmacy_name": "Costco Pharmacy",
@@ -123,7 +123,7 @@
             "1mg": 934.82,
             "2mg": 896.54
           },
-          "notes": "SingleCare coupon price with member bonus. Retail ~$940.12."
+          "notes": "SingleCare coupon price with member bonus. Retail ~$940.12. GoodRx manufacturer self-pay coupon also available: $199/$349/$499."
         },
         {
           "pharmacy_name": "Harris Teeter Pharmacy",
@@ -135,7 +135,7 @@
             "1mg": 791.97,
             "2mg": 791.97
           },
-          "notes": "SingleCare coupon price with member bonus. Retail ~$859.97."
+          "notes": "SingleCare coupon price with member bonus. Retail ~$859.97. GoodRx manufacturer self-pay coupon also available: $199/$349/$499."
         },
         {
           "pharmacy_name": "Publix Pharmacy",
@@ -147,7 +147,7 @@
             "1mg": 850.46,
             "2mg": 850.46
           },
-          "notes": "SingleCare coupon price with member bonus. Retail ~$918.46. Medicare GLP-1 Bridge: $50 copay."
+          "notes": "SingleCare coupon price with member bonus. Retail ~$918.46. Medicare GLP-1 Bridge: $50 copay. GoodRx manufacturer self-pay coupon also available: $199/$349/$499."
         },
         {
           "pharmacy_name": "Albertsons Pharmacy",
@@ -159,7 +159,43 @@
             "1mg": 926.49,
             "2mg": 888.21
           },
-          "notes": "SingleCare coupon price. Retail ~$1475.70."
+          "notes": "SingleCare coupon price. Retail ~$1475.70. GoodRx manufacturer self-pay coupon also available: $199/$349/$499."
+        },
+        {
+          "pharmacy_name": "Hy-Vee Pharmacy",
+          "pharmacy_type": "retail_chain",
+          "source": "goodrx",
+          "prices": {
+            "0.25mg": 199.0,
+            "0.5mg": 199.0,
+            "1mg": 349.0,
+            "2mg": 499.0
+          },
+          "notes": "GoodRx manufacturer self-pay coupon: $199/$349/$499. Also SingleCare coupon available."
+        },
+        {
+          "pharmacy_name": "Sam's Club Pharmacy",
+          "pharmacy_type": "retail_chain",
+          "source": "goodrx",
+          "prices": {
+            "0.25mg": 199.0,
+            "0.5mg": 199.0,
+            "1mg": 349.0,
+            "2mg": 499.0
+          },
+          "notes": "GoodRx manufacturer self-pay coupon: $199/$349/$499."
+        },
+        {
+          "pharmacy_name": "Dillons Pharmacy",
+          "pharmacy_type": "retail_chain",
+          "source": "goodrx",
+          "prices": {
+            "0.25mg": 199.0,
+            "0.5mg": 199.0,
+            "1mg": 349.0,
+            "2mg": 499.0
+          },
+          "notes": "GoodRx manufacturer self-pay coupon: $199/$349/$499."
         },
         {
           "pharmacy_name": "Ro",
@@ -171,7 +207,7 @@
             "1mg": 349.0,
             "2mg": 349.0
           },
-          "notes": "GLP-1s from $349/mo + $145/mo Ro Body membership fee ($39 first month, $149/mo thereafter). Insurance or cash-pay. Medication shipped to door. Prepay & Save for lowest prices."
+          "notes": "GLP-1s from $349/mo + $145/mo Ro Body membership fee ($39 first month, then $149/mo or as low as $74/mo annual prepay). Insurance or cash-pay. Medication shipped to door. Prepay & Save for lowest prices."
         },
         {
           "pharmacy_name": "Hims & Hers",
@@ -219,7 +255,7 @@
             "1mg": 1000.0,
             "2mg": 1000.0
           },
-          "notes": "Ozempic $900-$1000 self-pay. $19.99/mo membership + $129/visit. Insurance accepted for visit costs."
+          "notes": "Ozempic $900-$1000 self-pay. $19.99/mo membership + $129/visit. Insurance accepted for visit costs. Prior authorization support available."
         },
         {
           "pharmacy_name": "WeightWatchers Clinic",
@@ -250,12 +286,12 @@
           "pharmacy_type": "telehealth",
           "source": "telehealth",
           "prices": {
-            "0.25mg": null,
-            "0.5mg": null,
-            "1mg": null,
-            "2mg": null
+            "0.25mg": 199.0,
+            "0.5mg": 199.0,
+            "1mg": 349.0,
+            "2mg": 499.0
           },
-          "notes": "GoodRx Care Direct: $39/mo for unlimited online care. Focuses on Wegovy/Zepbound/Foundayo for weight loss."
+          "notes": "GoodRx Care Direct: $39/mo for unlimited online care. Ozempic pen as low as $199/mo (first 2 fills 0.25/0.5mg), then $349, $499 for 2mg. Focuses on Wegovy/Zepbound/Foundayo for weight loss."
         },
         {
           "pharmacy_name": "Nurx",
@@ -274,26 +310,26 @@
         "0.25mg": {
           "min": 199.0,
           "max": 1199.0,
-          "avg": 720.33,
-          "count": 17
+          "avg": 570.88,
+          "count": 22
         },
         "0.5mg": {
           "min": 199.0,
           "max": 1199.0,
-          "avg": 720.33,
-          "count": 17
+          "avg": 570.88,
+          "count": 22
         },
         "1mg": {
           "min": 349.0,
           "max": 1199.0,
-          "avg": 765.29,
-          "count": 17
+          "avg": 645.17,
+          "count": 22
         },
         "2mg": {
           "min": 349.0,
           "max": 1199.0,
-          "avg": 790.04,
-          "count": 17
+          "avg": 707.13,
+          "count": 22
         }
       }
     },
@@ -302,7 +338,7 @@
       "generic_name": "tirzepatide",
       "manufacturer": "Eli Lilly",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-08-26T07:15:00+04:00",
+      "last_updated": "2026-08-27T07:09:47+04:00",
       "reference_zip": "10001",
       "total_pharmacies": 19,
       "dosages": [
@@ -326,77 +362,77 @@
             "12.5mg": 1079.77,
             "15mg": 1079.77
           },
-          "notes": "Lilly list price (WAC) $1,079.77/mo. Same across all dosages. Savings card available for commercial insurance: as low as $25/mo if covered, ~$499/mo if not covered."
+          "notes": "Lilly list price (WAC) $1,079.77/mo. Same across all dosages. Savings card available for commercial insurance: as low as $25/mo if covered. Self-pay savings options available via LillyDirect."
         },
         {
           "pharmacy_name": "CVS Pharmacy",
           "pharmacy_type": "retail_chain",
-          "source": "singlecare",
+          "source": "goodrx",
           "prices": {
-            "2.5mg": 931.04,
-            "5mg": 931.04,
-            "7.5mg": 931.04,
-            "10mg": 931.04,
-            "12.5mg": 931.04,
-            "15mg": 931.04
+            "2.5mg": 1150.5,
+            "5mg": 1093.69,
+            "7.5mg": 1096.23,
+            "10mg": 1096.27,
+            "12.5mg": 1093.46,
+            "15mg": 1093.45
           },
-          "notes": "SingleCare coupon price with member bonus. Retail ~$1311.98."
+          "notes": "GoodRx coupon price (retail ~$1,312-$1,352). Lilly savings card for commercial insurance: $25/mo. Medicare GLP-1 Bridge: $50 copay."
         },
         {
           "pharmacy_name": "Walgreens",
           "pharmacy_type": "retail_chain",
-          "source": "singlecare",
+          "source": "goodrx",
           "prices": {
-            "2.5mg": 927.61,
-            "5mg": 927.61,
-            "7.5mg": 927.61,
-            "10mg": 927.61,
-            "12.5mg": 927.61,
-            "15mg": 927.61
+            "2.5mg": 1197.79,
+            "5mg": 1197.79,
+            "7.5mg": 1197.79,
+            "10mg": 1197.79,
+            "12.5mg": 1197.79,
+            "15mg": 1197.79
           },
-          "notes": "SingleCare coupon price with member bonus. Retail ~$1336.08."
+          "notes": "GoodRx coupon price. Retail ~$1,336.08. Lilly savings card for commercial insurance: $25/mo."
         },
         {
           "pharmacy_name": "Walmart Pharmacy",
           "pharmacy_type": "retail_chain",
-          "source": "singlecare",
+          "source": "goodrx",
           "prices": {
-            "2.5mg": 953.07,
-            "5mg": 953.07,
-            "7.5mg": 953.07,
-            "10mg": 953.07,
-            "12.5mg": 953.07,
-            "15mg": 953.07
+            "2.5mg": 1161.15,
+            "5mg": 1161.15,
+            "7.5mg": 1161.15,
+            "10mg": 1161.15,
+            "12.5mg": 1161.15,
+            "15mg": 1161.15
           },
-          "notes": "SingleCare coupon price with member bonus. Retail ~$1351.28."
-        },
-        {
-          "pharmacy_name": "Acme Pharmacy",
-          "pharmacy_type": "retail_chain",
-          "source": "singlecare",
-          "prices": {
-            "2.5mg": 945.57,
-            "5mg": 943.59,
-            "7.5mg": 947.55,
-            "10mg": 949.88,
-            "12.5mg": 949.88,
-            "15mg": 949.88
-          },
-          "notes": "SingleCare coupon price with member bonus."
+          "notes": "GoodRx coupon price. Retail ~$1,335.17. Lilly savings card for commercial insurance: $25/mo."
         },
         {
           "pharmacy_name": "Costco Pharmacy",
           "pharmacy_type": "retail_chain",
-          "source": "singlecare",
+          "source": "goodrx",
           "prices": {
-            "2.5mg": 954.92,
-            "5mg": 952.94,
-            "7.5mg": 956.9,
-            "10mg": 959.23,
-            "12.5mg": 959.23,
-            "15mg": 959.23
+            "2.5mg": 1386.42,
+            "5mg": 1386.42,
+            "7.5mg": 1386.42,
+            "10mg": 1386.42,
+            "12.5mg": 1386.42,
+            "15mg": 1386.42
           },
-          "notes": "SingleCare coupon price with member bonus."
+          "notes": "GoodRx coupon price. Retail ~$1,453.05. Lilly savings card for commercial insurance: $25/mo."
+        },
+        {
+          "pharmacy_name": "Wegmans Pharmacy",
+          "pharmacy_type": "retail_chain",
+          "source": "goodrx",
+          "prices": {
+            "2.5mg": 1056.63,
+            "5mg": 1056.63,
+            "7.5mg": 1056.63,
+            "10mg": 1056.63,
+            "12.5mg": 1056.63,
+            "15mg": 1056.63
+          },
+          "notes": "GoodRx coupon price (lowest GoodRx price for Mounjaro). Lilly savings card for commercial insurance: $25/mo."
         },
         {
           "pharmacy_name": "Kroger Pharmacy",
@@ -497,6 +533,34 @@
           "notes": "Mounjaro list price $1,079.77/mo. Membership $25-$49 first month, then $74-$145/mo. Medication not included in membership."
         },
         {
+          "pharmacy_name": "Ro",
+          "pharmacy_type": "telehealth",
+          "source": "telehealth",
+          "prices": {
+            "2.5mg": null,
+            "5mg": null,
+            "7.5mg": null,
+            "10mg": null,
+            "12.5mg": null,
+            "15mg": null
+          },
+          "notes": "Ro offers Zepbound (tirzepatide for weight loss) from $299/mo + $145/mo membership. Does not specifically list Mounjaro (T2D indication)."
+        },
+        {
+          "pharmacy_name": "Sesame Care",
+          "pharmacy_type": "telehealth",
+          "source": "telehealth",
+          "prices": {
+            "2.5mg": null,
+            "5mg": null,
+            "7.5mg": null,
+            "10mg": null,
+            "12.5mg": null,
+            "15mg": null
+          },
+          "notes": "$59/mo for care + medication from $149/mo. Offers Zepbound from $299/mo. Does not specifically list Mounjaro."
+        },
+        {
           "pharmacy_name": "Noom Med",
           "pharmacy_type": "telehealth",
           "source": "telehealth",
@@ -539,34 +603,6 @@
           "notes": "Amazon Pharmacy offers GLP-1 delivery but Mounjaro specific cash price not publicly listed. Medicare Bridge: $50/mo."
         },
         {
-          "pharmacy_name": "Ro",
-          "pharmacy_type": "telehealth",
-          "source": "telehealth",
-          "prices": {
-            "2.5mg": null,
-            "5mg": null,
-            "7.5mg": null,
-            "10mg": null,
-            "12.5mg": null,
-            "15mg": null
-          },
-          "notes": "Ro offers Zepbound (tirzepatide for weight loss) from $299/mo + $145/mo membership. Does not specifically list Mounjaro (T2D indication)."
-        },
-        {
-          "pharmacy_name": "Sesame Care",
-          "pharmacy_type": "telehealth",
-          "source": "telehealth",
-          "prices": {
-            "2.5mg": null,
-            "5mg": null,
-            "7.5mg": null,
-            "10mg": null,
-            "12.5mg": null,
-            "15mg": null
-          },
-          "notes": "$59/mo for care + medication from $149/mo. Offers Zepbound from $299/mo. Does not specifically list Mounjaro."
-        },
-        {
           "pharmacy_name": "Nurx",
           "pharmacy_type": "telehealth",
           "source": "telehealth",
@@ -585,37 +621,37 @@
         "2.5mg": {
           "min": 872.48,
           "max": 1899.0,
-          "avg": 1039.54,
+          "avg": 1134.94,
           "count": 13
         },
         "5mg": {
           "min": 872.48,
           "max": 1899.0,
-          "avg": 1039.08,
+          "avg": 1130.42,
           "count": 13
         },
         "7.5mg": {
           "min": 872.48,
           "max": 1899.0,
-          "avg": 1039.99,
+          "avg": 1130.92,
           "count": 13
         },
         "10mg": {
           "min": 872.48,
           "max": 1899.0,
-          "avg": 1040.51,
+          "avg": 1131.08,
           "count": 13
         },
         "12.5mg": {
           "min": 872.48,
           "max": 1899.0,
-          "avg": 1040.51,
+          "avg": 1130.86,
           "count": 13
         },
         "15mg": {
           "min": 872.48,
           "max": 1899.0,
-          "avg": 1040.51,
+          "avg": 1130.86,
           "count": 13
         }
       }
@@ -625,9 +661,9 @@
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Weight Loss",
-      "last_updated": "2026-08-26T07:15:00+04:00",
+      "last_updated": "2026-08-27T07:09:47+04:00",
       "reference_zip": "10001",
-      "total_pharmacies": 22,
+      "total_pharmacies": 24,
       "dosages": [
         "0.25mg",
         "0.5mg",
@@ -647,7 +683,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "NovoCare self-pay: new patients $199/mo for 0.25/0.5mg (first 2 fills), then $349/mo for all doses. Wegovy HD 7.2mg $399/mo. CoAssist Pharmacy dispenses. Wegovy pill 1.5mg $149/mo, 4mg $199/mo, 9mg/25mg $299/mo."
+          "notes": "NovoCare self-pay: new patients $199/mo for 0.25/0.5mg (first 2 fills through 12/31/2026), then $349/mo for all doses. Wegovy HD 7.2mg $399/mo. CoAssist Pharmacy dispenses. Wegovy pill 1.5mg $149/mo, 4mg $199/mo (after 8/31/26), 9mg/25mg $299/mo."
         },
         {
           "pharmacy_name": "Novo Nordisk WAC",
@@ -660,7 +696,7 @@
             "1.7mg": 1349.02,
             "2.4mg": 1349.02
           },
-          "notes": "Wholesale Acquisition Cost (WAC) list price. Same across all dosages including 7.2mg HD."
+          "notes": "Wholesale Acquisition Cost (WAC) list price from novopricing.com. Same across all injection dosages including 7.2mg HD."
         },
         {
           "pharmacy_name": "Amazon Pharmacy",
@@ -676,43 +712,108 @@
           "notes": "Automatic manufacturer coupons at checkout. NovoCare self-pay pricing. Also offers Wegovy pill 1.5mg at $149/mo cash. Medicare Bridge: $50/mo."
         },
         {
+          "pharmacy_name": "TrumpRx",
+          "pharmacy_type": "retail_chain",
+          "source": "manufacturer_direct",
+          "prices": {
+            "0.25mg": 199.0,
+            "0.5mg": 199.0,
+            "1mg": 349.0,
+            "1.7mg": 349.0,
+            "2.4mg": 349.0
+          },
+          "notes": "TrumpRx self-pay coupon: new patients $199/mo for 0.25/0.5mg (first 2 fills through 12/31/2026), then $349/mo for all doses."
+        },
+        {
           "pharmacy_name": "CVS Pharmacy",
           "pharmacy_type": "retail_chain",
-          "source": "singlecare",
+          "source": "goodrx",
           "prices": {
-            "0.25mg": 1212.0,
-            "0.5mg": 1237.0,
-            "1mg": 1237.0,
-            "1.7mg": 1212.0,
-            "2.4mg": 1237.0
+            "0.25mg": 199.0,
+            "0.5mg": 199.0,
+            "1mg": 349.0,
+            "1.7mg": 349.0,
+            "2.4mg": 349.0
           },
-          "notes": "SingleCare coupon price for pen with member bonus. Also $149/mo with manufacturer coupon for self-pay."
+          "notes": "GoodRx manufacturer self-pay coupon: Wegovy pen $199 (0.25/0.5mg first 2 fills), then $349 for all doses. Wegovy HD 7.2mg $399. Retail ~$1,638.98."
         },
         {
           "pharmacy_name": "Walgreens",
           "pharmacy_type": "retail_chain",
-          "source": "singlecare",
+          "source": "goodrx",
           "prices": {
-            "0.25mg": 1212.0,
-            "0.5mg": 1237.0,
-            "1mg": 1237.0,
-            "1.7mg": 1212.0,
-            "2.4mg": 1237.0
+            "0.25mg": 199.0,
+            "0.5mg": 199.0,
+            "1mg": 349.0,
+            "1.7mg": 349.0,
+            "2.4mg": 349.0
           },
-          "notes": "SingleCare coupon price for pen with member bonus. Retail ~$1619.10."
+          "notes": "GoodRx manufacturer self-pay coupon: $199/$349. Retail ~$1,619-$1,787."
         },
         {
           "pharmacy_name": "Walmart Pharmacy",
           "pharmacy_type": "retail_chain",
-          "source": "singlecare",
+          "source": "goodrx",
           "prices": {
-            "0.25mg": 1243.0,
-            "0.5mg": 1268.0,
-            "1mg": 1268.0,
-            "1.7mg": 1243.0,
-            "2.4mg": 1268.0
+            "0.25mg": 199.0,
+            "0.5mg": 199.0,
+            "1mg": 349.0,
+            "1.7mg": 349.0,
+            "2.4mg": 349.0
           },
-          "notes": "SingleCare coupon price for pen with member bonus. Retail ~$1635.00."
+          "notes": "GoodRx manufacturer self-pay coupon: $199/$349. Retail ~$1,635."
+        },
+        {
+          "pharmacy_name": "Costco Pharmacy",
+          "pharmacy_type": "retail_chain",
+          "source": "goodrx",
+          "prices": {
+            "0.25mg": 199.0,
+            "0.5mg": 199.0,
+            "1mg": 349.0,
+            "1.7mg": 349.0,
+            "2.4mg": 349.0
+          },
+          "notes": "GoodRx manufacturer self-pay coupon: $199/$349. Retail ~$1,638."
+        },
+        {
+          "pharmacy_name": "Sam's Club Pharmacy",
+          "pharmacy_type": "retail_chain",
+          "source": "goodrx",
+          "prices": {
+            "0.25mg": 199.0,
+            "0.5mg": 199.0,
+            "1mg": 349.0,
+            "1.7mg": 349.0,
+            "2.4mg": 349.0
+          },
+          "notes": "GoodRx manufacturer self-pay coupon: $199/$349."
+        },
+        {
+          "pharmacy_name": "Hy-Vee Pharmacy",
+          "pharmacy_type": "retail_chain",
+          "source": "goodrx",
+          "prices": {
+            "0.25mg": 199.0,
+            "0.5mg": 199.0,
+            "1mg": 349.0,
+            "1.7mg": 349.0,
+            "2.4mg": 349.0
+          },
+          "notes": "GoodRx manufacturer self-pay coupon: $199/$349."
+        },
+        {
+          "pharmacy_name": "Dillons Pharmacy",
+          "pharmacy_type": "retail_chain",
+          "source": "goodrx",
+          "prices": {
+            "0.25mg": 199.0,
+            "0.5mg": 199.0,
+            "1mg": 349.0,
+            "1.7mg": 349.0,
+            "2.4mg": 349.0
+          },
+          "notes": "GoodRx manufacturer self-pay coupon: $199/$349."
         },
         {
           "pharmacy_name": "Kroger Pharmacy",
@@ -754,45 +855,6 @@
           "notes": "SingleCare coupon price for pen with member bonus. Retail ~$1164.35. Medicare GLP-1 Bridge: $50 copay."
         },
         {
-          "pharmacy_name": "Albertsons Pharmacy",
-          "pharmacy_type": "retail_chain",
-          "source": "singlecare",
-          "prices": {
-            "0.25mg": 1202.0,
-            "0.5mg": 1263.0,
-            "1mg": 1251.0,
-            "1.7mg": 1224.0,
-            "2.4mg": 1252.0
-          },
-          "notes": "SingleCare coupon price for pen. Retail ~$1638.90."
-        },
-        {
-          "pharmacy_name": "Costco Pharmacy",
-          "pharmacy_type": "retail_chain",
-          "source": "singlecare",
-          "prices": {
-            "0.25mg": 1248.0,
-            "0.5mg": 1275.0,
-            "1mg": 1263.0,
-            "1.7mg": 1236.0,
-            "2.4mg": 1265.0
-          },
-          "notes": "SingleCare coupon price for pen with member bonus."
-        },
-        {
-          "pharmacy_name": "Acme Pharmacy",
-          "pharmacy_type": "retail_chain",
-          "source": "singlecare",
-          "prices": {
-            "0.25mg": 1235.0,
-            "0.5mg": 1263.0,
-            "1mg": 1251.0,
-            "1.7mg": 1224.0,
-            "2.4mg": 1252.0
-          },
-          "notes": "SingleCare coupon price for pen with member bonus."
-        },
-        {
           "pharmacy_name": "Capsule Pharmacy",
           "pharmacy_type": "online_pharmacy",
           "source": "singlecare",
@@ -816,7 +878,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "Wegovy pen from $349/mo (cash-pay or insurance). Also offers Wegovy pill from $149/mo. $145/mo Ro Body membership fee. Prepay & Save for lowest prices."
+          "notes": "Wegovy pen from $349/mo (cash-pay or insurance). Also offers Wegovy pill from $149/mo. $145/mo Ro Body membership fee ($39 first month, $149/mo or $74/mo annual prepay). Prepay & Save for lowest prices."
         },
         {
           "pharmacy_name": "Hims & Hers",
@@ -836,13 +898,13 @@
           "pharmacy_type": "telehealth",
           "source": "telehealth",
           "prices": {
-            "0.25mg": 149.0,
-            "0.5mg": 149.0,
+            "0.25mg": 199.0,
+            "0.5mg": 199.0,
             "1mg": 349.0,
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "Wegovy pen from $149/mo (new patient intro offer for 0.25/0.5mg, first 2 fills), then $349/mo. $59/mo for clinical care (12-month commitment)."
+          "notes": "Wegovy pen from $199/mo (new patient intro offer for 0.25/0.5mg, first 2 fills), then $349/mo. $59/mo for clinical care (12-month commitment)."
         },
         {
           "pharmacy_name": "Lemonaid Health",
@@ -925,34 +987,34 @@
       ],
       "summary": {
         "0.25mg": {
-          "min": 149.0,
+          "min": 199.0,
           "max": 1599.0,
-          "avg": 878.52,
-          "count": 20
+          "avg": 539.11,
+          "count": 22
         },
         "0.5mg": {
-          "min": 149.0,
+          "min": 199.0,
           "max": 1599.0,
-          "avg": 888.22,
-          "count": 20
+          "avg": 539.25,
+          "count": 22
         },
         "1mg": {
           "min": 349.0,
           "max": 1599.0,
-          "avg": 933.32,
-          "count": 20
+          "avg": 634.15,
+          "count": 22
         },
         "1.7mg": {
           "min": 349.0,
           "max": 1599.0,
-          "avg": 925.42,
-          "count": 20
+          "avg": 634.06,
+          "count": 22
         },
         "2.4mg": {
           "min": 349.0,
           "max": 1599.0,
-          "avg": 933.57,
-          "count": 20
+          "avg": 634.2,
+          "count": 22
         }
       }
     }
