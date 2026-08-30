@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T07:01:00+04:00",
+  "last_updated": "2026-08-30T07:05:00+04:00",
   "reference_zip": "10001",
   "medications": {
     "ozempic": {
@@ -28,8 +28,7 @@
           "avg": 707.13,
           "count": 22
         }
-      },
-      "total_pharmacies": 24
+      }
     },
     "mounjaro": {
       "summary": {
@@ -69,8 +68,7 @@
           "avg": 1133.35,
           "count": 13
         }
-      },
-      "total_pharmacies": 19
+      }
     },
     "wegovy": {
       "summary": {
@@ -104,8 +102,7 @@
           "avg": 634.2,
           "count": 22
         }
-      },
-      "total_pharmacies": 24
+      }
     }
   }
 }
