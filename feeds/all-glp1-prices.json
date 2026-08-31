@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T07:05:00+04:00",
+  "last_updated": "2026-08-31T07:04:24+04:00",
   "reference_zip": "10001",
   "medications": {
     "ozempic": {
@@ -7,7 +7,7 @@
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-08-30T07:05:00+04:00",
+      "last_updated": "2026-08-31T07:04:24+04:00",
       "reference_zip": "10001",
       "total_pharmacies": 24,
       "dosages": [
@@ -338,7 +338,7 @@
       "generic_name": "tirzepatide",
       "manufacturer": "Eli Lilly",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-08-30T07:05:00+04:00",
+      "last_updated": "2026-08-31T07:04:24+04:00",
       "reference_zip": "10001",
       "total_pharmacies": 19,
       "dosages": [
@@ -661,7 +661,7 @@
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Weight Loss",
-      "last_updated": "2026-08-30T07:05:00+04:00",
+      "last_updated": "2026-08-31T07:04:24+04:00",
       "reference_zip": "10001",
       "total_pharmacies": 24,
       "dosages": [
