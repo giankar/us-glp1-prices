@@ -3,7 +3,7 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Weight Loss",
-  "last_updated": "2026-09-02T07:05:42+04:00",
+  "last_updated": "2026-09-03T07:10:29+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 24,
   "dosages": [
@@ -84,26 +84,26 @@
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
-        "0.25mg": 1077.0,
-        "0.5mg": 1077.0,
-        "1mg": 1077.0,
-        "1.7mg": 1077.0,
-        "2.4mg": 1077.0
+        "0.25mg": 1212.86,
+        "0.5mg": 1212.86,
+        "1mg": 1212.86,
+        "1.7mg": 1212.86,
+        "2.4mg": 1212.86
       },
-      "notes": "SingleCare coupon price for pen. Retail ~$1,155.00. GoodRx manufacturer self-pay coupon also available: $199/$349."
+      "notes": "SingleCare coupon price for pen. Retail ~$1,290.86. GoodRx manufacturer self-pay coupon also available: $199/$349."
     },
     {
       "pharmacy_name": "Walmart Pharmacy",
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
-        "0.25mg": 1108.0,
-        "0.5mg": 1108.0,
-        "1mg": 1108.0,
-        "1.7mg": 1108.0,
-        "2.4mg": 1108.0
+        "0.25mg": 1244.0,
+        "0.5mg": 1244.0,
+        "1mg": 1244.0,
+        "1.7mg": 1244.0,
+        "2.4mg": 1244.0
       },
-      "notes": "SingleCare coupon price for pen. Retail ~$1,186.14. GoodRx manufacturer self-pay coupon also available: $199/$349."
+      "notes": "SingleCare coupon price for pen. Retail ~$1,322.00. GoodRx manufacturer self-pay coupon also available: $199/$349."
     },
     {
       "pharmacy_name": "Costco Pharmacy",
@@ -162,26 +162,26 @@
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
-        "0.25mg": 1010.5,
-        "0.5mg": 1010.5,
-        "1mg": 1010.5,
-        "1.7mg": 1010.5,
-        "2.4mg": 1010.5
+        "0.25mg": 1146.36,
+        "0.5mg": 1146.36,
+        "1mg": 1146.36,
+        "1.7mg": 1146.36,
+        "2.4mg": 1146.36
       },
-      "notes": "SingleCare coupon price for pen with member bonus. Retail ~$1,088.50."
+      "notes": "SingleCare coupon price for pen with member bonus. Retail ~$1,224.36."
     },
     {
       "pharmacy_name": "Harris Teeter Pharmacy",
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
-        "0.25mg": 1010.5,
-        "0.5mg": 1010.5,
-        "1mg": 1010.5,
-        "1.7mg": 1010.5,
-        "2.4mg": 1010.5
+        "0.25mg": 1146.36,
+        "0.5mg": 1146.36,
+        "1mg": 1146.36,
+        "1.7mg": 1146.36,
+        "2.4mg": 1146.36
       },
-      "notes": "SingleCare coupon price for pen with member bonus. Retail ~$1,088.50."
+      "notes": "SingleCare coupon price for pen with member bonus. Retail ~$1,224.36."
     },
     {
       "pharmacy_name": "Publix Pharmacy",
@@ -331,31 +331,31 @@
     "0.25mg": {
       "min": 199.0,
       "max": 1599.0,
-      "avg": 614.34,
+      "avg": 639.04,
       "count": 22
     },
     "0.5mg": {
       "min": 199.0,
       "max": 1599.0,
-      "avg": 614.34,
+      "avg": 639.04,
       "count": 22
     },
     "1mg": {
       "min": 349.0,
       "max": 1599.0,
-      "avg": 696.15,
+      "avg": 720.86,
       "count": 22
     },
     "1.7mg": {
       "min": 349.0,
       "max": 1599.0,
-      "avg": 696.15,
+      "avg": 720.86,
       "count": 22
     },
     "2.4mg": {
       "min": 349.0,
       "max": 1599.0,
-      "avg": 696.15,
+      "avg": 720.86,
       "count": 22
     }
   }

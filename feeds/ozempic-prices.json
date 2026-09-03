@@ -3,7 +3,7 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-09-02T07:05:42+04:00",
+  "last_updated": "2026-09-03T07:10:29+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 26,
   "dosages": [
@@ -102,12 +102,12 @@
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
-        "0.25mg": 859.98,
-        "0.5mg": 859.98,
-        "1mg": 859.98,
-        "2mg": 859.98
+        "0.25mg": 791.97,
+        "0.5mg": 791.97,
+        "1mg": 791.97,
+        "2mg": 791.97
       },
-      "notes": "SingleCare coupon price. Retail ~$1,233.00. GoodRx manufacturer self-pay coupon also available: $199/$349/$499."
+      "notes": "SingleCare coupon price with member bonus. Retail ~$859.97. GoodRx manufacturer self-pay coupon also available: $199/$349/$499."
     },
     {
       "pharmacy_name": "Costco Pharmacy",
@@ -150,10 +150,10 @@
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
       "prices": {
-        "0.25mg": 863.79,
-        "0.5mg": 863.79,
-        "1mg": 863.79,
-        "2mg": 863.79
+        "0.25mg": 880.11,
+        "0.5mg": 880.11,
+        "1mg": 880.11,
+        "2mg": 880.11
       },
       "notes": "SingleCare coupon price (Acme). Retail ~$1,475.70. GoodRx manufacturer self-pay coupon also available: $199/$349/$499."
     },
@@ -330,25 +330,25 @@
     "0.25mg": {
       "min": 199.0,
       "max": 1199.0,
-      "avg": 605.98,
+      "avg": 603.82,
       "count": 24
     },
     "0.5mg": {
       "min": 199.0,
       "max": 1199.0,
-      "avg": 605.98,
+      "avg": 603.82,
       "count": 24
     },
     "1mg": {
       "min": 349.0,
       "max": 1199.0,
-      "avg": 668.48,
+      "avg": 666.32,
       "count": 24
     },
     "2mg": {
       "min": 349.0,
       "max": 1199.0,
-      "avg": 730.98,
+      "avg": 728.82,
       "count": 24
     }
   }
