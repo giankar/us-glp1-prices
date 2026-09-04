@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-03T07:10:29+04:00",
+  "last_updated": "2026-09-04T07:10:00+04:00",
   "medications": [
     {
       "medication": "Ozempic",
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-09-03T07:10:29+04:00",
+      "last_updated": "2026-09-04T07:10:00+04:00",
       "reference_zip": "10001",
       "total_pharmacies": 26,
       "dosages": [
@@ -361,7 +361,7 @@
       "generic_name": "tirzepatide",
       "manufacturer": "Eli Lilly",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-09-03T07:10:29+04:00",
+      "last_updated": "2026-09-04T07:10:00+04:00",
       "reference_zip": "10001",
       "total_pharmacies": 21,
       "dosages": [
@@ -504,12 +504,12 @@
           "pharmacy_type": "online_pharmacy",
           "source": "singlecare",
           "prices": {
-            "2.5mg": 1074.75,
-            "5mg": 1074.75,
-            "7.5mg": 1074.75,
-            "10mg": 1074.75,
-            "12.5mg": 1074.75,
-            "15mg": 1074.75
+            "2.5mg": 1075.0,
+            "5mg": 1075.0,
+            "7.5mg": 1075.0,
+            "10mg": 1075.0,
+            "12.5mg": 1075.0,
+            "15mg": 1075.0
           },
           "notes": "SingleCare coupon price. Online-only pharmacy. Retail ~$1,077.75."
         },
@@ -672,37 +672,37 @@
         "2.5mg": {
           "min": 874.25,
           "max": 1899.0,
-          "avg": 1044.71,
+          "avg": 1044.72,
           "count": 13
         },
         "5mg": {
           "min": 874.25,
           "max": 1899.0,
-          "avg": 1044.71,
+          "avg": 1044.72,
           "count": 13
         },
         "7.5mg": {
           "min": 874.25,
           "max": 1899.0,
-          "avg": 1044.71,
+          "avg": 1044.72,
           "count": 13
         },
         "10mg": {
           "min": 874.25,
           "max": 1899.0,
-          "avg": 1044.71,
+          "avg": 1044.72,
           "count": 13
         },
         "12.5mg": {
           "min": 874.25,
           "max": 1899.0,
-          "avg": 1044.71,
+          "avg": 1044.72,
           "count": 13
         },
         "15mg": {
           "min": 874.25,
           "max": 1899.0,
-          "avg": 1044.71,
+          "avg": 1044.72,
           "count": 13
         }
       }
@@ -712,7 +712,7 @@
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Weight Loss",
-      "last_updated": "2026-09-03T07:10:29+04:00",
+      "last_updated": "2026-09-04T07:10:00+04:00",
       "reference_zip": "10001",
       "total_pharmacies": 24,
       "dosages": [
