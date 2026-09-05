@@ -3,7 +3,7 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Weight Loss",
-  "last_updated": "2026-09-04T07:10:00+04:00",
+  "last_updated": "2026-09-05T07:07:16+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 24,
   "dosages": [
@@ -25,7 +25,7 @@
         "1.7mg": 349.0,
         "2.4mg": 349.0
       },
-      "notes": "NovoCare self-pay: new patients $199/mo for 0.25/0.5mg (first 2 fills through 12/31/2026), then $349/mo for all doses. Wegovy HD 7.2mg $399/mo. CoAssist Pharmacy dispenses. Wegovy pill 1.5mg $149/mo, 4mg $199/mo (as of 9/1/26), 9mg/25mg $299/mo."
+      "notes": "NovoCare self-pay: new patients $199/mo for 0.25/0.5mg (first 2 fills through 12/31/2026), then $349/mo for all doses. Wegovy HD 7.2mg $399/mo. CoAssist Pharmacy dispenses. Wegovy pill 1.5mg $149/mo, 4mg $199/mo (price increased from $149 on 9/1/26), 9mg/25mg $299/mo."
     },
     {
       "pharmacy_name": "Novo Nordisk WAC",
@@ -298,7 +298,7 @@
         "1.7mg": 1349.02,
         "2.4mg": 1349.02
       },
-      "notes": "Wegovy list price $1,349.02/mo. Via NovoCare: $499/mo. Membership $25-$49 first month, then $74-$145/mo. Insurance coordination included."
+      "notes": "Wegovy list price $1,349.02/mo. Via NovoCare: $199-$499/mo. Membership $25-$49 first month, then $74-$145/mo. Insurance coordination included."
     },
     {
       "pharmacy_name": "Noom Med",

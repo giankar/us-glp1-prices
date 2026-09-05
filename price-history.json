@@ -1,11 +1,13 @@
 {
-  "last_updated": "2026-09-04T07:10:00+04:00",
+  "date": "2026-09-05",
+  "timestamp": "2026-09-05T07:07:16+04:00",
+  "reference_zip": "10001",
   "ozempic": {
     "medication": "Ozempic",
     "generic_name": "semaglutide",
     "manufacturer": "Novo Nordisk",
     "indication": "Type 2 Diabetes",
-    "last_updated": "2026-09-04T07:10:00+04:00",
+    "last_updated": "2026-09-05T07:07:16+04:00",
     "reference_zip": "10001",
     "total_pharmacies": 26,
     "dosages": [
@@ -360,9 +362,9 @@
     "generic_name": "tirzepatide",
     "manufacturer": "Eli Lilly",
     "indication": "Type 2 Diabetes",
-    "last_updated": "2026-09-04T07:10:00+04:00",
+    "last_updated": "2026-09-05T07:07:16+04:00",
     "reference_zip": "10001",
-    "total_pharmacies": 21,
+    "total_pharmacies": 22,
     "dosages": [
       "2.5mg",
       "5mg",
@@ -384,7 +386,21 @@
           "12.5mg": 1112.16,
           "15mg": 1112.16
         },
-        "notes": "Lilly list price (WAC) $1,112.16/mo as of Jan 2026 (previously $1,079.77). Same across all dosages. Savings card for commercial insurance: as low as $25/mo if covered. Self-pay savings options available via LillyDirect."
+        "notes": "Lilly list price (WAC) $1,112.16/mo as of Jan 2026 (previously $1,079.77). Same across all dosages. Savings card for commercial insurance: as low as $25/mo if covered. LillyDirect self-pay: $499/mo for all doses."
+      },
+      {
+        "pharmacy_name": "LillyDirect Pharmacy",
+        "pharmacy_type": "manufacturer_direct",
+        "source": "manufacturer_direct",
+        "prices": {
+          "2.5mg": 499.0,
+          "5mg": 499.0,
+          "7.5mg": 499.0,
+          "10mg": 499.0,
+          "12.5mg": 499.0,
+          "15mg": 499.0
+        },
+        "notes": "LillyDirect self-pay: $499/mo for all Mounjaro doses (2.5mg-15mg). Free delivery or pickup. FSA/HSA eligible. Prescription required."
       },
       {
         "pharmacy_name": "CVS Pharmacy",
@@ -669,40 +685,40 @@
     ],
     "summary": {
       "2.5mg": {
-        "min": 874.25,
+        "min": 499.0,
         "max": 1899.0,
-        "avg": 1044.72,
-        "count": 13
+        "avg": 1005.74,
+        "count": 14
       },
       "5mg": {
-        "min": 874.25,
+        "min": 499.0,
         "max": 1899.0,
-        "avg": 1044.72,
-        "count": 13
+        "avg": 1005.74,
+        "count": 14
       },
       "7.5mg": {
-        "min": 874.25,
+        "min": 499.0,
         "max": 1899.0,
-        "avg": 1044.72,
-        "count": 13
+        "avg": 1005.74,
+        "count": 14
       },
       "10mg": {
-        "min": 874.25,
+        "min": 499.0,
         "max": 1899.0,
-        "avg": 1044.72,
-        "count": 13
+        "avg": 1005.74,
+        "count": 14
       },
       "12.5mg": {
-        "min": 874.25,
+        "min": 499.0,
         "max": 1899.0,
-        "avg": 1044.72,
-        "count": 13
+        "avg": 1005.74,
+        "count": 14
       },
       "15mg": {
-        "min": 874.25,
+        "min": 499.0,
         "max": 1899.0,
-        "avg": 1044.72,
-        "count": 13
+        "avg": 1005.74,
+        "count": 14
       }
     }
   },
@@ -711,7 +727,7 @@
     "generic_name": "semaglutide",
     "manufacturer": "Novo Nordisk",
     "indication": "Weight Loss",
-    "last_updated": "2026-09-04T07:10:00+04:00",
+    "last_updated": "2026-09-05T07:07:16+04:00",
     "reference_zip": "10001",
     "total_pharmacies": 24,
     "dosages": [
@@ -733,7 +749,7 @@
           "1.7mg": 349.0,
           "2.4mg": 349.0
         },
-        "notes": "NovoCare self-pay: new patients $199/mo for 0.25/0.5mg (first 2 fills through 12/31/2026), then $349/mo for all doses. Wegovy HD 7.2mg $399/mo. CoAssist Pharmacy dispenses. Wegovy pill 1.5mg $149/mo, 4mg $199/mo (as of 9/1/26), 9mg/25mg $299/mo."
+        "notes": "NovoCare self-pay: new patients $199/mo for 0.25/0.5mg (first 2 fills through 12/31/2026), then $349/mo for all doses. Wegovy HD 7.2mg $399/mo. CoAssist Pharmacy dispenses. Wegovy pill 1.5mg $149/mo, 4mg $199/mo (price increased from $149 on 9/1/26), 9mg/25mg $299/mo."
       },
       {
         "pharmacy_name": "Novo Nordisk WAC",
@@ -1006,7 +1022,7 @@
           "1.7mg": 1349.02,
           "2.4mg": 1349.02
         },
-        "notes": "Wegovy list price $1,349.02/mo. Via NovoCare: $499/mo. Membership $25-$49 first month, then $74-$145/mo. Insurance coordination included."
+        "notes": "Wegovy list price $1,349.02/mo. Via NovoCare: $199-$499/mo. Membership $25-$49 first month, then $74-$145/mo. Insurance coordination included."
       },
       {
         "pharmacy_name": "Noom Med",
@@ -1067,5 +1083,36 @@
         "count": 22
       }
     }
+  },
+  "scrape_notes": {
+    "sources_accessed": [
+      "ozempic.com/savings-and-resources/save-on-ozempic.html (manufacturer direct)",
+      "wegovy.com/obesity/what-to-pay-for-wegovy.html (manufacturer direct)",
+      "pricinginfo.lilly.com/mounjaro (manufacturer direct)",
+      "lilly.com/lillydirect/medicines/mounjaro (manufacturer direct - LillyDirect self-pay $499/mo)",
+      "novopricing.com/ozempic.html (WAC)",
+      "novopricing.com/wegovy.html (WAC)",
+      "novocare.com/pharmacy.html (manufacturer direct)",
+      "goodrx.com/ozempic (price comparison - JS rendered, no prices extracted)",
+      "goodrx.com/wegovy (price comparison - JS rendered, no prices extracted)",
+      "goodrx.com/mounjaro (price comparison - JS rendered, no prices extracted)",
+      "goodrx.com/care/services/glp-1-weight-loss (telehealth - GoodRx Care Direct)",
+      "ro.co/weight-loss (telehealth)",
+      "sesamecare.com/service/online-weight-loss-program (telehealth)",
+      "lemonaidhealth.com/services/weight-loss (telehealth)",
+      "hims.com/weight-loss (telehealth)",
+      "costplusdrugs.com (online pharmacy - does not carry brand-name GLP-1s)",
+      "blinkhealth.com/medications/ozempic (online pharmacy - no prices extracted)"
+    ],
+    "blocked_sources": [
+      "healthwarehouse.com (403 Forbidden)",
+      "honeybeehealth.com (404)",
+      "rxsaver.com (404)",
+      "nurx.com (404)",
+      "goodrx.com price pages (JS-rendered, no coupon prices in HTML)",
+      "blinkhealth.com/wegovy (403 Forbidden)",
+      "blinkhealth.com/mounjaro (403 Forbidden)"
+    ],
+    "notes": "Calibrate.com no longer operating as telehealth. Found (foundnow.com) is now a travel news site. K Health pivoted to enterprise B2B - no longer consumer telehealth. Cost Plus Drugs does not carry brand-name GLP-1s. GoodRx price comparison pages are JS-rendered and don't expose coupon prices via web_fetch; retail chain coupon prices carried over from previous scrapes. Notable change: Wegovy pill 4mg self-pay price increased from $149 to $199 as of 9/1/2026 (promotional offer ended 8/31/2026). LillyDirect now lists Mounjaro self-pay at $499/mo for all doses."
   }
 }

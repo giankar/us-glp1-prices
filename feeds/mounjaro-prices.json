@@ -3,9 +3,9 @@
   "generic_name": "tirzepatide",
   "manufacturer": "Eli Lilly",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-09-04T07:10:00+04:00",
+  "last_updated": "2026-09-05T07:07:16+04:00",
   "reference_zip": "10001",
-  "total_pharmacies": 21,
+  "total_pharmacies": 22,
   "dosages": [
     "2.5mg",
     "5mg",
@@ -27,7 +27,21 @@
         "12.5mg": 1112.16,
         "15mg": 1112.16
       },
-      "notes": "Lilly list price (WAC) $1,112.16/mo as of Jan 2026 (previously $1,079.77). Same across all dosages. Savings card for commercial insurance: as low as $25/mo if covered. Self-pay savings options available via LillyDirect."
+      "notes": "Lilly list price (WAC) $1,112.16/mo as of Jan 2026 (previously $1,079.77). Same across all dosages. Savings card for commercial insurance: as low as $25/mo if covered. LillyDirect self-pay: $499/mo for all doses."
+    },
+    {
+      "pharmacy_name": "LillyDirect Pharmacy",
+      "pharmacy_type": "manufacturer_direct",
+      "source": "manufacturer_direct",
+      "prices": {
+        "2.5mg": 499.0,
+        "5mg": 499.0,
+        "7.5mg": 499.0,
+        "10mg": 499.0,
+        "12.5mg": 499.0,
+        "15mg": 499.0
+      },
+      "notes": "LillyDirect self-pay: $499/mo for all Mounjaro doses (2.5mg-15mg). Free delivery or pickup. FSA/HSA eligible. Prescription required."
     },
     {
       "pharmacy_name": "CVS Pharmacy",
@@ -312,40 +326,40 @@
   ],
   "summary": {
     "2.5mg": {
-      "min": 874.25,
+      "min": 499.0,
       "max": 1899.0,
-      "avg": 1044.72,
-      "count": 13
+      "avg": 1005.74,
+      "count": 14
     },
     "5mg": {
-      "min": 874.25,
+      "min": 499.0,
       "max": 1899.0,
-      "avg": 1044.72,
-      "count": 13
+      "avg": 1005.74,
+      "count": 14
     },
     "7.5mg": {
-      "min": 874.25,
+      "min": 499.0,
       "max": 1899.0,
-      "avg": 1044.72,
-      "count": 13
+      "avg": 1005.74,
+      "count": 14
     },
     "10mg": {
-      "min": 874.25,
+      "min": 499.0,
       "max": 1899.0,
-      "avg": 1044.72,
-      "count": 13
+      "avg": 1005.74,
+      "count": 14
     },
     "12.5mg": {
-      "min": 874.25,
+      "min": 499.0,
       "max": 1899.0,
-      "avg": 1044.72,
-      "count": 13
+      "avg": 1005.74,
+      "count": 14
     },
     "15mg": {
-      "min": 874.25,
+      "min": 499.0,
       "max": 1899.0,
-      "avg": 1044.72,
-      "count": 13
+      "avg": 1005.74,
+      "count": 14
     }
   }
 }
