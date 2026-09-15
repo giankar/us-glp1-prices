@@ -3,7 +3,7 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-09-14T07:08:11+04:00",
+  "last_updated": "2026-09-15T07:33:39+04:00",
   "reference_zip": "10001",
   "total_pharmacies": 26,
   "dosages": [
@@ -23,7 +23,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "NovoCare self-pay (confirmed 2026-09-14): new patients $199/mo for 0.25/0.5mg (first 2 fills through 12/31/2026), existing $349 for 0.25/0.5/1mg, $499 for 2mg. CoAssist Pharmacy dispenses. Ozempic pill: 1.5mg $149/mo, 4mg $199/mo, 9mg $299/mo."
+      "notes": "NovoCare self-pay (confirmed 2026-09-15): new patients $199/mo for 0.25/0.5mg (first 2 fills through 12/31/2026), existing $349 for 0.25/0.5/1mg, $499 for 2mg. CoAssist Pharmacy dispenses. Ozempic pill: 1.5mg $149/mo, 4mg $199/mo, 9mg $299/mo."
     },
     {
       "pharmacy_name": "Novo Nordisk WAC",
@@ -35,19 +35,19 @@
         "1mg": 1027.51,
         "2mg": 1027.51
       },
-      "notes": "Wholesale Acquisition Cost (WAC) list price from novopricing.com (confirmed 2026-09-14). Same across all injection dosages and tablet strengths."
+      "notes": "Wholesale Acquisition Cost (WAC) list price from novopricing.com (confirmed 2026-09-15). Same across all injection dosages and tablet strengths."
     },
     {
       "pharmacy_name": "Amazon Pharmacy",
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "prices": {
-        "0.25mg": 199.0,
-        "0.5mg": 199.0,
+        "0.25mg": 349.0,
+        "0.5mg": 349.0,
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Automatic manufacturer coupons applied at checkout (confirmed on Amazon Pharmacy site); NovoCare self-pay pricing. Also offers Ozempic pill 1.5mg at $149/mo cash. Medicare Bridge: $50/mo."
+      "notes": "UPDATED 2026-09-15: Amazon Pharmacy now displays $349/mo for 0.25/0.5mg and 1mg pens (Prime member price; retail $1,027.50) and $499 for 2mg. New patients can still get $199/mo intro (first 2 fills, 0.25/0.5mg) via manufacturer coupon applied at checkout. Ozempic pill: 1.5mg $149/mo, 4mg $199/mo, 9mg $299/mo cash. Medicare Bridge: $50/mo."
     },
     {
       "pharmacy_name": "TrumpRx",
@@ -59,7 +59,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "TrumpRx self-pay coupon (confirmed 2026-09-14): new patients $199/mo for 0.25/0.5mg (first 2 fills through 12/31/2026), then $349 for 0.25/0.5/1mg, $499 for 2mg. Widely supported at retail pharmacies."
+      "notes": "TrumpRx self-pay coupon (confirmed 2026-09-15): new patients $199/mo for 0.25/0.5mg (first 2 fills through 12/31/2026), then $349 for 0.25/0.5/1mg, $499 for 2mg. Original price $1,027.51. Widely supported at retail pharmacies."
     },
     {
       "pharmacy_name": "CVS Pharmacy",
@@ -71,7 +71,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Manufacturer self-pay coupon $199/$349/$499 (offer re-confirmed 2026-09-14; GoodRx page blocked by CAPTCHA today). SingleCare coupon also available ($880.11). Retail ~$1,475.69."
+      "notes": "Manufacturer self-pay coupon $199/$349/$499 (offer re-confirmed 2026-09-15; GoodRx per-pharmacy rows blocked by CAPTCHA today, offer prices confirmed via GoodRx dosage tables before block). Retail ~$1,475.69 (GoodRx). $29 online consultation at MinuteClinic."
     },
     {
       "pharmacy_name": "Walgreens",
@@ -83,7 +83,7 @@
         "1mg": 887.81,
         "2mg": 887.81
       },
-      "notes": "SingleCare coupon price (confirmed 2026-09-14). Retail ~$955.81. Manufacturer self-pay coupon also available: $199/$349/$499."
+      "notes": "SingleCare coupon price (confirmed 2026-09-15). Retail ~$955.81. Manufacturer self-pay coupon also available: $199/$349/$499."
     },
     {
       "pharmacy_name": "Walmart Pharmacy",
@@ -95,7 +95,7 @@
         "1mg": 862.39,
         "2mg": 862.39
       },
-      "notes": "SingleCare coupon price (confirmed 2026-09-14). Retail ~$930.39 (Walmart Neighborhood Market same price). Manufacturer self-pay coupon also available: $199/$349/$499."
+      "notes": "SingleCare coupon price (confirmed 2026-09-15). Retail ~$930.39 (Walmart Neighborhood Market same price). Manufacturer self-pay coupon also available: $199/$349/$499."
     },
     {
       "pharmacy_name": "Kroger Pharmacy",
@@ -107,7 +107,7 @@
         "1mg": 791.97,
         "2mg": 791.97
       },
-      "notes": "SingleCare coupon price with member bonus (confirmed 2026-09-14). Retail ~$859.97. GoodRx coupon price $1,096.28 (2mg pen)."
+      "notes": "SingleCare coupon price with member bonus (confirmed 2026-09-15). Retail ~$859.97."
     },
     {
       "pharmacy_name": "Costco Pharmacy",
@@ -119,7 +119,7 @@
         "1mg": 872.12,
         "2mg": 872.12
       },
-      "notes": "SingleCare coupon price (confirmed 2026-09-14). Retail ~$940.12-$1,193.72."
+      "notes": "SingleCare coupon price (confirmed 2026-09-15). Retail ~$940.12."
     },
     {
       "pharmacy_name": "Harris Teeter Pharmacy",
@@ -131,7 +131,7 @@
         "1mg": 791.97,
         "2mg": 791.97
       },
-      "notes": "SingleCare coupon price with member bonus (confirmed 2026-09-14). Retail ~$859.97."
+      "notes": "SingleCare coupon price with member bonus (confirmed 2026-09-15). Retail ~$859.97."
     },
     {
       "pharmacy_name": "Publix Pharmacy",
@@ -143,7 +143,7 @@
         "1mg": 850.46,
         "2mg": 850.46
       },
-      "notes": "SingleCare coupon price with member bonus (confirmed 2026-09-14). Retail ~$918.46. Medicare GLP-1 Bridge: $50 copay."
+      "notes": "SingleCare coupon price with member bonus (confirmed 2026-09-15). Retail ~$918.46. Medicare GLP-1 Bridge: $50 copay."
     },
     {
       "pharmacy_name": "Albertsons Pharmacy",
@@ -155,7 +155,7 @@
         "1mg": 880.11,
         "2mg": 880.11
       },
-      "notes": "SingleCare coupon price (Acme; confirmed 2026-09-14). Retail ~$948.11."
+      "notes": "SingleCare coupon price (Acme; confirmed 2026-09-15). Retail ~$948.11."
     },
     {
       "pharmacy_name": "Hy-Vee Pharmacy",
@@ -167,7 +167,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Manufacturer self-pay coupon $199/$349/$499 (offer re-confirmed 2026-09-14; GoodRx page blocked by CAPTCHA today)."
+      "notes": "Manufacturer self-pay coupon $199/$349/$499 (offer re-confirmed 2026-09-15 via ozempic.com; GoodRx page blocked by CAPTCHA today)."
     },
     {
       "pharmacy_name": "Sam's Club Pharmacy",
@@ -179,7 +179,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Manufacturer self-pay coupon $199/$349/$499 (offer re-confirmed 2026-09-14; GoodRx page blocked by CAPTCHA today)."
+      "notes": "Manufacturer self-pay coupon $199/$349/$499 (offer re-confirmed 2026-09-15; GoodRx page blocked by CAPTCHA today)."
     },
     {
       "pharmacy_name": "Dillons Pharmacy",
@@ -191,7 +191,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Manufacturer self-pay coupon $199/$349/$499 (offer re-confirmed 2026-09-14; GoodRx page blocked by CAPTCHA today). Also honors Ozempic pill offer: $149/mo (1.5mg)."
+      "notes": "Manufacturer self-pay coupon $199/$349/$499 (offer re-confirmed 2026-09-15; GoodRx page blocked by CAPTCHA today). Also honors Ozempic pill offer: $149/mo (1.5mg)."
     },
     {
       "pharmacy_name": "Capsule Pharmacy",
@@ -203,7 +203,7 @@
         "1mg": 935.87,
         "2mg": 935.87
       },
-      "notes": "SingleCare coupon price (confirmed 2026-09-11; carried forward). Online-only pharmacy."
+      "notes": "SingleCare coupon price (carried forward from 2026-09-11; not shown in today's coupon list). Online-only pharmacy."
     },
     {
       "pharmacy_name": "Stop & Shop Pharmacy",
@@ -227,7 +227,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "UPDATED 2026-09-14: Ro pricing page confirms cash-pay prices match NovoCare/LillyDirect/TrumpRx, i.e. tiered $199 (0.25/0.5mg first 2 fills), $349 (0.25/0.5/1mg), $499 (2mg). Ro Body membership: $39 first month, then $149/mo or as low as $74/mo annual prepay."
+      "notes": "Ro cash-pay prices match NovoCare/LillyDirect/TrumpRx (confirmed 2026-09-15 on ro.co pricing page): $199 (0.25/0.5mg first 2 fills), $349 (0.25/0.5/1mg), $499 (2mg). Ro Body membership: $39 first month, then $149/mo or as low as $74/mo annual prepay."
     },
     {
       "pharmacy_name": "Hims & Hers",
@@ -239,7 +239,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Ozempic from $199/mo (confirmed 2026-09-14 on hims.com). Membership: $39 first month, auto-renews at $149/mo. Also offers Ozempic pill from $149/mo."
+      "notes": "Ozempic from $199/mo (confirmed 2026-09-15 on hims.com); tiered Novo self-pay pricing. Membership: $39 first month, auto-renews at $149/mo. Also offers Ozempic pill from $149/mo."
     },
     {
       "pharmacy_name": "Sesame Care",
@@ -251,7 +251,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "Ozempic starts at $199/mo (Novo self-pay offer through 12/31/2026, confirmed 2026-09-14). $59/mo subscription for clinical care (12-month commitment); month-to-month $99/mo."
+      "notes": "Ozempic starts at $199/mo (Novo self-pay offer through 12/31/2026, confirmed 2026-09-15): $199 first two months (0.25/0.5mg), then $349 (0.25/0.5/1mg), $499 (2mg). $59/mo subscription for clinical care (12-month commitment); month-to-month $99/mo."
     },
     {
       "pharmacy_name": "Lemonaid Health",
@@ -263,7 +263,7 @@
         "1mg": 1199.0,
         "2mg": 1199.0
       },
-      "notes": "Ozempic $1,199/mo medication (confirmed 2026-09-14) + membership: first month FREE, then $49/mo. Cash-pay only."
+      "notes": "Ozempic $1,199/mo medication (confirmed 2026-09-15) + membership: first month FREE, then $49/mo. Cash-pay only."
     },
     {
       "pharmacy_name": "PlushCare",
@@ -275,7 +275,7 @@
         "1mg": 1000.0,
         "2mg": 1000.0
       },
-      "notes": "Ozempic ~$1,000/mo self-pay (PlushCare FAQ: usually cost about $1000 per month out of pocket, confirmed 2026-09-14). $19.99/mo membership (first month free) + $129 initial visit."
+      "notes": "Ozempic ~$1,000/mo self-pay (PlushCare FAQ: usually cost about $1000 per month out of pocket, confirmed 2026-09-15). $19.99/mo membership (first month free) + $129 initial visit."
     },
     {
       "pharmacy_name": "WeightWatchers Clinic",
@@ -287,7 +287,7 @@
         "1mg": 997.58,
         "2mg": 997.58
       },
-      "notes": "Ozempic list price $997.58/mo (confirmed 2026-09-14 per WW GLP-1 comparison page). Membership $25-$49 first month, then $74-$145/mo."
+      "notes": "Ozempic list price $997.58/mo (confirmed 2026-09-15 per WW GLP-1 comparison page). GLP-1 medications not included in WW Clinic membership."
     },
     {
       "pharmacy_name": "Noom Med",
@@ -299,7 +299,7 @@
         "1mg": null,
         "2mg": null
       },
-      "notes": "Noom GLP-1 Rx Program: initial 3-week subscription incl. 4 weeks of medication from $149, then $349/mo for 12-week subscription. Medication may include compounded GLP-1s."
+      "notes": "Noom GLP-1 Rx Program: subscription + medication costs (pricing page behind cookie consent today). Medication may include compounded GLP-1s."
     },
     {
       "pharmacy_name": "GoodRx Care",
@@ -311,7 +311,7 @@
         "1mg": 349.0,
         "2mg": 499.0
       },
-      "notes": "GoodRx Care Direct: $39/mo for unlimited online care (confirmed 2026-09-14). Ozempic via Novo self-pay offer: $199 (0.25/0.5mg first 2 fills), $349 (0.25/0.5/1mg), $499 (2mg)."
+      "notes": "GoodRx Care Direct: $39/mo for unlimited online care (confirmed 2026-09-15). Ozempic via Novo self-pay offer: $199 (0.25/0.5mg first 2 fills), $349 (0.25/0.5/1mg), $499 (2mg)."
     },
     {
       "pharmacy_name": "Nurx",
@@ -330,13 +330,13 @@
     "0.25mg": {
       "min": 199.0,
       "max": 1199.0,
-      "avg": 597.57,
+      "avg": 603.82,
       "count": 24
     },
     "0.5mg": {
       "min": 199.0,
       "max": 1199.0,
-      "avg": 597.57,
+      "avg": 603.82,
       "count": 24
     },
     "1mg": {
