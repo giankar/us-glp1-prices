@@ -1111,5 +1111,222 @@
         }
       }
     }
+  ],
+  "sources_checked": [
+    {
+      "source": "ozempic.com/savings-and-resources/save-on-ozempic.html",
+      "status": "ok",
+      "note": "Novo self-pay $199/$349/$499 confirmed; pill $149/$199/$299"
+    },
+    {
+      "source": "wegovy.com/obesity/what-to-pay-for-wegovy.html",
+      "status": "ok",
+      "note": "Wegovy pen $199/$349 + HD 7.2mg $399; pill $149/$199/$299"
+    },
+    {
+      "source": "novocare.com/pharmacy.html",
+      "status": "ok",
+      "note": "Wegovy pill $149+, Wegovy pen $199+, Ozempic pill $149+, Ozempic pen $199+"
+    },
+    {
+      "source": "pricinginfo.lilly.com/mounjaro",
+      "status": "ok",
+      "note": "Mounjaro list price $1,112.16/fill"
+    },
+    {
+      "source": "novopricing.com/ozempic.html",
+      "status": "ok",
+      "note": "WAC $1,027.51"
+    },
+    {
+      "source": "novopricing.com/wegovy.html",
+      "status": "ok",
+      "note": "WAC $1,349.02"
+    },
+    {
+      "source": "goodrx.com/ozempic",
+      "status": "partial",
+      "note": "Ozempic pill 1.5mg $149 at 15 pharmacies (ZIP 10001); pen dosage pages blocked by press-and-hold CAPTCHA"
+    },
+    {
+      "source": "goodrx.com/wegovy",
+      "status": "blocked",
+      "note": "bot challenge"
+    },
+    {
+      "source": "goodrx.com/mounjaro",
+      "status": "not attempted",
+      "note": "GoodRx bot protection active; SingleCare used as comparison source"
+    },
+    {
+      "source": "singlecare.com/prescription/ozempic",
+      "status": "ok",
+      "note": "8 pharmacy coupon prices; updated 09/16/2026"
+    },
+    {
+      "source": "singlecare.com/prescription/wegovy",
+      "status": "ok",
+      "note": "8 pharmacy coupon prices; updated 09/16/2026"
+    },
+    {
+      "source": "singlecare.com/prescription/mounjaro",
+      "status": "ok",
+      "note": "8 pharmacy coupon prices; updated 09/16/2026"
+    },
+    {
+      "source": "pharmacy.amazon.com",
+      "status": "partial",
+      "note": "Ozempic $199/$349/$499 + pill $149/$199/$299, Wegovy $199 (retail $1,349.02) confirmed via product pages/search"
+    },
+    {
+      "source": "ro.co/weight-loss",
+      "status": "ok",
+      "note": "Wegovy pen/pill, Zepbound, Foundayo, Ozempic in stock; Ro Body membership $39 first mo then $149/mo"
+    },
+    {
+      "source": "hims.com/weight-loss",
+      "status": "ok",
+      "note": "Ozempic from $199, Mounjaro $1,899, Wegovy pen $199+, pills $149+; membership $39 then $149/mo"
+    },
+    {
+      "source": "forhers.com/weight-loss",
+      "status": "ok",
+      "note": "Identical pricing to Hims"
+    },
+    {
+      "source": "sesamecare.com/service/online-weight-loss-program",
+      "status": "ok",
+      "note": "Wegovy pen $199 then $349; pill $149/$299; Zepbound KwikPen $299-$698; Foundayo $149-$349; $59/mo sub"
+    },
+    {
+      "source": "lemonaidhealth.com/services/weight-loss",
+      "status": "ok",
+      "note": "GLP-1s from $129/mo; membership free first mo then $49/mo; Ozempic/Wegovy offered"
+    },
+    {
+      "source": "plushcare.com/weight-loss",
+      "status": "ok",
+      "note": "Offers Ozempic/Wegovy/Mounjaro/Zepbound; $19.99/mo membership + $129 visit"
+    },
+    {
+      "source": "weightwatchers.com GLP-1 comparison",
+      "status": "ok",
+      "note": "List prices cited: Mounjaro $1,079.77, Wegovy $1,349.02, Ozempic $997.58"
+    },
+    {
+      "source": "noom.com/med",
+      "status": "partial",
+      "note": "Meds listed incl Ozempic/Wegovy/Mounjaro/Zepbound/Foundayo; pricing behind intake survey"
+    },
+    {
+      "source": "nurx.com/weight-management-treatment",
+      "status": "ok",
+      "note": "NEW: Zepbound $1000, Wegovy $1300, Ozempic $1000, Mounjaro $1000/mo avg published"
+    },
+    {
+      "source": "goodrx.com/care/services/glp-1-weight-loss",
+      "status": "ok",
+      "note": "GoodRx Care $39/mo; Wegovy pill $149+, Wegovy pen $199+, Foundayo $149+, Zepbound KwikPen $299+"
+    },
+    {
+      "source": "lillydirect.com",
+      "status": "ok",
+      "note": "Mounjaro listed as available; LillyDirect self-pay $499/mo all doses"
+    },
+    {
+      "source": "trumprx.gov/p/ozempic",
+      "status": "ok",
+      "note": "Ozempic $199/$349/$499 self-pay; original $1,027.51"
+    },
+    {
+      "source": "cvs.com/content/weight-loss",
+      "status": "ok",
+      "note": "$29 consultation; GLP-1s as low as $149/mo without insurance with manufacturer coupon"
+    },
+    {
+      "source": "healthwarehouse.com",
+      "status": "no_glp1",
+      "note": "No GLP-1 medications in catalog"
+    },
+    {
+      "source": "honeybeehealth.com",
+      "status": "no_glp1",
+      "note": "No GLP-1 search results"
+    },
+    {
+      "source": "costplusdrugs.com",
+      "status": "no_glp1",
+      "note": "No semaglutide/tirzepatide products found"
+    },
+    {
+      "source": "centerwellpharmacy.com",
+      "status": "login_required",
+      "note": "No public pricing without account"
+    },
+    {
+      "source": "express-scripts.com / optum.com / caremark.cvs.com / pillpack.com",
+      "status": "not_fetched",
+      "note": "Login-required mail-order pharmacies; no public cash pricing"
+    },
+    {
+      "source": "geniusrx.com",
+      "status": "relaunching",
+      "note": "Site shows Coming Soon page"
+    },
+    {
+      "source": "blinkhealth.com",
+      "status": "no_glp1",
+      "note": "No Ozempic product page found"
+    },
+    {
+      "source": "rxsaver.com",
+      "status": "referral",
+      "note": "Redirects to GoodRx ($199 Ozempic pens)"
+    },
+    {
+      "source": "khealth.com",
+      "status": "pivoted",
+      "note": "Now B2B healthcare AI; no consumer GLP-1 pricing"
+    },
+    {
+      "source": "calibrate.com",
+      "status": "defunct",
+      "note": "Placeholder page only"
+    },
+    {
+      "source": "foundnow.com",
+      "status": "defunct",
+      "note": "Domain now a travel news site"
+    },
+    {
+      "source": "publix.com/pharmacy",
+      "status": "geoblocked",
+      "note": "International block page"
+    },
+    {
+      "source": "riteaid.com/pharmacy/ozempic",
+      "status": "no_pricing",
+      "note": "Pharmacy services returning soon; email capture only"
+    },
+    {
+      "source": "hy-vee.com/pharmacy",
+      "status": "no_public_pricing",
+      "note": "No GLP-1 prices on public page"
+    },
+    {
+      "source": "kroger.com/pharmacy",
+      "status": "no_public_pricing",
+      "note": "No GLP-1 prices on public page"
+    }
+  ],
+  "scrape_notes": [
+    "GoodRx pen-level pages blocked by press-and-hold bot challenge (attempted browser + computer-use); single main-page pill data point captured (Ozempic pill 1.5mg $149 at 15 pharmacies, ZIP 10001).",
+    "Mounjaro list price confirmed at $1,112.16/fill via pricinginfo.lilly.com (WAC from AnalySource accessed 1/1/2026).",
+    "NEW: Nurx now publishes GLP-1 pricing (Ozempic ~$1000/mo, Wegovy ~$1300/mo, Mounjaro ~$1000/mo avg) - added as telehealth entries with prices (previously null).",
+    "NEW: Wegovy HD 7.2mg pen now listed at $399/mo self-pay (Wegovy.com/NovoCare); outside tracked dosages but noted in NovoCare/Amazon/GoodRx Care notes.",
+    "Wegovy 4mg pill $149 offer ended 8/31/2026; 4mg now $199/mo (Wegovy.com).",
+    "SingleCare prices updated 09/16/2026 with member-bonus signup pricing.",
+    "K Health pivoted to B2B; Calibrate and Found defunct - noted but retained null entries where previously tracked.",
+    "Lilly Direct added as manufacturer_direct entry to Ozempic feed (does not offer Ozempic - documents LillyDirect catalog boundary)."
   ]
 }
