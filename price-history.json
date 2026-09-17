@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-16",
-  "scrape_timestamp": "2026-09-16T07:15:00+04:00",
+  "date": "2026-09-17",
+  "scrape_timestamp": "2026-09-17T07:20:00+04:00",
   "reference_zip": "10001",
   "medications": [
     {
@@ -8,9 +8,9 @@
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-09-16T07:15:00+04:00",
+      "last_updated": "2026-09-17T07:20:00+04:00",
       "reference_zip": "10001",
-      "total_pharmacies": 27,
+      "total_pharmacies": 28,
       "dosages": [
         "0.25mg",
         "0.5mg",
@@ -28,7 +28,7 @@
             "1mg": 349.0,
             "2mg": 499.0
           },
-          "notes": "NovoCare self-pay (confirmed 2026-09-16): new patients $199/mo for 0.25/0.5mg (first 2 fills through 12/31/2026), existing $349 for 0.25/0.5/1mg, $499 for 2mg. CoAssist Pharmacy dispenses. Ozempic pill: 1.5mg $149/mo, 4mg $199/mo, 9mg $299/mo."
+          "notes": "NovoCare self-pay (confirmed 2026-09-17 via ozempic.com): new patients $199/mo for 0.25/0.5mg (first 2 fills through 12/31/2026), existing $349 for 0.25/0.5/1mg, $499 for 2mg. CoAssist Pharmacy dispenses (confirmed via novocare.com). Ozempic pill: 1.5mg $149/mo, 4mg $199/mo, 9mg $299/mo."
         },
         {
           "pharmacy_name": "Novo Nordisk WAC",
@@ -40,7 +40,7 @@
             "1mg": 1027.51,
             "2mg": 1027.51
           },
-          "notes": "Wholesale Acquisition Cost (WAC) list price from novopricing.com (confirmed 2026-09-16). Same across all injection dosages and tablet strengths."
+          "notes": "Wholesale Acquisition Cost (WAC) list price from novopricing.com (confirmed 2026-09-17). Same across all injection dosages and tablet strengths."
         },
         {
           "pharmacy_name": "Amazon Pharmacy",
@@ -52,7 +52,7 @@
             "1mg": 349.0,
             "2mg": 499.0
           },
-          "notes": "Amazon Pharmacy cash price with manufacturer coupon applied at checkout (confirmed 2026-09-16): $199 (0.25/0.5mg first 2 fills), $349 (1mg), $499 (2mg); retail $1,027.50. Ozempic pill: 1.5mg $149/mo, 4mg $199/mo, 9mg $299/mo. Prime members save up to 80%."
+          "notes": "Amazon Pharmacy cash price with manufacturer coupon auto-applied at checkout (coupon mechanism re-confirmed 2026-09-17 on pharmacy.amazon.com; product page requires login): $199 (0.25/0.5mg first 2 fills), $349 (1mg), $499 (2mg); retail $1,027.51. Ozempic pill: 1.5mg $149/mo, 4mg $199/mo, 9mg $299/mo. Prime members save up to 80%."
         },
         {
           "pharmacy_name": "TrumpRx",
@@ -64,7 +64,7 @@
             "1mg": 349.0,
             "2mg": 499.0
           },
-          "notes": "TrumpRx self-pay coupon (confirmed 2026-09-16): new patients $199/mo for 0.25/0.5mg (first 2 fills, offer window 11/17/2025-12/31/2026), then $349 for 0.25/0.5/1mg, $499 for 2mg. Original price $1,027.51. Widely supported at retail pharmacies."
+          "notes": "TrumpRx self-pay coupon (confirmed 2026-09-17 via trumprx.gov/p/ozempic): new patients $199/mo for 0.25/0.5mg (first 2 fills, offer window 11/17/2025-12/31/2026), then $349 for 0.25/0.5/1mg, $499 for 2mg. Original price $1,027.51 (savings $828.51). Widely supported at retail pharmacies."
         },
         {
           "pharmacy_name": "CVS Pharmacy",
@@ -76,7 +76,7 @@
             "1mg": 349.0,
             "2mg": 499.0
           },
-          "notes": "Manufacturer self-pay coupon $199/$349/$499 (re-confirmed 2026-09-16; GoodRx pen pages blocked by CAPTCHA today). SingleCare coupon $654.42, retail ~$1,212.99. $29 online consultation at MinuteClinic."
+          "notes": "Manufacturer self-pay coupon $199/$349/$499 (re-confirmed 2026-09-17; GoodRx accessible today, shows Ozempic carton coupon prices $199/$349/$499). SingleCare avg coupon price $654.42, retail avg $1,212.99 (SingleCare averages table 2026-09-17). $29 online consultation at MinuteClinic."
         },
         {
           "pharmacy_name": "Walgreens",
@@ -88,7 +88,7 @@
             "1mg": 887.81,
             "2mg": 887.81
           },
-          "notes": "SingleCare coupon price with free signup (confirmed 2026-09-16). Retail ~$955.81. Manufacturer self-pay coupon also available: $199/$349/$499."
+          "notes": "SingleCare coupon price with free signup (confirmed 2026-09-17). Retail ~$955.81. Manufacturer self-pay coupon also available: $199/$349/$499."
         },
         {
           "pharmacy_name": "Walmart Pharmacy",
@@ -100,7 +100,7 @@
             "1mg": 862.39,
             "2mg": 862.39
           },
-          "notes": "SingleCare coupon price with free signup (confirmed 2026-09-16). Retail ~$930.39 (Walmart Neighborhood Market same price). Manufacturer self-pay coupon also available: $199/$349/$499."
+          "notes": "SingleCare coupon price with free signup (confirmed 2026-09-17). Retail ~$930.39 (Walmart Neighborhood Market same price). Manufacturer self-pay coupon also available: $199/$349/$499."
         },
         {
           "pharmacy_name": "Kroger Pharmacy",
@@ -112,7 +112,7 @@
             "1mg": 791.97,
             "2mg": 791.97
           },
-          "notes": "SingleCare coupon price with free signup member bonus (confirmed 2026-09-16). Retail ~$859.97 (Harris Teeter same). Manufacturer self-pay coupon also available."
+          "notes": "SingleCare coupon price with free signup member bonus (confirmed 2026-09-17). Retail ~$859.97. Lowest SingleCare Ozempic price (tied with Harris Teeter). Manufacturer self-pay coupon also available."
         },
         {
           "pharmacy_name": "Costco Pharmacy",
@@ -124,7 +124,7 @@
             "1mg": 872.12,
             "2mg": 872.12
           },
-          "notes": "SingleCare coupon price with free signup (confirmed 2026-09-16). Retail ~$940.12. Manufacturer self-pay coupon also available: $199/$349/$499."
+          "notes": "SingleCare coupon price with free signup (confirmed 2026-09-17). Retail ~$940.12. Manufacturer self-pay coupon also available: $199/$349/$499."
         },
         {
           "pharmacy_name": "Harris Teeter Pharmacy",
@@ -136,7 +136,7 @@
             "1mg": 791.97,
             "2mg": 791.97
           },
-          "notes": "SingleCare coupon price with free signup member bonus (confirmed 2026-09-16). Retail ~$859.97 (matches Kroger). Manufacturer self-pay coupon also available."
+          "notes": "SingleCare coupon price with free signup member bonus (confirmed 2026-09-17). Retail ~$859.97 (matches Kroger). Manufacturer self-pay coupon also available."
         },
         {
           "pharmacy_name": "Publix Pharmacy",
@@ -148,7 +148,7 @@
             "1mg": 850.46,
             "2mg": 850.46
           },
-          "notes": "SingleCare coupon price with free signup member bonus (confirmed 2026-09-16). Retail ~$918.46. Publix.com geoblocked today; manufacturer self-pay coupon also available: $199/$349/$499."
+          "notes": "SingleCare coupon price with free signup member bonus (confirmed 2026-09-17). Retail ~$918.46. Manufacturer self-pay coupon also available: $199/$349/$499."
         },
         {
           "pharmacy_name": "Albertsons Pharmacy",
@@ -160,7 +160,7 @@
             "1mg": 880.11,
             "2mg": 880.11
           },
-          "notes": "SingleCare coupon price with free signup (confirmed 2026-09-16). Retail ~$948.11. Manufacturer self-pay coupon also available."
+          "notes": "SingleCare coupon price ($880.11 price point present in 2026-09-17 coupon list, pharmacy name not labeled in extract; carried forward from prior days). Retail ~$948.11; SingleCare averages table shows Albertsons avg $931.80 vs retail $1,475.70."
         },
         {
           "pharmacy_name": "Hy-Vee Pharmacy",
@@ -172,7 +172,7 @@
             "1mg": 349.0,
             "2mg": 499.0
           },
-          "notes": "Manufacturer self-pay coupon $199/$349/$499 (re-confirmed 2026-09-16 via ozempic.com; GoodRx page blocked by CAPTCHA today)."
+          "notes": "Manufacturer self-pay coupon $199/$349/$499 (re-confirmed 2026-09-17 via ozempic.com; GoodRx shows Ozempic carton coupon prices $199/$349/$499 today)."
         },
         {
           "pharmacy_name": "Sam's Club Pharmacy",
@@ -184,7 +184,7 @@
             "1mg": 349.0,
             "2mg": 499.0
           },
-          "notes": "Manufacturer self-pay coupon $199/$349/$499 (re-confirmed 2026-09-16; GoodRx page blocked by CAPTCHA today)."
+          "notes": "Manufacturer self-pay coupon $199/$349/$499 (re-confirmed 2026-09-17 via ozempic.com; GoodRx shows same carton coupon prices; Sam's Club listed on GoodRx honoring $149 pill price)."
         },
         {
           "pharmacy_name": "Dillons Pharmacy",
@@ -196,7 +196,7 @@
             "1mg": 349.0,
             "2mg": 499.0
           },
-          "notes": "Manufacturer self-pay coupon $199/$349/$499 (re-confirmed 2026-09-16; GoodRx page blocked by CAPTCHA today). Also honors Ozempic pill offer: $149/mo (1.5mg)."
+          "notes": "Manufacturer self-pay coupon $199/$349/$499 (re-confirmed 2026-09-17 via ozempic.com). Also honors Ozempic pill offer: $149/mo (1.5mg)."
         },
         {
           "pharmacy_name": "Capsule Pharmacy",
@@ -208,7 +208,7 @@
             "1mg": 935.87,
             "2mg": 935.87
           },
-          "notes": "SingleCare coupon price (carried forward from 2026-09-11; not shown in today's SingleCare coupon list). Online-only pharmacy."
+          "notes": "SingleCare coupon price (carried forward from 2026-09-11; not shown in today's SingleCare coupon list). Online-only pharmacy. GoodRx lists Capsule honoring manufacturer pill price $149 (2026-09-17)."
         },
         {
           "pharmacy_name": "Stop & Shop Pharmacy",
@@ -220,7 +220,7 @@
             "1mg": 1056.0,
             "2mg": 1056.0
           },
-          "notes": "SingleCare coupon price (carried forward from 2026-09-11). Regional chain in Northeast US."
+          "notes": "SingleCare coupon price (carried forward from 2026-09-11). Regional chain in Northeast US. GoodRx lists Stop & Shop honoring manufacturer pill price $149 (2026-09-17)."
         },
         {
           "pharmacy_name": "Ro",
@@ -232,7 +232,7 @@
             "1mg": 349.0,
             "2mg": 499.0
           },
-          "notes": "Ro cash-pay prices match NovoCare/TrumpRx (re-confirmed 2026-09-16 on ro.co): $199 (0.25/0.5mg first 2 fills), $349 (0.25/0.5/1mg), $499 (2mg). Ro Body membership: $39 first month, then $149/mo or as low as $74/mo annual prepay."
+          "notes": "Ro cash-pay prices match NovoCare/TrumpRx (re-confirmed 2026-09-17 on ro.co): $199 (0.25/0.5mg first 2 fills), $349 (0.25/0.5/1mg), $499 (2mg). Ozempic listed as 'supply available'. Ro Body membership: $39 first month, then $149/mo or as low as $74/mo annual prepay."
         },
         {
           "pharmacy_name": "Hims & Hers",
@@ -244,7 +244,7 @@
             "1mg": 349.0,
             "2mg": 499.0
           },
-          "notes": "Ozempic from $199/mo (confirmed 2026-09-16 on hims.com); tiered Novo self-pay pricing. Membership: $39 first month, auto-renews at $149/mo. Also offers Ozempic pill from $149/mo and Foundayo pill from $149/mo."
+          "notes": "Ozempic from $199/mo (re-confirmed 2026-09-17 via forhers.com weight-loss page; hims.com blocked 403 today). Tiered Novo self-pay pricing. Membership: $39 first month, auto-renews at $149/mo. Also offers Ozempic pill from $149/mo and Foundayo pill from $149/mo."
         },
         {
           "pharmacy_name": "Sesame Care",
@@ -256,7 +256,7 @@
             "1mg": 349.0,
             "2mg": 499.0
           },
-          "notes": "Ozempic starts at $199/mo (Novo self-pay offer through 12/31/2026, re-confirmed 2026-09-16): $199 first two months (0.25/0.5mg), then $349 (0.25/0.5/1mg), $499 (2mg). Subscription: as low as $59/mo (12-month commitment) or $99/mo month-to-month."
+          "notes": "Ozempic starts at $199/mo (Novo self-pay offer through 12/31/2026, re-confirmed 2026-09-17 on sesamecare.com): $199 first two months (0.25/0.5mg), then $349 (0.25/0.5/1mg), $499 (2mg). Subscription: as low as $59/mo (12-month commitment) or $99/mo month-to-month."
         },
         {
           "pharmacy_name": "Lemonaid Health",
@@ -268,7 +268,7 @@
             "1mg": 1199.0,
             "2mg": 1199.0
           },
-          "notes": "Ozempic $1,199/mo medication + membership: first month FREE, then $49/mo (confirmed 2026-09-16 on lemonaidhealth.com). Cash-pay only."
+          "notes": "Ozempic $1,199/mo medication (carried forward; Ozempic availability re-confirmed 2026-09-17 on lemonaidhealth.com) + membership: first month FREE, then $49/mo. Cash-pay only. GLP-1s starting at $129/mo limited-time offer."
         },
         {
           "pharmacy_name": "PlushCare",
@@ -280,7 +280,7 @@
             "1mg": 1000.0,
             "2mg": 1000.0
           },
-          "notes": "Ozempic ~$1,000/mo self-pay (PlushCare FAQ estimate; page re-confirmed 2026-09-16). $19.99/mo membership (first month free) + $129 initial visit."
+          "notes": "Ozempic ~$1,000/mo self-pay (PlushCare FAQ estimate; weight-loss page re-confirmed 2026-09-17). $19.99/mo membership (first month free) + $129 initial visit."
         },
         {
           "pharmacy_name": "WeightWatchers Clinic",
@@ -292,7 +292,7 @@
             "1mg": 997.58,
             "2mg": 997.58
           },
-          "notes": "Ozempic list price $997.58/mo (re-confirmed 2026-09-16 per WW GLP-1 comparison page). GLP-1 medications not included in WW Clinic membership ($74-$145/mo for program)."
+          "notes": "Ozempic list price $997.58/mo (per WW GLP-1 comparison page, last updated 2025-12-13; page live and re-fetched 2026-09-17). GLP-1 medications not included in WW Clinic membership ($74-$145/mo for program)."
         },
         {
           "pharmacy_name": "Noom Med",
@@ -304,7 +304,7 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "Noom Med offers Ozempic/Wegovy/Mounjaro/Zepbound/Foundayo (orforglipron) pill via prescription (confirmed 2026-09-16 on noom.com/med); medication pricing behind intake survey. Medication starts at $30/mo for some orals; GLP-1 Rx subscription $99-$149/mo."
+          "notes": "Noom Med offers Ozempic/Wegovy/Mounjaro/Zepbound/Foundayo (orforglipron) via prescription (carried forward from 2026-09-16, noom.com/med); medication pricing behind intake survey. GLP-1 Rx subscription $99-$149/mo + medication cost."
         },
         {
           "pharmacy_name": "GoodRx Care",
@@ -316,7 +316,7 @@
             "1mg": 349.0,
             "2mg": 499.0
           },
-          "notes": "GoodRx Care Direct: $39/mo for unlimited online care (confirmed 2026-09-16). Ozempic pen via Novo self-pay offer: $199 (0.25/0.5mg first 2 fills), $349 (0.25/0.5/1mg), $499 (2mg)."
+          "notes": "GoodRx Care Direct: $39/mo for unlimited online care (confirmed 2026-09-17 on goodrx.com/care). Ozempic pen via Novo self-pay offer: $199 (0.25/0.5mg first 2 fills), $349 (0.25/0.5/1mg), $499 (2mg)."
         },
         {
           "pharmacy_name": "Nurx",
@@ -328,7 +328,7 @@
             "1mg": 1000.0,
             "2mg": 1000.0
           },
-          "notes": "NEW PRICING 2026-09-16: Nurx now publishes GLP-1 prices (nurx.com weight-management-treatment): Ozempic starts at ~$1,000/month average, in-person pharmacy pick-up only. Consultation + ongoing care fees apply."
+          "notes": "Nurx publishes GLP-1 prices (confirmed 2026-09-17 on nurx.com weight-management-treatment): Ozempic starts at ~$1,000/month average, in-person pharmacy pick-up only. Consultation + ongoing care fees apply."
         },
         {
           "pharmacy_name": "Lilly Direct",
@@ -340,7 +340,19 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "LillyDirect Pharmacy (lillydirect.com) offers Zepbound, Foundayo, Mounjaro, Trulicity and insulins direct-to-patient with free delivery or retail pickup; Ozempic/Wegovy (Novo products) not offered (confirmed 2026-09-16)."
+          "notes": "LillyDirect Pharmacy (lillydirect.com) offers Zepbound, Foundayo, Mounjaro, Trulicity and insulins direct-to-patient (re-confirmed 2026-09-17); Ozempic/Wegovy (Novo products) not offered."
+        },
+        {
+          "pharmacy_name": "Blink Health",
+          "pharmacy_type": "online_pharmacy",
+          "source": "online_pharmacy",
+          "prices": {
+            "0.25mg": null,
+            "0.5mg": null,
+            "1mg": 1012.03,
+            "2mg": null
+          },
+          "notes": "NEW 2026-09-17: Blink Health lists Ozempic 1mg/dose (4mg/3ml) pen injector, 30mL package (10 pens) at Everyday Low Price $10,120.30 = ~$1,012.03 per pen-month (blinkhealth.com/ozempic). 0.25/0.5mg and 2mg prices not shown; Wegovy/Mounjaro pages blocked (HTTP 403)."
         }
       ],
       "summary": {
@@ -359,8 +371,8 @@
         "1mg": {
           "min": 349.0,
           "max": 1199.0,
-          "avg": 679.67,
-          "count": 25
+          "avg": 692.45,
+          "count": 26
         },
         "2mg": {
           "min": 499.0,
@@ -375,7 +387,7 @@
       "generic_name": "tirzepatide",
       "manufacturer": "Eli Lilly",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-09-16T07:15:00+04:00",
+      "last_updated": "2026-09-17T07:20:00+04:00",
       "reference_zip": "10001",
       "total_pharmacies": 23,
       "dosages": [
@@ -399,7 +411,7 @@
             "12.5mg": 1112.16,
             "15mg": 1112.16
           },
-          "notes": "Lilly list price (WAC) $1,112.16/fill (re-confirmed 2026-09-16 via pricinginfo.lilly.com; WAC from AnalySource accessed 1/1/2026). Same across all dosages. One fill = 4 pens = month's supply. Savings card: as low as $25/mo if commercially insured."
+          "notes": "Lilly list price (WAC) $1,112.16/fill (confirmed 2026-09-17 via pricinginfo.lilly.com; WAC from AnalySource accessed 1/1/2026). Same across all dosages. One fill = 4 pens = month's supply. Savings card: as low as $25/mo if commercially insured."
         },
         {
           "pharmacy_name": "LillyDirect Pharmacy",
@@ -413,7 +425,7 @@
             "12.5mg": 499.0,
             "15mg": 499.0
           },
-          "notes": "LillyDirect self-pay: $499/mo for all Mounjaro doses 2.5-15mg (re-confirmed 2026-09-16 via lillydirect.com; Mounjaro listed as available medicine). Free delivery or pickup. FSA/HSA eligible."
+          "notes": "LillyDirect self-pay: $499/mo for all Mounjaro doses 2.5-15mg (confirmed 2026-09-17 via lilly.com/lillydirect/mounjaro - 'Starting at $499/month' shown for every strength). Free delivery or pickup. FSA/HSA eligible."
         },
         {
           "pharmacy_name": "TrumpRx",
@@ -427,7 +439,7 @@
             "12.5mg": 499.0,
             "15mg": 499.0
           },
-          "notes": "TrumpRx Mounjaro routes through LillyDirect (carried forward; re-confirmed LillyDirect $499 self-pay 2026-09-16): list price $1,112.16, TrumpRx price $499/mo."
+          "notes": "TrumpRx Mounjaro routes through LillyDirect (carried forward; LillyDirect $499 self-pay re-confirmed 2026-09-17): list price $1,112.16, TrumpRx price $499/mo."
         },
         {
           "pharmacy_name": "Amazon Pharmacy",
@@ -441,7 +453,7 @@
             "12.5mg": 499.0,
             "15mg": 499.0
           },
-          "notes": "Amazon Pharmacy Mounjaro $499/mo cash (starting price, manufacturer coupon applied; carried forward, Amazon coupon mechanism re-confirmed 2026-09-16). Retail ~$1,123.00."
+          "notes": "Amazon Pharmacy Mounjaro $499/mo cash (starting price, manufacturer coupon applied; carried forward, Amazon coupon mechanism re-confirmed 2026-09-17). Retail ~$1,123.00."
         },
         {
           "pharmacy_name": "CVS Pharmacy",
@@ -455,7 +467,7 @@
             "12.5mg": 932.81,
             "15mg": 932.81
           },
-          "notes": "SingleCare coupon price with free signup (confirmed 2026-09-16). Retail ~$1,050.81."
+          "notes": "SingleCare coupon price with free signup (confirmed 2026-09-17). Retail ~$1,050.81. SingleCare averages table: CVS avg $659.86 vs retail $1,312.00."
         },
         {
           "pharmacy_name": "Walgreens",
@@ -469,7 +481,7 @@
             "12.5mg": 929.38,
             "15mg": 929.38
           },
-          "notes": "SingleCare coupon price with free signup (confirmed 2026-09-16). Retail ~$1,047.38."
+          "notes": "SingleCare coupon price with free signup (confirmed 2026-09-17). Retail ~$1,047.38."
         },
         {
           "pharmacy_name": "Walmart Pharmacy",
@@ -483,7 +495,7 @@
             "12.5mg": 954.84,
             "15mg": 954.84
           },
-          "notes": "SingleCare coupon price with free signup (confirmed 2026-09-16). Retail ~$1,072.84 (Walmart Neighborhood Market same price)."
+          "notes": "SingleCare coupon price with free signup (confirmed 2026-09-17). Retail ~$1,072.84 (Walmart Neighborhood Market same price)."
         },
         {
           "pharmacy_name": "Costco Pharmacy",
@@ -497,7 +509,7 @@
             "12.5mg": 961.0,
             "15mg": 961.0
           },
-          "notes": "SingleCare coupon price with free signup (confirmed 2026-09-16). Retail ~$1,079.00."
+          "notes": "SingleCare coupon price with free signup (confirmed 2026-09-17). Retail ~$1,079.00."
         },
         {
           "pharmacy_name": "Kroger Pharmacy",
@@ -511,7 +523,7 @@
             "12.5mg": 874.25,
             "15mg": 874.25
           },
-          "notes": "SingleCare coupon price with free signup member bonus (confirmed 2026-09-16). Retail ~$992.25."
+          "notes": "SingleCare coupon price with free signup member bonus (confirmed 2026-09-17). Retail ~$992.25. Lowest SingleCare Mounjaro price (tied with Harris Teeter)."
         },
         {
           "pharmacy_name": "Harris Teeter Pharmacy",
@@ -525,7 +537,7 @@
             "12.5mg": 874.25,
             "15mg": 874.25
           },
-          "notes": "SingleCare coupon price with free signup member bonus (confirmed 2026-09-16). Retail ~$992.25."
+          "notes": "SingleCare coupon price with free signup member bonus (confirmed 2026-09-17). Retail ~$992.25 (matches Kroger)."
         },
         {
           "pharmacy_name": "Publix Pharmacy",
@@ -539,7 +551,7 @@
             "12.5mg": 937.31,
             "15mg": 937.31
           },
-          "notes": "SingleCare coupon price with free signup member bonus (confirmed 2026-09-16). Retail ~$1,055.31."
+          "notes": "SingleCare coupon price with free signup member bonus (confirmed 2026-09-17). Retail ~$1,055.31."
         },
         {
           "pharmacy_name": "Albertsons Pharmacy",
@@ -553,7 +565,7 @@
             "12.5mg": 951.65,
             "15mg": 951.65
           },
-          "notes": "SingleCare coupon price (carried forward from 2026-09-11). Retail ~$1,069.65."
+          "notes": "SingleCare coupon price (carried forward from 2026-09-11; today's SingleCare averages table shows Albertsons avg $1,061.60 vs retail $1,351.70)."
         },
         {
           "pharmacy_name": "Capsule Pharmacy",
@@ -581,7 +593,7 @@
             "12.5mg": 1095.28,
             "15mg": 1095.28
           },
-          "notes": "GoodRx coupon price $1,095.28 (carried forward from 2026-09-11; GoodRx blocked by CAPTCHA 2026-09-16)."
+          "notes": "GoodRx coupon price $1,095.28 (carried forward from 2026-09-11; GoodRx accessible 2026-09-17 and shows Mounjaro carton coupon prices $1,093.45-$1,096.27 across dosages, consistent with this level; per-pharmacy breakdown not extractable today). GoodRx: Mounjaro as low as $1,086.78 (19% off avg retail $1,348.34)."
         },
         {
           "pharmacy_name": "Hims & Hers",
@@ -595,7 +607,7 @@
             "12.5mg": 1899.0,
             "15mg": 1899.0
           },
-          "notes": "Mounjaro $1,899/mo (re-confirmed 2026-09-16 on hims.com). Membership: $39 first month, auto-renews at $149/mo."
+          "notes": "Mounjaro $1,899/mo (re-confirmed 2026-09-17 via forhers.com weight-loss page). Membership: $39 first month, auto-renews at $149/mo."
         },
         {
           "pharmacy_name": "PlushCare",
@@ -609,7 +621,7 @@
             "12.5mg": 1000.0,
             "15mg": 1000.0
           },
-          "notes": "Mounjaro ~$1,000/mo self-pay (PlushCare FAQ estimate; page re-confirmed 2026-09-16). $19.99/mo membership (first month free) + $129 initial visit."
+          "notes": "Mounjaro ~$1,000/mo self-pay (PlushCare FAQ estimate; weight-loss page re-confirmed 2026-09-17). $19.99/mo membership (first month free) + $129 initial visit."
         },
         {
           "pharmacy_name": "WeightWatchers Clinic",
@@ -623,7 +635,7 @@
             "12.5mg": 1079.77,
             "15mg": 1079.77
           },
-          "notes": "WW page still cites Mounjaro list price $1,079.77/mo (re-confirmed 2026-09-16; note: Lilly pricing info now shows $1,112.16). GLP-1 medications not included in WW Clinic membership."
+          "notes": "WW page still cites Mounjaro list price $1,079.77/mo (page last updated 2025-12-13, live and re-fetched 2026-09-17; note: Lilly pricing info now shows $1,112.16). GLP-1 medications not included in WW Clinic membership."
         },
         {
           "pharmacy_name": "Ro",
@@ -637,7 +649,7 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "Ro offers Wegovy pen/pill, Zepbound, Foundayo, Ozempic (confirmed 2026-09-16 on ro.co/weight-loss). Mounjaro (T2D indication) not directly listed; Ro primarily markets Zepbound for weight loss."
+          "notes": "Ro offers Wegovy pen/pill, Zepbound, Foundayo, Ozempic (confirmed 2026-09-17 on ro.co/weight-loss). Mounjaro (T2D indication) not directly listed; Ro primarily markets Zepbound for weight loss."
         },
         {
           "pharmacy_name": "Sesame Care",
@@ -651,7 +663,7 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "Sesame offers Zepbound KwikPen ($299-$698/mo cash), Wegovy pen/pill, Foundayo (confirmed 2026-09-16). Mounjaro not directly listed. Subscription: as low as $59/mo (12-month commitment) or $99/mo month-to-month."
+          "notes": "Sesame offers Zepbound KwikPen ($299-$698/mo cash), Wegovy pen/pill, Foundayo (confirmed 2026-09-17). Mounjaro not directly listed. Subscription: as low as $59/mo (12-month commitment) or $99/mo month-to-month."
         },
         {
           "pharmacy_name": "Noom Med",
@@ -665,7 +677,7 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "Noom Med offers Mounjaro among GLP-1 options (confirmed 2026-09-16 on noom.com/med); pricing behind intake survey. GLP-1 Rx subscription $99-$149/mo + medication cost."
+          "notes": "Noom Med offers Mounjaro among GLP-1 options (carried forward from 2026-09-16, noom.com/med); pricing behind intake survey. GLP-1 Rx subscription $99-$149/mo + medication cost."
         },
         {
           "pharmacy_name": "Lemonaid Health",
@@ -679,7 +691,7 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "Lemonaid offers Ozempic/Wegovy/Zepbound vials via LillyDirect + compounded tirzepatide/semaglutide (confirmed 2026-09-16). Mounjaro not directly listed. Membership: first month FREE, then $49/mo; GLP-1s from $129/mo limited-time."
+          "notes": "Lemonaid offers Ozempic/Wegovy/Zepbound vials via LillyDirect + compounded tirzepatide/semaglutide (confirmed 2026-09-17). Mounjaro not directly listed. Membership: first month FREE, then $49/mo; GLP-1s from $129/mo limited-time."
         },
         {
           "pharmacy_name": "GoodRx Care",
@@ -693,7 +705,7 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "GoodRx Care offers Wegovy pill/pen, Foundayo, Zepbound KwikPen (confirmed 2026-09-16). Mounjaro not directly offered. $39/mo membership."
+          "notes": "GoodRx Care offers Wegovy pill/pen, Foundayo, Zepbound KwikPen (confirmed 2026-09-17). Mounjaro not directly offered. $39/mo membership."
         },
         {
           "pharmacy_name": "Nurx",
@@ -707,7 +719,7 @@
             "12.5mg": 1000.0,
             "15mg": 1000.0
           },
-          "notes": "NEW PRICING 2026-09-16: Nurx now publishes GLP-1 prices (nurx.com weight-management-treatment): Mounjaro starts at ~$1,000/month average, in-person pharmacy pick-up only. Consultation + ongoing care fees apply."
+          "notes": "Nurx publishes GLP-1 prices (confirmed 2026-09-17 on nurx.com): Mounjaro starts at ~$1,000/month average, in-person pharmacy pick-up only. Consultation + ongoing care fees apply."
         }
       ],
       "summary": {
@@ -754,7 +766,7 @@
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Weight Loss",
-      "last_updated": "2026-09-16T07:15:00+04:00",
+      "last_updated": "2026-09-17T07:20:00+04:00",
       "reference_zip": "10001",
       "total_pharmacies": 24,
       "dosages": [
@@ -776,7 +788,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "NovoCare self-pay (confirmed 2026-09-16): new patients $199/mo for 0.25/0.5mg (first 2 fills through 12/31/2026), then $349/mo for all doses; NEW Wegovy HD 7.2mg $399/mo. Wegovy pill: 1.5mg $149/mo, 4mg $199/mo (4mg $149 offer ended 8/31/2026), 9mg $299/mo, 25mg $299/mo. CoAssist Pharmacy dispenses."
+          "notes": "NovoCare self-pay (confirmed 2026-09-17 via wegovy.com + novocare.com): new patients $199/mo for 0.25/0.5mg (first 2 fills through 12/31/2026), then $349/mo for all doses; NEW Wegovy HD 7.2mg $399/mo. Wegovy pill: 1.5mg $149/mo, 4mg $199/mo (4mg $149 offer ended 8/31/2026), 9mg $299/mo, 25mg $299/mo. CoAssist Pharmacy dispenses."
         },
         {
           "pharmacy_name": "Novo Nordisk WAC",
@@ -789,7 +801,7 @@
             "1.7mg": 1349.02,
             "2.4mg": 1349.02
           },
-          "notes": "Wholesale Acquisition Cost (WAC) list price from novopricing.com (confirmed 2026-09-16). Same across all pen doses incl. HD 7.2mg and tablet strengths (1.5/4/9/25mg)."
+          "notes": "Wholesale Acquisition Cost (WAC) list price from novopricing.com (confirmed 2026-09-17). Same across all pen doses incl. HD 7.2mg and tablet strengths (1.5/4/9/25mg)."
         },
         {
           "pharmacy_name": "Amazon Pharmacy",
@@ -802,7 +814,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "Amazon Pharmacy Wegovy 0.25mg pen: $199 cash, retail $1,349.02, up to $1,150.02 off with manufacturer coupon auto-applied at checkout (confirmed 2026-09-16 via pharmacy.amazon.com product page). Pens: $199 (0.25/0.5mg first 2 fills), $349 (1/1.7/2.4mg). Wegovy pill from $149/mo."
+          "notes": "Amazon Pharmacy Wegovy pen: $199 (0.25/0.5mg first 2 fills), $349 (1/1.7/2.4mg) with manufacturer coupon auto-applied at checkout (coupon mechanism re-confirmed 2026-09-17 on pharmacy.amazon.com). Wegovy pill from $149/mo."
         },
         {
           "pharmacy_name": "TrumpRx",
@@ -815,7 +827,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "Novo self-pay offer (re-confirmed 2026-09-16 via wegovy.com): $199/mo for 0.25/0.5mg (first 2 fills through 12/31/2026), then $349/mo for all doses; Wegovy HD 7.2mg $399/mo."
+          "notes": "TrumpRx self-pay coupon (confirmed 2026-09-17 via trumprx.gov/p/wegovy): new patients $199/mo for 0.25/0.5mg (first 2 fills, offer window 11/17/2025-12/31/2026), then $349/mo for 0.25-2.4mg; HD 7.2mg $399/mo. Original price $1,349.02 (savings up to $1,150.02). Widely supported at retail pharmacies."
         },
         {
           "pharmacy_name": "CVS Pharmacy",
@@ -828,7 +840,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "Manufacturer self-pay coupon $199/$349 (re-confirmed 2026-09-16; GoodRx pen pages blocked by CAPTCHA today). SingleCare coupon $1,213.28 (retail $1,291.28). CVS offers GLP-1 as low as $149/mo without insurance with manufacturer coupon; $29 online consultation."
+          "notes": "Manufacturer self-pay coupon $199/$349 (re-confirmed 2026-09-17). SingleCare coupon $1,213.28 (retail $1,291.28, confirmed 2026-09-17). CVS offers GLP-1 as low as $149/mo without insurance with manufacturer coupon; $29 online consultation."
         },
         {
           "pharmacy_name": "Walgreens",
@@ -841,7 +853,7 @@
             "1.7mg": 1212.86,
             "2.4mg": 1212.86
           },
-          "notes": "SingleCare coupon price for pen with free signup (confirmed 2026-09-16). Retail ~$1,290.86. Manufacturer self-pay coupon also available: $199/$349."
+          "notes": "SingleCare coupon price for pen with free signup (confirmed 2026-09-17). Retail ~$1,290.86. Manufacturer self-pay coupon also available: $199/$349."
         },
         {
           "pharmacy_name": "Walmart Pharmacy",
@@ -854,7 +866,7 @@
             "1.7mg": 1244.0,
             "2.4mg": 1244.0
           },
-          "notes": "SingleCare coupon price for pen with free signup (confirmed 2026-09-16). Retail ~$1,322.00. Manufacturer self-pay coupon also available: $199/$349."
+          "notes": "SingleCare coupon price for pen with free signup (confirmed 2026-09-17). Retail ~$1,322.00. Manufacturer self-pay coupon also available: $199/$349."
         },
         {
           "pharmacy_name": "Costco Pharmacy",
@@ -867,7 +879,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "Manufacturer self-pay coupon $199/$349 (re-confirmed 2026-09-16). SingleCare coupon also available: $1,115.72 with free signup (retail $1,193.72)."
+          "notes": "Manufacturer self-pay coupon $199/$349 (re-confirmed 2026-09-17). SingleCare coupon also available: $1,115.72 with free signup (retail $1,193.72, confirmed 2026-09-17)."
         },
         {
           "pharmacy_name": "Sam's Club Pharmacy",
@@ -880,7 +892,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "Manufacturer self-pay coupon $199/$349 (re-confirmed 2026-09-16; GoodRx page blocked by CAPTCHA today)."
+          "notes": "Manufacturer self-pay coupon $199/$349 (re-confirmed 2026-09-17; GoodRx Wegovy pages blocked by CAPTCHA today)."
         },
         {
           "pharmacy_name": "Hy-Vee Pharmacy",
@@ -893,7 +905,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "Manufacturer self-pay coupon $199/$349 (re-confirmed 2026-09-16; GoodRx page blocked by CAPTCHA today)."
+          "notes": "Manufacturer self-pay coupon $199/$349 (re-confirmed 2026-09-17; GoodRx Wegovy pages blocked by CAPTCHA today)."
         },
         {
           "pharmacy_name": "Dillons Pharmacy",
@@ -906,7 +918,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "Manufacturer self-pay coupon $199/$349 (re-confirmed 2026-09-16; GoodRx page blocked by CAPTCHA today). Also honors Wegovy pill offer: $149/mo (1.5mg)."
+          "notes": "Manufacturer self-pay coupon $199/$349 (re-confirmed 2026-09-17; GoodRx Wegovy pages blocked by CAPTCHA today). Also honors Wegovy pill offer: $149/mo (1.5mg)."
         },
         {
           "pharmacy_name": "Kroger Pharmacy",
@@ -919,7 +931,7 @@
             "1.7mg": 1146.36,
             "2.4mg": 1146.36
           },
-          "notes": "SingleCare coupon price for pen with free signup member bonus (confirmed 2026-09-16). Retail ~$1,224.36."
+          "notes": "SingleCare coupon price for pen with free signup member bonus (confirmed 2026-09-17). Retail ~$1,224.36."
         },
         {
           "pharmacy_name": "Harris Teeter Pharmacy",
@@ -932,7 +944,7 @@
             "1.7mg": 1146.36,
             "2.4mg": 1146.36
           },
-          "notes": "SingleCare coupon price for pen with free signup member bonus (confirmed 2026-09-16). Retail ~$1,224.36."
+          "notes": "SingleCare coupon price for pen with free signup member bonus (confirmed 2026-09-17). Retail ~$1,224.36 (matches Kroger)."
         },
         {
           "pharmacy_name": "Publix Pharmacy",
@@ -945,7 +957,7 @@
             "1.7mg": 1086.35,
             "2.4mg": 1086.35
           },
-          "notes": "SingleCare coupon price for pen with free signup member bonus (confirmed 2026-09-16). Retail ~$1,164.35. Lowest SingleCare pen price. Publix.com geoblocked today."
+          "notes": "SingleCare coupon price for pen with free signup member bonus (confirmed 2026-09-17). Retail ~$1,164.35. Lowest SingleCare Wegovy pen price."
         },
         {
           "pharmacy_name": "Capsule Pharmacy",
@@ -971,7 +983,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "Wegovy pen starting at $199/mo in stock via Ro (confirmed 2026-09-16 on ro.co/weight-loss), then $349/mo for all doses. Wegovy pill from $149/mo. Ro Body membership: $39 first month, then $149/mo or as low as $74/mo annual prepay."
+          "notes": "Wegovy pen starting at $199/mo in stock via Ro (confirmed 2026-09-17 on ro.co/weight-loss/wegovy), higher doses priced higher with multi-month savings. Ro Body membership: as low as $74/mo annual prepay ($39 first month, then $149/mo monthly). Wegovy pill also available."
         },
         {
           "pharmacy_name": "Hims & Hers",
@@ -984,7 +996,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "Wegovy pen from $199/mo (re-confirmed 2026-09-16 on hims.com and forhers.com; high dose available). Wegovy pill from $149/mo. Membership: $39 first month, auto-renews at $149/mo."
+          "notes": "Wegovy pen from $199/mo (re-confirmed 2026-09-17 via forhers.com; high dose available). Wegovy pill from $149/mo. Membership: $39 first month, auto-renews at $149/mo."
         },
         {
           "pharmacy_name": "Sesame Care",
@@ -997,7 +1009,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "Wegovy pen $199/mo for first two months (new patients), then $349/mo (confirmed 2026-09-16 on sesamecare.com). Wegovy pill: $149/mo (1.5mg, 4mg), $299/mo (9mg, 25mg). Subscription: as low as $59/mo (12-month commitment) or $99/mo month-to-month."
+          "notes": "Wegovy pen $199/mo for first two months (new patients), then $349/mo (confirmed 2026-09-17 on sesamecare.com). Wegovy pill: $149/mo (1.5mg, 4mg), $299/mo (9mg, 25mg). Subscription: as low as $59/mo (12-month commitment) or $99/mo month-to-month."
         },
         {
           "pharmacy_name": "Lemonaid Health",
@@ -1010,7 +1022,7 @@
             "1.7mg": 1599.0,
             "2.4mg": 1599.0
           },
-          "notes": "Wegovy $1,599/mo medication (carried forward; Wegovy availability re-confirmed 2026-09-16 on lemonaidhealth.com) + membership: first month FREE, then $49/mo. Cash-pay only."
+          "notes": "Wegovy $1,599/mo medication (carried forward; Wegovy availability re-confirmed 2026-09-17 on lemonaidhealth.com) + membership: first month FREE, then $49/mo. Cash-pay only."
         },
         {
           "pharmacy_name": "PlushCare",
@@ -1023,7 +1035,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "Wegovy via NovoCare self-pay: $199 first two months (0.25/0.5mg), then $349/mo (re-confirmed 2026-09-16 on plushcare.com). $19.99/mo membership (first month free) + $129 initial visit."
+          "notes": "Wegovy via NovoCare self-pay: $199 first two months (0.25/0.5mg), then $349/mo (re-confirmed 2026-09-17 on plushcare.com). $19.99/mo membership (first month free) + $129 initial visit."
         },
         {
           "pharmacy_name": "GoodRx Care",
@@ -1036,7 +1048,7 @@
             "1.7mg": 349.0,
             "2.4mg": 349.0
           },
-          "notes": "GoodRx Care Direct: $39/mo for unlimited online care (confirmed 2026-09-16 on goodrx.com). Wegovy pen as low as $199/mo (first 2 fills, 0.25/0.5mg), then $349/mo; HD 7.2mg $399/mo. Wegovy pill: $149/mo (1.5mg), $199/mo (4mg), from $299/mo (higher doses)."
+          "notes": "GoodRx Care Direct: $39/mo for unlimited online care (confirmed 2026-09-17 on goodrx.com/care). Wegovy pen as low as $199/mo (first 2 fills, 0.25/0.5mg), then $349/mo; HD 7.2mg $399/mo. Wegovy pill: $149/mo (1.5mg), $199/mo (4mg), from $299/mo (higher doses)."
         },
         {
           "pharmacy_name": "WeightWatchers Clinic",
@@ -1049,7 +1061,7 @@
             "1.7mg": 1349.02,
             "2.4mg": 1349.02
           },
-          "notes": "Wegovy list price $1,349.02/mo (re-confirmed 2026-09-16 per WW GLP-1 comparison page). Via NovoCare: $199-$349/mo. GLP-1 medications not included in WW Clinic membership."
+          "notes": "Wegovy list price $1,349.02/mo (per WW GLP-1 comparison page, last updated 2025-12-13, live and re-fetched 2026-09-17; matches Novo WAC). Via NovoCare: $199-$349/mo. GLP-1 medications not included in WW Clinic membership."
         },
         {
           "pharmacy_name": "Noom Med",
@@ -1062,7 +1074,7 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "Noom Med offers Wegovy, Wegovy pill, Ozempic, Mounjaro, Zepbound, Foundayo (confirmed 2026-09-16 on noom.com/med); pricing behind intake survey. GLP-1 Rx subscription $99-$149/mo + medication cost."
+          "notes": "Noom Med offers Wegovy, Wegovy pill, Ozempic, Mounjaro, Zepbound (carried forward from 2026-09-16, noom.com); pricing behind intake survey. GLP-1 Rx subscription $99-$149/mo + medication cost."
         },
         {
           "pharmacy_name": "Nurx",
@@ -1075,7 +1087,7 @@
             "1.7mg": 1300.0,
             "2.4mg": 1300.0
           },
-          "notes": "NEW PRICING 2026-09-16: Nurx now publishes GLP-1 prices (nurx.com weight-management-treatment): Wegovy starts at ~$1,300/month average, in-person pharmacy pick-up only. Consultation + ongoing care fees apply."
+          "notes": "Nurx publishes GLP-1 prices (confirmed 2026-09-17 on nurx.com): Wegovy starts at ~$1,300/month average, in-person pharmacy pick-up only. Consultation + ongoing care fees apply."
         }
       ],
       "summary": {
