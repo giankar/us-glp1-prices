@@ -1,5 +1,6 @@
 {
-  "last_updated": "2026-09-20T07:35:00+04:00",
+  "date": "2026-09-20",
+  "scrape_timestamp": "2026-09-20T07:35:00+04:00",
   "reference_zip": "10001",
   "medications": [
     {
@@ -1110,5 +1111,74 @@
         }
       }
     }
-  ]
+  ],
+  "scrape_log": {
+    "successful_sources": [
+      "https://www.ozempic.com/savings-and-resources/save-on-ozempic.html",
+      "https://www.wegovy.com/obesity/what-to-pay-for-wegovy.html",
+      "https://pricinginfo.lilly.com/mounjaro",
+      "https://www.novocare.com/pharmacy.html",
+      "https://www.novopricing.com/ozempic.html",
+      "https://www.novopricing.com/wegovy.html",
+      "https://www.goodrx.com/ozempic (browser, partial before block)",
+      "https://www.singlecare.com/prescription/ozempic",
+      "https://www.singlecare.com/prescription/wegovy",
+      "https://www.singlecare.com/prescription/mounjaro",
+      "https://pharmacy.amazon.com/",
+      "https://www.healthwarehouse.com/search?q=ozempic (no results)",
+      "https://honeybeehealth.com/search?q=ozempic (not carried)",
+      "https://costplusdrugs.com/ (brand GLP-1s not carried)",
+      "https://ro.co/weight-loss",
+      "https://sesamecare.com/service/online-weight-loss-program",
+      "https://www.hims.com/weight-loss",
+      "https://www.lemonaidhealth.com/services/weight-loss",
+      "https://plushcare.com/",
+      "https://www.goodrx.com/care/services/glp-1-weight-loss",
+      "https://trumprx.gov/p/ozempic",
+      "https://www.cvs.com/content/weight-loss",
+      "https://www.centerwellpharmacy.com/ (no public GLP-1 pricing)",
+      "https://www.blinkhealth.com/ozempic",
+      "https://www.weightwatchers.com/us/blog/glp-1-comparison-ozempic-wegovy-mounjaro-zepbound",
+      "https://www.foundnow.com/ (domain now travel news site - Found telehealth gone)",
+      "https://www.hy-vee.com/pharmacy (no public GLP-1 pricing)",
+      "https://riteaid.com/pharmacy/ozempic (no public pricing)",
+      "https://www.noom.com/meds/ (cookie wall)"
+    ],
+    "blocked_or_limited": [
+      {
+        "site": "goodrx.com (drug pages: /wegovy, /mounjaro, /ozempic re-visit)",
+        "reason": "PerimeterX press-and-hold human verification; blocked all attempts after initial Ozempic extraction"
+      },
+      {
+        "site": "khealth.com",
+        "reason": "HTTP 403 Forbidden"
+      },
+      {
+        "site": "noom.com",
+        "reason": "OneTrust cookie wall blocked content"
+      },
+      {
+        "site": "pharmacy.amazon.com (medication search)",
+        "reason": "Requires account login for per-drug cash pricing"
+      },
+      {
+        "site": "foundnow.com",
+        "reason": "Domain no longer operated by Found telehealth (now a travel news site)"
+      },
+      {
+        "site": "express-scripts.com / optum.com / caremark.cvs.com / pillpack.com / geniusrx.com / rxsaver.com",
+        "reason": "Not re-scraped this run; require member login for drug pricing"
+      }
+    ],
+    "notes": [
+      "Mounjaro WAC list price UPDATED to $1,112.16/fill per pricinginfo.lilly.com (was $1,079.77); WeightWatchers guide still cites $1,079.77.",
+      "Wegovy HD 7.2mg pen launched at $399/mo self-pay (not in tracked dose list; noted in NovoCare entry).",
+      "Wegovy pill (oral) now widely available: $149/mo (1.5mg), $199/mo (4mg), $299/mo (9mg/25mg) via NovoCare - tracked in notes.",
+      "SingleCare Wegovy pen prices dropped vs 2026-09-19 at Publix ($1,235.23->$1,086.35), Kroger/Harris Teeter ($1,171.36->$1,146.36), Walgreens ($1,254.05->$1,229.05).",
+      "Costco Wegovy switched source GoodRx->SingleCare this run ($1,115.72 coupon price vs prior $199/$349 GoodRx self-pay).",
+      "Ro Body membership repriced: $39 first month, then $149/mo monthly or $74/mo annual prepaid (was $145/mo program fee).",
+      "Lemonaid Ozempic/Wegovy cash prices confirmed: $1,199/mo and $1,599/mo; membership now $49/mo with first month free.",
+      "Found (foundnow.com) removed from telehealth list - domain repurposed."
+    ]
+  }
 }
