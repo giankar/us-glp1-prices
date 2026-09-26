@@ -3,137 +3,350 @@
   "generic_name": "tirzepatide",
   "manufacturer": "Eli Lilly",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-09-25T07:15:00+04:00",
+  "last_updated": "2026-09-26T09:30:00+04:00",
   "reference_zip": "10001",
-  "total_pharmacies": 17,
-  "dosages": ["2.5mg", "5mg", "7.5mg", "10mg", "12.5mg", "15mg"],
+  "total_pharmacies": 25,
+  "dosages": [
+    "2.5mg",
+    "5mg",
+    "7.5mg",
+    "10mg",
+    "12.5mg",
+    "15mg"
+  ],
   "pharmacies": [
     {
       "pharmacy_name": "Lilly Direct / Lilly list price",
       "pharmacy_type": "manufacturer_direct",
       "source": "manufacturer_direct",
-      "prices": {"2.5mg": 1079.77, "5mg": 1079.77, "7.5mg": 1079.77, "10mg": 1079.77, "12.5mg": 1079.77, "15mg": 1079.77},
-      "notes": "Mounjaro list price (WAC) $1,079.77 per 4-pen 28-day supply (pricinginfo.lilly.com JS-rendered; value carried per pipeline). All doses same price"
+      "prices": {
+        "2.5mg": 1112.16,
+        "5mg": 1112.16,
+        "7.5mg": 1112.16,
+        "10mg": 1112.16,
+        "12.5mg": 1112.16,
+        "15mg": 1112.16
+      },
+      "notes": "PRICE RAISED 09/26/2026: pricinginfo.lilly.com now states Mounjaro list price $1,112.16 per 28-day supply, effective 1/1/2026 (was $1,079.77 since 2023). All doses same price"
+    },
+    {
+      "pharmacy_name": "Amazon Pharmacy",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "prices": {
+        "2.5mg": 499.0,
+        "5mg": 499.0,
+        "7.5mg": 499.0,
+        "10mg": 499.0,
+        "12.5mg": 499.0,
+        "15mg": 499.0
+      },
+      "notes": "NEW ENTRY 09/26/2026. Amazon Pharmacy cash price (without insurance): $499/mo all doses 2.5-15mg (retail $1,123.00) - verified via search for doses 2.5/5/7.5/10/12.5/15mg. Lilly direct-tier pricing"
+    },
+    {
+      "pharmacy_name": "HealthWarehouse",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "prices": {
+        "2.5mg": 1198.0,
+        "5mg": 1198.0,
+        "7.5mg": 1198.0,
+        "10mg": 1198.0,
+        "12.5mg": 1198.0,
+        "15mg": 1198.0
+      },
+      "notes": "NEW ENTRY 09/26/2026. HealthWarehouse public cash price: Mounjaro 4x0.5ml prefilled pens $1,198.00 for all strengths 2.5mg-15mg (healthwarehouse.com, first successful scrape)"
+    },
+    {
+      "pharmacy_name": "GoodRx (program pricing)",
+      "pharmacy_type": "discount_program",
+      "source": "goodrx",
+      "prices": {
+        "2.5mg": 1094.18,
+        "5mg": 1094.07,
+        "7.5mg": 1096.36,
+        "10mg": 1096.37,
+        "12.5mg": 1093.85,
+        "15mg": 1093.84
+      },
+      "notes": "GoodRx coupon price per 4-pen carton, re-verified 09/26/2026 (first full per-dose capture; retail $1,338.93-$1,351.69). Mounjaro Savings Program: as little as $25 for commercially insured"
+    },
+    {
+      "pharmacy_name": "Wegmans",
+      "pharmacy_type": "retail_chain",
+      "source": "goodrx",
+      "prices": {
+        "2.5mg": 1056.63
+      },
+      "notes": "NEW ENTRY 09/26/2026. GoodRx pharmacy-level coupon price for 2.5mg/0.5ml 4-pen carton (pay online) - lowest pharmacy price on GoodRx Mounjaro grid (ZIP 10001)"
+    },
+    {
+      "pharmacy_name": "ShopRite",
+      "pharmacy_type": "retail_chain",
+      "source": "goodrx",
+      "prices": {
+        "2.5mg": 1093.13
+      },
+      "notes": "NEW ENTRY 09/26/2026. GoodRx pharmacy-level coupon price for 2.5mg/0.5ml 4-pen carton (pay online)"
+    },
+    {
+      "pharmacy_name": "CVS Pharmacy",
+      "pharmacy_type": "retail_chain",
+      "source": "goodrx",
+      "prices": {
+        "2.5mg": 1150.5
+      },
+      "notes": "GoodRx coupon price for 2.5mg/0.5ml 4-pen carton (retail $1,312.00), captured 09/26/2026. SingleCare 5mg coupon: $932.81 (with Member Bonus; see SingleCare entries)"
+    },
+    {
+      "pharmacy_name": "Sam's Club",
+      "pharmacy_type": "retail_chain",
+      "source": "goodrx",
+      "prices": {
+        "2.5mg": 1158.43
+      },
+      "notes": "NEW ENTRY 09/26/2026. GoodRx coupon price for 2.5mg/0.5ml 4-pen carton (retail $1,335.52)"
+    },
+    {
+      "pharmacy_name": "Walmart",
+      "pharmacy_type": "retail_chain",
+      "source": "goodrx",
+      "prices": {
+        "2.5mg": 1161.15
+      },
+      "notes": "GoodRx coupon price for 2.5mg/0.5ml 4-pen carton (retail $1,335.21), captured 09/26/2026"
+    },
+    {
+      "pharmacy_name": "Stop & Shop",
+      "pharmacy_type": "retail_chain",
+      "source": "goodrx",
+      "prices": {
+        "2.5mg": 1131.06
+      },
+      "notes": "NEW ENTRY 09/26/2026. GoodRx coupon price for 2.5mg/0.5ml 4-pen carton (retail $1,668.29)"
+    },
+    {
+      "pharmacy_name": "Capsule",
+      "pharmacy_type": "online_pharmacy",
+      "source": "goodrx",
+      "prices": {
+        "2.5mg": 1333.24
+      },
+      "notes": "NEW ENTRY 09/26/2026. Capsule (online/delivery pharmacy) GoodRx coupon price for 2.5mg/0.5ml 4-pen carton"
+    },
+    {
+      "pharmacy_name": "Costco Pharmacy",
+      "pharmacy_type": "retail_chain",
+      "source": "goodrx",
+      "prices": {
+        "2.5mg": 1386.42
+      },
+      "notes": "GoodRx coupon price for 2.5mg/0.5ml 4-pen carton (retail $1,451.13), captured 09/26/2026 - highest on GoodRx Mounjaro grid. SingleCare 5mg coupon: $961.00 (with Member Bonus)"
+    },
+    {
+      "pharmacy_name": "Walgreens Pharmacy",
+      "pharmacy_type": "retail_chain",
+      "source": "goodrx",
+      "prices": {
+        "2.5mg": 1197.79
+      },
+      "notes": "GoodRx coupon price for 2.5mg/0.5ml 4-pen carton, captured 09/26/2026. SingleCare 5mg coupon: $942.73 (with Member Bonus). Duane Reade (Walgreens NY banner) same $1,197.79 on GoodRx"
     },
     {
       "pharmacy_name": "Kroger Pharmacy",
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
-      "prices": {"2.5mg": 874.25, "5mg": 874.25, "7.5mg": 874.25, "10mg": 874.25, "12.5mg": 874.25, "15mg": 874.25},
+      "prices": {
+        "2.5mg": 874.25,
+        "5mg": 874.25,
+        "7.5mg": 874.25,
+        "10mg": 874.25,
+        "12.5mg": 874.25,
+        "15mg": 874.25
+      },
       "notes": "SingleCare coupon price (with free signup) for 2.5mg/0.5ml 4-pen pack (1-month). Dose-flat pricing. Updated 09/23/2026. Avg 5mg fill price at Kroger: $990.48 (not counted separately)"
     },
     {
       "pharmacy_name": "Harris Teeter Pharmacy",
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
-      "prices": {"2.5mg": 874.25, "5mg": 874.25, "7.5mg": 874.25, "10mg": 874.25, "12.5mg": 874.25, "15mg": 874.25},
+      "prices": {
+        "2.5mg": 874.25,
+        "5mg": 874.25,
+        "7.5mg": 874.25,
+        "10mg": 874.25,
+        "12.5mg": 874.25,
+        "15mg": 874.25
+      },
       "notes": "SingleCare coupon price for 2.5mg/0.5ml 4-pen pack (1-month). Dose-flat pricing. Updated 09/23/2026"
     },
     {
-      "pharmacy_name": "CVS Pharmacy",
+      "pharmacy_name": "CVS Pharmacy (SingleCare)",
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
-      "prices": {"2.5mg": 932.81, "5mg": 932.81, "7.5mg": 932.81, "10mg": 932.81, "12.5mg": 932.81, "15mg": 932.81},
-      "notes": "SingleCare coupon price for 2.5mg/0.5ml 4-pen pack (1-month). Dose-flat pricing. Updated 09/23/2026. Avg 5mg fill price at CVS: $659.86 (not counted separately)"
+      "prices": {
+        "2.5mg": 932.81,
+        "5mg": 932.81,
+        "7.5mg": 932.81,
+        "10mg": 932.81,
+        "12.5mg": 932.81,
+        "15mg": 932.81
+      },
+      "notes": "SingleCare coupon price (with Member Bonus; $1,050.81 without signup) for 5mg/0.5ml 4-pen pack, re-verified 09/26/2026; dose-flat pricing per prior 2.5mg grid. Avg 5mg fill price at CVS: $659.86 (not counted separately)"
     },
     {
       "pharmacy_name": "Publix Pharmacy",
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
-      "prices": {"2.5mg": 937.31, "5mg": 937.31, "7.5mg": 937.31, "10mg": 937.31, "12.5mg": 937.31, "15mg": 937.31},
+      "prices": {
+        "2.5mg": 937.31,
+        "5mg": 937.31,
+        "7.5mg": 937.31,
+        "10mg": 937.31,
+        "12.5mg": 937.31,
+        "15mg": 937.31
+      },
       "notes": "SingleCare coupon price for 2.5mg/0.5ml 4-pen pack (1-month). Dose-flat pricing. Updated 09/23/2026"
     },
     {
-      "pharmacy_name": "Walgreens Pharmacy",
+      "pharmacy_name": "Walgreens Pharmacy (SingleCare)",
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
-      "prices": {"2.5mg": 942.73, "5mg": 942.73, "7.5mg": 942.73, "10mg": 942.73, "12.5mg": 942.73, "15mg": 942.73},
-      "notes": "SingleCare coupon price for 2.5mg/0.5ml 4-pen pack (1-month). Dose-flat pricing. Updated 09/23/2026"
-    },
-    {
-      "pharmacy_name": "Walmart Neighborhood Market Pharmacy",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {"2.5mg": 954.84, "5mg": 954.84, "7.5mg": 954.84, "10mg": 954.84, "12.5mg": 954.84, "15mg": 954.84},
-      "notes": "SingleCare coupon price for 2.5mg/0.5ml 4-pen pack (1-month). Dose-flat pricing. Updated 09/23/2026"
-    },
-    {
-      "pharmacy_name": "Walmart Pharmacy",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {"2.5mg": 954.84, "5mg": 954.84, "7.5mg": 954.84, "10mg": 954.84, "12.5mg": 954.84, "15mg": 954.84},
-      "notes": "SingleCare coupon price for 2.5mg/0.5ml 4-pen pack (1-month). Dose-flat pricing. Updated 09/23/2026 (name not rendered in page markup; price/position matches prior-day Walmart Pharmacy listing)"
-    },
-    {
-      "pharmacy_name": "Costco Pharmacy",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {"2.5mg": 961.00, "5mg": 961.00, "7.5mg": 961.00, "10mg": 961.00, "12.5mg": 961.00, "15mg": 961.00},
-      "notes": "NEW ENTRY 09/25/2026. SingleCare coupon $961.00 (with free signup; $1,079.00 without) for 2.5mg/0.5ml 4-pen pack. Pharmacy name not rendered in page markup; identified by list position after Walmart, consistent with SingleCare's standard chain ordering (Costco named on the Ozempic and Wegovy grids)"
+      "prices": {
+        "2.5mg": 942.73,
+        "5mg": 942.73,
+        "7.5mg": 942.73,
+        "10mg": 942.73,
+        "12.5mg": 942.73,
+        "15mg": 942.73
+      },
+      "notes": "SingleCare coupon price (with Member Bonus) for 5mg/0.5ml 4-pen pack, re-verified 09/26/2026; dose-flat per prior 2.5mg grid. Avg 5mg fill price at Walgreens: $1,146.80 (not counted separately)"
     },
     {
       "pharmacy_name": "Walmart",
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
-      "prices": {"5mg": 1071.08},
-      "notes": "SingleCare avg 1-month fill price for 5mg/0.5ml pen, from last month of aggregate fill data"
-    },
-    {
-      "pharmacy_name": "Walgreens",
-      "pharmacy_type": "retail_chain",
-      "source": "singlecare",
-      "prices": {"5mg": 1146.80},
-      "notes": "SingleCare avg 1-month fill price for 5mg/0.5ml pen, from last month of aggregate fill data"
+      "prices": {
+        "5mg": 1071.08
+      },
+      "notes": "SingleCare average 1-month fill price for 5mg/0.5ml pen, re-verified 09/26/2026. Coupon price (5mg, with Member Bonus): $954.84 (see note)"
     },
     {
       "pharmacy_name": "Albertsons Pharmacy",
       "pharmacy_type": "retail_chain",
       "source": "singlecare",
-      "prices": {"5mg": 1061.60},
-      "notes": "SingleCare avg 1-month fill price for 5mg/0.5ml pen, from last month of aggregate fill data"
-    },
-    {
-      "pharmacy_name": "Sesame Care",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {"2.5mg": null, "5mg": null, "7.5mg": null, "10mg": null, "12.5mg": null, "15mg": null},
-      "notes": "Sesame does not list Mounjaro on its cash-pay menu (tirzepatide offered as Zepbound: pen $1,086/mo, KwikPen $299 (2.5mg)/$398 (5mg)/$499 (7.5mg)/$698 (10-15mg), vial from $299/mo - those are Zepbound prices, not Mounjaro; confirmed 09/25/2026)"
+      "prices": {
+        "5mg": 1061.6
+      },
+      "notes": "SingleCare average 1-month fill price for 5mg/0.5ml pen, re-verified 09/26/2026"
     },
     {
       "pharmacy_name": "Hims & Hers",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
-      "prices": {"2.5mg": 1899.0, "5mg": 1899.0, "7.5mg": 1899.0, "10mg": 1899.0, "12.5mg": 1899.0, "15mg": 1899.0},
-      "notes": "Hims: Mounjaro $1,899/mo cash (membership $39 first mo then $149/mo, med billed separately) - confirmed on hims.com 09/25/2026"
+      "prices": {
+        "2.5mg": 1899.0,
+        "5mg": 1899.0,
+        "7.5mg": 1899.0,
+        "10mg": 1899.0,
+        "12.5mg": 1899.0,
+        "15mg": 1899.0
+      },
+      "notes": "Hims/Hers: Mounjaro $1,899/mo cash (membership $39 first mo then $149/mo, med billed separately) - re-confirmed on hims.com + forhers.com 09/26/2026"
+    },
+    {
+      "pharmacy_name": "Sesame Care",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "prices": {
+        "2.5mg": null,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "Sesame does not list Mounjaro on its cash-pay menu (tirzepatide offered as Zepbound: KwikPen $299 (2.5mg)/$398 (5mg)/$499 (7.5mg)/$698 (10-15mg), vial from $299/mo - those are Zepbound prices, not Mounjaro; re-confirmed 09/26/2026)"
     },
     {
       "pharmacy_name": "Lemonaid Health",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
-      "prices": {"2.5mg": null, "5mg": null, "7.5mg": null, "10mg": null, "12.5mg": null, "15mg": null},
-      "notes": "Lemonaid does not list Mounjaro; offers compounded tirzepatide $299/mo ($249 3-mo, $229 6-mo) and Zepbound vials $299 (2.5mg)-$449 (higher doses) via LillyDirect (confirmed 09/25/2026)"
+      "prices": {
+        "2.5mg": null,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "Lemonaid does not list Mounjaro; offers compounded tirzepatide $299/mo ($249 3-mo, $229 6-mo) and Zepbound vials $299 (2.5mg)-$449 (higher doses) via LillyDirect (re-confirmed 09/26/2026)"
     },
     {
       "pharmacy_name": "Ro",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
-      "prices": {"2.5mg": null, "5mg": null, "7.5mg": null, "10mg": null, "12.5mg": null, "15mg": null},
-      "notes": "Ro does not list Mounjaro; offers Zepbound KwikPen/pen/vial instead (Zepbound KwikPen cash from $299/mo tier; confirmed 09/25/2026)"
+      "prices": {
+        "2.5mg": null,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "Ro does not list Mounjaro; offers Zepbound KwikPen/pen/vial instead (Zepbound KwikPen cash from $299/mo; re-confirmed 09/26/2026)"
     },
     {
       "pharmacy_name": "PlushCare",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
-      "prices": {"2.5mg": null, "5mg": null, "7.5mg": null, "10mg": null, "12.5mg": null, "15mg": null},
-      "notes": "PlushCare offers Mounjaro online prescriptions ($129/visit self-pay, confirmed 09/25/2026); Rx sent to pharmacy of choice - no fixed Mounjaro cash price published; pharmacy/manufacturer pricing applies"
+      "prices": {
+        "2.5mg": null,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "PlushCare offers Mounjaro online prescriptions ($129/visit self-pay); Rx sent to pharmacy of choice - no fixed Mounjaro cash price published"
     }
   ],
   "summary": {
-    "2.5mg": {"min": 874.25, "max": 1899.0, "avg": 1041.08, "count": 10},
-    "5mg": {"min": 874.25, "max": 1899.0, "avg": 1053.10, "count": 13},
-    "7.5mg": {"min": 874.25, "max": 1899.0, "avg": 1041.08, "count": 10},
-    "10mg": {"min": 874.25, "max": 1899.0, "avg": 1041.08, "count": 10},
-    "12.5mg": {"min": 874.25, "max": 1899.0, "avg": 1041.08, "count": 10},
-    "15mg": {"min": 874.25, "max": 1899.0, "avg": 1041.08, "count": 10}
+    "2.5mg": {
+      "min": 499.0,
+      "max": 1899.0,
+      "avg": 1106.95,
+      "count": 19
+    },
+    "5mg": {
+      "min": 499.0,
+      "max": 1899.0,
+      "avg": 1041.36,
+      "count": 12
+    },
+    "7.5mg": {
+      "min": 499.0,
+      "max": 1899.0,
+      "avg": 1036.59,
+      "count": 10
+    },
+    "10mg": {
+      "min": 499.0,
+      "max": 1899.0,
+      "avg": 1036.59,
+      "count": 10
+    },
+    "12.5mg": {
+      "min": 499.0,
+      "max": 1899.0,
+      "avg": 1036.34,
+      "count": 10
+    },
+    "15mg": {
+      "min": 499.0,
+      "max": 1899.0,
+      "avg": 1036.34,
+      "count": 10
+    }
   }
 }
