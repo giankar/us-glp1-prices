@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-29T07:30:00+04:00",
-  "reference_zip": "10001",
   "date": "2026-09-29",
+  "scrape_timestamp": "2026-09-29T07:30:00+04:00",
+  "reference_zip": "10001",
   "medications": [
     {
       "medication": "Ozempic",
