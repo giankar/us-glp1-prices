@@ -1,6 +1,6 @@
 {
   "date": "2026-10-02",
-  "scrape_timestamp": "2026-10-02T07:14:50+04:00",
+  "scrape_timestamp": "2026-10-02T07:15:38+04:00",
   "reference_zip": "10001",
   "medications": [
     {
@@ -8,7 +8,7 @@
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-10-02T07:14:50+04:00",
+      "last_updated": "2026-10-02T07:15:38+04:00",
       "reference_zip": "10001",
       "reference_zip_note": "ZIP applies only to SingleCare coupon quotes; manufacturer and nationwide online self-pay offers are not ZIP-specific.",
       "currency": "USD",
@@ -486,7 +486,7 @@
       "generic_name": "tirzepatide",
       "manufacturer": "Eli Lilly",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-10-02T07:14:50+04:00",
+      "last_updated": "2026-10-02T07:15:38+04:00",
       "reference_zip": "10001",
       "reference_zip_note": "ZIP applies only to SingleCare coupon quotes; manufacturer and nationwide online self-pay offers are not ZIP-specific.",
       "currency": "USD",
@@ -531,7 +531,7 @@
             "15mg": 499
           },
           "notes": "Starting at $499/month self-pay for each listed strength; prescription required; additional taxes/fees may apply.",
-          "source_url": "https://www.lilly.com/lillydirect/mounjaro"
+          "source_url": "https://www.lilly.com/lillydirect/medicines/mounjaro"
         },
         {
           "pharmacy_name": "Acme Pharmacy",
@@ -1014,7 +1014,7 @@
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Weight management",
-      "last_updated": "2026-10-02T07:14:50+04:00",
+      "last_updated": "2026-10-02T07:15:38+04:00",
       "reference_zip": "10001",
       "reference_zip_note": "ZIP applies only to SingleCare coupon quotes; manufacturer and nationwide online self-pay offers are not ZIP-specific.",
       "currency": "USD",
