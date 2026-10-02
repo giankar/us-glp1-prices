@@ -3,12 +3,12 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-10-02T07:14:06+04:00",
+  "last_updated": "2026-10-02T07:14:50+04:00",
   "reference_zip": "10001",
   "reference_zip_note": "ZIP applies only to SingleCare coupon quotes; manufacturer and nationwide online self-pay offers are not ZIP-specific.",
   "currency": "USD",
   "supply": "approximately one month of brand-name injection",
-  "total_pharmacies": 34,
+  "total_pharmacies": 33,
   "priced_sources": 12,
   "count_note": "Total includes monitored venues with null quotes; priced_sources counts venues with at least one verified dose quote. Coupon platforms and telehealth are counted as venues, not necessarily dispensing pharmacies.",
   "dosages": [
@@ -197,7 +197,7 @@
         "1mg": null,
         "2mg": null
       },
-      "notes": "Monitored venue; no current confirmed brand injection dose-specific monthly cash quote (prior-day price not carried forward).",
+      "notes": "No verified dose-specific monthly cash price found today.",
       "source_url": "https://www.blinkhealth.com/"
     },
     {
@@ -210,7 +210,7 @@
         "1mg": null,
         "2mg": null
       },
-      "notes": "Monitored venue; no current confirmed brand injection dose-specific monthly cash quote (prior-day price not carried forward).",
+      "notes": "No verified dose-specific monthly cash price found today.",
       "source_url": "https://www.centerwellpharmacy.com/"
     },
     {
@@ -223,7 +223,7 @@
         "1mg": null,
         "2mg": null
       },
-      "notes": "Monitored venue; no current confirmed brand injection dose-specific monthly cash quote (prior-day price not carried forward).",
+      "notes": "No verified dose-specific monthly cash price found today.",
       "source_url": "https://costplusdrugs.com/"
     },
     {
@@ -236,7 +236,7 @@
         "1mg": null,
         "2mg": null
       },
-      "notes": "Monitored venue; no current confirmed brand injection dose-specific monthly cash quote (prior-day price not carried forward).",
+      "notes": "No verified dose-specific monthly cash price found today.",
       "source_url": "https://www.express-scripts.com/"
     },
     {
@@ -275,7 +275,7 @@
         "1mg": null,
         "2mg": null
       },
-      "notes": "Monitored venue; no current confirmed brand injection dose-specific monthly cash quote (prior-day price not carried forward).",
+      "notes": "No verified dose-specific monthly cash price found today.",
       "source_url": "https://honeybeehealth.com/"
     },
     {
@@ -327,7 +327,7 @@
         "1mg": null,
         "2mg": null
       },
-      "notes": "Monitored venue; no current confirmed brand injection dose-specific monthly cash quote (prior-day price not carried forward).",
+      "notes": "No verified dose-specific monthly cash price found today.",
       "source_url": "https://www.meijer.com/pharmacy"
     },
     {
@@ -340,7 +340,7 @@
         "1mg": null,
         "2mg": null
       },
-      "notes": "Monitored venue; no current confirmed brand injection dose-specific monthly cash quote (prior-day price not carried forward).",
+      "notes": "Homepage mentions brand access but program advertised bundled compounded medications; no brand dose-specific cash price confirmed.",
       "source_url": "https://www.noom.com/"
     },
     {
@@ -353,8 +353,8 @@
         "1mg": null,
         "2mg": null
       },
-      "notes": "Monitored venue; no current confirmed brand injection dose-specific monthly cash quote (prior-day price not carried forward).",
-      "source_url": "https://www.nurx.com/weight-management-treatment/"
+      "notes": "Medication pricing depends on prescribed treatment; no verified dose-specific monthly cash quote.",
+      "source_url": "https://www.nurx.com/"
     },
     {
       "pharmacy_name": "Optum Home Delivery Pharmacy",
@@ -366,7 +366,7 @@
         "1mg": null,
         "2mg": null
       },
-      "notes": "Monitored venue; no current confirmed brand injection dose-specific monthly cash quote (prior-day price not carried forward).",
+      "notes": "No verified dose-specific monthly cash price found today.",
       "source_url": "https://www.optum.com/"
     },
     {
@@ -379,7 +379,7 @@
         "1mg": null,
         "2mg": null
       },
-      "notes": "Monitored venue; no current confirmed brand injection dose-specific monthly cash quote (prior-day price not carried forward).",
+      "notes": "No verified dose-specific monthly cash price found today.",
       "source_url": "https://www.pillpack.com/"
     },
     {
@@ -436,29 +436,16 @@
     },
     {
       "pharmacy_name": "RxSaver",
-      "pharmacy_type": "discount_platform",
-      "source": "discount_platform",
+      "pharmacy_type": "coupon_platform",
+      "source": "coupon_platform",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
         "1mg": null,
         "2mg": null
       },
-      "notes": "Monitored venue; no current confirmed brand injection dose-specific monthly cash quote (prior-day price not carried forward).",
+      "notes": "No verified dose-specific monthly cash price found today.",
       "source_url": "https://www.rxsaver.com/"
-    },
-    {
-      "pharmacy_name": "WeightWatchers Clinic",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "Monitored venue; no current confirmed brand injection dose-specific monthly cash quote (prior-day price not carried forward).",
-      "source_url": "https://www.weightwatchers.com/us/blog/glp-1-comparison-ozempic-wegovy-mounjaro-zepbound"
     }
   ],
   "summary": {
