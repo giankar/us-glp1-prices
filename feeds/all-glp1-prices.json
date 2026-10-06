@@ -1,21 +1,19 @@
 {
-  "last_updated": "2026-10-04T07:13:42+04:00",
+  "last_updated": "2026-10-06T07:15:21+04:00",
   "reference_zip": "10001",
   "currency": "USD",
-  "medications": [
-    {
+  "medications": {
+    "ozempic": {
       "medication": "Ozempic",
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-10-04T07:13:42+04:00",
+      "last_updated": "2026-10-06T07:15:21+04:00",
       "reference_zip": "10001",
-      "reference_zip_note": "Only ZIP 10001-verified quotes should be treated as NYC prices; national prices and other-location quotes explicitly marked in notes.",
+      "reference_zip_note": "ZIP 10001 applies to browser-verified SingleCare coupon rows only; other prices are national advertised prices, not local NYC quotes.",
       "currency": "USD",
       "supply": "one month / 28-30 days",
-      "total_pharmacies": 28,
-      "priced_sources": 3,
-      "count_note": "Total pharmacies counts checked providers (including unpriced/null), excludes coupon platforms and WAC benchmarks. Summary excludes WAC, non-NYC coupon prices, and dose-unspecified quotes; membership and consult fees excluded.",
+      "count_note": "total_pharmacies counts distinct providers investigated, including those with no verified public dose price. Summary counts numeric one-month injection prices only; coupons and manufacturer introductory offers are conditional. Excludes WAC/list prices and pill/compounded products.",
       "dosages": [
         "0.25mg",
         "0.5mg",
@@ -34,8 +32,9 @@
             "1mg": 349,
             "2mg": 499
           },
-          "notes": "0.25/0.5mg $199 only first two monthly fills for eligible new patients through Dec 31 2026; thereafter $349. 1mg $349; 2mg $499. One box of one pen/month.",
-          "verification_status": "verified"
+          "notes": "$199 only first two new-patient 0.25/0.5mg fills through Dec 31, 2026; subsequent 0.25/0.5/1mg $349, 2mg $499. Monthly pen.",
+          "verification_status": "verified",
+          "price_scope": "US advertised / eligibility-dependent; not ZIP 10001 verified"
         },
         {
           "pharmacy_name": "HealthWarehouse",
@@ -48,36 +47,9 @@
             "1mg": 1111,
             "2mg": 1111
           },
-          "notes": "Advertised prices AS LOW AS $1,111 for each listed 1 x 3mL dose pen. Valid prescription; shipping details at checkout.",
-          "verification_status": "verified"
-        },
-        {
-          "pharmacy_name": "TrumpRx",
-          "pharmacy_type": "coupon_platform",
-          "source": "manufacturer_direct",
-          "source_url": "https://trumprx.gov/p/ozempic",
-          "prices": {
-            "0.25mg": 199,
-            "0.5mg": 199,
-            "1mg": 349,
-            "2mg": 499
-          },
-          "notes": "Self-pay coupon for eligible patients at participating pharmacies, not a dispensing pharmacy. $199 for first two fills of 0.25/0.5mg; then $349. Ends Dec 31 2026.",
-          "verification_status": "verified"
-        },
-        {
-          "pharmacy_name": "Novo Nordisk WAC list price",
-          "pharmacy_type": "price_benchmark",
-          "source": "wac_list",
-          "source_url": "https://www.novopricing.com/ozempic.html",
-          "prices": {
-            "0.25mg": 1027.51,
-            "0.5mg": 1027.51,
-            "1mg": 1027.51,
-            "2mg": 1027.51
-          },
-          "notes": "Manufacturer wholesale acquisition cost, NOT retail cash/self-pay price. Excluded from cash summary.",
-          "verification_status": "benchmark_only"
+          "notes": "Advertised prices as low as $1,111 per single 3 mL pen, each listed injection strength.",
+          "verification_status": "verified",
+          "price_scope": "US advertised / eligibility-dependent; not ZIP 10001 verified"
         },
         {
           "pharmacy_name": "Sesame Care",
@@ -86,12 +58,13 @@
           "source_url": "https://sesamecare.com/service/online-weight-loss-program",
           "prices": {
             "0.25mg": 199,
-            "0.5mg": null,
-            "1mg": null,
-            "2mg": null
+            "0.5mg": 199,
+            "1mg": 349,
+            "2mg": 499
           },
-          "notes": "Ozempic injector listing starts at $199/mo for 0.25mg; other doses not itemized. Program as low as $59/mo with 12-month commitment; medication extra.",
-          "verification_status": "verified"
+          "notes": "Novo new-patient injection promotion: first two 0.25/0.5mg fills $199, then 0.25/0.5/1mg $349 and 2mg $499. Membership extra $59/mo with annual plan, $99/mo month-to-month.",
+          "verification_status": "verified",
+          "price_scope": "US advertised / eligibility-dependent; not ZIP 10001 verified"
         },
         {
           "pharmacy_name": "Ro",
@@ -104,8 +77,9 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "Ozempic listed for coverage checks; no specific Ozempic cash pen price itemized. Membership $39 first month, then $74-$149/mo by plan; medication extra.",
-          "verification_status": "unpriced"
+          "notes": "No current dose-specific self-pay injection price verified in this run; do not interpret null as unavailable.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Lemonaid Health",
@@ -118,8 +92,9 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "Brand Ozempic quoted $1199/month, medication billed separately from $49/mo weight loss membership. Quoted brand price is not explicitly dose-stratified on site; all dose values null.",
-          "verification_status": "dose_unspecified"
+          "notes": "Brand Ozempic $1,199/month but dose unspecified; $49/month additional membership; compounded products excluded.",
+          "verification_status": "dose_unspecified",
+          "price_scope": "US advertised / eligibility-dependent; not ZIP 10001 verified"
         },
         {
           "pharmacy_name": "Hims & Hers",
@@ -132,8 +107,9 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "Brand Ozempic starting $199/mo, dose unspecified (pill and injection shown separately). Membership $39 first month, auto-renews $149/mo; no unambiguous per-dose quote.",
-          "verification_status": "dose_unspecified"
+          "notes": "Brand Ozempic pen from $199/month but dose not identified, therefore all doses null. Membership $39 first month and $149/month afterward, billed separately.",
+          "verification_status": "dose_unspecified",
+          "price_scope": "US advertised / eligibility-dependent; not ZIP 10001 verified"
         },
         {
           "pharmacy_name": "Nurx",
@@ -146,8 +122,9 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "Starts at $1,000/mo on average but page says medication price varies with insurance; not confirmed cash quote. Additional consultation/care fees; in-person pharmacy pickup.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 403; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "WeightWatchers Clinic",
@@ -160,8 +137,9 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "Membership $25 first month only with 12-month commitment, thereafter as low as $74/mo; brand medication extra, no dose-specific self-pay price.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Noom Med",
@@ -174,8 +152,9 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "Brand GLP-1 access advertised; no brand-specific cash price or verified membership fee on checked page.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 403; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "PlushCare",
@@ -188,22 +167,24 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "Telehealth prescribing; drug price not explicitly dose itemized. Medication and visit fees separate; check checkout.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "CVS Pharmacy",
           "pharmacy_type": "retail_pharmacy",
-          "source": "retail_pharmacy",
-          "source_url": "https://www.cvs.com/content/weight-loss",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/ozempic",
           "prices": {
-            "0.25mg": null,
-            "0.5mg": null,
+            "0.25mg": 880.11,
+            "0.5mg": 880.11,
             "1mg": null,
             "2mg": null
           },
-          "notes": "GLP-1 from $149 with eligible manufacturer coupon but drug/form/dose not identified; $29 online consultation separate. No dose attribution.",
-          "verification_status": "unpriced"
+          "notes": "SingleCare ZIP 10001 quote for 1 x 3mL multidose 2mg/3mL pen delivering 0.25 or 0.5mg weekly. Price may include one-time $3 signup bonus / free-member discount; verify at pharmacy.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
         },
         {
           "pharmacy_name": "Publix Pharmacy",
@@ -216,8 +197,9 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "No verified dose-specific cash price on pharmacy page.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Kroger Pharmacy",
@@ -230,8 +212,9 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "No publicly itemized dose-specific cash quote on pharmacy page.",
-          "verification_status": "unpriced"
+          "notes": "Site request failed; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Hy-Vee Pharmacy",
@@ -244,8 +227,9 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "No publicly itemized GLP-1 cash quote; prior $499 claim not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Meijer Pharmacy",
@@ -258,8 +242,9 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "No publicly itemized dose-specific cash quote.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 403; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "H-E-B Pharmacy",
@@ -272,8 +257,9 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "No publicly itemized dose-specific cash quote.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Amazon Pharmacy",
@@ -286,8 +272,9 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Honeybee Health",
@@ -300,8 +287,9 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Cost Plus Drugs",
@@ -314,8 +302,9 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 403; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "CenterWell Pharmacy",
@@ -328,8 +317,9 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Express Scripts / Evernorth EnGuide",
@@ -342,8 +332,9 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Optum Home Delivery Pharmacy",
@@ -356,8 +347,9 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "CVS Caremark Mail Order",
@@ -370,8 +362,9 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site request failed; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "PillPack (Amazon)",
@@ -384,8 +377,9 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed. PillPack is operated by same team as Amazon Pharmacy.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "GeniusRx",
@@ -398,8 +392,9 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 503; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Blink Health",
@@ -412,50 +407,9 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
-        },
-        {
-          "pharmacy_name": "RxSaver",
-          "pharmacy_type": "coupon_platform",
-          "source": "online_pharmacy",
-          "source_url": "https://www.rxsaver.com/",
-          "prices": {
-            "0.25mg": null,
-            "0.5mg": null,
-            "1mg": null,
-            "2mg": null
-          },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
-        },
-        {
-          "pharmacy_name": "GoodRx",
-          "pharmacy_type": "comparison_platform",
-          "source": "goodrx",
-          "source_url": "https://www.goodrx.com/ozempic",
-          "prices": {
-            "0.25mg": null,
-            "0.5mg": null,
-            "1mg": null,
-            "2mg": null
-          },
-          "notes": "Public comparison page checked; no reliable dose-by-dose, 28/30-day price for ZIP 10001 obtained. Not counted as dispensing pharmacy.",
-          "verification_status": "unpriced"
-        },
-        {
-          "pharmacy_name": "SingleCare",
-          "pharmacy_type": "comparison_platform",
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "prices": {
-            "0.25mg": null,
-            "0.5mg": null,
-            "1mg": null,
-            "2mg": null
-          },
-          "notes": "Public comparison page checked; no reliable dose-by-dose, 28/30-day price for ZIP 10001 obtained. Not counted as dispensing pharmacy.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Rite Aid",
@@ -468,8 +422,9 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "Page says pharmacy services returning soon; no live quote or availability confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "GoodRx Care Direct",
@@ -482,50 +437,176 @@
             "1mg": null,
             "2mg": null
           },
-          "notes": "No brand injection dose-specific price for this medication on checked GoodRx Care page; $39/month online care excludes medication.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 403; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
+        },
+        {
+          "pharmacy_name": "Walmart Pharmacy",
+          "pharmacy_type": "retail_pharmacy",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/ozempic",
+          "prices": {
+            "0.25mg": 862.39,
+            "0.5mg": 862.39,
+            "1mg": null,
+            "2mg": null
+          },
+          "notes": "SingleCare ZIP 10001 quote for 1 x 3mL multidose 2mg/3mL pen delivering 0.25 or 0.5mg weekly. Price may include one-time $3 signup bonus / free-member discount; verify at pharmacy.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
+        },
+        {
+          "pharmacy_name": "Acme Pharmacy",
+          "pharmacy_type": "retail_pharmacy",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/ozempic",
+          "prices": {
+            "0.25mg": 863.79,
+            "0.5mg": 863.79,
+            "1mg": null,
+            "2mg": null
+          },
+          "notes": "SingleCare ZIP 10001 quote for 1 x 3mL multidose 2mg/3mL pen delivering 0.25 or 0.5mg weekly. Price may include one-time $3 signup bonus / free-member discount; verify at pharmacy.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
+        },
+        {
+          "pharmacy_name": "Costco Pharmacy",
+          "pharmacy_type": "retail_pharmacy",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/ozempic",
+          "prices": {
+            "0.25mg": 872.12,
+            "0.5mg": 872.12,
+            "1mg": null,
+            "2mg": null
+          },
+          "notes": "SingleCare ZIP 10001 quote for 1 x 3mL multidose 2mg/3mL pen delivering 0.25 or 0.5mg weekly. Price may include one-time $3 signup bonus / free-member discount; verify at pharmacy.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
+        },
+        {
+          "pharmacy_name": "Duane Reade Pharmacy",
+          "pharmacy_type": "retail_pharmacy",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/ozempic",
+          "prices": {
+            "0.25mg": 900.14,
+            "0.5mg": 900.14,
+            "1mg": null,
+            "2mg": null
+          },
+          "notes": "SingleCare ZIP 10001 quote for 1 x 3mL multidose 2mg/3mL pen delivering 0.25 or 0.5mg weekly. Price may include one-time $3 signup bonus / free-member discount; verify at pharmacy.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
+        },
+        {
+          "pharmacy_name": "Walgreens Pharmacy",
+          "pharmacy_type": "retail_pharmacy",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/ozempic",
+          "prices": {
+            "0.25mg": 900.14,
+            "0.5mg": 900.14,
+            "1mg": null,
+            "2mg": null
+          },
+          "notes": "SingleCare ZIP 10001 quote for 1 x 3mL multidose 2mg/3mL pen delivering 0.25 or 0.5mg weekly. Price may include one-time $3 signup bonus / free-member discount; verify at pharmacy.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
+        },
+        {
+          "pharmacy_name": "Shoprite Pharmacy",
+          "pharmacy_type": "retail_pharmacy",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/ozempic",
+          "prices": {
+            "0.25mg": 922.21,
+            "0.5mg": 922.21,
+            "1mg": null,
+            "2mg": null
+          },
+          "notes": "SingleCare ZIP 10001 quote for 1 x 3mL multidose 2mg/3mL pen delivering 0.25 or 0.5mg weekly. Price may include one-time $3 signup bonus / free-member discount; verify at pharmacy.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
+        },
+        {
+          "pharmacy_name": "Capsule Pharmacy",
+          "pharmacy_type": "online_pharmacy",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/ozempic",
+          "prices": {
+            "0.25mg": 935.87,
+            "0.5mg": 935.87,
+            "1mg": null,
+            "2mg": null
+          },
+          "notes": "SingleCare ZIP 10001 quote for 1 x 3mL multidose 2mg/3mL pen delivering 0.25 or 0.5mg weekly. Price may include one-time $3 signup bonus / free-member discount; verify at pharmacy.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
+        },
+        {
+          "pharmacy_name": "Stop & Shop Pharmacy",
+          "pharmacy_type": "retail_pharmacy",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/ozempic",
+          "prices": {
+            "0.25mg": 1056,
+            "0.5mg": 1056,
+            "1mg": null,
+            "2mg": null
+          },
+          "notes": "SingleCare ZIP 10001 quote for 1 x 3mL multidose 2mg/3mL pen delivering 0.25 or 0.5mg weekly. Price may include one-time $3 signup bonus / free-member discount; verify at pharmacy.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
         }
       ],
+      "total_pharmacies": 36,
+      "priced_sources": 3,
       "summary": {
         "0.25mg": {
           "min": 199,
           "max": 1111,
-          "avg": 503,
-          "count": 3
+          "avg": 808.48,
+          "count": 12
         },
         "0.5mg": {
           "min": 199,
           "max": 1111,
-          "avg": 655,
-          "count": 2
+          "avg": 808.48,
+          "count": 12
         },
         "1mg": {
           "min": 349,
           "max": 1111,
-          "avg": 730,
-          "count": 2
+          "avg": 603,
+          "count": 3
         },
         "2mg": {
           "min": 499,
           "max": 1111,
-          "avg": 805,
-          "count": 2
+          "avg": 703,
+          "count": 3
         }
+      },
+      "priced_pharmacies": 12,
+      "benchmarks_not_cash_prices": {
+        "wac_usd": 1027.51,
+        "source_url": "https://www.novopricing.com/ozempic.html"
       }
     },
-    {
+    "mounjaro": {
       "medication": "Mounjaro",
       "generic_name": "tirzepatide",
       "manufacturer": "Eli Lilly",
       "indication": "Type 2 Diabetes",
-      "last_updated": "2026-10-04T07:13:42+04:00",
+      "last_updated": "2026-10-06T07:15:21+04:00",
       "reference_zip": "10001",
-      "reference_zip_note": "Only ZIP 10001-verified quotes should be treated as NYC prices; national prices and other-location quotes explicitly marked in notes.",
+      "reference_zip_note": "ZIP 10001 applies to browser-verified SingleCare coupon rows only; other prices are national advertised prices, not local NYC quotes.",
       "currency": "USD",
       "supply": "one month / 28-30 days",
-      "total_pharmacies": 28,
-      "priced_sources": 3,
-      "count_note": "Total pharmacies counts checked providers (including unpriced/null), excludes coupon platforms and WAC benchmarks. Summary excludes WAC, non-NYC coupon prices, and dose-unspecified quotes; membership and consult fees excluded.",
+      "count_note": "total_pharmacies counts distinct providers investigated, including those with no verified public dose price. Summary counts numeric one-month injection prices only; coupons and manufacturer introductory offers are conditional. Excludes WAC/list prices and pill/compounded products.",
       "dosages": [
         "2.5mg",
         "5mg",
@@ -548,8 +629,9 @@
             "12.5mg": 499,
             "15mg": 499
           },
-          "notes": "Starting-at $499/month for each listed strength, subject to self-pay terms; actual checkout may vary, taxes/fees may apply. 4 single-dose pens/month.",
-          "verification_status": "verified"
+          "notes": "Starting at $499/month self-pay for each listed single-dose prefilled pen strength; final price may depend on terms, taxes and fees. NOT $1,079.77 WAC.",
+          "verification_status": "verified",
+          "price_scope": "US advertised / eligibility-dependent; not ZIP 10001 verified"
         },
         {
           "pharmacy_name": "Amazon Pharmacy",
@@ -558,14 +640,15 @@
           "source_url": "https://pharmacy.amazon.com/MOUNJARO-MG-0-5-PEN-INJ/dp/B0B3MS52T2",
           "prices": {
             "2.5mg": null,
-            "5mg": 499,
+            "5mg": null,
             "7.5mg": null,
             "10mg": null,
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "28 days/1 box; buy without insurance starting at $499 with eligible manufacturer coupon; retail price $1,123. No monthly/sign-up fee; other strengths selectable but their prices not separately verified.",
-          "verification_status": "verified"
+          "notes": "No current dose-specific self-pay injection price verified in this run; do not interpret null as unavailable.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "HealthWarehouse",
@@ -580,24 +663,9 @@
             "12.5mg": 1198,
             "15mg": 1198
           },
-          "notes": "Advertised prices AS LOW AS $1,198 per four prefilled pens for each listed strength; one box/28 days.",
-          "verification_status": "verified"
-        },
-        {
-          "pharmacy_name": "Eli Lilly WAC list price",
-          "pharmacy_type": "price_benchmark",
-          "source": "wac_list",
-          "source_url": "https://pricinginfo.lilly.com/mounjaro",
-          "prices": {
-            "2.5mg": null,
-            "5mg": null,
-            "7.5mg": null,
-            "10mg": null,
-            "12.5mg": null,
-            "15mg": null
-          },
-          "notes": "Current page omits the numeric list price in accessible content; null; not a self-pay quote.",
-          "verification_status": "unpriced"
+          "notes": "Advertised prices as low as $1,198 for 4 x 0.5mL pens at every listed dose.",
+          "verification_status": "verified",
+          "price_scope": "US advertised / eligibility-dependent; not ZIP 10001 verified"
         },
         {
           "pharmacy_name": "Hims & Hers",
@@ -612,8 +680,9 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "Brand Mounjaro $1,899/mo medication-only, no strength specified. Membership $39 first month, auto-renews $149/mo; excluded from dose-level summary.",
-          "verification_status": "dose_unspecified"
+          "notes": "Brand Mounjaro injection $1,899/month, no dosage identified; all dose cells null. Membership $39 first month and $149/month thereafter, extra.",
+          "verification_status": "dose_unspecified",
+          "price_scope": "US advertised / eligibility-dependent; not ZIP 10001 verified"
         },
         {
           "pharmacy_name": "Nurx",
@@ -628,8 +697,9 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "Starts at $1,000/mo on average but coverage-sensitive, not confirmed cash quote; in-person pickup; extra consultation/care fees.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 403; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "WeightWatchers Clinic",
@@ -644,8 +714,9 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "Membership $25 first month only with 12-month commitment, thereafter as low as $74/mo; brand medication extra, no dose-specific self-pay price.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Noom Med",
@@ -660,8 +731,9 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "Brand GLP-1 access advertised; no brand-specific cash price or verified membership fee on checked page.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 403; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "PlushCare",
@@ -676,8 +748,9 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "Telehealth prescribing; drug price not explicitly dose itemized. Medication and visit fees separate; check checkout.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "CVS Pharmacy",
@@ -692,8 +765,9 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "SingleCare 4 pens 5mg, location shown as 23666 Hampton VA, NOT ZIP 10001; free member signup and one-time bonus included; price updated Oct 3 2026, not guaranteed at checkout.",
-          "verification_status": "verified_nonreference_zip"
+          "notes": "SingleCare browser ZIP 10001 quote, 4 x 5mg/0.5mL pens (28 days), with free member signup including one-time $3 bonus; other doses not checked.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
         },
         {
           "pharmacy_name": "Publix Pharmacy",
@@ -702,14 +776,15 @@
           "source_url": "https://www.singlecare.com/prescription/mounjaro",
           "prices": {
             "2.5mg": null,
-            "5mg": 937.31,
+            "5mg": null,
             "7.5mg": null,
             "10mg": null,
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "SingleCare 4 pens 5mg, location shown as 23666 Hampton VA, NOT ZIP 10001; free member signup and one-time bonus included; price updated Oct 3 2026, not guaranteed at checkout.",
-          "verification_status": "verified_nonreference_zip"
+          "notes": "Site returned HTTP 403; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Kroger Pharmacy",
@@ -718,14 +793,15 @@
           "source_url": "https://www.singlecare.com/prescription/mounjaro",
           "prices": {
             "2.5mg": null,
-            "5mg": 874.25,
+            "5mg": null,
             "7.5mg": null,
             "10mg": null,
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "SingleCare 4 pens 5mg, location shown as 23666 Hampton VA, NOT ZIP 10001; free member signup and one-time bonus included; price updated Oct 3 2026, not guaranteed at checkout.",
-          "verification_status": "verified_nonreference_zip"
+          "notes": "Site returned HTTP 403; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Hy-Vee Pharmacy",
@@ -740,8 +816,9 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "No publicly itemized GLP-1 cash quote; prior $499 claim not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Meijer Pharmacy",
@@ -756,8 +833,9 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "No publicly itemized dose-specific cash quote.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 403; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "H-E-B Pharmacy",
@@ -772,8 +850,9 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "No publicly itemized dose-specific cash quote.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Honeybee Health",
@@ -788,8 +867,9 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Cost Plus Drugs",
@@ -804,8 +884,9 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 403; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "CenterWell Pharmacy",
@@ -820,8 +901,9 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Express Scripts / Evernorth EnGuide",
@@ -836,8 +918,9 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Optum Home Delivery Pharmacy",
@@ -852,8 +935,9 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "CVS Caremark Mail Order",
@@ -868,8 +952,9 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site request failed; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "PillPack (Amazon)",
@@ -884,8 +969,9 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed. PillPack is operated by same team as Amazon Pharmacy.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "GeniusRx",
@@ -900,8 +986,9 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 503; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Blink Health",
@@ -916,24 +1003,9 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
-        },
-        {
-          "pharmacy_name": "RxSaver",
-          "pharmacy_type": "coupon_platform",
-          "source": "online_pharmacy",
-          "source_url": "https://www.rxsaver.com/",
-          "prices": {
-            "2.5mg": null,
-            "5mg": null,
-            "7.5mg": null,
-            "10mg": null,
-            "12.5mg": null,
-            "15mg": null
-          },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Harris Teeter Pharmacy",
@@ -942,14 +1014,15 @@
           "source_url": "https://www.singlecare.com/prescription/mounjaro",
           "prices": {
             "2.5mg": null,
-            "5mg": 874.25,
+            "5mg": null,
             "7.5mg": null,
             "10mg": null,
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "SingleCare 4 pens 5mg, location shown as 23666 Hampton VA, NOT ZIP 10001; free member signup and one-time bonus included; price updated Oct 3 2026, not guaranteed at checkout.",
-          "verification_status": "verified_nonreference_zip"
+          "notes": "Site returned HTTP 403; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Walgreens Pharmacy",
@@ -964,8 +1037,9 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "SingleCare 4 pens 5mg, location shown as 23666 Hampton VA, NOT ZIP 10001; free member signup and one-time bonus included; price updated Oct 3 2026, not guaranteed at checkout.",
-          "verification_status": "verified_nonreference_zip"
+          "notes": "SingleCare browser ZIP 10001 quote, 4 x 5mg/0.5mL pens (28 days), with free member signup including one-time $3 bonus; other doses not checked.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
         },
         {
           "pharmacy_name": "Walmart Neighborhood Market Pharmacy",
@@ -974,46 +1048,15 @@
           "source_url": "https://www.singlecare.com/prescription/mounjaro",
           "prices": {
             "2.5mg": null,
-            "5mg": 954.84,
-            "7.5mg": null,
-            "10mg": null,
-            "12.5mg": null,
-            "15mg": null
-          },
-          "notes": "SingleCare 4 pens 5mg, location shown as 23666 Hampton VA, NOT ZIP 10001; free member signup and one-time bonus included; price updated Oct 3 2026, not guaranteed at checkout.",
-          "verification_status": "verified_nonreference_zip"
-        },
-        {
-          "pharmacy_name": "GoodRx",
-          "pharmacy_type": "comparison_platform",
-          "source": "goodrx",
-          "source_url": "https://www.goodrx.com/mounjaro",
-          "prices": {
-            "2.5mg": null,
             "5mg": null,
             "7.5mg": null,
             "10mg": null,
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "Public comparison page checked; no reliable dose-by-dose, 28/30-day price for ZIP 10001 obtained. Not counted as dispensing pharmacy.",
-          "verification_status": "unpriced"
-        },
-        {
-          "pharmacy_name": "SingleCare",
-          "pharmacy_type": "comparison_platform",
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/mounjaro",
-          "prices": {
-            "2.5mg": null,
-            "5mg": null,
-            "7.5mg": null,
-            "10mg": null,
-            "12.5mg": null,
-            "15mg": null
-          },
-          "notes": "Public comparison page checked; no reliable dose-by-dose, 28/30-day price for ZIP 10001 obtained. Not counted as dispensing pharmacy.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 403; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Rite Aid",
@@ -1028,8 +1071,9 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "Page says pharmacy services returning soon; no live quote or availability confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "GoodRx Care Direct",
@@ -1044,10 +1088,115 @@
             "12.5mg": null,
             "15mg": null
           },
-          "notes": "No brand injection dose-specific price for this medication on checked GoodRx Care page; $39/month online care excludes medication.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 403; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
+        },
+        {
+          "pharmacy_name": "Duane Reade Pharmacy",
+          "pharmacy_type": "retail_pharmacy",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/mounjaro",
+          "prices": {
+            "2.5mg": null,
+            "5mg": 942.73,
+            "7.5mg": null,
+            "10mg": null,
+            "12.5mg": null,
+            "15mg": null
+          },
+          "notes": "SingleCare browser ZIP 10001 quote, 4 x 5mg/0.5mL pens (28 days), with free member signup including one-time $3 bonus; other doses not checked.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
+        },
+        {
+          "pharmacy_name": "Acme Pharmacy",
+          "pharmacy_type": "retail_pharmacy",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/mounjaro",
+          "prices": {
+            "2.5mg": null,
+            "5mg": 951.65,
+            "7.5mg": null,
+            "10mg": null,
+            "12.5mg": null,
+            "15mg": null
+          },
+          "notes": "SingleCare browser ZIP 10001 quote, 4 x 5mg/0.5mL pens (28 days), with free member signup including one-time $3 bonus; other doses not checked.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
+        },
+        {
+          "pharmacy_name": "Walmart Pharmacy",
+          "pharmacy_type": "retail_pharmacy",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/mounjaro",
+          "prices": {
+            "2.5mg": null,
+            "5mg": 954.84,
+            "7.5mg": null,
+            "10mg": null,
+            "12.5mg": null,
+            "15mg": null
+          },
+          "notes": "SingleCare browser ZIP 10001 quote, 4 x 5mg/0.5mL pens (28 days), with free member signup including one-time $3 bonus; other doses not checked.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
+        },
+        {
+          "pharmacy_name": "Costco Pharmacy",
+          "pharmacy_type": "retail_pharmacy",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/mounjaro",
+          "prices": {
+            "2.5mg": null,
+            "5mg": 961,
+            "7.5mg": null,
+            "10mg": null,
+            "12.5mg": null,
+            "15mg": null
+          },
+          "notes": "SingleCare browser ZIP 10001 quote, 4 x 5mg/0.5mL pens (28 days), with free member signup including one-time $3 bonus; other doses not checked.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
+        },
+        {
+          "pharmacy_name": "Shoprite Pharmacy",
+          "pharmacy_type": "retail_pharmacy",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/mounjaro",
+          "prices": {
+            "2.5mg": null,
+            "5mg": 1059.82,
+            "7.5mg": null,
+            "10mg": null,
+            "12.5mg": null,
+            "15mg": null
+          },
+          "notes": "SingleCare browser ZIP 10001 quote, 4 x 5mg/0.5mL pens (28 days), with free member signup including one-time $3 bonus; other doses not checked.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
+        },
+        {
+          "pharmacy_name": "Capsule Pharmacy",
+          "pharmacy_type": "online_pharmacy",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/mounjaro",
+          "prices": {
+            "2.5mg": null,
+            "5mg": 1074.75,
+            "7.5mg": null,
+            "10mg": null,
+            "12.5mg": null,
+            "15mg": null
+          },
+          "notes": "SingleCare browser ZIP 10001 quote, 4 x 5mg/0.5mL pens (28 days), with free member signup including one-time $3 bonus; other doses not checked.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
         }
       ],
+      "total_pharmacies": 34,
+      "priced_sources": 3,
       "summary": {
         "2.5mg": {
           "min": 499,
@@ -1058,8 +1207,8 @@
         "5mg": {
           "min": 499,
           "max": 1198,
-          "avg": 732,
-          "count": 3
+          "avg": 951.73,
+          "count": 10
         },
         "7.5mg": {
           "min": 499,
@@ -1085,21 +1234,25 @@
           "avg": 848.5,
           "count": 2
         }
+      },
+      "priced_pharmacies": 10,
+      "benchmarks_not_cash_prices": {
+        "wac_usd": null,
+        "source_url": "https://pricinginfo.lilly.com/mounjaro",
+        "note": "Lilly pricing page did not render a numeric WAC."
       }
     },
-    {
+    "wegovy": {
       "medication": "Wegovy",
       "generic_name": "semaglutide",
       "manufacturer": "Novo Nordisk",
       "indication": "Weight Management",
-      "last_updated": "2026-10-04T07:13:42+04:00",
+      "last_updated": "2026-10-06T07:15:21+04:00",
       "reference_zip": "10001",
-      "reference_zip_note": "Only ZIP 10001-verified quotes should be treated as NYC prices; national prices and other-location quotes explicitly marked in notes.",
+      "reference_zip_note": "ZIP 10001 applies to browser-verified SingleCare coupon rows only; other prices are national advertised prices, not local NYC quotes.",
       "currency": "USD",
       "supply": "one month / 28-30 days",
-      "total_pharmacies": 28,
-      "priced_sources": 1,
-      "count_note": "Total pharmacies counts checked providers (including unpriced/null), excludes coupon platforms and WAC benchmarks. Summary excludes WAC, non-NYC coupon prices, and dose-unspecified quotes; membership and consult fees excluded.",
+      "count_note": "total_pharmacies counts distinct providers investigated, including those with no verified public dose price. Summary counts numeric one-month injection prices only; coupons and manufacturer introductory offers are conditional. Excludes WAC/list prices and pill/compounded products.",
       "dosages": [
         "0.25mg",
         "0.5mg",
@@ -1120,8 +1273,9 @@
             "1.7mg": 349,
             "2.4mg": 349
           },
-          "notes": "0.25/0.5mg $199 for first two monthly fills only for eligible new patients through Dec 31 2026, thereafter $349; other listed doses $349. Four pens/month; injection only.",
-          "verification_status": "verified"
+          "notes": "$199 only first two eligible new-patient 0.25/0.5mg fills through Dec 31, 2026; then all listed pen doses $349/month.",
+          "verification_status": "verified",
+          "price_scope": "US advertised / eligibility-dependent; not ZIP 10001 verified"
         },
         {
           "pharmacy_name": "HealthWarehouse",
@@ -1129,44 +1283,31 @@
           "source": "online_pharmacy",
           "source_url": "https://www.healthwarehouse.com/search/WEGOVY",
           "prices": {
-            "0.25mg": null,
-            "0.5mg": null,
-            "1mg": null,
-            "1.7mg": null,
-            "2.4mg": null
+            "0.25mg": 1440,
+            "0.5mg": 1500,
+            "1mg": 1440,
+            "1.7mg": 1440,
+            "2.4mg": 1440
           },
-          "notes": "Search result did not reveal any product-level injection prices.",
-          "verification_status": "unpriced"
-        },
-        {
-          "pharmacy_name": "Novo Nordisk WAC list price",
-          "pharmacy_type": "price_benchmark",
-          "source": "wac_list",
-          "source_url": "https://www.novopricing.com/wegovy.html",
-          "prices": {
-            "0.25mg": 1349.02,
-            "0.5mg": 1349.02,
-            "1mg": 1349.02,
-            "1.7mg": 1349.02,
-            "2.4mg": 1349.02
-          },
-          "notes": "Manufacturer wholesale acquisition cost, NOT retail cash/self-pay price. Excluded from cash summary.",
-          "verification_status": "benchmark_only"
+          "notes": "Prices as low as shown for 4 injection pens; 0.5mg listing $1,500, other listed injection strengths $1,440.",
+          "verification_status": "verified",
+          "price_scope": "US advertised / eligibility-dependent; not ZIP 10001 verified"
         },
         {
           "pharmacy_name": "GoodRx Care Direct",
           "pharmacy_type": "telehealth",
           "source": "telehealth",
-          "source_url": "https://www.goodrx.com/care/services/glp-1-weight-loss",
+          "source_url": "https://www.goodrx.com/care/services/glp-1-weight-loss/wegovy-online",
           "prices": {
-            "0.25mg": null,
-            "0.5mg": null,
-            "1mg": null,
-            "1.7mg": null,
-            "2.4mg": null
+            "0.25mg": 199,
+            "0.5mg": 199,
+            "1mg": 349,
+            "1.7mg": 349,
+            "2.4mg": 349
           },
-          "notes": "Wegovy pen as low as $199/month; dosage NOT stated on GoodRx Care page (introductory starter strengths described by manufacturer, not attributed to this platform); online care $39/month separately, medication not included in care fee. Other doses not itemized on this page.",
-          "verification_status": "dose_unspecified"
+          "notes": "First two eligible 0.25/0.5mg fills $199 through Dec 31, 2026, then $349/month; extra telehealth fee $39/month; not a retail GoodRx coupon quote.",
+          "verification_status": "verified",
+          "price_scope": "US advertised / eligibility-dependent; not ZIP 10001 verified"
         },
         {
           "pharmacy_name": "Sesame Care",
@@ -1174,14 +1315,15 @@
           "source": "telehealth",
           "source_url": "https://sesamecare.com/service/online-weight-loss-program",
           "prices": {
-            "0.25mg": null,
-            "0.5mg": null,
-            "1mg": null,
-            "1.7mg": null,
-            "2.4mg": null
+            "0.25mg": 199,
+            "0.5mg": 199,
+            "1mg": 349,
+            "1.7mg": 349,
+            "2.4mg": 349
           },
-          "notes": "Wegovy pen $199/mo first two months for new patients, thereafter $349/mo; doses NOT explicitly itemized on Sesame page. Success by Sesame ongoing care as low as $59/mo with 12-month commitment; medication extra.",
-          "verification_status": "dose_unspecified"
+          "notes": "Novo injection promotion: first two eligible 0.25/0.5mg fills $199; then all listed doses $349. Membership extra $59/mo annual commitment, $99/mo month-to-month.",
+          "verification_status": "verified",
+          "price_scope": "US advertised / eligibility-dependent; not ZIP 10001 verified"
         },
         {
           "pharmacy_name": "Ro",
@@ -1195,8 +1337,9 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "Wegovy pen starting $199/mo; dose not explicitly itemized on Ro page; Ro membership $39 first month, then $74-$149/month by plan, billed separately.",
-          "verification_status": "dose_unspecified"
+          "notes": "Wegovy pen from $199/month, but Ro page does not identify injection dose for that number. Membership $39 first month, then as low as $74/month on annual-prepaid plan or $149/month month-to-month; medication separate.",
+          "verification_status": "dose_unspecified",
+          "price_scope": "US advertised / eligibility-dependent; not ZIP 10001 verified"
         },
         {
           "pharmacy_name": "Lemonaid Health",
@@ -1210,8 +1353,9 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "Brand Wegovy quoted $1599/month, medication billed separately from $49/mo weight loss membership. Quoted brand price is not explicitly dose-stratified on site; all dose values null.",
-          "verification_status": "dose_unspecified"
+          "notes": "Brand Wegovy $1,599/month but dose unspecified; $49/month additional membership; compounded products excluded.",
+          "verification_status": "dose_unspecified",
+          "price_scope": "US advertised / eligibility-dependent; not ZIP 10001 verified"
         },
         {
           "pharmacy_name": "Hims & Hers",
@@ -1225,8 +1369,9 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "Brand Wegovy pen from $199/mo, dose unspecified on listing. Membership $39 first month, auto-renews $149/mo; medication extra.",
-          "verification_status": "dose_unspecified"
+          "notes": "Brand Wegovy pen from $199/month but dose not identified; dose cells null. Membership $39 first month and $149/month thereafter, extra.",
+          "verification_status": "dose_unspecified",
+          "price_scope": "US advertised / eligibility-dependent; not ZIP 10001 verified"
         },
         {
           "pharmacy_name": "Nurx",
@@ -1240,8 +1385,9 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "Starts at $1,300/mo on average but coverage-sensitive, not confirmed cash quote; in-person pickup; extra consultation/care fees.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 403; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "WeightWatchers Clinic",
@@ -1255,8 +1401,9 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "Membership $25 first month only with 12-month commitment, thereafter as low as $74/mo; brand medication extra, no dose-specific self-pay price.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Noom Med",
@@ -1270,8 +1417,9 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "Brand GLP-1 access advertised; no brand-specific cash price or verified membership fee on checked page.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 403; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "PlushCare",
@@ -1285,23 +1433,25 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "Telehealth prescribing; drug price not explicitly dose itemized. Medication and visit fees separate; check checkout.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "CVS Pharmacy",
           "pharmacy_type": "retail_pharmacy",
-          "source": "retail_pharmacy",
-          "source_url": "https://www.cvs.com/content/weight-loss",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/wegovy",
           "prices": {
-            "0.25mg": null,
+            "0.25mg": 1213.28,
             "0.5mg": null,
             "1mg": null,
             "1.7mg": null,
-            "2.4mg": null
+            "2.4mg": 1238.28
           },
-          "notes": "GLP-1 from $149 with eligible manufacturer coupon but drug/form/dose not identified; $29 online consultation separate. No dose attribution.",
-          "verification_status": "unpriced"
+          "notes": "SingleCare browser ZIP 10001, 4 x 0.25mg/0.5mL pens, 28 days; free-member price including signup discount and one-time $3 bonus where shown. Additionally 4 x 2.4mg/0.75mL pen quote verified at ZIP 10001.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
         },
         {
           "pharmacy_name": "Publix Pharmacy",
@@ -1315,8 +1465,9 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "No verified dose-specific cash price on pharmacy page.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Kroger Pharmacy",
@@ -1330,8 +1481,9 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "No publicly itemized dose-specific cash quote on pharmacy page.",
-          "verification_status": "unpriced"
+          "notes": "Site request failed; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Hy-Vee Pharmacy",
@@ -1345,8 +1497,9 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "No publicly itemized GLP-1 cash quote; prior $499 claim not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Meijer Pharmacy",
@@ -1360,8 +1513,9 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "No publicly itemized dose-specific cash quote.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 403; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "H-E-B Pharmacy",
@@ -1375,8 +1529,9 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "No publicly itemized dose-specific cash quote.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Amazon Pharmacy",
@@ -1390,8 +1545,9 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Honeybee Health",
@@ -1405,8 +1561,9 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Cost Plus Drugs",
@@ -1420,8 +1577,9 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 403; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "CenterWell Pharmacy",
@@ -1435,8 +1593,9 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Express Scripts / Evernorth EnGuide",
@@ -1450,8 +1609,9 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Optum Home Delivery Pharmacy",
@@ -1465,8 +1625,9 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "CVS Caremark Mail Order",
@@ -1480,8 +1641,9 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site request failed; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "PillPack (Amazon)",
@@ -1495,8 +1657,9 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed. PillPack is operated by same team as Amazon Pharmacy.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "GeniusRx",
@@ -1510,8 +1673,9 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 503; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Blink Health",
@@ -1525,53 +1689,9 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
-        },
-        {
-          "pharmacy_name": "RxSaver",
-          "pharmacy_type": "coupon_platform",
-          "source": "online_pharmacy",
-          "source_url": "https://www.rxsaver.com/",
-          "prices": {
-            "0.25mg": null,
-            "0.5mg": null,
-            "1mg": null,
-            "1.7mg": null,
-            "2.4mg": null
-          },
-          "notes": "No verifiable one-month brand injection cash price by strength on checked public page; availability not confirmed.",
-          "verification_status": "unpriced"
-        },
-        {
-          "pharmacy_name": "GoodRx",
-          "pharmacy_type": "comparison_platform",
-          "source": "goodrx",
-          "source_url": "https://www.goodrx.com/wegovy",
-          "prices": {
-            "0.25mg": null,
-            "0.5mg": null,
-            "1mg": null,
-            "1.7mg": null,
-            "2.4mg": null
-          },
-          "notes": "Public comparison page checked; no reliable dose-by-dose, 28/30-day price for ZIP 10001 obtained. Not counted as dispensing pharmacy.",
-          "verification_status": "unpriced"
-        },
-        {
-          "pharmacy_name": "SingleCare",
-          "pharmacy_type": "comparison_platform",
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/wegovy",
-          "prices": {
-            "0.25mg": null,
-            "0.5mg": null,
-            "1mg": null,
-            "1.7mg": null,
-            "2.4mg": null
-          },
-          "notes": "Public comparison page checked; no reliable dose-by-dose, 28/30-day price for ZIP 10001 obtained. Not counted as dispensing pharmacy.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
         },
         {
           "pharmacy_name": "Rite Aid",
@@ -1585,42 +1705,162 @@
             "1.7mg": null,
             "2.4mg": null
           },
-          "notes": "Page says pharmacy services returning soon; no live quote or availability confirmed.",
-          "verification_status": "unpriced"
+          "notes": "Site returned HTTP 200; no current dose-specific injection cash price verified.",
+          "verification_status": "unpriced",
+          "price_scope": "not verified"
+        },
+        {
+          "pharmacy_name": "Duane Reade Pharmacy",
+          "pharmacy_type": "retail_pharmacy",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/wegovy",
+          "prices": {
+            "0.25mg": 1229.05,
+            "0.5mg": null,
+            "1mg": null,
+            "1.7mg": null,
+            "2.4mg": 1254.05
+          },
+          "notes": "SingleCare browser ZIP 10001, 4 x 0.25mg/0.5mL pens, 28 days; free-member price including signup discount and one-time $3 bonus where shown. Additionally 4 x 2.4mg/0.75mL pen quote verified at ZIP 10001.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
+        },
+        {
+          "pharmacy_name": "Walgreens Pharmacy",
+          "pharmacy_type": "retail_pharmacy",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/wegovy",
+          "prices": {
+            "0.25mg": 1229.05,
+            "0.5mg": null,
+            "1mg": null,
+            "1.7mg": null,
+            "2.4mg": 1254.05
+          },
+          "notes": "SingleCare browser ZIP 10001, 4 x 0.25mg/0.5mL pens, 28 days; free-member price including signup discount and one-time $3 bonus where shown. Additionally 4 x 2.4mg/0.75mL pen quote verified at ZIP 10001.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
+        },
+        {
+          "pharmacy_name": "Acme Pharmacy",
+          "pharmacy_type": "retail_pharmacy",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/wegovy",
+          "prices": {
+            "0.25mg": 1235.42,
+            "0.5mg": null,
+            "1mg": null,
+            "1.7mg": null,
+            "2.4mg": 1252.41
+          },
+          "notes": "SingleCare browser ZIP 10001, 4 x 0.25mg/0.5mL pens, 28 days; free-member price including signup discount and one-time $3 bonus where shown. Additionally 4 x 2.4mg/0.75mL pen quote verified at ZIP 10001.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
+        },
+        {
+          "pharmacy_name": "Walmart Pharmacy",
+          "pharmacy_type": "retail_pharmacy",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/wegovy",
+          "prices": {
+            "0.25mg": 1244,
+            "0.5mg": null,
+            "1mg": null,
+            "1.7mg": null,
+            "2.4mg": 1269
+          },
+          "notes": "SingleCare browser ZIP 10001, 4 x 0.25mg/0.5mL pens, 28 days; free-member price including signup discount and one-time $3 bonus where shown. Additionally 4 x 2.4mg/0.75mL pen quote verified at ZIP 10001.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
+        },
+        {
+          "pharmacy_name": "Costco Pharmacy",
+          "pharmacy_type": "retail_pharmacy",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/wegovy",
+          "prices": {
+            "0.25mg": 1247.61,
+            "0.5mg": null,
+            "1mg": null,
+            "1.7mg": null,
+            "2.4mg": 1264.6
+          },
+          "notes": "SingleCare browser ZIP 10001, 4 x 0.25mg/0.5mL pens, 28 days; free-member price including signup discount and one-time $3 bonus where shown. Additionally 4 x 2.4mg/0.75mL pen quote verified at ZIP 10001.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
+        },
+        {
+          "pharmacy_name": "Shoprite Pharmacy",
+          "pharmacy_type": "retail_pharmacy",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/wegovy",
+          "prices": {
+            "0.25mg": 1302.88,
+            "0.5mg": null,
+            "1mg": null,
+            "1.7mg": null,
+            "2.4mg": null
+          },
+          "notes": "SingleCare browser ZIP 10001, 4 x 0.25mg/0.5mL pens, 28 days; free-member price including signup discount and one-time $3 bonus where shown.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
+        },
+        {
+          "pharmacy_name": "Capsule Pharmacy",
+          "pharmacy_type": "online_pharmacy",
+          "source": "singlecare",
+          "source_url": "https://www.singlecare.com/prescription/wegovy",
+          "prices": {
+            "0.25mg": 1321.36,
+            "0.5mg": null,
+            "1mg": null,
+            "1.7mg": null,
+            "2.4mg": 1313.35
+          },
+          "notes": "SingleCare browser ZIP 10001, 4 x 0.25mg/0.5mL pens, 28 days; free-member price including signup discount and one-time $3 bonus where shown. Additionally 4 x 2.4mg/0.75mL pen quote verified at ZIP 10001.",
+          "verification_status": "verified",
+          "price_scope": "ZIP 10001 coupon quote"
         }
       ],
+      "total_pharmacies": 35,
+      "priced_sources": 4,
       "summary": {
         "0.25mg": {
           "min": 199,
-          "max": 199,
-          "avg": 199,
-          "count": 1
+          "max": 1440,
+          "avg": 1004.97,
+          "count": 12
         },
         "0.5mg": {
           "min": 199,
-          "max": 199,
-          "avg": 199,
-          "count": 1
+          "max": 1500,
+          "avg": 524.25,
+          "count": 4
         },
         "1mg": {
           "min": 349,
-          "max": 349,
-          "avg": 349,
-          "count": 1
+          "max": 1440,
+          "avg": 621.75,
+          "count": 4
         },
         "1.7mg": {
           "min": 349,
-          "max": 349,
-          "avg": 349,
-          "count": 1
+          "max": 1440,
+          "avg": 621.75,
+          "count": 4
         },
         "2.4mg": {
           "min": 349,
-          "max": 349,
-          "avg": 349,
-          "count": 1
+          "max": 1440,
+          "avg": 1030.25,
+          "count": 11
         }
+      },
+      "priced_pharmacies": 12,
+      "benchmarks_not_cash_prices": {
+        "wac_usd": 1349.02,
+        "source_url": "https://www.novopricing.com/wegovy.html"
       }
     }
-  ]
+  }
 }
