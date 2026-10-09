@@ -3,12 +3,12 @@
   "generic_name": "tirzepatide",
   "manufacturer": "Eli Lilly",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-10-08T07:18:41+04:00",
+  "last_updated": "2026-10-09T07:10:41+04:00",
   "reference_zip": "10001",
   "reference_zip_verified": false,
   "currency": "USD",
-  "supply": "one month (typically 28 days for injectables)",
-  "total_pharmacies": 31,
+  "supply": "one month / four weekly doses",
+  "total_pharmacies": 23,
   "pharmacies_with_numeric_price": 8,
   "dosages": [
     "2.5mg",
@@ -20,44 +20,10 @@
   ],
   "pharmacies": [
     {
-      "pharmacy_name": "LillyDirect Pharmacy",
-      "pharmacy_type": "online_pharmacy",
-      "source": "manufacturer_direct",
-      "source_url": "https://www.lilly.com/lillydirect/medicines/mounjaro",
-      "prices": {
-        "2.5mg": 499,
-        "5mg": 499,
-        "7.5mg": 499,
-        "10mg": 499,
-        "12.5mg": 499,
-        "15mg": 499
-      },
-      "notes": "Starting at $499/month for each listed strength; self-pay offer, four pens/month, prescription/eligibility required; additional taxes/fees may apply. This is not the Lilly WAC/list price.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "verified"
-    },
-    {
-      "pharmacy_name": "HealthWarehouse",
+      "pharmacy_name": "Amazon Pharmacy",
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
-      "source_url": "https://www.healthwarehouse.com/search/MOUNJARO",
-      "prices": {
-        "2.5mg": 1198,
-        "5mg": 1198,
-        "7.5mg": 1198,
-        "10mg": 1198,
-        "12.5mg": 1198,
-        "15mg": 1198
-      },
-      "notes": "Public catalog lists all six strengths at $1,198 per box of four pens; next-day air shipping in insulated cooler included.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "verified"
-    },
-    {
-      "pharmacy_name": "Hims & Hers",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://www.hims.com/weight-loss",
+      "source_url": "https://pharmacy.amazon.com/",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -66,128 +32,8 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "Mounjaro branded injection advertised $1,899/month medication only, no strength-specific price mapping; $39 first-month membership then $149/month separate. No dose price inferred.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
-    },
-    {
-      "pharmacy_name": "Nurx",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://www.nurx.com/weight-management-treatment/",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Branded Mounjaro starts at $1,000/month on average; no dose-specific guaranteed cash quote. Local-pharmacy pickup (Nurx does not ship branded GLP-1s); $79 consultation plus $79/month support fee.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
-    },
-    {
-      "pharmacy_name": "Honeybee Health",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://honeybeehealth.com/",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Primarily generic catalog; no branded injection price found on checked page.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
-    },
-    {
-      "pharmacy_name": "Cost Plus Drugs",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://costplusdrugs.com/",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "No matching branded injectable listing priced on checked page.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
-    },
-    {
-      "pharmacy_name": "CenterWell Pharmacy",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://www.centerwellpharmacy.com/",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Login required for individualized pricing; no public dose quote verified.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
-    },
-    {
-      "pharmacy_name": "Express Scripts EnGuide",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://www.express-scripts.com/enguidepharmacy",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "GLP-1 home-delivery program; member login needed for product-specific pricing.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
-    },
-    {
-      "pharmacy_name": "Optum Home Delivery",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://www.optum.com/",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "No publicly accessible dose-specific cash quote verified.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
-    },
-    {
-      "pharmacy_name": "PillPack by Amazon",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://www.pillpack.com/",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Separate packaging service under Amazon Pharmacy; no product-specific publicly priced cash offer; not counted as independent priced outlet.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
+      "notes": "Site checked; no current publicly verifiable, brand-specific monthly injection price for this dosage. Not counted in statistics.",
+      "verified_price_today": false
     },
     {
       "pharmacy_name": "Blink Health",
@@ -202,15 +48,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No branded dose-specific cash offer exposed on checked landing page.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
+      "notes": "Site checked; no current publicly verifiable, brand-specific monthly injection price for this dosage. Not counted in statistics.",
+      "verified_price_today": false
     },
     {
-      "pharmacy_name": "RxSaver",
+      "pharmacy_name": "CenterWell Pharmacy",
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
-      "source_url": "https://www.rxsaver.com/",
+      "source_url": "https://www.centerwellpharmacy.com/",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -219,15 +64,142 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "Coupon search requires location/product; no strength-specific monthly cash quote verified.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
+      "notes": "Site checked; no current publicly verifiable, brand-specific monthly injection price for this dosage. Not counted in statistics.",
+      "verified_price_today": false
+    },
+    {
+      "pharmacy_name": "Cost Plus Drugs",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://costplusdrugs.com/",
+      "prices": {
+        "2.5mg": null,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "Site checked; no current publicly verifiable, brand-specific monthly injection price for this dosage. Not counted in statistics.",
+      "verified_price_today": false
+    },
+    {
+      "pharmacy_name": "Express Scripts EnGuide",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://www.express-scripts.com/",
+      "prices": {
+        "2.5mg": null,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "Site checked; no current publicly verifiable, brand-specific monthly injection price for this dosage. Not counted in statistics.",
+      "verified_price_today": false
+    },
+    {
+      "pharmacy_name": "HealthWarehouse",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://www.healthwarehouse.com/search/MOUNJARO",
+      "prices": {
+        "2.5mg": 1198,
+        "5mg": 1198,
+        "7.5mg": 1198,
+        "10mg": 1198,
+        "12.5mg": 1198,
+        "15mg": 1198
+      },
+      "notes": "Listed from dose-specific product cards, one box/pen for Ozempic; four pens for Mounjaro and Wegovy. \"Prices as low as\"; confirm checkout.",
+      "verified_price_today": true
+    },
+    {
+      "pharmacy_name": "Honeybee Health",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://honeybeehealth.com/",
+      "prices": {
+        "2.5mg": null,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "Site checked; no current publicly verifiable, brand-specific monthly injection price for this dosage. Not counted in statistics.",
+      "verified_price_today": false
+    },
+    {
+      "pharmacy_name": "LillyDirect Pharmacy",
+      "pharmacy_type": "online_pharmacy",
+      "source": "manufacturer_direct",
+      "source_url": "https://www.lilly.com/lillydirect/medicines/mounjaro",
+      "prices": {
+        "2.5mg": 499,
+        "5mg": 499,
+        "7.5mg": 499,
+        "10mg": 499,
+        "12.5mg": 499,
+        "15mg": 499
+      },
+      "notes": "Starting-at $499/month self-pay shown individually for each strength; terms, taxes and fees may apply. Actual checkout may be higher.",
+      "verified_price_today": true
+    },
+    {
+      "pharmacy_name": "Optum Home Delivery",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://www.optum.com/",
+      "prices": {
+        "2.5mg": null,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "Site checked; no current publicly verifiable, brand-specific monthly injection price for this dosage. Not counted in statistics.",
+      "verified_price_today": false
+    },
+    {
+      "pharmacy_name": "PillPack by Amazon",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://www.pillpack.com/",
+      "prices": {
+        "2.5mg": null,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "Site checked; no current publicly verifiable, brand-specific monthly injection price for this dosage. Not counted in statistics.",
+      "verified_price_today": false
+    },
+    {
+      "pharmacy_name": "Hims & Hers",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://www.hims.com/weight-loss",
+      "prices": {
+        "2.5mg": null,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "Mounjaro $1,899/mo, dosage unspecified; medication-only amount, membership $39 first month then $149/mo separately. No dose quote assigned.",
+      "verified_price_today": false
     },
     {
       "pharmacy_name": "Noom Med",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
-      "source_url": "https://www.noom.com/",
+      "source_url": "https://www.noom.com/weight-loss/med/",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -236,15 +208,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "Mentions brand access but no dose-specific self-pay injection price or current membership rate verified.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
+      "notes": "Site checked; no current publicly verifiable, brand-specific monthly injection price for this dosage. Not counted in statistics.",
+      "verified_price_today": false
     },
     {
       "pharmacy_name": "PlushCare",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
-      "source_url": "https://plushcare.com/mounjaro-tirzepatide-prescription",
+      "source_url": "https://plushcare.com/weight-loss/",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -253,9 +224,8 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No guaranteed dose-specific medication cash quote. Membership $19.99/month, first month free; initial uninsured visit $129 separately.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
+      "notes": "Site checked; no current publicly verifiable, brand-specific monthly injection price for this dosage. Not counted in statistics.",
+      "verified_price_today": false
     },
     {
       "pharmacy_name": "WeightWatchers Clinic",
@@ -270,26 +240,24 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "Comparison guide, not a currently quoted dose-specific cash purchase price.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
+      "notes": "Site checked; no current publicly verifiable, brand-specific monthly injection price for this dosage. Not counted in statistics.",
+      "verified_price_today": false
     },
     {
-      "pharmacy_name": "Meijer Pharmacy",
+      "pharmacy_name": "CVS Pharmacy",
       "pharmacy_type": "retail_pharmacy",
-      "source": "retail_pharmacy",
-      "source_url": "https://www.meijer.com/shopping/services/pharmacy/GLP-1-Resources.html",
+      "source": "singlecare",
+      "source_url": "https://www.singlecare.com/prescription/mounjaro",
       "prices": {
-        "2.5mg": null,
+        "2.5mg": 932.81,
         "5mg": null,
         "7.5mg": null,
         "10mg": null,
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "Savings program available but pharmacy-specific cash price not publicly displayed; manufacturer terms not assumed at this chain.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
+      "notes": "Four 2.5mg pens; free-member coupon including $3 one-time signup bonus and $115 member discount. Location not verified as ZIP 10001; updated 2026-10-08.",
+      "verified_price_today": true
     },
     {
       "pharmacy_name": "H-E-B Pharmacy",
@@ -304,100 +272,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No publicly accessible dose-specific cash quote verified.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
-    },
-    {
-      "pharmacy_name": "CVS Caremark Mail Order",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://www.caremark.cvs.com/",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Requested site fetch failed; no verifiable member cash quote.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
-    },
-    {
-      "pharmacy_name": "GeniusRx",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://www.geniusrx.com/",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Website returned redirect-only page; no dose-specific cash price found.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
-    },
-    {
-      "pharmacy_name": "Calibrate",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://www.calibrate.com/",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Checked domain no longer presents a GLP-1 prescribing storefront; no current brand price.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
-    },
-    {
-      "pharmacy_name": "K Health",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://khealth.com/",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Current landing page describes clinical AI services, no GLP-1 self-pay offers.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
-    },
-    {
-      "pharmacy_name": "Kroger Pharmacy",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "singlecare",
-      "source_url": "https://www.singlecare.com/prescription/mounjaro?zipCode=10001",
-      "prices": {
-        "2.5mg": 874.25,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "SingleCare displayed coupon with free-member discount including $3 one-time signup bonus for four 2.5mg pens; quote not guaranteed, new-member effective price differs on later fills. ZIP query did not confirm location 10001.",
-      "price_scope": "Coupon location not verified as ZIP 10001",
-      "verification_status": "verified"
+      "notes": "Site checked; no current publicly verifiable, brand-specific monthly injection price for this dosage. Not counted in statistics.",
+      "verified_price_today": false
     },
     {
       "pharmacy_name": "Harris Teeter Pharmacy",
       "pharmacy_type": "retail_pharmacy",
       "source": "singlecare",
-      "source_url": "https://www.singlecare.com/prescription/mounjaro?zipCode=10001",
+      "source_url": "https://www.singlecare.com/prescription/mounjaro",
       "prices": {
         "2.5mg": 874.25,
         "5mg": null,
@@ -406,32 +288,62 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "SingleCare displayed coupon with free-member discount including $3 one-time signup bonus for four 2.5mg pens; quote not guaranteed, new-member effective price differs on later fills. ZIP query did not confirm location 10001.",
-      "price_scope": "Coupon location not verified as ZIP 10001",
-      "verification_status": "verified"
+      "notes": "Four 2.5mg pens; includes $115 member bonus and $3 one-time signup bonus; location not verified as ZIP 10001; price updated 2026-10-08.",
+      "verified_price_today": true
     },
     {
-      "pharmacy_name": "CVS Pharmacy",
+      "pharmacy_name": "Hy-Vee Pharmacy",
       "pharmacy_type": "retail_pharmacy",
-      "source": "singlecare",
-      "source_url": "https://www.singlecare.com/prescription/mounjaro?zipCode=10001",
+      "source": "retail_pharmacy",
+      "source_url": "https://www.hy-vee.com/pharmacy",
       "prices": {
-        "2.5mg": 932.81,
+        "2.5mg": null,
         "5mg": null,
         "7.5mg": null,
         "10mg": null,
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "SingleCare displayed coupon with free-member discount including $3 one-time signup bonus for four 2.5mg pens; quote not guaranteed, new-member effective price differs on later fills. ZIP query did not confirm location 10001.",
-      "price_scope": "Coupon location not verified as ZIP 10001",
-      "verification_status": "verified"
+      "notes": "Site checked; no current publicly verifiable, brand-specific monthly injection price for this dosage. Not counted in statistics.",
+      "verified_price_today": false
+    },
+    {
+      "pharmacy_name": "Kroger Pharmacy",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "singlecare",
+      "source_url": "https://www.singlecare.com/prescription/mounjaro",
+      "prices": {
+        "2.5mg": 874.25,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "Four 2.5mg pens; $874.25 includes free membership bonus and one-time $3 signup bonus; site location not verified as ZIP 10001; 2026-10-08 price.",
+      "verified_price_today": true
+    },
+    {
+      "pharmacy_name": "Meijer Pharmacy",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "retail_pharmacy",
+      "source_url": "https://www.meijer.com/pharmacy",
+      "prices": {
+        "2.5mg": null,
+        "5mg": null,
+        "7.5mg": null,
+        "10mg": null,
+        "12.5mg": null,
+        "15mg": null
+      },
+      "notes": "Site checked; no current publicly verifiable, brand-specific monthly injection price for this dosage. Not counted in statistics.",
+      "verified_price_today": false
     },
     {
       "pharmacy_name": "Publix Pharmacy",
       "pharmacy_type": "retail_pharmacy",
       "source": "singlecare",
-      "source_url": "https://www.singlecare.com/prescription/mounjaro?zipCode=10001",
+      "source_url": "https://www.singlecare.com/prescription/mounjaro",
       "prices": {
         "2.5mg": 937.31,
         "5mg": null,
@@ -440,15 +352,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "SingleCare displayed coupon with free-member discount including $3 one-time signup bonus for four 2.5mg pens; quote not guaranteed, new-member effective price differs on later fills. ZIP query did not confirm location 10001.",
-      "price_scope": "Coupon location not verified as ZIP 10001",
-      "verification_status": "verified"
+      "notes": "Four 2.5mg pens; free-member coupon including $3 one-time signup bonus and $115 member discount. Location not verified as ZIP 10001; updated 2026-10-08.",
+      "verified_price_today": true
     },
     {
       "pharmacy_name": "Walgreens Pharmacy",
       "pharmacy_type": "retail_pharmacy",
       "source": "singlecare",
-      "source_url": "https://www.singlecare.com/prescription/mounjaro?zipCode=10001",
+      "source_url": "https://www.singlecare.com/prescription/mounjaro",
       "prices": {
         "2.5mg": 942.73,
         "5mg": null,
@@ -457,15 +368,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "SingleCare displayed coupon with free-member discount including $3 one-time signup bonus for four 2.5mg pens; quote not guaranteed, new-member effective price differs on later fills. ZIP query did not confirm location 10001.",
-      "price_scope": "Coupon location not verified as ZIP 10001",
-      "verification_status": "verified"
+      "notes": "Four 2.5mg pens; free-member coupon including $3 one-time signup bonus and $115 member discount. Location not verified as ZIP 10001; updated 2026-10-08.",
+      "verified_price_today": true
     },
     {
       "pharmacy_name": "Walmart Neighborhood Market Pharmacy",
       "pharmacy_type": "retail_pharmacy",
       "source": "singlecare",
-      "source_url": "https://www.singlecare.com/prescription/mounjaro?zipCode=10001",
+      "source_url": "https://www.singlecare.com/prescription/mounjaro",
       "prices": {
         "2.5mg": 954.84,
         "5mg": null,
@@ -474,15 +384,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "SingleCare displayed coupon with free-member discount including $3 one-time signup bonus for four 2.5mg pens; quote not guaranteed, new-member effective price differs on later fills. ZIP query did not confirm location 10001.",
-      "price_scope": "Coupon location not verified as ZIP 10001",
-      "verification_status": "verified"
+      "notes": "Four 2.5mg pens; free-member coupon including $3 one-time signup bonus and $115 member discount. Location not verified as ZIP 10001; updated 2026-10-08.",
+      "verified_price_today": true
     },
     {
-      "pharmacy_name": "Walmart Pharmacy",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "price_comparison",
-      "source_url": "https://www.singlecare.com/prescription/mounjaro",
+      "pharmacy_name": "RxSaver",
+      "pharmacy_type": "coupon_program",
+      "source": "retail_pharmacy",
+      "source_url": "https://www.rxsaver.com/",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -491,99 +400,47 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "Comparison page checked; no location-confirmed, dose-and-month-matched current quote retained for this medication.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
-    },
-    {
-      "pharmacy_name": "Costco Pharmacy",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "price_comparison",
-      "source_url": "https://www.singlecare.com/prescription/ozempic",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Comparison page checked; no location-confirmed, dose-and-month-matched current quote retained for this medication.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
-    },
-    {
-      "pharmacy_name": "Safeway Pharmacy",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "price_comparison",
-      "source_url": "https://www.goodrx.com/wegovy",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Comparison page checked; no location-confirmed, dose-and-month-matched current quote retained for this medication.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
-    },
-    {
-      "pharmacy_name": "Albertsons Pharmacy",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "price_comparison",
-      "source_url": "https://www.singlecare.com/prescription/mounjaro",
-      "prices": {
-        "2.5mg": null,
-        "5mg": null,
-        "7.5mg": null,
-        "10mg": null,
-        "12.5mg": null,
-        "15mg": null
-      },
-      "notes": "Comparison page checked; no location-confirmed, dose-and-month-matched current quote retained for this medication.",
-      "price_scope": "US advertised; ZIP 10001 not confirmed",
-      "verification_status": "price_unavailable"
+      "notes": "Site checked; no current publicly verifiable, brand-specific monthly injection price for this dosage. Not counted in statistics.",
+      "verified_price_today": false
     }
   ],
   "summary": {
     "2.5mg": {
-      "min": 499,
-      "max": 1198,
+      "min": 499.0,
+      "max": 1198.0,
       "avg": 901.65,
       "count": 8
     },
     "5mg": {
-      "min": 499,
-      "max": 1198,
+      "min": 499.0,
+      "max": 1198.0,
       "avg": 848.5,
       "count": 2
     },
     "7.5mg": {
-      "min": 499,
-      "max": 1198,
+      "min": 499.0,
+      "max": 1198.0,
       "avg": 848.5,
       "count": 2
     },
     "10mg": {
-      "min": 499,
-      "max": 1198,
+      "min": 499.0,
+      "max": 1198.0,
       "avg": 848.5,
       "count": 2
     },
     "12.5mg": {
-      "min": 499,
-      "max": 1198,
+      "min": 499.0,
+      "max": 1198.0,
       "avg": 848.5,
       "count": 2
     },
     "15mg": {
-      "min": 499,
-      "max": 1198,
+      "min": 499.0,
+      "max": 1198.0,
       "avg": 848.5,
       "count": 2
     }
   },
-  "notes": "Rows include checked but unpriced providers (null). ZIP 10001 is a requested reference, not verified for coupon quotes. A quoted introductory/eligible price is not a universal cash price. Oral/compounded GLP-1 and WAC excluded from injection price statistics."
+  "notes": "Monitored entities include providers with null prices. Only verified live brand-specific injection prices are numeric; location-dependent comparison prices are NOT confirmed for ZIP 10001. Introductory/starting-at prices are conditional. Coupon programs excluded from statistics."
 }

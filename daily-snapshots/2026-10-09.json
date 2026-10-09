@@ -1264,5 +1264,24 @@
       "notes": "Monitored entities include providers with null prices. Only verified live brand-specific injection prices are numeric; location-dependent comparison prices are NOT confirmed for ZIP 10001. Introductory/starting-at prices are conditional. Coupon programs excluded from statistics."
     }
   },
-  "note": "Not all listed entities have priced products. Manufacturer WAC is excluded from cash-price summaries; no oral or compounded drugs in injection series."
+  "note": "Not all listed entities have priced products. Manufacturer WAC is excluded from cash-price summaries; no oral or compounded drugs in injection series.",
+  "date": "2026-10-09",
+  "source_checks": {
+    "goodrx": "Browser verification challenge; fetched HTML defaults to other ZIPs and oral forms; no injection coupon values imported.",
+    "singlecare": "Mounjaro four-pen 2.5mg coupon values retrieved; ZIP 10001 not verifiable; Ozempic widget displays 0.5 pen and Wegovy widget one pen/oral tablet, so excluded from one-month feeds.",
+    "manufacturer_wac": {
+      "ozempic": 1027.51,
+      "wegovy": 1349.02,
+      "note": "WAC, not pharmacy cash price; excluded from statistics."
+    },
+    "unavailable": [
+      "Calibrate website repurposed",
+      "FoundNow domain is travel site",
+      "GeniusRx returns 301 without prices",
+      "Caremark homepage fetch failed",
+      "Nurx weight-loss URL 404",
+      "K Health weight-loss URL 403",
+      "Rite Aid pharmacy says services returning soon"
+    ]
+  }
 }
