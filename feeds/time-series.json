@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T07:11:52+04:00",
+  "last_updated": "2026-10-15T07:21:15+04:00",
   "history": [
     {
       "date": "2026-07-06",
@@ -9701,6 +9701,220 @@
           "avg": 349,
           "count": 3
         }
+      }
+    },
+    {
+      "date": "2026-10-13",
+      "ozempic": {
+        "0.25mg": {
+          "min": 199,
+          "max": 1056,
+          "avg": 818.62,
+          "count": 11
+        },
+        "0.5mg": {
+          "min": 199,
+          "max": 1056,
+          "avg": 880.58,
+          "count": 10
+        },
+        "1mg": {
+          "min": 349,
+          "max": 1056,
+          "avg": 883.27,
+          "count": 11
+        },
+        "2mg": {
+          "min": 499,
+          "max": 1056,
+          "avg": 936.39,
+          "count": 10
+        }
+      },
+      "mounjaro": {
+        "2.5mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 1023.13,
+          "count": 10
+        },
+        "5mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 1023.13,
+          "count": 10
+        },
+        "7.5mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 1018.72,
+          "count": 9
+        },
+        "10mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 1022.42,
+          "count": 10
+        },
+        "12.5mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 1022.42,
+          "count": 10
+        },
+        "15mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 1022.42,
+          "count": 10
+        }
+      },
+      "wegovy": {
+        "0.25mg": {
+          "min": 199,
+          "max": 1325.61,
+          "avg": 1089.46,
+          "count": 10
+        },
+        "0.5mg": {
+          "min": 199,
+          "max": 1328.48,
+          "avg": 1189.19,
+          "count": 9
+        },
+        "1mg": {
+          "min": 349,
+          "max": 1320.9,
+          "avg": 1188.25,
+          "count": 8
+        },
+        "1.7mg": {
+          "min": 349,
+          "max": 1322,
+          "avg": 1199.84,
+          "count": 9
+        },
+        "2.4mg": {
+          "min": 349,
+          "max": 1322,
+          "avg": 1189.47,
+          "count": 8
+        }
+      },
+      "coverage": {
+        "screened_requested_providers": 31,
+        "unique_provider_entries": 41,
+        "unique_providers_with_verified_dosage_prices": 14,
+        "target_priced_providers": 20,
+        "target_met": false
+      }
+    },
+    {
+      "date": "2026-10-15",
+      "last_updated": "2026-10-15T07:21:15+04:00",
+      "ozempic": {
+        "0.25mg": {
+          "min": 199.0,
+          "max": 1199.0,
+          "avg": 793.98,
+          "count": 11
+        },
+        "0.5mg": {
+          "min": 199.0,
+          "max": 1199.0,
+          "avg": 853.48,
+          "count": 10
+        },
+        "1mg": {
+          "min": 349.0,
+          "max": 349.0,
+          "avg": 349.0,
+          "count": 2
+        },
+        "2mg": {
+          "min": 499.0,
+          "max": 499.0,
+          "avg": 499.0,
+          "count": 1
+        }
+      },
+      "mounjaro": {
+        "2.5mg": {
+          "min": 499.0,
+          "max": 1349.0,
+          "avg": 966.83,
+          "count": 10
+        },
+        "5mg": {
+          "min": 499.0,
+          "max": 961.0,
+          "avg": 883.54,
+          "count": 7
+        },
+        "7.5mg": {
+          "min": 499.0,
+          "max": 1074.75,
+          "avg": 907.44,
+          "count": 8
+        },
+        "10mg": {
+          "min": 499.0,
+          "max": 499.0,
+          "avg": 499.0,
+          "count": 1
+        },
+        "12.5mg": {
+          "min": 499.0,
+          "max": 499.0,
+          "avg": 499.0,
+          "count": 1
+        },
+        "15mg": {
+          "min": 499.0,
+          "max": 499.0,
+          "avg": 499.0,
+          "count": 1
+        }
+      },
+      "wegovy": {
+        "0.25mg": {
+          "min": 199.0,
+          "max": 199.0,
+          "avg": 199.0,
+          "count": 2
+        },
+        "0.5mg": {
+          "min": 199.0,
+          "max": 199.0,
+          "avg": 199.0,
+          "count": 1
+        },
+        "1mg": {
+          "min": 349.0,
+          "max": 349.0,
+          "avg": 349.0,
+          "count": 1
+        },
+        "1.7mg": {
+          "min": 349.0,
+          "max": 349.0,
+          "avg": 349.0,
+          "count": 1
+        },
+        "2.4mg": {
+          "min": 349.0,
+          "max": 1569.0,
+          "avg": 1195.97,
+          "count": 9
+        }
+      },
+      "coverage": {
+        "unique_provider_storefronts_checked": 39,
+        "online_pharmacy_storefronts_checked": 13,
+        "telehealth_platforms_checked": 12,
+        "unique_provider_storefronts_with_verified_prices": 13,
+        "target_verified_price_providers": 20,
+        "target_met": false
       }
     }
   ]
