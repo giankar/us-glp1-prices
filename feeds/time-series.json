@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T07:45:26+04:00",
+  "last_updated": "2026-10-19T07:33:35+04:00",
   "history": [
     {
       "date": "2026-07-06",
@@ -10268,6 +10268,131 @@
           "Walgreens",
           "Walmart"
         ]
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "last_updated": "2026-10-19T07:33:35+04:00",
+      "ozempic": {
+        "0.25mg": {
+          "min": 199,
+          "max": 1199,
+          "avg": 870.37,
+          "count": 13
+        },
+        "0.5mg": {
+          "min": 199,
+          "max": 1199,
+          "avg": 926.31,
+          "count": 12
+        },
+        "1mg": {
+          "min": 349,
+          "max": 1111,
+          "avg": 902.25,
+          "count": 12
+        },
+        "2mg": {
+          "min": 499,
+          "max": 1111,
+          "avg": 914.49,
+          "count": 12
+        }
+      },
+      "mounjaro": {
+        "2.5mg": {
+          "min": 499,
+          "max": 1349,
+          "avg": 1052.76,
+          "count": 11
+        },
+        "5mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 975.48,
+          "count": 11
+        },
+        "7.5mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 1018.72,
+          "count": 9
+        },
+        "10mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 1022.42,
+          "count": 10
+        },
+        "12.5mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 1022.42,
+          "count": 10
+        },
+        "15mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 1022.42,
+          "count": 10
+        }
+      },
+      "wegovy": {
+        "0.25mg": {
+          "min": 199,
+          "max": 1440,
+          "avg": 1044.47,
+          "count": 12
+        },
+        "0.5mg": {
+          "min": 199,
+          "max": 1500,
+          "avg": 1127.43,
+          "count": 11
+        },
+        "1mg": {
+          "min": 349,
+          "max": 1440,
+          "avg": 1129.5,
+          "count": 10
+        },
+        "1.7mg": {
+          "min": 349,
+          "max": 1440,
+          "avg": 1078.04,
+          "count": 12
+        },
+        "2.4mg": {
+          "min": 349,
+          "max": 1569,
+          "avg": 1101.89,
+          "count": 12
+        }
+      },
+      "coverage": {
+        "unique_providers_reviewed": 40,
+        "unique_providers_with_verified_dosage_prices": 16,
+        "online_or_telehealth_reviewed": 25,
+        "verified_provider_target_met": false,
+        "verified_providers": [
+          "Acme",
+          "Amazon Pharmacy",
+          "CVS",
+          "Capsule",
+          "Costco",
+          "Duane Reade",
+          "GoodRx Care",
+          "HealthWarehouse",
+          "Honeybee Health",
+          "LillyDirect",
+          "NovoCare Pharmacy",
+          "Sesame Care",
+          "Shoprite",
+          "Stop & Shop",
+          "Walgreens",
+          "Walmart"
+        ],
+        "reviewed_does_not_mean_priced": true
       }
     }
   ]

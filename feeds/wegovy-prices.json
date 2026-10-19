@@ -3,12 +3,10 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Weight Management",
-  "last_updated": "2026-10-18T07:45:26+04:00",
+  "last_updated": "2026-10-19T07:33:35+04:00",
   "reference_zip": "10001",
   "currency": "USD",
-  "supply_basis": "One manufacturer-defined monthly box: one Ozempic multidose pen or four Mounjaro/Wegovy single-dose pens; generally 28 days.",
-  "total_pharmacies": 40,
-  "pharmacies_with_verified_prices": 12,
+  "supply_basis": "One manufacturer-defined monthly box: one Ozempic multidose pen or four Mounjaro/Wegovy single-dose pens; generally 28 days. No pill or compounded prices included.",
   "dosages": [
     "0.25mg",
     "0.5mg",
@@ -18,9 +16,351 @@
   ],
   "pharmacies": [
     {
-      "pharmacy_name": "NovoCare Pharmacy",
+      "pharmacy_name": "Amazon Pharmacy",
       "pharmacy_type": "online_pharmacy",
-      "source": "manufacturer_direct",
+      "source": "online_pharmacy",
+      "source_url": "https://pharmacy.amazon.com/",
+      "notes": "Manufacturer cash-pay coupon eligibility applies; 28-day box. Delivery ZIP eligibility not verified.",
+      "status": "verified_dosage_prices",
+      "prices": {
+        "0.25mg": 199,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": 349,
+        "2.4mg": 349
+      },
+      "price_source_urls": {
+        "0.25mg": "https://pharmacy.amazon.com/Wegovy-Brand-for-Semaglutide-Auto-Injector/dp/B09C947KVF",
+        "1.7mg": "https://pharmacy.amazon.com/Wegovy-Brand-for-Semaglutide-Auto-Injector/dp/B09BHZC8PZ",
+        "2.4mg": "https://pharmacy.amazon.com/Wegovy-Brand-for-Semaglutide-Auto-Injector/dp/B09BHXXL2R"
+      }
+    },
+    {
+      "pharmacy_name": "HealthWarehouse",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://www.healthwarehouse.com/search/WEGOVY",
+      "notes": "Public prices for one Ozempic pen or four Mounjaro/Wegovy pens; refrigerated shipping included on the verified Ozempic product page.",
+      "status": "verified_dosage_prices",
+      "prices": {
+        "0.25mg": 1440,
+        "0.5mg": 1500,
+        "1mg": 1440,
+        "1.7mg": 1440,
+        "2.4mg": 1440
+      }
+    },
+    {
+      "pharmacy_name": "Honeybee Health",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://honeybeehealth.com/drugs/details/wegovy/novo-nordisk?variant=32775",
+      "notes": "Only the explicitly selected product variant is priced; unselected strengths are null. Free shipping on orders over $40.",
+      "status": "verified_dosage_prices",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": 1569
+      }
+    },
+    {
+      "pharmacy_name": "Cost Plus Drugs",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://costplusdrugs.com/",
+      "notes": "Homepage and paginated diabetes catalog checked; no branded monthly price verified.",
+      "status": "no_verified_dosage_price",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "CenterWell Pharmacy",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://www.centerwellpharmacy.com/",
+      "notes": "NovoCare confirms CenterWell is a dispensing partner, but no independent dosage quote verified; do not duplicate NovoCare prices.",
+      "status": "no_verified_dosage_price",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "Express Scripts",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://www.express-scripts.com/",
+      "notes": "GLP-1 EnGuide home delivery service linked; no public monthly cash price verified.",
+      "status": "no_verified_dosage_price",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "OptumRx",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://www.optum.com/",
+      "notes": "Home delivery/Optum Rx links available; no public monthly cash price verified.",
+      "status": "no_verified_dosage_price",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "CVS Caremark Mail Order",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://www.caremark.cvs.com/",
+      "notes": "Fetch failed.",
+      "status": "fetch_failed",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "GeniusRx",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://www.geniusrx.com/",
+      "notes": "Only nginx 301 page returned.",
+      "status": "redirect_only",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "Blink Health",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://www.blinkhealth.com/",
+      "notes": "Ozempic 1mg/dose 30 mL quoted at $10,120.30: not a monthly supply. No proportional normalization used. Mounjaro/Wegovy requests returned HTTP 403. BlinkRx NovoCare partnership is not an independent cash quote.",
+      "status": "no_verified_dosage_price",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "RxSaver",
+      "pharmacy_type": "discount_platform",
+      "source": "retail_pharmacy",
+      "source_url": "https://www.rxsaver.com/",
+      "notes": "Links to GoodRx $199 pen offers lack dosage-specific independent pharmacy quotes.",
+      "status": "no_verified_dosage_price",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "Hims & Hers",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://www.hims.com/",
+      "notes": "Hims and Hers membership $39 first month then $149/month, billed separately. Ozempic injection and Wegovy pen advertised from $199/month, but dosage-specific price table not verified. Pill and compounded prices excluded.",
+      "status": "no_verified_dosage_price",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      },
+      "advertised_starting_price": 199
+    },
+    {
+      "pharmacy_name": "Ro",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://ro.co/weight-loss/pricing/",
+      "notes": "Membership $39 first month, then $74-$149/month by plan; $74 requires annual prepayment, monthly plan $149. Medication billed separately. Wegovy pen from $199/month; no exact dose-price table verified.",
+      "status": "no_verified_dosage_price",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      },
+      "advertised_starting_price": 199
+    },
+    {
+      "pharmacy_name": "Sesame Care",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://sesamecare.com/service/online-weight-loss-program",
+      "notes": "Care from $59/month with a 12-month commitment; medication extra. Wegovy pen $199/month first two months for new patients, $349/month after; exact Wegovy dose mapping not verified on visible page.",
+      "status": "no_verified_dosage_price",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      },
+      "advertised_starting_price": 199
+    },
+    {
+      "pharmacy_name": "Lemonaid Health",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://www.lemonaidhealth.com/services/weight-loss",
+      "notes": "Membership first month free, then $49/month; medication separately charged. Compounded semaglutide/tirzepatide prices excluded from branded feeds.",
+      "status": "no_verified_dosage_price",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "PlushCare",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://plushcare.com/",
+      "notes": "Branded medications linked; no dosage-specific monthly cash quote or exact fee verified on retrieved homepage. Medication and labs excluded from visit charges.",
+      "status": "no_verified_dosage_price",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "WeightWatchers Clinic",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://www.weightwatchers.com/us/blog/glp-1-comparison-ozempic-wegovy-mounjaro-zepbound",
+      "notes": "Comparison article is not a current pharmacy quote; list prices and insurance copays excluded. Membership not verified.",
+      "status": "no_verified_dosage_price",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "Noom Med",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://www.noom.com/",
+      "notes": "Brand access advertised; no monthly branded medication quote or membership amount verified. Compounded plan prices excluded.",
+      "status": "no_verified_dosage_price",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "Nurx",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://www.nurx.com/weight-management-treatment/",
+      "notes": "Ozempic/Mounjaro start at $1000/month on average, Wegovy $1300/month on average; dose unspecified and price not guaranteed. Branded injections picked up at external pharmacies, not shipped by Nurx. Consultation/ongoing care/side-effect support extra; exact fees not verified.",
+      "status": "no_verified_dosage_price",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      },
+      "advertised_average_starting_price": 1300
+    },
+    {
+      "pharmacy_name": "K Health",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://khealth.com/",
+      "notes": "Retrieved site is health-system service information; no consumer GLP-1 dose-price quote verified.",
+      "status": "no_verified_dosage_price",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "Calibrate",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://www.joincalibrate.com/",
+      "notes": "Corrected supplied calibrate.com domain (unrelated site). Program starts at $199/month; medication inclusion or dosage-specific branded cash price not verified.",
+      "status": "no_verified_dosage_price",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "Found",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://joinfound.com/",
+      "notes": "Corrected supplied foundnow.com domain (travel site). Plans from $99/month with insurance or $169/month cash; medication included on compounded plans only. Branded costs/subscription fees vary, no exact dose-price quote verified.",
+      "status": "no_verified_dosage_price",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "GoodRx Care",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://www.goodrx.com/care/services/glp-1-weight-loss/wegovy-online",
+      "notes": "Care $39/month separately. Wegovy $199 first two fills of 0.25mg/0.5mg then $349/month; prescription and eligibility required.",
+      "status": "verified_dosage_prices",
       "prices": {
         "0.25mg": 199,
         "0.5mg": 199,
@@ -28,54 +368,21 @@
         "1.7mg": 349,
         "2.4mg": 349
       },
-      "notes": "Eligible new patients: $199 for first two fills of 0.25mg/0.5mg through 2026-12-31; thereafter $349. One monthly box; prescription and eligibility restrictions apply.",
-      "source_url": "https://www.novocare.com/pharmacy.html",
-      "last_verified": "2026-10-18T07:45:26+04:00",
       "ongoing_prices": {
         "0.25mg": 349,
         "0.5mg": 349,
         "1mg": 349,
         "1.7mg": 349,
         "2.4mg": 349
-      },
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "HealthWarehouse",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "0.25mg": 1440,
-        "0.5mg": 1500,
-        "1mg": 1440,
-        "1.7mg": 1440,
-        "2.4mg": 1440
-      },
-      "notes": "Public cash price for one box. Refrigerated next-day shipping included on verified product pages.",
-      "source_url": "https://www.healthwarehouse.com/search/WEGOVY",
-      "last_verified": "2026-10-18T07:45:26+04:00",
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "Amazon Pharmacy",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "0.25mg": 199,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "Manufacturer cash-pay coupon eligibility required; observed 28-day box only, no extrapolation to unobserved strengths.",
-      "source_url": "https://pharmacy.amazon.com/Wegovy-Brand-for-Semaglutide-Auto-Injector/dp/B09C947KVF",
-      "last_verified": "2026-10-18T07:45:26+04:00",
-      "last_checked": "2026-10-18T07:45:26+04:00"
+      }
     },
     {
       "pharmacy_name": "CVS",
       "pharmacy_type": "retail_pharmacy",
       "source": "singlecare",
+      "source_url": "https://www.singlecare.com/prescription/wegovy",
+      "notes": "CVS page advertises GLP-1 medication from $149 without insurance, drug/dose unspecified; do not map to injections. $29 online consultation, no subscription. Current numeric quotes below are SingleCare.",
+      "status": "verified_dosage_prices",
       "prices": {
         "0.25mg": 1291.28,
         "0.5mg": 1290.18,
@@ -83,95 +390,106 @@
         "1.7mg": 1291.28,
         "2.4mg": 1291.28
       },
-      "notes": "ZIP 10001 confirmed in browser. prices uses coupon WITHOUT signup; optional free-member/one-time bonus price stored separately. Not insurance.",
-      "source_url": "https://www.singlecare.com/prescription/wegovy?zipCode=10001",
-      "last_verified": "2026-10-18T07:45:26+04:00",
-      "member_bonus_prices": {
-        "0.25mg": 1213.28,
-        "0.5mg": 1237.18,
-        "1mg": 1237.18,
-        "1.7mg": 1213.28,
-        "2.4mg": 1238.28
-      },
-      "reference_zip_verified": true,
-      "last_checked": "2026-10-18T07:45:26+04:00"
+      "quote_zip": "10001",
+      "coupon_basis": "without_signup"
     },
     {
-      "pharmacy_name": "Duane Reade",
+      "pharmacy_name": "Publix",
       "pharmacy_type": "retail_pharmacy",
-      "source": "singlecare",
+      "source": "retail_pharmacy",
+      "source_url": "https://www.publix.com/pharmacy",
+      "notes": "Public page only displayed Medicare GLP-1 $50 copays; excluded from cash feed.",
+      "status": "no_verified_dosage_price",
       "prices": {
-        "0.25mg": 1307.05,
-        "0.5mg": 1305.95,
-        "1mg": 1305.95,
-        "1.7mg": 1307.05,
-        "2.4mg": 1307.05
-      },
-      "notes": "ZIP 10001 confirmed in browser. prices uses coupon WITHOUT signup; optional free-member/one-time bonus price stored separately. Not insurance.",
-      "source_url": "https://www.singlecare.com/prescription/wegovy?zipCode=10001",
-      "last_verified": "2026-10-18T07:45:26+04:00",
-      "member_bonus_prices": {
-        "0.25mg": 1229.05,
-        "0.5mg": 1252.95,
-        "1mg": 1252.95,
-        "1.7mg": 1229.05,
-        "2.4mg": 1254.05
-      },
-      "reference_zip_verified": true,
-      "last_checked": "2026-10-18T07:45:26+04:00"
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
     },
     {
-      "pharmacy_name": "Walgreens",
+      "pharmacy_name": "Rite Aid",
       "pharmacy_type": "retail_pharmacy",
-      "source": "singlecare",
+      "source": "retail_pharmacy",
+      "source_url": "https://riteaid.com/pharmacy/ozempic",
+      "notes": "Page says pharmacy services returning soon; no public numeric medication quote.",
+      "status": "no_verified_dosage_price",
       "prices": {
-        "0.25mg": 1307.05,
-        "0.5mg": 1305.95,
-        "1mg": 1305.95,
-        "1.7mg": 1307.05,
-        "2.4mg": 1307.05
-      },
-      "notes": "ZIP 10001 confirmed in browser. prices uses coupon WITHOUT signup; optional free-member/one-time bonus price stored separately. Not insurance.",
-      "source_url": "https://www.singlecare.com/prescription/wegovy?zipCode=10001",
-      "last_verified": "2026-10-18T07:45:26+04:00",
-      "member_bonus_prices": {
-        "0.25mg": 1229.05,
-        "0.5mg": 1252.95,
-        "1mg": 1252.95,
-        "1.7mg": 1229.05,
-        "2.4mg": 1254.05
-      },
-      "reference_zip_verified": true,
-      "last_checked": "2026-10-18T07:45:26+04:00"
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
     },
     {
-      "pharmacy_name": "Acme",
+      "pharmacy_name": "Hy-Vee",
       "pharmacy_type": "retail_pharmacy",
-      "source": "singlecare",
+      "source": "retail_pharmacy",
+      "source_url": "https://www.hy-vee.com/pharmacy",
+      "notes": "No public dosage-specific cash quote verified.",
+      "status": "no_verified_dosage_price",
       "prices": {
-        "0.25mg": 1313.42,
-        "0.5mg": 1316.29,
-        "1mg": 1303.64,
-        "1.7mg": 1301.64,
-        "2.4mg": 1305.41
-      },
-      "notes": "ZIP 10001 confirmed in browser. prices uses coupon WITHOUT signup; optional free-member/one-time bonus price stored separately. Not insurance.",
-      "source_url": "https://www.singlecare.com/prescription/wegovy?zipCode=10001",
-      "last_verified": "2026-10-18T07:45:26+04:00",
-      "member_bonus_prices": {
-        "0.25mg": 1235.42,
-        "0.5mg": 1263.29,
-        "1mg": 1250.64,
-        "1.7mg": 1223.64,
-        "2.4mg": 1252.41
-      },
-      "reference_zip_verified": true,
-      "last_checked": "2026-10-18T07:45:26+04:00"
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "Meijer",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "retail_pharmacy",
+      "source_url": "https://www.meijer.com/shopping/services/pharmacy/GLP-1-Resources",
+      "notes": "Savings links to manufacturers, not an independent pharmacy dose-price quote.",
+      "status": "no_verified_dosage_price",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "Kroger",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "retail_pharmacy",
+      "source_url": "https://www.kroger.com/health/pharmacy/insurance-savings/glp",
+      "notes": "Discount-card and manufacturer links, but no independent dose-specific quote verified.",
+      "status": "no_verified_dosage_price",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
+    },
+    {
+      "pharmacy_name": "HEB",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "retail_pharmacy",
+      "source_url": "https://www.heb.com/pharmacy",
+      "notes": "No public dosage-specific cash quote verified.",
+      "status": "no_verified_dosage_price",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "1.7mg": null,
+        "2.4mg": null
+      }
     },
     {
       "pharmacy_name": "Walmart",
       "pharmacy_type": "retail_pharmacy",
       "source": "singlecare",
+      "source_url": "https://www.singlecare.com/prescription/wegovy",
+      "notes": "SingleCare live coupon quote for ZIP 10001; use price without signup, excluding one-time member bonus. Cost at dispensing pharmacy may vary.",
+      "status": "verified_dosage_prices",
       "prices": {
         "0.25mg": 1322,
         "0.5mg": 1320.9,
@@ -179,23 +497,33 @@
         "1.7mg": 1322,
         "2.4mg": 1322
       },
-      "notes": "ZIP 10001 confirmed in browser. prices uses coupon WITHOUT signup; optional free-member/one-time bonus price stored separately. Not insurance.",
-      "source_url": "https://www.singlecare.com/prescription/wegovy?zipCode=10001",
-      "last_verified": "2026-10-18T07:45:26+04:00",
-      "member_bonus_prices": {
-        "0.25mg": 1244,
-        "0.5mg": 1267.9,
-        "1mg": 1267.9,
-        "1.7mg": 1244,
-        "2.4mg": 1269
+      "quote_zip": "10001",
+      "coupon_basis": "without_signup"
+    },
+    {
+      "pharmacy_name": "Acme",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "singlecare",
+      "source_url": "https://www.singlecare.com/prescription/wegovy",
+      "notes": "SingleCare live coupon quote for ZIP 10001; use price without signup, excluding one-time member bonus. Cost at dispensing pharmacy may vary.",
+      "status": "verified_dosage_prices",
+      "prices": {
+        "0.25mg": 1313.42,
+        "0.5mg": 1316.29,
+        "1mg": 1303.64,
+        "1.7mg": 1301.64,
+        "2.4mg": 1305.41
       },
-      "reference_zip_verified": true,
-      "last_checked": "2026-10-18T07:45:26+04:00"
+      "quote_zip": "10001",
+      "coupon_basis": "without_signup"
     },
     {
       "pharmacy_name": "Costco",
       "pharmacy_type": "retail_pharmacy",
       "source": "singlecare",
+      "source_url": "https://www.singlecare.com/prescription/wegovy",
+      "notes": "SingleCare live coupon quote for ZIP 10001; use price without signup, excluding one-time member bonus. Cost at dispensing pharmacy may vary.",
+      "status": "verified_dosage_prices",
       "prices": {
         "0.25mg": 1325.61,
         "0.5mg": 1328.48,
@@ -203,23 +531,50 @@
         "1.7mg": 1313.83,
         "2.4mg": 1317.6
       },
-      "notes": "ZIP 10001 confirmed in browser. prices uses coupon WITHOUT signup; optional free-member/one-time bonus price stored separately. Not insurance.",
-      "source_url": "https://www.singlecare.com/prescription/wegovy?zipCode=10001",
-      "last_verified": "2026-10-18T07:45:26+04:00",
-      "member_bonus_prices": {
-        "0.25mg": 1247.61,
-        "0.5mg": 1275.48,
-        "1mg": 1262.83,
-        "1.7mg": 1235.83,
-        "2.4mg": 1264.6
+      "quote_zip": "10001",
+      "coupon_basis": "without_signup"
+    },
+    {
+      "pharmacy_name": "Duane Reade",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "singlecare",
+      "source_url": "https://www.singlecare.com/prescription/wegovy",
+      "notes": "SingleCare live coupon quote for ZIP 10001; use price without signup, excluding one-time member bonus. Cost at dispensing pharmacy may vary.",
+      "status": "verified_dosage_prices",
+      "prices": {
+        "0.25mg": 1307.05,
+        "0.5mg": 1305.95,
+        "1mg": 1305.95,
+        "1.7mg": 1307.05,
+        "2.4mg": 1307.05
       },
-      "reference_zip_verified": true,
-      "last_checked": "2026-10-18T07:45:26+04:00"
+      "quote_zip": "10001",
+      "coupon_basis": "without_signup"
+    },
+    {
+      "pharmacy_name": "Walgreens",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "singlecare",
+      "source_url": "https://www.singlecare.com/prescription/wegovy",
+      "notes": "SingleCare live coupon quote for ZIP 10001; use price without signup, excluding one-time member bonus. Cost at dispensing pharmacy may vary.",
+      "status": "verified_dosage_prices",
+      "prices": {
+        "0.25mg": 1307.05,
+        "0.5mg": 1305.95,
+        "1mg": 1305.95,
+        "1.7mg": 1307.05,
+        "2.4mg": 1307.05
+      },
+      "quote_zip": "10001",
+      "coupon_basis": "without_signup"
     },
     {
       "pharmacy_name": "Shoprite",
       "pharmacy_type": "retail_pharmacy",
       "source": "singlecare",
+      "source_url": "https://www.singlecare.com/prescription/wegovy",
+      "notes": "SingleCare live coupon quote for ZIP 10001; use price without signup, excluding one-time member bonus. Cost at dispensing pharmacy may vary.",
+      "status": "verified_dosage_prices",
       "prices": {
         "0.25mg": 1305.88,
         "0.5mg": 1308.75,
@@ -227,23 +582,31 @@
         "1.7mg": 1294.1,
         "2.4mg": null
       },
-      "notes": "ZIP 10001 confirmed in browser. prices uses coupon WITHOUT signup; optional free-member/one-time bonus price stored separately. Not insurance.",
-      "source_url": "https://www.singlecare.com/prescription/wegovy?zipCode=10001",
-      "last_verified": "2026-10-18T07:45:26+04:00",
-      "member_bonus_prices": {
-        "0.25mg": 1302.88,
-        "0.5mg": 1305.75,
+      "quote_zip": "10001",
+      "coupon_basis": "without_signup"
+    },
+    {
+      "pharmacy_name": "Stop & Shop",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "retail_pharmacy",
+      "source_url": "https://www.singlecare.com/prescription/ozempic",
+      "notes": "SingleCare live coupon quote for ZIP 10001; use price without signup, excluding one-time member bonus. Cost at dispensing pharmacy may vary.",
+      "status": "no_verified_dosage_price",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
         "1mg": null,
-        "1.7mg": 1291.1,
+        "1.7mg": null,
         "2.4mg": null
-      },
-      "reference_zip_verified": true,
-      "last_checked": "2026-10-18T07:45:26+04:00"
+      }
     },
     {
       "pharmacy_name": "Capsule",
       "pharmacy_type": "online_pharmacy",
       "source": "singlecare",
+      "source_url": "https://www.singlecare.com/prescription/wegovy",
+      "notes": "SingleCare live coupon quote for ZIP 10001; use price without signup, excluding one-time member bonus. Displayed as online only.",
+      "status": "verified_dosage_prices",
       "prices": {
         "0.25mg": 1324.36,
         "0.5mg": 1327.23,
@@ -251,23 +614,16 @@
         "1.7mg": 1312.58,
         "2.4mg": 1316.35
       },
-      "notes": "ZIP 10001 confirmed in browser. prices uses coupon WITHOUT signup; optional free-member/one-time bonus price stored separately. Not insurance.",
-      "source_url": "https://www.singlecare.com/prescription/wegovy?zipCode=10001",
-      "last_verified": "2026-10-18T07:45:26+04:00",
-      "member_bonus_prices": {
-        "0.25mg": 1321.36,
-        "0.5mg": 1324.23,
-        "1mg": 1311.58,
-        "1.7mg": 1309.58,
-        "2.4mg": 1313.35
-      },
-      "reference_zip_verified": true,
-      "last_checked": "2026-10-18T07:45:26+04:00"
+      "quote_zip": "10001",
+      "coupon_basis": "without_signup"
     },
     {
-      "pharmacy_name": "GoodRx Care",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
+      "pharmacy_name": "NovoCare Pharmacy",
+      "pharmacy_type": "online_pharmacy",
+      "source": "manufacturer_direct",
+      "source_url": "https://www.novocare.com/pharmacy.html",
+      "notes": "Eligible new self-pay patients: $199/month for first two fills of 0.25mg/0.5mg through December 31, 2026; ongoing doses $349 (Ozempic 2mg $499). One manufacturer-defined monthly box. CoAssist d/b/a NovoCare, so CoAssist not separately counted.",
+      "status": "verified_dosage_prices",
       "prices": {
         "0.25mg": 199,
         "0.5mg": 199,
@@ -275,9 +631,6 @@
         "1.7mg": 349,
         "2.4mg": 349
       },
-      "notes": "Telehealth fee $39/month, medication billed separately.; Eligible new patients: $199 for first two fills of 0.25mg/0.5mg through 2026-12-31; thereafter $349. One monthly box; prescription and eligibility restrictions apply.",
-      "source_url": "https://www.goodrx.com/care/services/glp-1-weight-loss/wegovy-online",
-      "last_verified": "2026-10-18T07:45:26+04:00",
       "ongoing_prices": {
         "0.25mg": 349,
         "0.5mg": 349,
@@ -285,457 +638,29 @@
         "1.7mg": 349,
         "2.4mg": 349
       },
-      "last_checked": "2026-10-18T07:45:26+04:00"
+      "introductory_prices": {
+        "0.25mg": 199,
+        "0.5mg": 199
+      }
     },
     {
       "pharmacy_name": "LillyDirect",
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "No verified monthly price for requested injection dosage in this run.",
       "source_url": "https://www.lilly.com/lillydirect/medicines/mounjaro",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "Sesame Care",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
+      "notes": "Mounjaro single-dose prefilled pens start at $499/month each listed dose for self-pay; Rx required, terms apply, taxes/fees may apply.",
+      "status": "no_verified_dosage_price",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
         "1mg": null,
         "1.7mg": null,
         "2.4mg": null
-      },
-      "notes": "Membership as low as $59/month with 12-month commitment; medication not included.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://sesamecare.com/service/online-weight-loss-program",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "Hims & Hers",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "Membership $39 first month then $149/month; medication separate. Hims and Hers deduplicated. Ozempic and Wegovy injections from $199/month; Mounjaro $1899/month. Dose-specific prices not published in retrieved pages.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://www.hims.com/weight-loss",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "Ro",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "Membership $39 first month then $149/month monthly or $74/month annual prepaid. Wegovy pen starts $199, exact dose table not exposed. Ozempic page quotes $900-$1100 undosed range; no dose inference.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://ro.co/weight-loss/pricing/",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "Lemonaid Health",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "Membership free first month then $49/month, medication separate; compounded drugs excluded; no verified branded dose prices.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://www.lemonaidhealth.com/services/weight-loss",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "PlushCare",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "Branded prescriptions offered; dose-specific cash prices not extracted; membership/visit fees not verified in retrieved excerpt.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://plushcare.com/weight-loss/",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "WeightWatchers Clinic",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "Comparison article, not a verified pharmacy cash quote; list prices excluded from prices.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://www.weightwatchers.com/us/blog/glp-1-comparison-ozempic-wegovy-mounjaro-zepbound",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "Noom Med",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "Branded drugs mentioned; no verified branded dosage cash prices or membership fee.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://www.noom.com/",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "Nurx",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "Undosed monthly averages: Ozempic $1000, Mounjaro $1000, Wegovy $1300. Retail pickup, not shipped by Nurx. Additional consultation and ongoing care fees not quantified. Averages excluded from prices.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://www.nurx.com/weight-management-treatment/",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "K Health",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "Current homepage is enterprise health systems; no consumer GLP-1 cash pricing found.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://khealth.com/",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "Calibrate",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "Corrected domain; supplied calibrate.com is unrelated. Membership $199/month, initial 3-month commitment ($597). Labs and medication excluded; $25 quoted is insurance copay, excluded.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://www.joincalibrate.com/pricing",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "Found",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "Corrected domain; supplied foundnow.com is travel site. Cash plans $169/month annual prepaid or $289 monthly refer to general/compounded plans. Branded undosed quotes Ozempic $1100/month, Mounjaro approximately $1100, Wegovy from $650; not assigned to doses.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://joinfound.com/plans-and-pricing",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "Honeybee Health",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "Homepage and diabetes page checked; no branded GLP-1 prices found; availability unknown.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://honeybeehealth.com/conditions/type-2-diabetes",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "Cost Plus Drugs",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "Homepage and partial paginated diabetes catalog checked; no target price found, not proof of absence.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://www.costplusdrugs.com/medications/categories/diabetes/",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "CenterWell Pharmacy",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "Homepage checked; NovoCare identifies fulfillment partner. No independent dose quote verified, NovoCare prices not duplicated.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://www.centerwellpharmacy.com/",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "Express Scripts",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "EnGuide GLP-1 home delivery reviewed; member benefits but no public cash dose prices.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://www.express-scripts.com/enguidepharmacy",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "OptumRx",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "Home delivery links available, personalized prices require account; no verified cash dose quote.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://www.optum.com/",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "CVS Caremark Mail Order",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "Supplied caremark.cvs.com failed; caremark.com works, personalized prescription costs require account.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://www.caremark.com/",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "PillPack (Amazon)",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "Service free, medications separately billed. Same team as Amazon; no independent dose quote, not counted separately as verified.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://www.pillpack.com/",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "GeniusRx",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "Fetch returned 301 nginx placeholder, no pricing.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://www.geniusrx.com/",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "Blink Health",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "Ozempic 1mg/dose selected quantity 30mL $10120.30, not one monthly box, excluded without linear scaling. Wegovy/Mounjaro HTTP403. BlinkRx NovoCare partner not independent quoted pharmacy.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://www.blinkhealth.com/ozempic",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "RxSaver",
-      "pharmacy_type": "discount_platform",
-      "source": "discount_platform",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "Redirected GoodRx page quotes HealthWarehouse $995 but exact selected dose not exposed and old promo terms; not used.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://www.rxsaver.com/drugs/ozempic",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "Publix",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "retail_pharmacy",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "Only Medicare GLP-1 copay savings found, excluded.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://www.publix.com/pharmacy",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "Rite Aid",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "retail_pharmacy",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "Current page says pharmacy services returning soon; no medication price.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://riteaid.com/pharmacy/ozempic",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "Hy-Vee",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "retail_pharmacy",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "No public target dosage price.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://www.hy-vee.com/pharmacy",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "Meijer",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "retail_pharmacy",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "GLP-1 savings links, no target dosage price.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://www.meijer.com/pharmacy",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "Kroger",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "retail_pharmacy",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "No public target dosage price.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://www.kroger.com/pharmacy",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
-    },
-    {
-      "pharmacy_name": "HEB",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "retail_pharmacy",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "1.7mg": null,
-        "2.4mg": null
-      },
-      "notes": "No public target dosage price.; No verified monthly price for requested injection dosage in this run.",
-      "source_url": "https://www.heb.com/pharmacy",
-      "last_verified": null,
-      "last_checked": "2026-10-18T07:45:26+04:00"
+      }
     }
   ],
+  "total_pharmacies": 40,
+  "priced_pharmacies": 13,
   "summary": {
     "0.25mg": {
       "min": 199,
@@ -758,15 +683,15 @@
     "1.7mg": {
       "min": 349,
       "max": 1440,
-      "avg": 1144.32,
-      "count": 11
+      "avg": 1078.04,
+      "count": 12
     },
     "2.4mg": {
       "min": 349,
-      "max": 1440,
-      "avg": 1130.47,
-      "count": 10
+      "max": 1569,
+      "avg": 1101.89,
+      "count": 12
     }
   },
-  "summary_basis": "Non-null verified monthly cash/self-pay prices; SingleCare without-signup coupons; eligible introductory manufacturer offers included, ongoing prices separately stated. WAC, undosed estimates, membership fees excluded."
+  "summary_method": "Verified dosage-specific cash/self-pay and no-signup coupon quotes only. Null, WAC/list, pills, compounded drugs, unspecified-dose offers and membership fees excluded. Introductory and ongoing prices are mixed: see provider notes."
 }
