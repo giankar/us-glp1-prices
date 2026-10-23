@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T07:54:57+04:00",
+  "last_updated": "2026-10-23T07:53:48.610156+04:00",
   "history": [
     {
       "date": "2026-07-06",
@@ -10638,6 +10638,133 @@
         "reviewed_does_not_mean_priced": true,
         "reference_zip_verified": true,
         "notes": "Reference ZIP confirmed on browser SingleCare all doses and GoodRx Wegovy0.25. National direct prices have no ZIP claim. Multiple brands/services of same pharmacy not padded into verified count."
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "last_updated": "2026-10-23T07:53:48.610156+04:00",
+      "ozempic": {
+        "0.25mg": {
+          "min": 199,
+          "max": 1199,
+          "avg": 838.52,
+          "count": 13
+        },
+        "0.5mg": {
+          "min": 199,
+          "max": 1199,
+          "avg": 891.81,
+          "count": 12
+        },
+        "1mg": {
+          "min": 349,
+          "max": 1111,
+          "avg": 867.75,
+          "count": 12
+        },
+        "2mg": {
+          "min": 499,
+          "max": 1111,
+          "avg": 914.62,
+          "count": 11
+        }
+      },
+      "mounjaro": {
+        "2.5mg": {
+          "min": 499,
+          "max": 1349,
+          "avg": 1011.99,
+          "count": 13
+        },
+        "5mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 951.73,
+          "count": 10
+        },
+        "7.5mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 939.72,
+          "count": 9
+        },
+        "10mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 951.02,
+          "count": 10
+        },
+        "12.5mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 951.02,
+          "count": 10
+        },
+        "15mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 951.02,
+          "count": 10
+        }
+      },
+      "wegovy": {
+        "0.25mg": {
+          "min": 199,
+          "max": 1440,
+          "avg": 1004.97,
+          "count": 12
+        },
+        "0.5mg": {
+          "min": 199,
+          "max": 1500,
+          "avg": 1097.98,
+          "count": 11
+        },
+        "1mg": {
+          "min": 349,
+          "max": 1311.58,
+          "avg": 1164.24,
+          "count": 9
+        },
+        "1.7mg": {
+          "min": 349,
+          "max": 1440,
+          "avg": 1176.45,
+          "count": 10
+        },
+        "2.4mg": {
+          "min": 349,
+          "max": 1569,
+          "avg": 1220.37,
+          "count": 10
+        }
+      },
+      "coverage": {
+        "unique_providers_reviewed": 42,
+        "online_or_telehealth_reviewed": 25,
+        "unique_providers_with_verified_dosage_prices": 17,
+        "verified_providers": [
+          "Acme",
+          "Amazon Pharmacy",
+          "CVS",
+          "Capsule",
+          "Costco",
+          "Duane Reade",
+          "GoodRx Care",
+          "HealthWarehouse",
+          "Honeybee Health",
+          "LillyDirect",
+          "NovoCare Pharmacy",
+          "Sams Club",
+          "Sesame Care",
+          "Shoprite",
+          "Stop & Shop",
+          "Walgreens",
+          "Walmart"
+        ],
+        "verified_provider_target_met": false,
+        "reviewed_does_not_mean_priced": true,
+        "reference_zip_verified": true
       }
     }
   ]
