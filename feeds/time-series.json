@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T08:00:31.653212+04:00",
+  "last_updated": "2026-10-26T03:47:28.665559+00:00",
   "history": [
     {
       "date": "2026-07-06",
@@ -11148,6 +11148,114 @@
         ],
         "notes": "Null-only rows represent checked providers with no verified requested dosage quote; not counted as priced pharmacies. PillPack not independently counted in priced providers. Manufacturer fulfillment options counted once each; TrumpRx is a portal, excluded."
       }
+    },
+    {
+      "date": "2026-10-26",
+      "ozempic": {
+        "0.25mg": {
+          "min": 199,
+          "max": 1111,
+          "avg": 793.44,
+          "count": 13
+        },
+        "0.5mg": {
+          "min": 199,
+          "max": 1111,
+          "avg": 842.98,
+          "count": 12
+        },
+        "1mg": {
+          "min": 349,
+          "max": 1111,
+          "avg": 902.25,
+          "count": 12
+        },
+        "2mg": {
+          "min": 499,
+          "max": 1111,
+          "avg": 914.49,
+          "count": 12
+        }
+      },
+      "mounjaro": {
+        "2.5mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 1012.17,
+          "count": 14
+        },
+        "5mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 975.48,
+          "count": 11
+        },
+        "7.5mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 966.75,
+          "count": 10
+        },
+        "10mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 974.84,
+          "count": 11
+        },
+        "12.5mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 974.84,
+          "count": 11
+        },
+        "15mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 974.84,
+          "count": 11
+        }
+      },
+      "wegovy": {
+        "0.25mg": {
+          "min": 199,
+          "max": 1440,
+          "avg": 1121.33,
+          "count": 11
+        },
+        "0.5mg": {
+          "min": 199,
+          "max": 1500,
+          "avg": 1220.27,
+          "count": 10
+        },
+        "1mg": {
+          "min": 349,
+          "max": 1440,
+          "avg": 1144.65,
+          "count": 11
+        },
+        "1.7mg": {
+          "min": 349,
+          "max": 1440,
+          "avg": 1144.32,
+          "count": 11
+        },
+        "2.4mg": {
+          "min": 349,
+          "max": 1440,
+          "avg": 1130.47,
+          "count": 10
+        }
+      },
+      "coverage": {
+        "unique_providers_checked": 41,
+        "unique_providers_with_dosage_prices": 16,
+        "unique_online_and_telehealth_checked": 25,
+        "unique_online_and_telehealth_with_dosage_prices": 6,
+        "target_pharmacies": 20,
+        "target_verified_price_coverage_met": false
+      },
+      "last_updated": "2026-10-26T03:47:28.665559+00:00"
     }
   ]
 }
