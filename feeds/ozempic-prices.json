@@ -5,10 +5,8 @@
   "indication": "Type 2 Diabetes",
   "formulation": "injection",
   "currency": "USD",
-  "last_updated": "2026-10-28T03:49:36.791508+00:00",
+  "last_updated": "2026-10-29T03:53:54.043733+00:00",
   "reference_zip": "10001",
-  "total_pharmacies": 39,
-  "priced_pharmacies": 13,
   "dosages": [
     "0.25mg",
     "0.5mg",
@@ -21,978 +19,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://pharmacy.amazon.com/",
-      "notes": "Public product prices after eligible cash-pay manufacturer coupon; 28-day package. Only retrieved strengths populated. Search retries returned 503.",
-      "prices": {
-        "0.25mg": 199.0,
-        "0.5mg": 199.0,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {
-        "0.25mg": {
-          "source": "online_pharmacy",
-          "source_url": "https://pharmacy.amazon.com/OZEMPIC-0-25-MG-0-5-MG-DOSE-PEN-INJ/dp/B0BYJBNQNC",
-          "price_type": "manufacturer_cash_coupon",
-          "notes": "28 days one box of 3mL; eligible introductory offer.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": null
-        },
-        "0.5mg": {
-          "source": "online_pharmacy",
-          "source_url": "https://pharmacy.amazon.com/OZEMPIC-0-25-MG-0-5-MG-DOSE-PEN-INJ/dp/B0BYJBNQNC",
-          "price_type": "manufacturer_cash_coupon",
-          "notes": "28 days one box of 3mL; eligible introductory offer.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": null
-        }
-      },
-      "status": "verified"
-    },
-    {
-      "pharmacy_name": "HealthWarehouse",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://www.healthwarehouse.com/",
-      "notes": "Public one-package cash prices. Wegovy 0.25mg/1.7mg pages HTTP 403 including HTTP retries; missing strengths null. Next-day insulated shipping included on verified Wegovy pages.",
-      "prices": {
-        "0.25mg": 1111.0,
-        "0.5mg": 1111.0,
-        "1mg": 1111.0,
-        "2mg": 1111.0
-      },
-      "price_details": {
-        "0.25mg": {
-          "source": "online_pharmacy",
-          "source_url": "https://www.healthwarehouse.com/search/OZEMPIC",
-          "price_type": "cash",
-          "notes": "As-low-as price for each listed single 3mL injection pen.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": null
-        },
-        "0.5mg": {
-          "source": "online_pharmacy",
-          "source_url": "https://www.healthwarehouse.com/search/OZEMPIC",
-          "price_type": "cash",
-          "notes": "As-low-as price for each listed single 3mL injection pen.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": null
-        },
-        "1mg": {
-          "source": "online_pharmacy",
-          "source_url": "https://www.healthwarehouse.com/search/OZEMPIC",
-          "price_type": "cash",
-          "notes": "As-low-as price for each listed single 3mL injection pen.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": null
-        },
-        "2mg": {
-          "source": "online_pharmacy",
-          "source_url": "https://www.healthwarehouse.com/search/OZEMPIC",
-          "price_type": "cash",
-          "notes": "As-low-as price for each listed single 3mL injection pen.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": null
-        }
-      },
-      "status": "verified"
-    },
-    {
-      "pharmacy_name": "Honeybee Health",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://honeybeehealth.com/",
-      "notes": "Branded injection package prices verified; one Ozempic pen or four Mounjaro/Wegovy pens. Wegovy catalog lists only 1.7mg and 2.4mg.",
-      "prices": {
-        "0.25mg": 1199.0,
-        "0.5mg": 1199.0,
-        "1mg": 1199.0,
-        "2mg": 1199.0
-      },
-      "price_details": {
-        "0.25mg": {
-          "source": "online_pharmacy",
-          "source_url": "https://honeybeehealth.com/drugs/ozempic",
-          "price_type": "cash",
-          "notes": "Default 22454 starter pen; one pen package.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": null
-        },
-        "0.5mg": {
-          "source": "online_pharmacy",
-          "source_url": "https://honeybeehealth.com/drugs/ozempic",
-          "price_type": "cash",
-          "notes": "Default 22454 starter pen; one pen package.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": null
-        },
-        "1mg": {
-          "source": "online_pharmacy",
-          "source_url": "https://honeybeehealth.com/drugs/details/ozempic/novo-nordisk?variant=22455",
-          "price_type": "cash",
-          "notes": "",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": null
-        },
-        "2mg": {
-          "source": "online_pharmacy",
-          "source_url": "https://honeybeehealth.com/drugs/details/ozempic/novo-nordisk?variant=22456",
-          "price_type": "cash",
-          "notes": "",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": null
-        }
-      },
-      "status": "verified"
-    },
-    {
-      "pharmacy_name": "Cost Plus Drugs",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://costplusdrugs.com/",
-      "notes": "Homepage and first diabetes catalog page checked; no requested branded injection price verified. Catalog paginated; absence not proven.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "CenterWell Pharmacy",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://www.centerwellpharmacy.com/",
-      "notes": "Public homepage has no dose-specific cash quote. Prior $499 assumption not used.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "Express Scripts",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://www.express-scripts.com/",
-      "notes": "GLP-1 home delivery links to Evernorth EnGuide; no public dose-specific cash quote retrieved.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "OptumRx",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://www.optum.com/",
-      "notes": "Home delivery and benefit-account links; no public dose-specific cash quote retrieved.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "CVS Caremark Mail Order",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://www.caremark.cvs.com/",
-      "notes": "Supplied URL fetch failed. Alternate https://www.caremark.com/ HTTP 200; account/benefit information, no verified cash quote.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "PillPack (Amazon)",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://www.pillpack.com/",
-      "notes": "Operated by same pharmacy team as Amazon; independent cash quotes not published in retrieved page. Service free, medication separate; no Amazon prices propagated.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "GeniusRx",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://www.geniusrx.com/",
-      "notes": "301 redirect placeholder only; no usable product pricing.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "Hims & Hers",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://www.hims.com/weight-loss",
-      "notes": "Both Hims and Hers checked and deduplicated. Membership $39 first month then $149/month, billed separately. Ozempic/Wegovy injections from $199/month, Mounjaro $1,899/month, but dose-price mapping not verified. Oral and compounded prices excluded.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "Ro",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://ro.co/weight-loss/pricing/",
-      "notes": "Membership $39 first month; $149/month monthly plan or $74/month annual prepaid. Medication charged separately. Wegovy dose-price table verified from page HTML.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "Sesame Care",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://sesamecare.com/service/online-weight-loss-program",
-      "notes": "Care $59/month with 12-month commitment; medication separate. Wegovy pen card says from $149/month but image label 2.5mg is not a requested Wegovy strength; no dose mapping populated.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "Lemonaid Health",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://www.lemonaidhealth.com/services/weight-loss",
-      "notes": "First membership month free, then $49/month; medication charged separately. Ozempic/Wegovy offered but no branded dose-specific cash quote retrieved. Compounded prices excluded.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "PlushCare",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://plushcare.com/weight-loss/",
-      "notes": "All requested brands listed. Dose-specific cash amounts and current membership/visit fee not verified in retrieved content.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "WeightWatchers Clinic",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://www.weightwatchers.com/us/blog/glp-1-comparison-ozempic-wegovy-mounjaro-zepbound",
-      "notes": "Educational comparison article, not a clinic medication cash quote. List prices and insurance copays excluded; current clinic fee unverified.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "Noom Med",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://www.noom.com/",
-      "notes": "Requested brands named. No verified dose-specific cash quote or current care subscription fee; compounded plans excluded.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "Nurx",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://www.nurx.com/weight-management-treatment/",
-      "notes": "Approximate starting monthly medication prices: Ozempic/Mounjaro $1,000; Wegovy $1,300. Not guaranteed; dosage not specified and insurance context mixed. Injection pickup at local pharmacy, not shipped by Nurx. Additional consultation/care costs apply; fee unverified.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "K Health",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://khealth.com/",
-      "notes": "Current public site describes health-system partnerships; no branded GLP-1 dose-specific cash quote or care fee verified.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "Calibrate",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://www.joincalibrate.com/pricing",
-      "notes": "Supplied calibrate.com is unrelated. Corrected site: membership $199/month with 3-month commitment ($597); medication and labs excluded. Insurance copays not counted as cash prices.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "Found",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://joinfound.com/",
-      "notes": "Supplied foundnow.com is travel news. Corrected site: plans from $99/month with insurance or $169/month cash, medication included on compounded plans only; no branded dose-specific cash quote.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "GoodRx Care",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://www.goodrx.com/care/services/glp-1-weight-loss/wegovy-online",
-      "notes": "Care $39/month, medication separate. Wegovy $199/month first two fills at 0.25/0.5mg, subsequent doses $349/month. Oral and other brands excluded.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "CVS Pharmacy",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "singlecare",
-      "source_url": "https://www.cvs.com/content/weight-loss",
-      "notes": "Direct page advertises GLP-1s from $149 without insurance without injection/dose mapping. MinuteClinic consultation $29 with no subscription; not medication cost. Verified SingleCare quotes used.",
-      "prices": {
-        "0.25mg": 948.11,
-        "0.5mg": 948.11,
-        "1mg": 985.16,
-        "2mg": 985.16
-      },
-      "price_details": {
-        "0.25mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 880.11
-        },
-        "0.5mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 880.11
-        },
-        "1mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 917.16
-        },
-        "2mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 917.16
-        }
-      },
-      "status": "verified"
-    },
-    {
-      "pharmacy_name": "Publix Pharmacy",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "retail_pharmacy",
-      "source_url": "https://www.publix.com/pharmacy",
-      "notes": "GLP-1 $50 Medicare copay excluded; no public dose-specific cash quote.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "Rite Aid",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "retail_pharmacy",
-      "source_url": "https://riteaid.com/pharmacy/ozempic",
-      "notes": "Site says pharmacy services returning soon; coupon-interest form, no cash quotation.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "Hy-Vee",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "retail_pharmacy",
-      "source_url": "https://www.hy-vee.com/pharmacy",
-      "notes": "Pharmacy services information; no public dose-specific cash quote.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "Meijer",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "retail_pharmacy",
-      "source_url": "https://www.meijer.com/pharmacy",
-      "notes": "GLP-1 resources and Medicare links; no public dose-specific cash quote.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "Kroger Pharmacy",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "retail_pharmacy",
-      "source_url": "https://www.kroger.com/pharmacy",
-      "notes": "Direct page has no dose-specific cash quote. Unlocalized SingleCare web results excluded from reference-ZIP prices.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "HEB",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "retail_pharmacy",
-      "source_url": "https://www.heb.com/pharmacy",
-      "notes": "Prescription-management/delivery links; no public dose-specific cash quote.",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "price_details": {},
-      "status": "no_verified_dosage_price"
-    },
-    {
-      "pharmacy_name": "Duane Reade Pharmacy",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "singlecare",
-      "source_url": "https://www.singlecare.com/",
-      "notes": "Current browser pharmacy cards verified at ZIP 10001; ordinary cash coupon used, signup/member bonuses recorded separately. Missing cards remain null.",
-      "prices": {
-        "0.25mg": 968.14,
-        "0.5mg": 968.14,
-        "1mg": 992.98,
-        "2mg": 992.98
-      },
-      "price_details": {
-        "0.25mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 900.14
-        },
-        "0.5mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 900.14
-        },
-        "1mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 924.98
-        },
-        "2mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 924.98
-        }
-      },
-      "status": "verified"
-    },
-    {
-      "pharmacy_name": "Walgreens Pharmacy",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "singlecare",
-      "source_url": "https://www.singlecare.com/",
-      "notes": "Current browser pharmacy cards verified at ZIP 10001; ordinary cash coupon used, signup/member bonuses recorded separately. Missing cards remain null.",
-      "prices": {
-        "0.25mg": 968.14,
-        "0.5mg": 968.14,
-        "1mg": 992.98,
-        "2mg": 992.98
-      },
-      "price_details": {
-        "0.25mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 900.14
-        },
-        "0.5mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 900.14
-        },
-        "1mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 924.98
-        },
-        "2mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 924.98
-        }
-      },
-      "status": "verified"
-    },
-    {
-      "pharmacy_name": "Acme Pharmacy",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "singlecare",
-      "source_url": "https://www.singlecare.com/",
-      "notes": "Current browser pharmacy cards verified at ZIP 10001; ordinary cash coupon used, signup/member bonuses recorded separately. Missing cards remain null.",
-      "prices": {
-        "0.25mg": 931.79,
-        "0.5mg": 931.79,
-        "1mg": 994.49,
-        "2mg": 956.21
-      },
-      "price_details": {
-        "0.25mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 863.79
-        },
-        "0.5mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 863.79
-        },
-        "1mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 926.49
-        },
-        "2mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 888.21
-        }
-      },
-      "status": "verified"
-    },
-    {
-      "pharmacy_name": "Walmart Pharmacy",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "singlecare",
-      "source_url": "https://www.singlecare.com/",
-      "notes": "Current browser pharmacy cards verified at ZIP 10001; ordinary cash coupon used, signup/member bonuses recorded separately. Missing cards remain null.",
-      "prices": {
-        "0.25mg": 930.39,
-        "0.5mg": 930.39,
-        "1mg": 1004.07,
-        "2mg": 1004.07
-      },
-      "price_details": {
-        "0.25mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 862.39
-        },
-        "0.5mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 862.39
-        },
-        "1mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 936.07
-        },
-        "2mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 936.07
-        }
-      },
-      "status": "verified"
-    },
-    {
-      "pharmacy_name": "Costco Pharmacy",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "singlecare",
-      "source_url": "https://www.singlecare.com/",
-      "notes": "Current browser pharmacy cards verified at ZIP 10001; ordinary cash coupon used, signup/member bonuses recorded separately. Missing cards remain null.",
-      "prices": {
-        "0.25mg": 940.12,
-        "0.5mg": 940.12,
-        "1mg": 1002.82,
-        "2mg": 964.54
-      },
-      "price_details": {
-        "0.25mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 872.12
-        },
-        "0.5mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 872.12
-        },
-        "1mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 934.82
-        },
-        "2mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 896.54
-        }
-      },
-      "status": "verified"
-    },
-    {
-      "pharmacy_name": "Shoprite Pharmacy",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "singlecare",
-      "source_url": "https://www.singlecare.com/",
-      "notes": "Current browser pharmacy cards verified at ZIP 10001; ordinary cash coupon used, signup/member bonuses recorded separately. Missing cards remain null.",
-      "prices": {
-        "0.25mg": 925.21,
-        "0.5mg": 925.21,
-        "1mg": 987.91,
-        "2mg": 949.63
-      },
-      "price_details": {
-        "0.25mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 922.21
-        },
-        "0.5mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 922.21
-        },
-        "1mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 984.91
-        },
-        "2mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 946.63
-        }
-      },
-      "status": "verified"
-    },
-    {
-      "pharmacy_name": "Capsule Pharmacy",
-      "pharmacy_type": "online_pharmacy",
-      "source": "singlecare",
-      "source_url": "https://www.singlecare.com/",
-      "notes": "Current browser pharmacy cards verified at ZIP 10001; ordinary cash coupon used, signup/member bonuses recorded separately. Missing cards remain null.",
-      "prices": {
-        "0.25mg": 938.87,
-        "0.5mg": 938.87,
-        "1mg": 1001.57,
-        "2mg": 963.29
-      },
-      "price_details": {
-        "0.25mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 935.87
-        },
-        "0.5mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 935.87
-        },
-        "1mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 998.57
-        },
-        "2mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": 960.29
-        }
-      },
-      "status": "verified"
-    },
-    {
-      "pharmacy_name": "Stop & Shop Pharmacy",
-      "pharmacy_type": "retail_pharmacy",
-      "source": "singlecare",
-      "source_url": "https://www.singlecare.com/",
-      "notes": "Current browser pharmacy cards verified at ZIP 10001; ordinary cash coupon used, signup/member bonuses recorded separately. Missing cards remain null.",
-      "prices": {
-        "0.25mg": 1056.0,
-        "0.5mg": 1056.0,
-        "1mg": 1056.0,
-        "2mg": 1056.0
-      },
-      "price_details": {
-        "0.25mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": null
-        },
-        "0.5mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": null
-        },
-        "1mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": null
-        },
-        "2mg": {
-          "source": "singlecare",
-          "source_url": "https://www.singlecare.com/prescription/ozempic",
-          "price_type": "cash_coupon",
-          "notes": "Ordinary no-signup coupon. Ozempic: one pen. Others: four pens. ZIP and selection verified in browser.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": "10001",
-          "member_price": null
-        }
-      },
-      "status": "verified"
-    },
-    {
-      "pharmacy_name": "NovoCare Pharmacy",
-      "pharmacy_type": "online_pharmacy",
-      "source": "manufacturer_direct",
-      "source_url": "https://www.novocare.com/pharmacy.html",
-      "notes": "Manufacturer-direct eligible self-pay; $199 first two monthly 0.25/0.5mg fills through 2026-12-31, then $349; Ozempic 2mg $499. Oral doses excluded.",
+      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
       "prices": {
         "0.25mg": 199,
         "0.5mg": 199,
@@ -1001,52 +28,253 @@
       },
       "price_details": {
         "0.25mg": {
-          "source": "manufacturer_direct",
-          "source_url": "https://www.novocare.com/pharmacy.html",
-          "price_type": "manufacturer_self_pay",
-          "notes": "0.25/0.5mg introductory first two fills only; ongoing $349.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": null
+          "source_url": "https://pharmacy.amazon.com/OZEMPIC-0-25-MG-0-5-MG-DOSE-PEN-INJ/dp/B0BYJBNQNC",
+          "price_type": "manufacturer_cash_coupon",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": null,
+          "notes": "28-day package; eligible cash-pay manufacturer coupon, restrictions apply."
         },
         "0.5mg": {
-          "source": "manufacturer_direct",
-          "source_url": "https://www.novocare.com/pharmacy.html",
-          "price_type": "manufacturer_self_pay",
-          "notes": "0.25/0.5mg introductory first two fills only; ongoing $349.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": null
+          "source_url": "https://pharmacy.amazon.com/OZEMPIC-0-25-MG-0-5-MG-DOSE-PEN-INJ/dp/B0BYJBNQNC",
+          "price_type": "manufacturer_cash_coupon",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": null,
+          "notes": "28-day package; eligible cash-pay manufacturer coupon, restrictions apply."
         },
         "1mg": {
-          "source": "manufacturer_direct",
-          "source_url": "https://www.novocare.com/pharmacy.html",
-          "price_type": "manufacturer_self_pay",
-          "notes": "0.25/0.5mg introductory first two fills only; ongoing $349.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": null
+          "source_url": "https://pharmacy.amazon.com/Novo-Nordisk-OZEMPIC-1-MG-DOSE-PEN-INJECTOR-Box-3-Milliliter/dp/B084BW1KST",
+          "price_type": "manufacturer_cash_coupon",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": null,
+          "notes": "28-day package; eligible cash-pay manufacturer coupon, restrictions apply."
         },
         "2mg": {
-          "source": "manufacturer_direct",
-          "source_url": "https://www.novocare.com/pharmacy.html",
-          "price_type": "manufacturer_self_pay",
-          "notes": "0.25/0.5mg introductory first two fills only; ongoing $349.",
-          "observed_at": "2026-10-28T03:49:36.791508+00:00",
-          "reference_zip": null
+          "source_url": "https://pharmacy.amazon.com/OZEMPIC-2-MG-PEN-INJ/dp/B09ZHGV4GK",
+          "price_type": "manufacturer_cash_coupon",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": null,
+          "notes": "28-day package; eligible cash-pay manufacturer coupon, restrictions apply."
         }
-      },
-      "status": "verified",
-      "ongoing_prices": {
-        "0.25mg": 349,
-        "0.5mg": 349,
-        "1mg": 349,
-        "2mg": 499
       }
     },
     {
-      "pharmacy_name": "LillyDirect Pharmacy",
+      "pharmacy_name": "HealthWarehouse",
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
-      "source_url": "https://www.lilly.com/lillydirect/medicines/mounjaro",
-      "notes": "Self-pay starting price $499/month each requested pen dosage. Prescription and eligibility terms apply; additional taxes/fees may apply.",
+      "source_url": "https://www.healthwarehouse.com/",
+      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "prices": {
+        "0.25mg": 1111,
+        "0.5mg": 1111,
+        "1mg": 1111,
+        "2mg": 1111
+      },
+      "price_details": {
+        "0.25mg": {
+          "source_url": "https://www.healthwarehouse.com/search/OZEMPIC",
+          "price_type": "cash",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": null,
+          "notes": "One 3mL pen package; published as low as price."
+        },
+        "0.5mg": {
+          "source_url": "https://www.healthwarehouse.com/search/OZEMPIC",
+          "price_type": "cash",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": null,
+          "notes": "One 3mL pen package; published as low as price."
+        },
+        "1mg": {
+          "source_url": "https://www.healthwarehouse.com/search/OZEMPIC",
+          "price_type": "cash",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": null,
+          "notes": "One 3mL pen package; published as low as price."
+        },
+        "2mg": {
+          "source_url": "https://www.healthwarehouse.com/search/OZEMPIC",
+          "price_type": "cash",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": null,
+          "notes": "One 3mL pen package; published as low as price."
+        }
+      }
+    },
+    {
+      "pharmacy_name": "Honeybee Health",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://honeybeehealth.com/",
+      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "prices": {
+        "0.25mg": 1199.0,
+        "0.5mg": 1199.0,
+        "1mg": 1199.0,
+        "2mg": 1199.0
+      },
+      "price_details": {
+        "0.25mg": {
+          "source_url": "https://honeybeehealth.com/drugs/details/ozempic/novo-nordisk?variant=22454",
+          "price_type": "cash",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": null,
+          "notes": "Live product variant; package size 1ct."
+        },
+        "0.5mg": {
+          "source_url": "https://honeybeehealth.com/drugs/details/ozempic/novo-nordisk?variant=22454",
+          "price_type": "cash",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": null,
+          "notes": "Live product variant; package size 1ct."
+        },
+        "1mg": {
+          "source_url": "https://honeybeehealth.com/drugs/details/ozempic/novo-nordisk?variant=22455",
+          "price_type": "cash",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": null,
+          "notes": "Live product variant; package size 1ct."
+        },
+        "2mg": {
+          "source_url": "https://honeybeehealth.com/drugs/details/ozempic/novo-nordisk?variant=22456",
+          "price_type": "cash",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": null,
+          "notes": "Live product variant; package size 1ct."
+        }
+      }
+    },
+    {
+      "pharmacy_name": "Cost Plus Drugs",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://costplusdrugs.com/medications/categories/diabetes/",
+      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "CenterWell Pharmacy",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://www.centerwellpharmacy.com/",
+      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "Express Scripts",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://www.express-scripts.com/enguidepharmacy",
+      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "OptumRx",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://www.optum.com/",
+      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "CVS Caremark Mail Order",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://www.caremark.com/",
+      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "PillPack (Amazon)",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://www.pillpack.com/",
+      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "GeniusRx",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://www.geniusrx.com/",
+      "notes": "Both fetch attempts returned only 301 nginx page; pricing inaccessible.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "Blink Health",
+      "pharmacy_type": "online_pharmacy",
+      "source": "online_pharmacy",
+      "source_url": "https://www.blinkhealth.com/ozempic",
+      "notes": "Ozempic default quote $10,120.30 for 30mL, 1mg/dose; wrong monthly quantity excluded. Mounjaro and Wegovy requests returned HTTP 403.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "RxSaver",
+      "pharmacy_type": "discount_platform",
+      "source": "online_pharmacy",
+      "source_url": "https://www.rxsaver.com/",
+      "notes": "Links to GoodRx Ozempic/Wegovy $199 offers; no independent dosage-specific pharmacy quote.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "Hims & Hers",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://www.hims.com/weight-loss",
+      "notes": "Medication separate. Membership $39 first month, then $149/month. Wegovy pen and Ozempic from $199/month, dosage not specified in price cards. Mounjaro $1,899/month, dosage not specified. Oral and compounded products excluded.",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -1054,18 +282,703 @@
         "2mg": null
       },
       "price_details": {},
-      "status": "no_verified_dosage_price"
+      "advertised_starting_price": 199
+    },
+    {
+      "pharmacy_name": "Ro",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://ro.co/weight-loss/pricing/",
+      "notes": "Membership $39 first month, then $149/month monthly or as low as $74/month prepaid annually. Medication separate; matches NovoCare cash prices for Wegovy; Ozempic page quotes list-price range $900-$1,100 without dosage.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "Sesame Care",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://sesamecare.com/service/online-weight-loss-program",
+      "notes": "Care $59/month with 12-month commitment. Medication separate. Wegovy page quotes pen $199/month first two months then $349/month; introductory dose not explicitly specified there. Main card inconsistently shows $149 and invalid 2.5mg Wegovy pen label; excluded.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "Lemonaid Health",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://www.lemonaidhealth.com/services/weight-loss",
+      "notes": "Membership first month free, then $49/month. Branded Ozempic/Wegovy medication charged separately, no medication cash quote. Compounded products excluded.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "PlushCare",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://plushcare.com/weight-loss/",
+      "notes": "Offers Ozempic, Mounjaro, Wegovy; no dosage-specific medication quote in retrieved content. Membership and visit fees not verified in this retrieval.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "WeightWatchers Clinic",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://www.weightwatchers.com/us/blog/glp-1-comparison-ozempic-wegovy-mounjaro-zepbound",
+      "notes": "Comparison article contains list prices, not platform-specific monthly cash quotes. Medication and membership pricing not verified.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "Noom Med",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://www.noom.com/",
+      "notes": "Branded Ozempic, Wegovy, Mounjaro named; no dosage-specific cash quote. Compounded program prices excluded; membership fee not verified.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "Nurx",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://www.nurx.com/weight-management-treatment/",
+      "notes": "Ozempic/Mounjaro starts at $1,000/month on average; Wegovy starts at $1,300/month on average. Estimates, dose unspecified, not guaranteed; pharmacy pickup only. Additional consultation, ongoing care and side-effect fees unspecified.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {},
+      "advertised_monthly_estimate_dose_unspecified": 1000
+    },
+    {
+      "pharmacy_name": "K Health",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://khealth.com/",
+      "notes": "Current site describes health-system services, not direct GLP-1 cash offerings.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "Calibrate",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://www.joincalibrate.com/",
+      "notes": "Corrected URL: calibrate.com is unrelated. Membership starts at $199/month. No separate medication cash quote.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "Found",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://joinfound.com/",
+      "notes": "Corrected URL: foundnow.com is unrelated travel site. Plans from $99/month with insurance or $169/month cash; medication included on compounded plans only. Brand-name medication separate; no dosage-specific cash quotes verified.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "GoodRx Care",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
+      "source_url": "https://www.goodrx.com/care/services/glp-1-weight-loss/wegovy-online",
+      "notes": "Care $39/month, medication separate. Wegovy injection $199 first two fills 0.25/0.5mg, then $349; HD and pills excluded.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "CVS Pharmacy",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "singlecare",
+      "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "prices": {
+        "0.25mg": 948.11,
+        "0.5mg": 948.11,
+        "1mg": 985.16,
+        "2mg": 985.16
+      },
+      "price_details": {
+        "0.25mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "1mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "2mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "0.5mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        }
+      }
+    },
+    {
+      "pharmacy_name": "Publix",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "retail_pharmacy",
+      "source_url": "https://www.publix.com/pharmacy",
+      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "Rite Aid",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "retail_pharmacy",
+      "source_url": "https://riteaid.com/pharmacy/ozempic",
+      "notes": "Page says pharmacy services returning soon; only alerts, no current cash quote.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "Hy-Vee",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "retail_pharmacy",
+      "source_url": "https://www.hy-vee.com/pharmacy",
+      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "Meijer",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "retail_pharmacy",
+      "source_url": "https://www.meijer.com/shopping/services/pharmacy/GLP-1-Resources",
+      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "Kroger",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "retail_pharmacy",
+      "source_url": "https://www.kroger.com/pharmacy",
+      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "HEB",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "retail_pharmacy",
+      "source_url": "https://www.heb.com/pharmacy",
+      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "Walgreens",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "singlecare",
+      "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "prices": {
+        "0.25mg": 968.14,
+        "0.5mg": 968.14,
+        "1mg": 992.98,
+        "2mg": 992.98
+      },
+      "price_details": {
+        "0.25mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "1mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "2mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "0.5mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        }
+      }
+    },
+    {
+      "pharmacy_name": "NovoCare Pharmacy",
+      "pharmacy_type": "online_pharmacy",
+      "source": "manufacturer_direct",
+      "source_url": "https://www.novocare.com/pharmacy.html",
+      "notes": "Eligible self-pay manufacturer offer; introductory $199 first two fills through December 31, 2026 for 0.25/0.5mg. Ongoing $349 (Ozempic 2mg $499).",
+      "prices": {
+        "0.25mg": 199,
+        "0.5mg": 199,
+        "1mg": 349,
+        "2mg": 499
+      },
+      "price_details": {
+        "0.25mg": {
+          "source_url": "https://www.novocare.com/pharmacy.html",
+          "price_type": "introductory_self_pay",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": null,
+          "notes": "First two monthly fills only; ongoing $349 for these doses. Eligibility applies."
+        },
+        "0.5mg": {
+          "source_url": "https://www.novocare.com/pharmacy.html",
+          "price_type": "introductory_self_pay",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": null,
+          "notes": "First two monthly fills only; ongoing $349 for these doses. Eligibility applies."
+        },
+        "1mg": {
+          "source_url": "https://www.novocare.com/pharmacy.html",
+          "price_type": "ongoing_self_pay",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": null,
+          "notes": ""
+        },
+        "2mg": {
+          "source_url": "https://www.novocare.com/pharmacy.html",
+          "price_type": "ongoing_self_pay",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": null,
+          "notes": ""
+        }
+      }
+    },
+    {
+      "pharmacy_name": "LillyDirect",
+      "pharmacy_type": "online_pharmacy",
+      "source": "manufacturer_direct",
+      "source_url": "https://www.lilly.com/lillydirect/medicines/mounjaro",
+      "notes": "Mounjaro self-pay starting $499/month for each of six strengths; prescription required, terms apply, additional taxes/fees possible.",
+      "prices": {
+        "0.25mg": null,
+        "0.5mg": null,
+        "1mg": null,
+        "2mg": null
+      },
+      "price_details": {}
+    },
+    {
+      "pharmacy_name": "Duane Reade",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "singlecare",
+      "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+      "notes": "SingleCare coupon quote; no signup price used. Prices estimates subject to change.",
+      "prices": {
+        "0.25mg": 968.14,
+        "0.5mg": 968.14,
+        "1mg": 992.98,
+        "2mg": 992.98
+      },
+      "price_details": {
+        "0.25mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "1mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "2mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "0.5mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        }
+      }
+    },
+    {
+      "pharmacy_name": "Acme",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "singlecare",
+      "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+      "notes": "SingleCare coupon quote; no signup price used. Prices estimates subject to change.",
+      "prices": {
+        "0.25mg": 931.79,
+        "0.5mg": 931.79,
+        "1mg": 994.49,
+        "2mg": 956.21
+      },
+      "price_details": {
+        "0.25mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "1mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "2mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "0.5mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        }
+      }
+    },
+    {
+      "pharmacy_name": "Walmart",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "singlecare",
+      "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+      "notes": "SingleCare coupon quote; no signup price used. Prices estimates subject to change.",
+      "prices": {
+        "0.25mg": 930.39,
+        "0.5mg": 930.39,
+        "1mg": 1004.07,
+        "2mg": 1004.07
+      },
+      "price_details": {
+        "0.25mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "1mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "2mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "0.5mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        }
+      }
+    },
+    {
+      "pharmacy_name": "Costco",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "singlecare",
+      "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+      "notes": "SingleCare coupon quote; no signup price used. Prices estimates subject to change.",
+      "prices": {
+        "0.25mg": 940.12,
+        "0.5mg": 940.12,
+        "1mg": 1002.82,
+        "2mg": 964.54
+      },
+      "price_details": {
+        "0.25mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "1mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "2mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "0.5mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        }
+      }
+    },
+    {
+      "pharmacy_name": "Shoprite",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "singlecare",
+      "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+      "notes": "SingleCare coupon quote; no signup price used. Prices estimates subject to change.",
+      "prices": {
+        "0.25mg": 925.21,
+        "0.5mg": 925.21,
+        "1mg": 987.91,
+        "2mg": 949.63
+      },
+      "price_details": {
+        "0.25mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "1mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "2mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "0.5mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        }
+      }
+    },
+    {
+      "pharmacy_name": "Capsule",
+      "pharmacy_type": "online_pharmacy",
+      "source": "singlecare",
+      "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+      "notes": "SingleCare coupon quote; no signup price used. Prices estimates subject to change.",
+      "prices": {
+        "0.25mg": 938.87,
+        "0.5mg": 938.87,
+        "1mg": 1001.57,
+        "2mg": 963.29
+      },
+      "price_details": {
+        "0.25mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "1mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "2mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "0.5mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        }
+      }
+    },
+    {
+      "pharmacy_name": "Stop & Shop",
+      "pharmacy_type": "retail_pharmacy",
+      "source": "singlecare",
+      "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+      "notes": "SingleCare coupon quote; no signup price used. Prices estimates subject to change.",
+      "prices": {
+        "0.25mg": 1056,
+        "0.5mg": 1056,
+        "1mg": 1056,
+        "2mg": 1056
+      },
+      "price_details": {
+        "0.25mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "1mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "2mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        },
+        "0.5mg": {
+          "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
+          "price_type": "cash_coupon_no_signup",
+          "observed_at": "2026-10-29T03:53:54.043733+00:00",
+          "reference_zip": "10001",
+          "notes": "Browser confirmed dose and monthly package; one Ozempic pen or four Mounjaro pens. Signup bonuses excluded."
+        }
+      }
     }
   ],
+  "total_pharmacies": 41,
+  "priced_pharmacies": 13,
   "summary": {
     "0.25mg": {
-      "min": 199.0,
+      "min": 199,
       "max": 1199.0,
       "avg": 870.37,
       "count": 13
     },
     "0.5mg": {
-      "min": 199.0,
+      "min": 199,
       "max": 1199.0,
       "avg": 870.37,
       "count": 13
@@ -1073,15 +986,25 @@
     "1mg": {
       "min": 349,
       "max": 1199.0,
-      "avg": 973.08,
-      "count": 12
+      "avg": 925.08,
+      "count": 13
     },
     "2mg": {
       "min": 499,
       "max": 1199.0,
-      "avg": 972.82,
-      "count": 12
+      "avg": 936.37,
+      "count": 13
     }
   },
-  "summary_basis": "Verified one-package monthly cash/self-pay prices; includes eligible manufacturer introductory prices and ordinary cash coupons. Excludes WAC, insurance, oral/compounded drugs, member signup bonuses and unlocalized quotes. Care fees are extra. Null means unverified, not unavailable."
+  "summary_notes": "Verified dose-specific monthly injection cash or cash-coupon quotes only. Includes eligible introductory offers and telehealth medication-only amounts. Excludes WAC, insurance, pills, compounded drugs, estimates and fees. Nonlocal online prices have null ZIP in details. Null rows mean checked, not confirmed available.",
+  "wac_reference": {
+    "source": "wac_list",
+    "source_url": "https://www.novopricing.com/ozempic.html",
+    "prices": {
+      "0.25mg": 1027.51,
+      "0.5mg": 1027.51,
+      "1mg": 1027.51,
+      "2mg": 1027.51
+    }
+  }
 }
