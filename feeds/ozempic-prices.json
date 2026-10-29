@@ -19,7 +19,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://pharmacy.amazon.com/",
-      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "notes": "Verified monthly injection prices for populated strengths only; missing strengths remain null. See price_details for cash/coupon terms, package quantity and source URLs.",
       "prices": {
         "0.25mg": 199,
         "0.5mg": 199,
@@ -62,7 +62,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.healthwarehouse.com/",
-      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "notes": "Verified monthly injection prices for populated strengths only; missing strengths remain null. See price_details for cash/coupon terms, package quantity and source URLs.",
       "prices": {
         "0.25mg": 1111,
         "0.5mg": 1111,
@@ -105,7 +105,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://honeybeehealth.com/",
-      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "notes": "Verified monthly injection prices for populated strengths only; missing strengths remain null. See price_details for cash/coupon terms, package quantity and source URLs.",
       "prices": {
         "0.25mg": 1199.0,
         "0.5mg": 1199.0,
@@ -444,7 +444,7 @@
       "pharmacy_type": "retail_pharmacy",
       "source": "singlecare",
       "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
-      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "notes": "Verified monthly injection prices for populated strengths only; missing strengths remain null. See price_details for cash/coupon terms, package quantity and source URLs.",
       "prices": {
         "0.25mg": 948.11,
         "0.5mg": 948.11,
@@ -571,7 +571,7 @@
       "pharmacy_type": "retail_pharmacy",
       "source": "singlecare",
       "source_url": "https://www.singlecare.com/prescription/ozempic?zipCode=10001",
-      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "notes": "Verified monthly injection prices for populated strengths only; missing strengths remain null. See price_details for cash/coupon terms, package quantity and source URLs.",
       "prices": {
         "0.25mg": 968.14,
         "0.5mg": 968.14,

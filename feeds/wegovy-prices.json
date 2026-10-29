@@ -20,7 +20,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://pharmacy.amazon.com/",
-      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "notes": "Verified monthly injection prices for populated strengths only; missing strengths remain null. See price_details for cash/coupon terms, package quantity and source URLs.",
       "prices": {
         "0.25mg": 199,
         "0.5mg": null,
@@ -57,7 +57,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.healthwarehouse.com/",
-      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "notes": "Verified monthly injection prices for populated strengths only; missing strengths remain null. See price_details for cash/coupon terms, package quantity and source URLs.",
       "prices": {
         "0.25mg": 1440,
         "0.5mg": 1500,
@@ -108,7 +108,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://honeybeehealth.com/",
-      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "notes": "Verified monthly injection prices for populated strengths only; missing strengths remain null. See price_details for cash/coupon terms, package quantity and source URLs.",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -494,7 +494,7 @@
       "pharmacy_type": "retail_pharmacy",
       "source": "singlecare",
       "source_url": "https://www.singlecare.com/prescription/wegovy?zipCode=10001",
-      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "notes": "Verified monthly injection prices for populated strengths only; missing strengths remain null. See price_details for cash/coupon terms, package quantity and source URLs.",
       "prices": {
         "0.25mg": 1291.28,
         "0.5mg": 1290.18,
@@ -635,7 +635,7 @@
       "pharmacy_type": "retail_pharmacy",
       "source": "singlecare",
       "source_url": "https://www.singlecare.com/prescription/wegovy?zipCode=10001",
-      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "notes": "Verified monthly injection prices for populated strengths only; missing strengths remain null. See price_details for cash/coupon terms, package quantity and source URLs.",
       "prices": {
         "0.25mg": 1307.05,
         "0.5mg": 1305.95,

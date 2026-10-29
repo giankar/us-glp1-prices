@@ -21,7 +21,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://pharmacy.amazon.com/",
-      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "notes": "Verified monthly injection prices for populated strengths only; missing strengths remain null. See price_details for cash/coupon terms, package quantity and source URLs.",
       "prices": {
         "2.5mg": 499,
         "5mg": 499,
@@ -73,7 +73,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.healthwarehouse.com/",
-      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "notes": "Verified monthly injection prices for populated strengths only; missing strengths remain null. See price_details for cash/coupon terms, package quantity and source URLs.",
       "prices": {
         "2.5mg": 1198,
         "5mg": 1198,
@@ -132,7 +132,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://honeybeehealth.com/",
-      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "notes": "Verified monthly injection prices for populated strengths only; missing strengths remain null. See price_details for cash/coupon terms, package quantity and source URLs.",
       "prices": {
         "2.5mg": 1349.0,
         "5mg": 1349.0,
@@ -529,7 +529,7 @@
       "pharmacy_type": "retail_pharmacy",
       "source": "singlecare",
       "source_url": "https://www.singlecare.com/prescription/mounjaro?zipCode=10001",
-      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "notes": "Verified monthly injection prices for populated strengths only; missing strengths remain null. See price_details for cash/coupon terms, package quantity and source URLs.",
       "prices": {
         "2.5mg": 1050.81,
         "5mg": 1050.81,
@@ -684,7 +684,7 @@
       "pharmacy_type": "retail_pharmacy",
       "source": "singlecare",
       "source_url": "https://www.singlecare.com/prescription/mounjaro?zipCode=10001",
-      "notes": "No verified dosage-specific monthly injection cash quote found in retrieved public content.",
+      "notes": "Verified monthly injection prices for populated strengths only; missing strengths remain null. See price_details for cash/coupon terms, package quantity and source URLs.",
       "prices": {
         "2.5mg": 1060.73,
         "5mg": 1060.73,
