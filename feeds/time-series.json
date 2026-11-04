@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T04:08:06.910610+00:00",
+  "last_updated": "2026-11-04T03:39:47.469453+00:00",
   "history": [
     {
       "date": "2026-07-06",
@@ -12110,6 +12110,122 @@
           "LillyDirect Pharmacy",
           "NovoCare Pharmacy",
           "PlushCare"
+        ]
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "ozempic": {
+        "0.25mg": {
+          "min": 199.0,
+          "max": 1111.0,
+          "avg": 264.14,
+          "count": 14
+        },
+        "0.5mg": {
+          "min": 199.0,
+          "max": 1111.0,
+          "avg": 264.14,
+          "count": 14
+        },
+        "1mg": {
+          "min": 349.0,
+          "max": 1111.0,
+          "avg": 403.43,
+          "count": 14
+        },
+        "2mg": {
+          "min": 499.0,
+          "max": 1111.0,
+          "avg": 542.71,
+          "count": 14
+        }
+      },
+      "mounjaro": {
+        "2.5mg": {
+          "min": 499.0,
+          "max": 1386.42,
+          "avg": 1118.18,
+          "count": 12
+        },
+        "5mg": {
+          "min": 499.0,
+          "max": 1198.0,
+          "avg": 1023.13,
+          "count": 10
+        },
+        "7.5mg": {
+          "min": 499.0,
+          "max": 1198.0,
+          "avg": 848.5,
+          "count": 2
+        },
+        "10mg": {
+          "min": 499.0,
+          "max": 1198.0,
+          "avg": 848.5,
+          "count": 2
+        },
+        "12.5mg": {
+          "min": 499.0,
+          "max": 1198.0,
+          "avg": 848.5,
+          "count": 2
+        },
+        "15mg": {
+          "min": 499.0,
+          "max": 1198.0,
+          "avg": 732.0,
+          "count": 3
+        }
+      },
+      "wegovy": {
+        "0.25mg": {
+          "min": 199.0,
+          "max": 1440.0,
+          "avg": 287.64,
+          "count": 14
+        },
+        "0.5mg": {
+          "min": 199.0,
+          "max": 1500.0,
+          "avg": 291.93,
+          "count": 14
+        },
+        "1mg": {
+          "min": 349.0,
+          "max": 349.0,
+          "avg": 349.0,
+          "count": 13
+        },
+        "1.7mg": {
+          "min": 349.0,
+          "max": 1440.0,
+          "avg": 432.92,
+          "count": 13
+        },
+        "2.4mg": {
+          "min": 349.0,
+          "max": 1440.0,
+          "avg": 426.93,
+          "count": 14
+        }
+      },
+      "last_updated": "2026-11-04T03:39:47.469453+00:00",
+      "coverage": {
+        "unique_providers_checked": 44,
+        "unique_providers_with_dose_specific_prices": 16,
+        "online_pharmacies_with_prices": 5,
+        "telehealth_platforms_checked": 12,
+        "target_minimum": 20,
+        "priced_target_met": false,
+        "status": "partial",
+        "limitations": [
+          "Many online/telehealth sites disclose no branded dose-specific cash price. Null does not mean out of stock.",
+          "Mounjaro retail coverage limited to 2.5mg (GoodRx) and 5mg (SingleCare); LillyDirect and HealthWarehouse cover all six doses.",
+          "SingleCare unlocalized web-fetch pages had inconsistent quantities/form; only ZIP-verified browser 5mg/four-pen quotes admitted.",
+          "Sandbox file transfers did not persist consistently; signed workspace downloads/uploads used in one sandbox execution.",
+          "Historical records preserved without altering earlier methodology; trends may reflect coverage changes."
         ]
       }
     }
