@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T03:39:47.469453+00:00",
+  "last_updated": "2026-11-05T03:47:13.705073+00:00",
   "history": [
     {
       "date": "2026-07-06",
@@ -12226,6 +12226,120 @@
           "SingleCare unlocalized web-fetch pages had inconsistent quantities/form; only ZIP-verified browser 5mg/four-pen quotes admitted.",
           "Sandbox file transfers did not persist consistently; signed workspace downloads/uploads used in one sandbox execution.",
           "Historical records preserved without altering earlier methodology; trends may reflect coverage changes."
+        ]
+      }
+    },
+    {
+      "date": "2026-11-05",
+      "last_updated": "2026-11-05T03:47:13.705073+00:00",
+      "ozempic": {
+        "0.25mg": {
+          "min": 199.0,
+          "max": 1199.0,
+          "avg": 326.47,
+          "count": 15
+        },
+        "0.5mg": {
+          "min": 199.0,
+          "max": 1199.0,
+          "avg": 326.47,
+          "count": 15
+        },
+        "1mg": {
+          "min": 349.0,
+          "max": 1199.0,
+          "avg": 449.75,
+          "count": 16
+        },
+        "2mg": {
+          "min": 499.0,
+          "max": 1199.0,
+          "avg": 581.0,
+          "count": 16
+        }
+      },
+      "mounjaro": {
+        "2.5mg": {
+          "min": 499.0,
+          "max": 1386.42,
+          "avg": 1130.77,
+          "count": 12
+        },
+        "5mg": {
+          "min": 499.0,
+          "max": 1386.42,
+          "avg": 1084.43,
+          "count": 14
+        },
+        "7.5mg": {
+          "min": 499.0,
+          "max": 1349.0,
+          "avg": 924.0,
+          "count": 2
+        },
+        "10mg": {
+          "min": 499.0,
+          "max": 1349.0,
+          "avg": 924.0,
+          "count": 2
+        },
+        "12.5mg": {
+          "min": 499.0,
+          "max": 1349.0,
+          "avg": 924.0,
+          "count": 2
+        },
+        "15mg": {
+          "min": 499.0,
+          "max": 1349.0,
+          "avg": 924.0,
+          "count": 2
+        }
+      },
+      "wegovy": {
+        "0.25mg": {
+          "min": 199.0,
+          "max": 199.0,
+          "avg": 199.0,
+          "count": 16
+        },
+        "0.5mg": {
+          "min": 199.0,
+          "max": 199.0,
+          "avg": 199.0,
+          "count": 15
+        },
+        "1mg": {
+          "min": 349.0,
+          "max": 349.0,
+          "avg": 349.0,
+          "count": 14
+        },
+        "1.7mg": {
+          "min": 349.0,
+          "max": 1569.0,
+          "avg": 430.33,
+          "count": 15
+        },
+        "2.4mg": {
+          "min": 349.0,
+          "max": 1569.0,
+          "avg": 430.33,
+          "count": 15
+        }
+      },
+      "coverage": {
+        "unique_provider_entries_checked": 43,
+        "unique_providers_with_verified_dosage_prices": 20,
+        "target_verified_priced_providers": 20,
+        "target_met": true,
+        "online_and_telehealth_checked": 26,
+        "status": "partial",
+        "limitations": [
+          "No fabricated or carried-forward prices. Higher Mounjaro retail strengths HTTP attempts blocked; only 2.5mg/5mg browser pharmacy quotes obtained.",
+          "SingleCare Mounjaro browser quotes obtained for 5mg at ZIP 10001; Ozempic/Wegovy HTTP pages had inconsistent quantity/form, excluded.",
+          "Discount intermediaries RxSaver (redirects to GoodRx) and TrumpRx (manufacturer coupon terms) are not additional dispensing pharmacies.",
+          "Related branded outlets are labelled with parent_chain; not necessarily independent pharmacy operators."
         ]
       }
     }
