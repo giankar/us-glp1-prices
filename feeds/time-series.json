@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T03:47:13.705073+00:00",
+  "last_updated": "2026-11-06T03:12:06.537255+00:00",
   "history": [
     {
       "date": "2026-07-06",
@@ -12340,6 +12340,117 @@
           "SingleCare Mounjaro browser quotes obtained for 5mg at ZIP 10001; Ozempic/Wegovy HTTP pages had inconsistent quantity/form, excluded.",
           "Discount intermediaries RxSaver (redirects to GoodRx) and TrumpRx (manufacturer coupon terms) are not additional dispensing pharmacies.",
           "Related branded outlets are labelled with parent_chain; not necessarily independent pharmacy operators."
+        ]
+      }
+    },
+    {
+      "date": "2026-11-06",
+      "last_updated": "2026-11-06T03:12:06.537255+00:00",
+      "ozempic": {
+        "0.25mg": {
+          "min": 199.0,
+          "max": 1111.0,
+          "avg": 259.8,
+          "count": 15
+        },
+        "0.5mg": {
+          "min": 199.0,
+          "max": 1111.0,
+          "avg": 259.8,
+          "count": 15
+        },
+        "1mg": {
+          "min": 349.0,
+          "max": 1111.0,
+          "avg": 603.0,
+          "count": 3
+        },
+        "2mg": {
+          "min": 499.0,
+          "max": 1111.0,
+          "avg": 703.0,
+          "count": 3
+        }
+      },
+      "mounjaro": {
+        "2.5mg": {
+          "min": 499.0,
+          "max": 1198.0,
+          "avg": 848.5,
+          "count": 2
+        },
+        "5mg": {
+          "min": 499.0,
+          "max": 1198.0,
+          "avg": 848.5,
+          "count": 2
+        },
+        "7.5mg": {
+          "min": 499.0,
+          "max": 1198.0,
+          "avg": 848.5,
+          "count": 2
+        },
+        "10mg": {
+          "min": 499.0,
+          "max": 499.0,
+          "avg": 499.0,
+          "count": 1
+        },
+        "12.5mg": {
+          "min": 499.0,
+          "max": 499.0,
+          "avg": 499.0,
+          "count": 1
+        },
+        "15mg": {
+          "min": 499.0,
+          "max": 1198.0,
+          "avg": 848.5,
+          "count": 2
+        }
+      },
+      "wegovy": {
+        "0.25mg": {
+          "min": 199.0,
+          "max": 1440.0,
+          "avg": 509.25,
+          "count": 4
+        },
+        "0.5mg": {
+          "min": 199.0,
+          "max": 199.0,
+          "avg": 199.0,
+          "count": 3
+        },
+        "1mg": {
+          "min": 349.0,
+          "max": 349.0,
+          "avg": 349.0,
+          "count": 3
+        },
+        "1.7mg": {
+          "min": 349.0,
+          "max": 349.0,
+          "avg": 349.0,
+          "count": 3
+        },
+        "2.4mg": {
+          "min": 349.0,
+          "max": 349.0,
+          "avg": 349.0,
+          "count": 3
+        }
+      },
+      "coverage": {
+        "unique_providers_attempted": 43,
+        "unique_providers_with_dose_specific_prices": 17,
+        "target_20_priced_providers_met": false,
+        "limitations": [
+          "GoodRx Mounjaro page returned no pharmacy prices; Wegovy HTTP returned shell.",
+          "SingleCare browser returned blank. HTTP showed non-10001 location and inconsistent tablet/pen quantities; excluded from primary feed.",
+          "Numerous online sites blocked or require login/quote. Null records do not confirm stock or availability.",
+          "Not every pharmacy/dosage was successfully collected; no old prices carried forward."
         ]
       }
     }
