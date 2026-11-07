@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T03:12:06.537255+00:00",
+  "last_updated": "2026-11-07T03:10:00.781937+00:00",
   "history": [
     {
       "date": "2026-07-06",
@@ -12451,6 +12451,123 @@
           "SingleCare browser returned blank. HTTP showed non-10001 location and inconsistent tablet/pen quantities; excluded from primary feed.",
           "Numerous online sites blocked or require login/quote. Null records do not confirm stock or availability.",
           "Not every pharmacy/dosage was successfully collected; no old prices carried forward."
+        ]
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "last_updated": "2026-11-07T03:10:00.781937+00:00",
+      "ozempic": {
+        "0.25mg": {
+          "min": 199,
+          "max": 1199,
+          "avg": 326.47,
+          "count": 15
+        },
+        "0.5mg": {
+          "min": 199,
+          "max": 1199,
+          "avg": 326.47,
+          "count": 15
+        },
+        "1mg": {
+          "min": 349,
+          "max": 349,
+          "avg": 349,
+          "count": 2
+        },
+        "2mg": {
+          "min": 499,
+          "max": 499,
+          "avg": 499,
+          "count": 2
+        }
+      },
+      "mounjaro": {
+        "2.5mg": {
+          "min": 499,
+          "max": 499,
+          "avg": 499,
+          "count": 1
+        },
+        "5mg": {
+          "min": 499,
+          "max": 1198,
+          "avg": 951.73,
+          "count": 10
+        },
+        "7.5mg": {
+          "min": 499,
+          "max": 499,
+          "avg": 499,
+          "count": 1
+        },
+        "10mg": {
+          "min": 499,
+          "max": 499,
+          "avg": 499,
+          "count": 1
+        },
+        "12.5mg": {
+          "min": 499,
+          "max": 499,
+          "avg": 499,
+          "count": 1
+        },
+        "15mg": {
+          "min": 499,
+          "max": 499,
+          "avg": 499,
+          "count": 1
+        }
+      },
+      "wegovy": {
+        "0.25mg": {
+          "min": 199,
+          "max": 1440,
+          "avg": 509.25,
+          "count": 4
+        },
+        "0.5mg": {
+          "min": 199,
+          "max": 199,
+          "avg": 199,
+          "count": 14
+        },
+        "1mg": {
+          "min": 349,
+          "max": 349,
+          "avg": 349,
+          "count": 2
+        },
+        "1.7mg": {
+          "min": 349,
+          "max": 349,
+          "avg": 349,
+          "count": 2
+        },
+        "2.4mg": {
+          "min": 349,
+          "max": 349,
+          "avg": 349,
+          "count": 2
+        }
+      },
+      "coverage": {
+        "unique_providers_attempted": 43,
+        "unique_providers_with_dose_specific_prices": 18,
+        "online_or_telehealth_attempted": 26,
+        "target_20_priced_providers_met": false,
+        "limitations": [
+          "20 priced providers target not reached; attempted/null providers are not confirmed stocked pharmacies.",
+          "SingleCare Mounjaro 5mg browser quotes verified for ZIP 10001; unlocalized/inconsistent HTTP Ozempic/Wegovy quotes excluded.",
+          "GoodRx quotes include related retail banners; parent_chain identifies non-independent operators.",
+          "Manufacturer-wide prices are not automatically assigned to other pharmacies.",
+          "No prior-run prices carried forward. Missing dose prices remain null.",
+          "Blink Ozempic quote $10120.30 was for 30mL, not a monthly package; excluded.",
+          "Lilly pricinginfo page omitted dynamic list-price number; no stale list price substituted.",
+          "Wegovy pills, 7.2mg and compounded products outside requested injection dosages excluded.",
+          "GoodRx Mounjaro browser showed no per-pharmacy quotes. SingleCare member/signup bonuses are conditional; nonmember prices provided separately."
         ]
       }
     }
