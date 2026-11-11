@@ -3,7 +3,7 @@
   "generic_name": "tirzepatide",
   "manufacturer": "Eli Lilly",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-11-10T03:16:30.772076+00:00",
+  "last_updated": "2026-11-11T03:14:28.333639+00:00",
   "reference_zip": "10001",
   "currency": "USD",
   "supply": "One monthly package (28 days where specified)",
@@ -23,7 +23,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "manufacturer_direct",
       "source_url": "https://www.lilly.com/lillydirect/medicines/mounjaro",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": 499,
         "5mg": 499,
@@ -32,14 +32,14 @@
         "12.5mg": 499,
         "15mg": 499
       },
-      "notes": "Starting self-pay price for each listed dose per month; prescription, eligibility terms and additional taxes/fees may apply."
+      "notes": "Starting self-pay price for each listed monthly dose. Prescription, terms and additional taxes/fees may apply."
     },
     {
       "pharmacy_name": "HealthWarehouse",
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.healthwarehouse.com/mounjaro-5mg-0-5ml-prefilled-pens-4x0-5ml",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": 1198,
@@ -48,14 +48,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "One box four pens; next-day insulated shipping included."
+      "notes": "One box of four pens. Next-day insulated shipping included."
     },
     {
       "pharmacy_name": "CVS Pharmacy",
       "pharmacy_type": "retail",
       "source": "goodrx",
-      "source_url": "https://www.goodrx.com/mounjaro",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "source_url": "https://www.goodrx.com/mounjaro?form=carton&dosage=2.5mg-0.5ml&quantity=1&zip_code=10001",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": 1150.5,
         "5mg": 932.81,
@@ -64,15 +64,11 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "Browser ZIP 10001; carton four 2.5mg/0.5mL pens. Cash coupon; ShopRite/Acme pay-online quotes. 5mg browser verified ZIP 10001, four pens: free-signup member quote including conditional bonus; nonmember price separately recorded.",
+      "notes": "Browser ZIP 10001, carton four 2.5mg/0.5mL pens. Cash coupon; ShopRite and Acme pay-online quotes. Browser verified ZIP 10001, four 5mg pens: free-signup member quote with conditional bonus; nonmember quote recorded separately. Acme Pharmacy/Shoprite normalized to chain names.",
       "nonmember_prices": {
         "5mg": 1050.81
       },
       "price_sources": {
-        "2.5mg": {
-          "source": "goodrx",
-          "url": "https://www.goodrx.com/mounjaro"
-        },
         "5mg": {
           "source": "singlecare",
           "url": "https://www.singlecare.com/prescription/mounjaro?zipCode=10001"
@@ -83,8 +79,8 @@
       "pharmacy_name": "Walgreens",
       "pharmacy_type": "retail",
       "source": "goodrx",
-      "source_url": "https://www.goodrx.com/mounjaro",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "source_url": "https://www.goodrx.com/mounjaro?form=carton&dosage=2.5mg-0.5ml&quantity=1&zip_code=10001",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": 1197.79,
         "5mg": 942.73,
@@ -93,15 +89,11 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "Browser ZIP 10001; carton four 2.5mg/0.5mL pens. Cash coupon; ShopRite/Acme pay-online quotes. 5mg browser verified ZIP 10001, four pens: free-signup member quote including conditional bonus; nonmember price separately recorded.",
+      "notes": "Browser ZIP 10001, carton four 2.5mg/0.5mL pens. Cash coupon; ShopRite and Acme pay-online quotes. Browser verified ZIP 10001, four 5mg pens: free-signup member quote with conditional bonus; nonmember quote recorded separately. Acme Pharmacy/Shoprite normalized to chain names.",
       "nonmember_prices": {
         "5mg": 1060.73
       },
       "price_sources": {
-        "2.5mg": {
-          "source": "goodrx",
-          "url": "https://www.goodrx.com/mounjaro"
-        },
         "5mg": {
           "source": "singlecare",
           "url": "https://www.singlecare.com/prescription/mounjaro?zipCode=10001"
@@ -112,8 +104,8 @@
       "pharmacy_name": "Duane Reade",
       "pharmacy_type": "retail",
       "source": "goodrx",
-      "source_url": "https://www.goodrx.com/mounjaro",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "source_url": "https://www.goodrx.com/mounjaro?form=carton&dosage=2.5mg-0.5ml&quantity=1&zip_code=10001",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": 1197.79,
         "5mg": 942.73,
@@ -122,15 +114,11 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "Browser ZIP 10001; carton four 2.5mg/0.5mL pens. Cash coupon; ShopRite/Acme pay-online quotes. 5mg browser verified ZIP 10001, four pens: free-signup member quote including conditional bonus; nonmember price separately recorded.",
+      "notes": "Browser ZIP 10001, carton four 2.5mg/0.5mL pens. Cash coupon; ShopRite and Acme pay-online quotes. Browser verified ZIP 10001, four 5mg pens: free-signup member quote with conditional bonus; nonmember quote recorded separately. Acme Pharmacy/Shoprite normalized to chain names.",
       "nonmember_prices": {
         "5mg": 1060.73
       },
       "price_sources": {
-        "2.5mg": {
-          "source": "goodrx",
-          "url": "https://www.goodrx.com/mounjaro"
-        },
         "5mg": {
           "source": "singlecare",
           "url": "https://www.singlecare.com/prescription/mounjaro?zipCode=10001"
@@ -141,8 +129,8 @@
       "pharmacy_name": "Stop n Shop",
       "pharmacy_type": "retail",
       "source": "goodrx",
-      "source_url": "https://www.goodrx.com/mounjaro",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "source_url": "https://www.goodrx.com/mounjaro?form=carton&dosage=2.5mg-0.5ml&quantity=1&zip_code=10001",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": 1131.06,
         "5mg": null,
@@ -151,14 +139,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "Browser ZIP 10001; carton four 2.5mg/0.5mL pens. Cash coupon; ShopRite/Acme pay-online quotes."
+      "notes": "Browser ZIP 10001, carton four 2.5mg/0.5mL pens. Cash coupon; ShopRite and Acme pay-online quotes."
     },
     {
       "pharmacy_name": "ShopRite",
       "pharmacy_type": "retail",
       "source": "goodrx",
-      "source_url": "https://www.goodrx.com/mounjaro",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "source_url": "https://www.goodrx.com/mounjaro?form=carton&dosage=2.5mg-0.5ml&quantity=1&zip_code=10001",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": 1094.25,
         "5mg": 1059.82,
@@ -167,15 +155,11 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "Browser ZIP 10001; carton four 2.5mg/0.5mL pens. Cash coupon; ShopRite/Acme pay-online quotes. 5mg browser verified ZIP 10001, four pens: free-signup member quote including conditional bonus; nonmember price separately recorded.",
+      "notes": "Browser ZIP 10001, carton four 2.5mg/0.5mL pens. Cash coupon; ShopRite and Acme pay-online quotes. Browser verified ZIP 10001, four 5mg pens: free-signup member quote with conditional bonus; nonmember quote recorded separately. Acme Pharmacy/Shoprite normalized to chain names.",
       "nonmember_prices": {
         "5mg": 1062.82
       },
       "price_sources": {
-        "2.5mg": {
-          "source": "goodrx",
-          "url": "https://www.goodrx.com/mounjaro"
-        },
         "5mg": {
           "source": "singlecare",
           "url": "https://www.singlecare.com/prescription/mounjaro?zipCode=10001"
@@ -186,8 +170,8 @@
       "pharmacy_name": "Walmart",
       "pharmacy_type": "retail",
       "source": "goodrx",
-      "source_url": "https://www.goodrx.com/mounjaro",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "source_url": "https://www.goodrx.com/mounjaro?form=carton&dosage=2.5mg-0.5ml&quantity=1&zip_code=10001",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": 1161.15,
         "5mg": 954.84,
@@ -196,15 +180,11 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "Browser ZIP 10001; carton four 2.5mg/0.5mL pens. Cash coupon; ShopRite/Acme pay-online quotes. 5mg browser verified ZIP 10001, four pens: free-signup member quote including conditional bonus; nonmember price separately recorded.",
+      "notes": "Browser ZIP 10001, carton four 2.5mg/0.5mL pens. Cash coupon; ShopRite and Acme pay-online quotes. Browser verified ZIP 10001, four 5mg pens: free-signup member quote with conditional bonus; nonmember quote recorded separately. Acme Pharmacy/Shoprite normalized to chain names.",
       "nonmember_prices": {
         "5mg": 1072.84
       },
       "price_sources": {
-        "2.5mg": {
-          "source": "goodrx",
-          "url": "https://www.goodrx.com/mounjaro"
-        },
         "5mg": {
           "source": "singlecare",
           "url": "https://www.singlecare.com/prescription/mounjaro?zipCode=10001"
@@ -215,8 +195,8 @@
       "pharmacy_name": "Costco",
       "pharmacy_type": "retail",
       "source": "goodrx",
-      "source_url": "https://www.goodrx.com/mounjaro",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "source_url": "https://www.goodrx.com/mounjaro?form=carton&dosage=2.5mg-0.5ml&quantity=1&zip_code=10001",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": 1386.42,
         "5mg": 961,
@@ -225,15 +205,11 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "Browser ZIP 10001; carton four 2.5mg/0.5mL pens. Cash coupon; ShopRite/Acme pay-online quotes. 5mg browser verified ZIP 10001, four pens: free-signup member quote including conditional bonus; nonmember price separately recorded.",
+      "notes": "Browser ZIP 10001, carton four 2.5mg/0.5mL pens. Cash coupon; ShopRite and Acme pay-online quotes. Browser verified ZIP 10001, four 5mg pens: free-signup member quote with conditional bonus; nonmember quote recorded separately. Acme Pharmacy/Shoprite normalized to chain names.",
       "nonmember_prices": {
         "5mg": 1079
       },
       "price_sources": {
-        "2.5mg": {
-          "source": "goodrx",
-          "url": "https://www.goodrx.com/mounjaro"
-        },
         "5mg": {
           "source": "singlecare",
           "url": "https://www.singlecare.com/prescription/mounjaro?zipCode=10001"
@@ -244,8 +220,8 @@
       "pharmacy_name": "Sams Club",
       "pharmacy_type": "retail",
       "source": "goodrx",
-      "source_url": "https://www.goodrx.com/mounjaro",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "source_url": "https://www.goodrx.com/mounjaro?form=carton&dosage=2.5mg-0.5ml&quantity=1&zip_code=10001",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": 1158.43,
         "5mg": null,
@@ -254,14 +230,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "Browser ZIP 10001; carton four 2.5mg/0.5mL pens. Cash coupon; ShopRite/Acme pay-online quotes."
+      "notes": "Browser ZIP 10001, carton four 2.5mg/0.5mL pens. Cash coupon; ShopRite and Acme pay-online quotes."
     },
     {
       "pharmacy_name": "Acme Markets Pharmacy",
       "pharmacy_type": "retail",
       "source": "goodrx",
-      "source_url": "https://www.goodrx.com/mounjaro",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "source_url": "https://www.goodrx.com/mounjaro?form=carton&dosage=2.5mg-0.5ml&quantity=1&zip_code=10001",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": 1094.3,
         "5mg": 951.65,
@@ -270,15 +246,11 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "Browser ZIP 10001; carton four 2.5mg/0.5mL pens. Cash coupon; ShopRite/Acme pay-online quotes. 5mg browser verified ZIP 10001, four pens: free-signup member quote including conditional bonus; nonmember price separately recorded.",
+      "notes": "Browser ZIP 10001, carton four 2.5mg/0.5mL pens. Cash coupon; ShopRite and Acme pay-online quotes. Browser verified ZIP 10001, four 5mg pens: free-signup member quote with conditional bonus; nonmember quote recorded separately. Acme Pharmacy/Shoprite normalized to chain names.",
       "nonmember_prices": {
         "5mg": 1069.65
       },
       "price_sources": {
-        "2.5mg": {
-          "source": "goodrx",
-          "url": "https://www.goodrx.com/mounjaro"
-        },
         "5mg": {
           "source": "singlecare",
           "url": "https://www.singlecare.com/prescription/mounjaro?zipCode=10001"
@@ -289,8 +261,8 @@
       "pharmacy_name": "Target (CVS)",
       "pharmacy_type": "retail",
       "source": "goodrx",
-      "source_url": "https://www.goodrx.com/mounjaro",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "source_url": "https://www.goodrx.com/mounjaro?form=carton&dosage=2.5mg-0.5ml&quantity=1&zip_code=10001",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": 1150.5,
         "5mg": null,
@@ -299,14 +271,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "Browser ZIP 10001; carton four 2.5mg/0.5mL pens. Cash coupon; ShopRite/Acme pay-online quotes."
+      "notes": "Browser ZIP 10001, carton four 2.5mg/0.5mL pens. Cash coupon; ShopRite and Acme pay-online quotes."
     },
     {
       "pharmacy_name": "Capsule Pharmacy",
       "pharmacy_type": "online_pharmacy",
       "source": "singlecare",
       "source_url": "https://www.singlecare.com/prescription/mounjaro?zipCode=10001",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": 1074.75,
@@ -315,7 +287,7 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": " 5mg browser verified ZIP 10001, four pens: free-signup member quote including conditional bonus; nonmember price separately recorded.",
+      "notes": " Browser verified ZIP 10001, four 5mg pens: free-signup member quote with conditional bonus; nonmember quote recorded separately. Acme Pharmacy/Shoprite normalized to chain names.",
       "nonmember_prices": {
         "5mg": 1077.75
       },
@@ -331,7 +303,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://pharmacy.amazon.com/",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -340,14 +312,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     },
     {
       "pharmacy_name": "Honeybee Health",
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://honeybeehealth.com/",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -356,14 +328,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     },
     {
       "pharmacy_name": "Cost Plus Drugs",
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://costplusdrugs.com/",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -372,14 +344,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     },
     {
       "pharmacy_name": "CenterWell Pharmacy",
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.centerwellpharmacy.com/",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -388,14 +360,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     },
     {
       "pharmacy_name": "Express Scripts",
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.express-scripts.com/",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -404,14 +376,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     },
     {
       "pharmacy_name": "OptumRx",
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.optum.com/",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -420,14 +392,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     },
     {
       "pharmacy_name": "CVS Caremark Mail Order",
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.caremark.cvs.com/",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -436,14 +408,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability. Supplied hostname fetch failed."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     },
     {
-      "pharmacy_name": "PillPack (Amazon)",
+      "pharmacy_name": "PillPack",
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.pillpack.com/",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -452,14 +424,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     },
     {
       "pharmacy_name": "GeniusRx",
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.geniusrx.com/",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -468,14 +440,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability. Web fetch only returned redirect page."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     },
     {
       "pharmacy_name": "Blink Health",
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.blinkhealth.com/",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -484,14 +456,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     },
     {
       "pharmacy_name": "RxSaver",
       "pharmacy_type": "discount_platform",
       "source": "rxsaver",
       "source_url": "https://www.rxsaver.com/",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -500,14 +472,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     },
     {
       "pharmacy_name": "Hims & Hers",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://www.hims.com/",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -516,14 +488,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability. Separate membership $39 first month then $149/month. Dose-unspecified starting injection adverts excluded from dose summary."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability. Separate membership $39 first month then $149/month."
     },
     {
       "pharmacy_name": "Ro",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://ro.co/weight-loss",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -532,14 +504,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability. Membership $39 first month then $149/month, or $74/month annual prepaid; separate medication charge."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability. Separate membership $39 first month, then $149/month monthly plan or $74/month annual prepay."
     },
     {
       "pharmacy_name": "Sesame Care",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://sesamecare.com/service/online-weight-loss-program",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -548,14 +520,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     },
     {
       "pharmacy_name": "Lemonaid Health",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://www.lemonaidhealth.com/services/weight-loss",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -564,14 +536,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability. Membership free first month then $49/month, medication separate. Dose-unspecified branded quote recorded separately; compounded products excluded."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability. Membership free first month then $49/month; medication charged separately; compounded prices excluded."
     },
     {
       "pharmacy_name": "PlushCare",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://plushcare.com/",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -580,14 +552,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability. Separate $19.99/month membership and $129/self-pay doctor visit; drugs and labs extra."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability. Separate membership $19.99/month and $129/self-pay visit; medication and labs extra."
     },
     {
       "pharmacy_name": "WeightWatchers Clinic",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://www.weightwatchers.com/us/blog/glp-1-comparison-ozempic-wegovy-mounjaro-zepbound",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -596,14 +568,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability. Article list prices are reference only, not pharmacy offers; medication not included in membership. Current membership fee not verified."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     },
     {
       "pharmacy_name": "Noom Med",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://www.noom.com/",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -612,14 +584,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     },
     {
       "pharmacy_name": "Nurx",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
-      "source_url": "https://www.nurx.com/weight-management-treatment/",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "source_url": "https://www.nurx.com/",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -628,15 +600,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability. $79 initial consultation plus $79/month provider support. Branded drugs paid at local pharmacy, not shipped by Nurx. Starting average, nonbinding estimates only.",
-      "advertised_monthly_price": 1000
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     },
     {
       "pharmacy_name": "K Health",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://khealth.com/",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -645,14 +616,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     },
     {
       "pharmacy_name": "Calibrate",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://www.joincalibrate.com/",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -661,14 +632,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability. Corrected supplied unrelated domain to joincalibrate.com; membership starts $199/month, no verified drug price."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability. Membership starts $199/month; corrected supplied domain to joincalibrate.com."
     },
     {
       "pharmacy_name": "Found",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://joinfound.com/",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -677,7 +648,7 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability. Corrected supplied travel domain to joinfound.com. Compounded inclusive plans excluded; branded medication cost separate, subscription amount not verified.",
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability. Branded prices are dose-unspecified estimates. Compounded-inclusive plans excluded; corrected supplied domain to joinfound.com.",
       "advertised_monthly_price": 1100
     },
     {
@@ -685,7 +656,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://www.goodrx.com/care/services/glp-1-weight-loss",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -694,14 +665,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     },
     {
       "pharmacy_name": "Publix",
       "pharmacy_type": "retail",
       "source": "retail",
       "source_url": "https://www.publix.com/pharmacy",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -710,14 +681,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     },
     {
       "pharmacy_name": "Rite Aid",
       "pharmacy_type": "retail",
       "source": "retail",
       "source_url": "https://riteaid.com/pharmacy/ozempic",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -726,14 +697,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     },
     {
       "pharmacy_name": "Hy-Vee",
       "pharmacy_type": "retail",
       "source": "retail",
       "source_url": "https://www.hy-vee.com/pharmacy",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -742,14 +713,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     },
     {
       "pharmacy_name": "Meijer",
       "pharmacy_type": "retail",
       "source": "retail",
       "source_url": "https://www.meijer.com/pharmacy",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -758,14 +729,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     },
     {
       "pharmacy_name": "Kroger",
       "pharmacy_type": "retail",
       "source": "retail",
       "source_url": "https://www.kroger.com/pharmacy",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -774,14 +745,14 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     },
     {
       "pharmacy_name": "HEB",
       "pharmacy_type": "retail",
       "source": "retail",
       "source_url": "https://www.heb.com/pharmacy",
-      "observed_at": "2026-11-10T03:16:30.772076+00:00",
+      "observed_at": "2026-11-11T03:14:28.333639+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -790,7 +761,7 @@
         "12.5mg": null,
         "15mg": null
       },
-      "notes": "No current dose-specific monthly branded injection cash quote verified. Null does not imply availability or nonavailability."
+      "notes": "No current dose-specific monthly branded injection cash price verified. Null does not imply availability."
     }
   ],
   "summary": {
@@ -831,5 +802,5 @@
       "count": 1
     }
   },
-  "summary_method": "Current verified injection dose quotes only. Conditional intro and member cash coupons included; WAC, oral, compounded, dose-unspecified adverts excluded. Named provider banners, not independent parent companies."
+  "summary_method": "Verified dose-specific cash quotes only; includes conditional intro/member coupons. Excludes WAC, oral, compounded and dose-unspecified adverts. Named banners may share parent companies."
 }
