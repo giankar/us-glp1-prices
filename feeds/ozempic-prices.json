@@ -3,7 +3,7 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-11-14T03:20:44.129139+00:00",
+  "last_updated": "2026-11-14T03:21:53.482545+00:00",
   "reference_zip": "10001",
   "currency": "USD",
   "supply": "One monthly package; 28 days where specified",
@@ -21,7 +21,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "manufacturer_direct",
       "source_url": "https://www.novocare.com/pharmacy.html",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": 199,
         "0.5mg": 199,
@@ -40,22 +40,22 @@
       "pharmacy_name": "Sesame Care",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
-      "source_url": "https://sesamecare.com/service/online-weight-loss-program",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "source_url": "https://sesamecare.com/medication/ozempic",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
-        "0.25mg": 199,
-        "0.5mg": 199,
+        "0.25mg": 349,
+        "0.5mg": 349,
         "1mg": 349,
         "2mg": 499
       },
-      "notes": "Eligible new self-pay patients: 0.25/0.5mg $199 for first two monthly fills through 2026-12-31, then $349. Other requested doses $349 except Ozempic 2mg $499. Prescription and eligibility restrictions apply. Separate care $99/month billed every 28 days, or $59/month annual commitment."
+      "notes": "Manufacturer self-pay pricing quoted by Sesame. Its introductory $199 offer shows an expired June 30, 2026 cutoff, so ongoing prices are used. Separate care $99/month or $59/month with annual commitment."
     },
     {
       "pharmacy_name": "Amazon Pharmacy",
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://pharmacy.amazon.com/Novo-Nordisk-OZEMPIC-1-MG-DOSE-PEN-INJECTOR-Box-3-Milliliter/dp/B084BW1KST",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -69,7 +69,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://honeybeehealth.com/drugs/details/ozempic/novo-nordisk?variant=22454",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": 1199,
         "0.5mg": 1199,
@@ -83,7 +83,7 @@
       "pharmacy_type": "retail",
       "source": "goodrx",
       "source_url": "https://www.goodrx.com/ozempic?zip_code=10001",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": 199,
         "0.5mg": 199,
@@ -97,7 +97,7 @@
       "pharmacy_type": "retail",
       "source": "goodrx",
       "source_url": "https://www.goodrx.com/ozempic?zip_code=10001",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": 199,
         "0.5mg": 199,
@@ -111,7 +111,7 @@
       "pharmacy_type": "retail",
       "source": "goodrx",
       "source_url": "https://www.goodrx.com/ozempic?zip_code=10001",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": 199,
         "0.5mg": 199,
@@ -125,7 +125,7 @@
       "pharmacy_type": "retail",
       "source": "goodrx",
       "source_url": "https://www.goodrx.com/ozempic?zip_code=10001",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": 199,
         "0.5mg": 199,
@@ -139,7 +139,7 @@
       "pharmacy_type": "retail",
       "source": "goodrx",
       "source_url": "https://www.goodrx.com/ozempic?zip_code=10001",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": 199,
         "0.5mg": 199,
@@ -153,7 +153,7 @@
       "pharmacy_type": "retail",
       "source": "goodrx",
       "source_url": "https://www.goodrx.com/ozempic?zip_code=10001",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": 199,
         "0.5mg": 199,
@@ -167,7 +167,7 @@
       "pharmacy_type": "retail",
       "source": "goodrx",
       "source_url": "https://www.goodrx.com/ozempic?zip_code=10001",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": 199,
         "0.5mg": 199,
@@ -181,7 +181,7 @@
       "pharmacy_type": "retail",
       "source": "goodrx",
       "source_url": "https://www.goodrx.com/ozempic?zip_code=10001",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": 199,
         "0.5mg": 199,
@@ -195,7 +195,7 @@
       "pharmacy_type": "retail",
       "source": "goodrx",
       "source_url": "https://www.goodrx.com/ozempic?zip_code=10001",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": 199,
         "0.5mg": 199,
@@ -209,7 +209,7 @@
       "pharmacy_type": "retail",
       "source": "goodrx",
       "source_url": "https://www.goodrx.com/ozempic?zip_code=10001",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": 199,
         "0.5mg": 199,
@@ -223,7 +223,7 @@
       "pharmacy_type": "retail",
       "source": "goodrx",
       "source_url": "https://www.goodrx.com/ozempic?zip_code=10001",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": 199,
         "0.5mg": 199,
@@ -237,7 +237,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.healthwarehouse.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -251,7 +251,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://costplusdrugs.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -265,7 +265,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.centerwellpharmacy.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -279,7 +279,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.express-scripts.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -293,7 +293,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.optum.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -307,7 +307,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.caremark.cvs.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -321,7 +321,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.pillpack.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -335,7 +335,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.geniusrx.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -349,7 +349,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.blinkhealth.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -363,7 +363,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://www.hims.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -378,7 +378,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://ro.co/weight-loss",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -392,7 +392,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://www.lemonaidhealth.com/services/weight-loss",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -407,7 +407,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://plushcare.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -421,7 +421,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://www.weightwatchers.com/us/blog/glp-1-comparison-ozempic-wegovy-mounjaro-zepbound",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -435,7 +435,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://www.noom.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -449,7 +449,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://www.nurx.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -463,7 +463,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://khealth.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -477,7 +477,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://www.joincalibrate.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -491,7 +491,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://joinfound.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -506,7 +506,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://www.goodrx.com/care/services/glp-1-weight-loss",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -520,7 +520,7 @@
       "pharmacy_type": "retail",
       "source": "retail",
       "source_url": "https://www.publix.com/pharmacy",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -534,7 +534,7 @@
       "pharmacy_type": "retail",
       "source": "retail",
       "source_url": "https://riteaid.com/pharmacy/ozempic",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -548,7 +548,7 @@
       "pharmacy_type": "retail",
       "source": "retail",
       "source_url": "https://www.hy-vee.com/pharmacy",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -562,7 +562,7 @@
       "pharmacy_type": "retail",
       "source": "retail",
       "source_url": "https://www.meijer.com/pharmacy",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -576,7 +576,7 @@
       "pharmacy_type": "retail",
       "source": "retail",
       "source_url": "https://www.kroger.com/pharmacy",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -590,7 +590,7 @@
       "pharmacy_type": "retail",
       "source": "retail",
       "source_url": "https://www.heb.com/pharmacy",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
@@ -604,13 +604,13 @@
     "0.25mg": {
       "min": 199,
       "max": 1199,
-      "avg": 270.43,
+      "avg": 281.14,
       "count": 14
     },
     "0.5mg": {
       "min": 199,
       "max": 1199,
-      "avg": 270.43,
+      "avg": 281.14,
       "count": 14
     },
     "1mg": {

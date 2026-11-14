@@ -3,7 +3,7 @@
   "generic_name": "tirzepatide",
   "manufacturer": "Eli Lilly",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-11-14T03:20:44.129139+00:00",
+  "last_updated": "2026-11-14T03:21:53.482545+00:00",
   "reference_zip": "10001",
   "currency": "USD",
   "supply": "One monthly package; 28 days where specified",
@@ -23,7 +23,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "manufacturer_direct",
       "source_url": "https://www.lilly.com/lillydirect/medicines/mounjaro",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": 499,
         "5mg": 499,
@@ -39,7 +39,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.healthwarehouse.com/mounjaro-5mg-0-5ml-prefilled-pens-4x0-5ml",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": 1198,
@@ -55,7 +55,7 @@
       "pharmacy_type": "retail",
       "source": "goodrx",
       "source_url": "https://www.goodrx.com/mounjaro?zip_code=10001",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": 1150.5,
         "5mg": 932.81,
@@ -84,7 +84,7 @@
       "pharmacy_type": "retail",
       "source": "goodrx",
       "source_url": "https://www.goodrx.com/mounjaro?zip_code=10001",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": 1197.79,
         "5mg": 942.73,
@@ -113,7 +113,7 @@
       "pharmacy_type": "retail",
       "source": "goodrx",
       "source_url": "https://www.goodrx.com/mounjaro?zip_code=10001",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": 1197.79,
         "5mg": 942.73,
@@ -142,7 +142,7 @@
       "pharmacy_type": "retail",
       "source": "goodrx",
       "source_url": "https://www.goodrx.com/mounjaro?zip_code=10001",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": 1131.06,
         "5mg": null,
@@ -158,7 +158,7 @@
       "pharmacy_type": "retail",
       "source": "goodrx",
       "source_url": "https://www.goodrx.com/mounjaro?zip_code=10001",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": 1094.25,
         "5mg": 1059.82,
@@ -187,7 +187,7 @@
       "pharmacy_type": "retail",
       "source": "goodrx",
       "source_url": "https://www.goodrx.com/mounjaro?zip_code=10001",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": 1161.15,
         "5mg": 954.84,
@@ -216,7 +216,7 @@
       "pharmacy_type": "retail",
       "source": "goodrx",
       "source_url": "https://www.goodrx.com/mounjaro?zip_code=10001",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": 1386.42,
         "5mg": 961,
@@ -245,7 +245,7 @@
       "pharmacy_type": "retail",
       "source": "goodrx",
       "source_url": "https://www.goodrx.com/mounjaro?zip_code=10001",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": 1158.43,
         "5mg": null,
@@ -261,7 +261,7 @@
       "pharmacy_type": "retail",
       "source": "goodrx",
       "source_url": "https://www.goodrx.com/mounjaro?zip_code=10001",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": 1094.3,
         "5mg": 951.65,
@@ -290,7 +290,7 @@
       "pharmacy_type": "retail",
       "source": "goodrx",
       "source_url": "https://www.goodrx.com/mounjaro?zip_code=10001",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": 1150.5,
         "5mg": null,
@@ -306,7 +306,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "singlecare",
       "source_url": "https://www.singlecare.com/prescription/mounjaro?zipCode=10001",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": 1074.75,
@@ -331,7 +331,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://pharmacy.amazon.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -347,7 +347,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://honeybeehealth.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -363,7 +363,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://costplusdrugs.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -379,7 +379,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.centerwellpharmacy.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -395,7 +395,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.express-scripts.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -411,7 +411,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.optum.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -427,7 +427,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.caremark.cvs.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -443,7 +443,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.pillpack.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -459,7 +459,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.geniusrx.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -475,7 +475,7 @@
       "pharmacy_type": "online_pharmacy",
       "source": "online_pharmacy",
       "source_url": "https://www.blinkhealth.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -491,7 +491,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://www.hims.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -507,7 +507,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://ro.co/weight-loss",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -523,7 +523,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://sesamecare.com/service/online-weight-loss-program",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -539,7 +539,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://www.lemonaidhealth.com/services/weight-loss",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -555,7 +555,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://plushcare.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -571,7 +571,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://www.weightwatchers.com/us/blog/glp-1-comparison-ozempic-wegovy-mounjaro-zepbound",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -587,7 +587,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://www.noom.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -603,7 +603,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://www.nurx.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -619,7 +619,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://khealth.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -635,7 +635,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://www.joincalibrate.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -651,7 +651,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://joinfound.com/",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -667,7 +667,7 @@
       "pharmacy_type": "telehealth",
       "source": "telehealth",
       "source_url": "https://www.goodrx.com/care/services/glp-1-weight-loss",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -683,7 +683,7 @@
       "pharmacy_type": "retail",
       "source": "retail",
       "source_url": "https://www.publix.com/pharmacy",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -699,7 +699,7 @@
       "pharmacy_type": "retail",
       "source": "retail",
       "source_url": "https://riteaid.com/pharmacy/ozempic",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -715,7 +715,7 @@
       "pharmacy_type": "retail",
       "source": "retail",
       "source_url": "https://www.hy-vee.com/pharmacy",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -731,7 +731,7 @@
       "pharmacy_type": "retail",
       "source": "retail",
       "source_url": "https://www.meijer.com/pharmacy",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -747,7 +747,7 @@
       "pharmacy_type": "retail",
       "source": "retail",
       "source_url": "https://www.kroger.com/pharmacy",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
@@ -763,7 +763,7 @@
       "pharmacy_type": "retail",
       "source": "retail",
       "source_url": "https://www.heb.com/pharmacy",
-      "observed_at": "2026-11-14T03:20:44.129139+00:00",
+      "observed_at": "2026-11-14T03:21:53.482545+00:00",
       "prices": {
         "2.5mg": null,
         "5mg": null,
