@@ -3,12 +3,9 @@
   "generic_name": "semaglutide",
   "manufacturer": "Novo Nordisk",
   "indication": "Type 2 Diabetes",
-  "last_updated": "2026-11-20T03:14:36.987690+00:00",
+  "last_updated": "2026-11-21T03:05:24.705310+00:00",
   "reference_zip": "10001",
-  "currency": "USD",
-  "supply": "One monthly package; 28 days where specified",
-  "total_pharmacies": 41,
-  "priced_pharmacies": 15,
+  "total_pharmacies": 18,
   "dosages": [
     "0.25mg",
     "0.5mg",
@@ -20,651 +17,243 @@
       "pharmacy_name": "NovoCare Pharmacy",
       "pharmacy_type": "online_pharmacy",
       "source": "manufacturer_direct",
-      "source_url": "https://www.novocare.com/pharmacy.html",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
       "prices": {
-        "0.25mg": 199,
-        "0.5mg": 199,
-        "1mg": 349,
-        "2mg": 499
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
       },
-      "notes": "Eligible new self-pay patients: 0.25/0.5mg $199 for first two monthly fills through 2026-12-31, then $349. Other requested doses $349 except Ozempic 2mg $499. Prescription and eligibility restrictions apply.",
-      "ongoing_prices": {
-        "0.25mg": 349,
-        "0.5mg": 349,
-        "1mg": 349,
-        "2mg": 499
-      },
-      "verification_status": "verified_quote"
+      "notes": "Novo Nordisk direct home delivery (dispensed by CoAssist Pharmacy, powered by BlinkRx). $199/mo for 0.25/0.5mg applies to first 2 monthly fills for new patients through 12/31/2026, then $349/mo (0.25/0.5/1mg); 2mg $499/mo. Source: ozempic.com/save-on-ozempic + novocare.com/pharmacy.html"
     },
     {
-      "pharmacy_name": "Sesame Care",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://sesamecare.com/service/online-weight-loss-program",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
+      "pharmacy_name": "TrumpRx",
+      "pharmacy_type": "discount_program",
+      "source": "retail",
       "prices": {
-        "0.25mg": 199,
-        "0.5mg": 199,
-        "1mg": 349,
-        "2mg": 499
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
       },
-      "notes": "Eligible new self-pay patients: 0.25/0.5mg $199 for first two monthly fills through 2026-12-31, then $349. Other requested doses $349 except Ozempic 2mg $499. Prescription and eligibility restrictions apply. Separate care $99/month billed every 28 days, or $59/month annual commitment.",
-      "verification_status": "verified_quote"
-    },
-    {
-      "pharmacy_name": "Amazon Pharmacy",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://pharmacy.amazon.com/Novo-Nordisk-OZEMPIC-1-MG-DOSE-PEN-INJECTOR-Box-3-Milliliter/dp/B084BW1KST",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": 349,
-        "2mg": null
-      },
-      "notes": "28 days, one 3mL pen; eligible all-cash manufacturer coupon.",
-      "verification_status": "verified_quote"
-    },
-    {
-      "pharmacy_name": "Honeybee Health",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://honeybeehealth.com/drugs/details/ozempic/novo-nordisk?variant=22454",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": 1199,
-        "0.5mg": 1199,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "One starter 2mg/3mL multidose pen delivering 0.25/0.5mg weekly. One pen package quote; actual duration may vary with prescribed titration.",
-      "verification_status": "verified_quote"
-    },
-    {
-      "pharmacy_name": "CVS Pharmacy",
-      "pharmacy_type": "retail",
-      "source": "goodrx",
-      "source_url": "https://www.goodrx.com/ozempic?zip_code=10001",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": 199,
-        "0.5mg": 199,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "Browser verified ZIP 10001, one starter 2mg/3mL pen carton. Eligible introductory self-pay coupon; ongoing price not verified here.",
-      "verification_status": "verified_quote"
-    },
-    {
-      "pharmacy_name": "Walgreens",
-      "pharmacy_type": "retail",
-      "source": "goodrx",
-      "source_url": "https://www.goodrx.com/ozempic?zip_code=10001",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": 199,
-        "0.5mg": 199,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "Browser verified ZIP 10001, one starter 2mg/3mL pen carton. Eligible introductory self-pay coupon; ongoing price not verified here.",
-      "verification_status": "verified_quote"
-    },
-    {
-      "pharmacy_name": "Duane Reade",
-      "pharmacy_type": "retail",
-      "source": "goodrx",
-      "source_url": "https://www.goodrx.com/ozempic?zip_code=10001",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": 199,
-        "0.5mg": 199,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "Browser verified ZIP 10001, one starter 2mg/3mL pen carton. Eligible introductory self-pay coupon; ongoing price not verified here.",
-      "verification_status": "verified_quote"
-    },
-    {
-      "pharmacy_name": "ShopRite",
-      "pharmacy_type": "retail",
-      "source": "goodrx",
-      "source_url": "https://www.goodrx.com/ozempic?zip_code=10001",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": 199,
-        "0.5mg": 199,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "Browser verified ZIP 10001, one starter 2mg/3mL pen carton. Eligible introductory self-pay coupon; ongoing price not verified here.",
-      "verification_status": "verified_quote"
-    },
-    {
-      "pharmacy_name": "Costco",
-      "pharmacy_type": "retail",
-      "source": "goodrx",
-      "source_url": "https://www.goodrx.com/ozempic?zip_code=10001",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": 199,
-        "0.5mg": 199,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "Browser verified ZIP 10001, one starter 2mg/3mL pen carton. Eligible introductory self-pay coupon; ongoing price not verified here.",
-      "verification_status": "verified_quote"
-    },
-    {
-      "pharmacy_name": "Walmart",
-      "pharmacy_type": "retail",
-      "source": "goodrx",
-      "source_url": "https://www.goodrx.com/ozempic?zip_code=10001",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": 199,
-        "0.5mg": 199,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "Browser verified ZIP 10001, one starter 2mg/3mL pen carton. Eligible introductory self-pay coupon; ongoing price not verified here.",
-      "verification_status": "verified_quote"
-    },
-    {
-      "pharmacy_name": "Stop n Shop",
-      "pharmacy_type": "retail",
-      "source": "goodrx",
-      "source_url": "https://www.goodrx.com/ozempic?zip_code=10001",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": 199,
-        "0.5mg": 199,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "Browser verified ZIP 10001, one starter 2mg/3mL pen carton. Eligible introductory self-pay coupon; ongoing price not verified here.",
-      "verification_status": "verified_quote"
-    },
-    {
-      "pharmacy_name": "Target (CVS)",
-      "pharmacy_type": "retail",
-      "source": "goodrx",
-      "source_url": "https://www.goodrx.com/ozempic?zip_code=10001",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": 199,
-        "0.5mg": 199,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "Browser verified ZIP 10001, one starter 2mg/3mL pen carton. Eligible introductory self-pay coupon; ongoing price not verified here.",
-      "verification_status": "verified_quote"
-    },
-    {
-      "pharmacy_name": "Acme Markets Pharmacy",
-      "pharmacy_type": "retail",
-      "source": "goodrx",
-      "source_url": "https://www.goodrx.com/ozempic?zip_code=10001",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": 199,
-        "0.5mg": 199,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "Browser verified ZIP 10001, one starter 2mg/3mL pen carton. Eligible introductory self-pay coupon; ongoing price not verified here.",
-      "verification_status": "verified_quote"
-    },
-    {
-      "pharmacy_name": "Sams Club",
-      "pharmacy_type": "retail",
-      "source": "goodrx",
-      "source_url": "https://www.goodrx.com/ozempic?zip_code=10001",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": 199,
-        "0.5mg": 199,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "Browser verified ZIP 10001, one starter 2mg/3mL pen carton. Eligible introductory self-pay coupon; ongoing price not verified here.",
-      "verification_status": "verified_quote"
-    },
-    {
-      "pharmacy_name": "Walgreens Specialty Pharmacy",
-      "pharmacy_type": "retail",
-      "source": "goodrx",
-      "source_url": "https://www.goodrx.com/ozempic?zip_code=10001",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": 199,
-        "0.5mg": 199,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "Browser verified ZIP 10001, one starter 2mg/3mL pen carton. Eligible introductory self-pay coupon; ongoing price not verified here.",
-      "verification_status": "verified_quote"
-    },
-    {
-      "pharmacy_name": "HealthWarehouse",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://www.healthwarehouse.com/",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership/consultation charges not verified where applicable.",
-      "verification_status": "no_verified_dose_quote"
-    },
-    {
-      "pharmacy_name": "Cost Plus Drugs",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://costplusdrugs.com/",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership/consultation charges not verified where applicable.",
-      "verification_status": "no_verified_dose_quote"
-    },
-    {
-      "pharmacy_name": "CenterWell Pharmacy",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://www.centerwellpharmacy.com/",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership/consultation charges not verified where applicable.",
-      "verification_status": "no_verified_dose_quote"
-    },
-    {
-      "pharmacy_name": "Express Scripts",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://www.express-scripts.com/",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership/consultation charges not verified where applicable.",
-      "verification_status": "no_verified_dose_quote"
-    },
-    {
-      "pharmacy_name": "OptumRx",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://www.optum.com/",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership/consultation charges not verified where applicable.",
-      "verification_status": "no_verified_dose_quote"
-    },
-    {
-      "pharmacy_name": "CVS Caremark Mail Order",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://www.caremark.cvs.com/",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership/consultation charges not verified where applicable.",
-      "verification_status": "no_verified_dose_quote"
-    },
-    {
-      "pharmacy_name": "PillPack (Amazon)",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://www.pillpack.com/",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership/consultation charges not verified where applicable.",
-      "verification_status": "no_verified_dose_quote"
-    },
-    {
-      "pharmacy_name": "GeniusRx",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://www.geniusrx.com/",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership/consultation charges not verified where applicable.",
-      "verification_status": "no_verified_dose_quote"
-    },
-    {
-      "pharmacy_name": "Blink Health",
-      "pharmacy_type": "online_pharmacy",
-      "source": "online_pharmacy",
-      "source_url": "https://www.blinkhealth.com/",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership/consultation charges not verified where applicable.",
-      "verification_status": "no_verified_dose_quote"
+      "notes": "Federal discount program (trumprx.gov), coupon accepted at retail pharmacies. $199 first 2 monthly fills for new self-pay patients (0.25/0.5mg) through 12/31/2026, then $349 (0.25/0.5/1mg) and $499 (2mg). Original price $1,027.51."
     },
     {
       "pharmacy_name": "Hims & Hers",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
-      "source_url": "https://www.hims.com/weight-loss",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
       "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
         "1mg": null,
         "2mg": null
       },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership $39 first month then $149/month, medication separate. Dose-unspecified adverts excluded.",
-      "advertised_monthly_price": 199,
-      "verification_status": "no_verified_dose_quote"
+      "notes": "Ozempic from $199/mo (medication only) via NovoCare self-pay pricing. Hims Weight Loss Membership required: $39 first month, then $149/mo, billed separately. Source: hims.com/weight-loss"
     },
     {
-      "pharmacy_name": "Ro",
+      "pharmacy_name": "Hers",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
-      "source_url": "https://ro.co/weight-loss",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
       "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
         "1mg": null,
         "2mg": null
       },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership $39 first month, then $149/month or $74/month annual prepaid.",
-      "verification_status": "no_verified_dose_quote"
+      "notes": "Ozempic from $199/mo (medication only). Hers Weight Loss Membership required: $39 first month, then $149/mo. Source: forhers.com/weight-loss"
     },
     {
-      "pharmacy_name": "Lemonaid Health",
+      "pharmacy_name": "Sesame Care",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
-      "source_url": "https://www.lemonaidhealth.com/services/weight-loss",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
       "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
+        "0.25mg": 199.0,
+        "0.5mg": 199.0,
+        "1mg": 349.0,
+        "2mg": 499.0
       },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership free first month then $49/month. Ozempic $1199/month and Wegovy $1599/month dose-unspecified quotes excluded.",
-      "advertised_monthly_price": 1199,
-      "verification_status": "no_verified_dose_quote"
-    },
-    {
-      "pharmacy_name": "PlushCare",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://plushcare.com/",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership $19.99/month plus $129/self-pay doctor visit; medication and labs extra.",
-      "verification_status": "no_verified_dose_quote"
-    },
-    {
-      "pharmacy_name": "WeightWatchers Clinic",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://www.weightwatchers.com/us/blog/glp-1-comparison-ozempic-wegovy-mounjaro-zepbound",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership/consultation charges not verified where applicable.",
-      "verification_status": "no_verified_dose_quote"
-    },
-    {
-      "pharmacy_name": "Noom Med",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://www.noom.com/",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership/consultation charges not verified where applicable.",
-      "verification_status": "no_verified_dose_quote"
-    },
-    {
-      "pharmacy_name": "Nurx",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://www.nurx.com/",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership/consultation charges not verified where applicable.",
-      "verification_status": "no_verified_dose_quote"
-    },
-    {
-      "pharmacy_name": "K Health",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://khealth.com/",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership/consultation charges not verified where applicable.",
-      "verification_status": "no_verified_dose_quote"
-    },
-    {
-      "pharmacy_name": "Calibrate",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://www.calibrate.com/",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership/consultation charges not verified where applicable.",
-      "verification_status": "no_verified_dose_quote"
-    },
-    {
-      "pharmacy_name": "Found",
-      "pharmacy_type": "telehealth",
-      "source": "telehealth",
-      "source_url": "https://www.foundnow.com/",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
-      "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
-      },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership/consultation charges not verified where applicable.",
-      "verification_status": "no_verified_dose_quote"
+      "notes": "Success by Sesame subscription $99/mo month-to-month or $59/mo annual + medication. $199/mo first 2 fills (0.25/0.5mg) for new self-pay patients through 12/31/2026, then $349/mo (0.25/0.5/1mg) and $499/mo (2mg). Source: sesamecare.com T&Cs"
     },
     {
       "pharmacy_name": "GoodRx Care",
       "pharmacy_type": "telehealth",
       "source": "telehealth",
-      "source_url": "https://www.goodrx.com/care/services/glp-1-weight-loss",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
         "1mg": null,
         "2mg": null
       },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership/consultation charges not verified where applicable.",
-      "verification_status": "no_verified_dose_quote"
+      "notes": "GoodRx Care Direct ($39/mo membership) does not currently list Ozempic injection; offers Wegovy pen/pill, Zepbound KwikPen, Foundayo. Source: goodrx.com/care/services/glp-1-weight-loss"
     },
     {
-      "pharmacy_name": "Publix",
-      "pharmacy_type": "retail",
-      "source": "retail",
-      "source_url": "https://www.publix.com/pharmacy",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
+      "pharmacy_name": "Lemonaid Health",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
       "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
-        "1mg": null,
-        "2mg": null
+        "0.25mg": 1199.0,
+        "0.5mg": 1199.0,
+        "1mg": 1199.0,
+        "2mg": 1199.0
       },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership/consultation charges not verified where applicable.",
-      "verification_status": "no_verified_dose_quote"
+      "notes": "Ozempic $1,199/mo billed separately (insurance-eligible option). Membership $49/mo, first month free. Source: lemonaidhealth.com/services/weight-loss FAQ"
     },
     {
-      "pharmacy_name": "Rite Aid",
-      "pharmacy_type": "retail",
-      "source": "retail",
-      "source_url": "https://riteaid.com/pharmacy/ozempic",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
+      "pharmacy_name": "Ro",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
         "1mg": null,
         "2mg": null
       },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership/consultation charges not verified where applicable.",
-      "verification_status": "no_verified_dose_quote"
+      "notes": "Ro Body membership: $39 first month, $149/mo monthly plan (as low as $74/mo prepaid annual) + medication cost, not itemized publicly. Ozempic offered insurance or cash-pay. Source: ro.co/weight-loss"
     },
     {
-      "pharmacy_name": "Hy-Vee",
-      "pharmacy_type": "retail",
-      "source": "retail",
-      "source_url": "https://www.hy-vee.com/pharmacy",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
+      "pharmacy_name": "PlushCare",
+      "pharmacy_type": "telehealth",
+      "source": "telehealth",
       "prices": {
         "0.25mg": null,
         "0.5mg": null,
         "1mg": null,
         "2mg": null
       },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership/consultation charges not verified where applicable.",
-      "verification_status": "no_verified_dose_quote"
+      "notes": "Membership $19.99/mo (first month free) + $129 initial visit without insurance. Prescription sent to pharmacy of choice; branded GLP-1s typically ~$1,000+/mo cash. Source: plushcare.com/weight-loss"
     },
     {
-      "pharmacy_name": "Meijer",
+      "pharmacy_name": "CVS Pharmacy",
       "pharmacy_type": "retail",
-      "source": "retail",
-      "source_url": "https://www.meijer.com/pharmacy",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
+      "source": "singlecare",
       "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
+        "0.25mg": 639.03,
+        "0.5mg": 639.03,
         "1mg": null,
         "2mg": null
       },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership/consultation charges not verified where applicable.",
-      "verification_status": "no_verified_dose_quote"
+      "notes": "Avg SingleCare price last month for 0.25/0.5mg pen (avg retail $1,212.99). CVS advertises GLP-1s as low as $149/mo without insurance with manufacturer coupon (oral pill) and $25 copay with commercial insurance; $29 MinuteClinic online consult. Source: singlecare.com/prescription/ozempic + cvs.com/content/weight-loss"
     },
     {
-      "pharmacy_name": "Kroger",
+      "pharmacy_name": "Kroger Pharmacy",
       "pharmacy_type": "retail",
-      "source": "retail",
-      "source_url": "https://www.kroger.com/pharmacy",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
+      "source": "singlecare",
       "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
+        "0.25mg": 859.97,
+        "0.5mg": 859.97,
         "1mg": null,
         "2mg": null
       },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership/consultation charges not verified where applicable.",
-      "verification_status": "no_verified_dose_quote"
+      "notes": "SingleCare coupon price for 3mL 2mg/3mL multidose pen (0.25mg or 0.5mg/dose); avg retail $1,233.00. Source: singlecare.com/prescription/ozempic"
     },
     {
-      "pharmacy_name": "HEB",
+      "pharmacy_name": "Harris Teeter Pharmacy",
       "pharmacy_type": "retail",
-      "source": "retail",
-      "source_url": "https://www.heb.com/pharmacy",
-      "observed_at": "2026-11-20T03:14:36.987690+00:00",
+      "source": "singlecare",
       "prices": {
-        "0.25mg": null,
-        "0.5mg": null,
+        "0.25mg": 859.97,
+        "0.5mg": 859.97,
         "1mg": null,
         "2mg": null
       },
-      "notes": "No current requested-dose branded injection monthly cash quote verified. Null does not establish availability. Membership/consultation charges not verified where applicable.",
-      "verification_status": "no_verified_dose_quote"
+      "notes": "SingleCare coupon price for 0.25/0.5mg pen. Source: singlecare.com/prescription/ozempic"
+    },
+    {
+      "pharmacy_name": "Publix Pharmacy",
+      "pharmacy_type": "retail",
+      "source": "singlecare",
+      "prices": {
+        "0.25mg": 918.46,
+        "0.5mg": 918.46,
+        "1mg": null,
+        "2mg": null
+      },
+      "notes": "SingleCare coupon price for 0.25/0.5mg pen. Source: singlecare.com/prescription/ozempic"
+    },
+    {
+      "pharmacy_name": "Walmart Pharmacy",
+      "pharmacy_type": "retail",
+      "source": "singlecare",
+      "prices": {
+        "0.25mg": 930.39,
+        "0.5mg": 930.39,
+        "1mg": null,
+        "2mg": null
+      },
+      "notes": "SingleCare coupon price for 0.25/0.5mg pen (same at Walmart Neighborhood Market). Also a LillyDirect dispensing partner. Source: singlecare.com/prescription/ozempic"
+    },
+    {
+      "pharmacy_name": "Costco Pharmacy",
+      "pharmacy_type": "retail",
+      "source": "singlecare",
+      "prices": {
+        "0.25mg": 940.12,
+        "0.5mg": 940.12,
+        "1mg": null,
+        "2mg": null
+      },
+      "notes": "SingleCare coupon price for 0.25/0.5mg pen. Source: singlecare.com/prescription/ozempic"
+    },
+    {
+      "pharmacy_name": "Walgreens Pharmacy",
+      "pharmacy_type": "retail",
+      "source": "singlecare",
+      "prices": {
+        "0.25mg": 918.51,
+        "0.5mg": 918.51,
+        "1mg": null,
+        "2mg": null
+      },
+      "notes": "Avg SingleCare price last month for 0.25/0.5mg pen (avg retail $1,233.09). Source: singlecare.com/prescription/ozempic"
+    },
+    {
+      "pharmacy_name": "Albertsons Pharmacy",
+      "pharmacy_type": "retail",
+      "source": "singlecare",
+      "prices": {
+        "0.25mg": 939.63,
+        "0.5mg": 939.63,
+        "1mg": null,
+        "2mg": null
+      },
+      "notes": "Avg SingleCare price last month for 0.25/0.5mg pen (avg retail $1,475.70). Source: singlecare.com/prescription/ozempic"
+    },
+    {
+      "pharmacy_name": "Novo Nordisk (WAC list price)",
+      "pharmacy_type": "manufacturer",
+      "source": "wac_list",
+      "prices": {
+        "0.25mg": 1027.51,
+        "0.5mg": 1027.51,
+        "1mg": 1027.51,
+        "2mg": 1027.51
+      },
+      "notes": "Wholesale acquisition cost (list price) for all Ozempic injection doses. Source: novopricing.com/ozempic.html"
     }
   ],
   "summary": {
     "0.25mg": {
-      "min": 199,
-      "max": 1199,
-      "avg": 270.43,
-      "count": 14
+      "min": 199.0,
+      "max": 1199.0,
+      "avg": 681.84,
+      "count": 15
     },
     "0.5mg": {
-      "min": 199,
-      "max": 1199,
-      "avg": 270.43,
-      "count": 14
+      "min": 199.0,
+      "max": 1199.0,
+      "avg": 681.84,
+      "count": 15
     },
     "1mg": {
-      "min": 349,
-      "max": 349,
-      "avg": 349.0,
-      "count": 3
+      "min": 349.0,
+      "max": 1199.0,
+      "avg": 654.7,
+      "count": 5
     },
     "2mg": {
-      "min": 499,
-      "max": 499,
-      "avg": 499.0,
-      "count": 2
+      "min": 499.0,
+      "max": 1199.0,
+      "avg": 744.7,
+      "count": 5
     }
-  },
-  "summary_method": "Verified requested-dose injection cash quotes only; conditional introductory/member coupons included. WAC, insurance, oral, compounded and dose-unspecified prices excluded. Named banners may share parents."
+  }
 }
