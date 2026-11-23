@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T03:13:53.625161+00:00",
+  "last_updated": "2026-11-23T03:28:33.253123+00:00",
   "history": [
     {
       "date": "2026-07-06",
@@ -14070,6 +14070,106 @@
           "max": 349,
           "avg": 349.0,
           "count": 3
+        }
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "timestamp": "2026-11-23T03:28:33.253123+00:00",
+      "ozempic": {
+        "0.25mg": {
+          "min": 199,
+          "max": 1199,
+          "avg": 314.79,
+          "count": 15
+        },
+        "0.5mg": {
+          "min": 199,
+          "max": 1199,
+          "avg": 314.79,
+          "count": 15
+        },
+        "1mg": {
+          "min": 349,
+          "max": 349,
+          "avg": 349.0,
+          "count": 3
+        },
+        "2mg": {
+          "min": 499,
+          "max": 499,
+          "avg": 499.0,
+          "count": 2
+        }
+      },
+      "mounjaro": {
+        "2.5mg": {
+          "min": 1094.3,
+          "max": 1386.42,
+          "avg": 1172.26,
+          "count": 10
+        },
+        "5mg": {
+          "min": 932.81,
+          "max": 1198,
+          "avg": 1002.04,
+          "count": 9
+        },
+        "7.5mg": {
+          "min": null,
+          "max": null,
+          "avg": null,
+          "count": 0
+        },
+        "10mg": {
+          "min": null,
+          "max": null,
+          "avg": null,
+          "count": 0
+        },
+        "12.5mg": {
+          "min": null,
+          "max": null,
+          "avg": null,
+          "count": 0
+        },
+        "15mg": {
+          "min": null,
+          "max": null,
+          "avg": null,
+          "count": 0
+        }
+      },
+      "wegovy": {
+        "0.25mg": {
+          "min": 199,
+          "max": 199,
+          "avg": 199.0,
+          "count": 4
+        },
+        "0.5mg": {
+          "min": 199,
+          "max": 199,
+          "avg": 199.0,
+          "count": 14
+        },
+        "1mg": {
+          "min": 349,
+          "max": 349,
+          "avg": 349.0,
+          "count": 2
+        },
+        "1.7mg": {
+          "min": 349,
+          "max": 349,
+          "avg": 349.0,
+          "count": 2
+        },
+        "2.4mg": {
+          "min": 349,
+          "max": 1313.35,
+          "avg": 1060.42,
+          "count": 9
         }
       }
     }
